@@ -9,14 +9,14 @@
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=Space+Mono:wght@400;700&family=Space+Grotesk:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #fafafa;
-    --ink: #080808;
-    --muted: #6b6b6b;
-    --line: rgba(0,0,0,0.09);
-    --line-soft: rgba(0,0,0,0.06);
-    --accent: #2563EB;
-    --accent-soft: rgba(37,99,235,0.08);
-    --card: #ffffff;
+    --bg: #0a0a0d;
+    --ink: #f2f2f0;
+    --muted: #8b8b92;
+    --line: rgba(255,255,255,0.10);
+    --line-soft: rgba(255,255,255,0.06);
+    --accent: #3b82f6;
+    --accent-soft: rgba(59,130,246,0.12);
+    --card: #131317;
   }
   * { box-sizing: border-box; }
   html, body { height: 100%; }
@@ -69,7 +69,7 @@
     padding: 4px;
     display: flex;
     gap: 4px;
-    box-shadow: 0 12px 40px -18px rgba(0,0,0,0.18);
+    box-shadow: 0 12px 40px -18px rgba(0,0,0,0.55);
   }
   .search-card:focus-within { border-color: var(--accent); }
   #q {
@@ -77,7 +77,7 @@
     color: var(--ink); font-size: 15px; padding: 15px 14px;
     font-family: 'Space Grotesk', sans-serif;
   }
-  #q::placeholder { color: #b5b5b5; }
+  #q::placeholder { color: #55555c; }
   #ask-btn {
     background: var(--ink); color: var(--bg); border: none; border-radius: 3px;
     padding: 0 26px; font-size: 11px; text-transform: uppercase; letter-spacing: 0.1em;
@@ -118,18 +118,25 @@
     border-bottom: 1px dashed var(--line);
   }
   .answer-meta span b { color: var(--accent); font-variant-numeric: tabular-nums; }
-  .answer-text { font-size: 15px; line-height: 1.7; white-space: pre-wrap; color: #1a1a1a; }
+  .answer-text { font-size: 15px; line-height: 1.7; color: #e4e4e2; }
+  .answer-text p { margin: 0 0 12px; }
+  .answer-text ul, .answer-text ol { margin: 0 0 12px; padding-left: 22px; }
+  .answer-text li { margin: 4px 0; }
+  .answer-text strong { color: #fff; font-weight: 600; }
+  .answer-text code { background: rgba(255,255,255,0.08); padding: 1px 5px; border-radius: 3px; font-family: 'Space Mono', monospace; font-size: 0.9em; }
+  .answer-text hr { border: none; border-top: 1px dashed var(--line); margin: 14px 0; }
+  .answer-text h1, .answer-text h2, .answer-text h3 { font-family: 'Syne', sans-serif; margin: 16px 0 8px; color: #fff; }
 
   .panel-title {
     font-family: 'Space Mono', monospace; font-size: 10px; text-transform: uppercase;
     letter-spacing: 0.14em; color: var(--muted); margin: 0 0 12px; display: flex;
     align-items: center; justify-content: space-between;
   }
-  .panel-title small { font-weight: 400; text-transform: none; letter-spacing: 0; color: #b5b5b5; }
+  .panel-title small { font-weight: 400; text-transform: none; letter-spacing: 0; color: #55555c; }
 
   #graph-card canvas {
     width: 100%; height: 340px; display: block; border-radius: 3px;
-    background: linear-gradient(180deg, #fcfcfc, #f7f7f8);
+    background: linear-gradient(180deg, #0e0e12, #0a0a0d);
     cursor: grab;
   }
   .legend { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 10px; }
@@ -275,7 +282,7 @@ function render(d) {
       <span>retrieval: <b>${d.retrieval || "?"}</b></span>
     </div>
     <div class="answer-text"></div>`;
-  answerCard.querySelector(".answer-text").textContent = d.answer;
+  answerCard.querySelector(".answer-text").innerHTML = mdToHtml(d.answer);
 
   if (d.sources && d.sources.length) {
     sourcesBlock.innerHTML = `<h3 class="panel-title">Источники</h3>` +
@@ -284,16 +291,56 @@ function render(d) {
     sourcesBlock.innerHTML = "";
   }
 
+  // display выставляем ДО startGraph(): canvas меряет getBoundingClientRect()
+  // родителя, а пока #result со скрытым display:none -- размер всегда 0
+  graphCard.style.display = (d.graph && d.graph.nodes.length) ? "block" : "none";
+  result.classList.add("show");
+
   if (d.graph && d.graph.nodes.length) {
-    graphCard.style.display = "block";
     document.getElementById("graph-count").textContent =
       `${d.graph.nodes.length} узлов показано из ${d.subgraph_nodes}`;
     startGraph(d.graph);
-  } else {
-    graphCard.style.display = "none";
   }
+}
 
-  result.classList.add("show");
+// ══════════════ мини-markdown -> html, без внешних зависимостей ══════════════
+function escapeHtml(s) {
+  return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+}
+function mdInline(s) {
+  s = escapeHtml(s);
+  s = s.replace(/`([^`]+)`/g, "<code>$1</code>");
+  s = s.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
+  s = s.replace(/(?<!\*)\*([^*]+)\*(?!\*)/g, "<em>$1</em>");
+  return s;
+}
+function mdToHtml(text) {
+  const lines = text.split("\n");
+  let html = "", inList = null;
+  const closeList = () => { if (inList) { html += `</${inList}>`; inList = null; } };
+  for (let raw of lines) {
+    const line = raw.trim();
+    if (!line) { closeList(); continue; }
+    if (/^-{3,}$|^\*{3,}$/.test(line)) { closeList(); html += "<hr>"; continue; }
+    const h = line.match(/^(#{1,3})\s+(.*)/);
+    if (h) { closeList(); html += `<h${h[1].length}>${mdInline(h[2])}</h${h[1].length}>`; continue; }
+    const ul = line.match(/^[-*]\s+(.*)/);
+    if (ul) {
+      if (inList !== "ul") { closeList(); html += "<ul>"; inList = "ul"; }
+      html += `<li>${mdInline(ul[1])}</li>`;
+      continue;
+    }
+    const ol = line.match(/^\d+\.\s+(.*)/);
+    if (ol) {
+      if (inList !== "ol") { closeList(); html += "<ol>"; inList = "ol"; }
+      html += `<li>${mdInline(ol[1])}</li>`;
+      continue;
+    }
+    closeList();
+    html += `<p>${mdInline(line)}</p>`;
+  }
+  closeList();
+  return html;
 }
 
 // ══════════════ граф связей (a-la Obsidian) ══════════════
@@ -384,7 +431,7 @@ function simTick() {
   }
 
   gctx.clearRect(0, 0, W, H);
-  gctx.strokeStyle = "rgba(0,0,0,0.10)";
+  gctx.strokeStyle = "rgba(255,255,255,0.14)";
   gctx.lineWidth = 1 * gDPR;
   for (const e of gEdges) {
     const a = gNodes[e.s], b = gNodes[e.t];
@@ -395,7 +442,7 @@ function simTick() {
     gctx.beginPath(); gctx.arc(n.x, n.y, n.r, 0, 6.2832); gctx.fill();
   }
   gctx.font = `${10 * gDPR}px 'Space Mono', monospace`;
-  gctx.fillStyle = "rgba(8,8,8,0.55)";
+  gctx.fillStyle = "rgba(242,242,240,0.72)";
   const topLabeled = [...gNodes].sort((a,b) => b.degree - a.degree).slice(0, 12);
   for (const n of topLabeled) {
     gctx.fillText(n.label.slice(0, 22), n.x + n.r + 4, n.y + 3);
@@ -450,7 +497,7 @@ function renderGrid(t) {
   ctx.clearRect(0, 0, W, H);
   const cols = Math.ceil(W / SP) + 1, rows = Math.ceil(H / SP) + 1;
 
-  ctx.fillStyle = "rgb(222,222,224)";
+  ctx.fillStyle = "rgb(40,40,46)";
   ctx.beginPath();
   for (let i = 0; i < cols; i++) {
     const x = i * SP + OFF;
@@ -478,9 +525,9 @@ function renderGrid(t) {
       const inf = 1 - d / R;
       const pulse = 0.18 * Math.sin(t * 2.8 - d * 0.017) * inf;
       const ti = Math.min(1, Math.pow(inf, 0.72) + pulse);
-      const rr = (222 + (37 - 222) * ti) | 0;
-      const gg = (222 + (99 - 222) * ti) | 0;
-      const bb = (224 + (235 - 224) * ti) | 0;
+      const rr = (40 + (59 - 40) * ti) | 0;
+      const gg = (40 + (130 - 40) * ti) | 0;
+      const bb = (46 + (246 - 46) * ti) | 0;
       const sz = (1.3 + ti * 4.0) * DPR;
       ctx.fillStyle = `rgb(${rr},${gg},${bb})`;
       ctx.beginPath(); ctx.arc(x, y, sz, 0, 6.2832); ctx.fill();
