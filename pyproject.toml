@@ -1,0 +1,12 @@
+[project]
+name = "harmonic-labs"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "google-genai>=2.10.0",
+    "networkx>=3.6.1",
+    "pymupdf>=1.28.0",
+    "python-dotenv>=1.2.2",
+    "rich>=15.0.0",
+]
