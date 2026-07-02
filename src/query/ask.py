@@ -87,6 +87,30 @@ def retrieve_seed_nodes_harmonic(g, question: str, top_k: int = 8) -> tuple[list
     return list(seeds), scored[:top_k]
 
 
+def subgraph_to_viz(g, sub, max_nodes: int = 60) -> dict:
+    """Компактное представление подграфа для отрисовки в браузере (a-la
+    Obsidian graph view): top-N узлов по степени внутри подграфа + рёбра
+    между ними."""
+    degrees = sorted(sub.degree(), key=lambda x: -x[1])
+    keep = {k for k, _ in degrees[:max_nodes]}
+    nodes = [
+        {"id": k, "label": g.nodes[k]["canonical_name"], "type": g.nodes[k]["type"],
+         "degree": d}
+        for k, d in degrees[:max_nodes]
+    ]
+    edges = []
+    seen = set()
+    for u, v, data in sub.edges(data=True):
+        if u not in keep or v not in keep or u == v:
+            continue
+        pair = (u, v) if u < v else (v, u)
+        if pair in seen:
+            continue
+        seen.add(pair)
+        edges.append({"source": u, "target": v, "relation": data["relation"]})
+    return {"nodes": nodes, "edges": edges}
+
+
 def facts_to_text(g, sub) -> tuple[str, set[str]]:
     lines = []
     sources: set[str] = set()
@@ -170,6 +194,7 @@ def answer_question(g, client: OpenAI, question: str, hops: int = 2, retrieval: 
         "retrieval": retrieval,
         "doc_scores": doc_scores,
         "model": used_model,
+        "graph": subgraph_to_viz(g, sub),
     }
 
 

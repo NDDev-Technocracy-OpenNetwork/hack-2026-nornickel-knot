@@ -4,187 +4,162 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Научный клубок — Harmonic Labs</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=Space+Mono:wght@400;700&family=Space+Grotesk:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
   :root {
-    --ink: #0b0e14;
-    --panel: #12161f;
-    --panel-2: #171c27;
-    --line: #232a38;
-    --paper: #eef1f6;
-    --muted: #7c8698;
-    --copper: #c9834f;
-    --copper-glow: rgba(201, 131, 79, 0.35);
-    --ok: #5fb896;
+    --bg: #fafafa;
+    --ink: #080808;
+    --muted: #6b6b6b;
+    --line: rgba(0,0,0,0.09);
+    --line-soft: rgba(0,0,0,0.06);
+    --accent: #2563EB;
+    --accent-soft: rgba(37,99,235,0.08);
+    --card: #ffffff;
   }
   * { box-sizing: border-box; }
   html, body { height: 100%; }
   body {
     margin: 0;
-    background: radial-gradient(1200px 600px at 50% -10%, #151b28 0%, var(--ink) 55%);
-    color: var(--paper);
-    font-family: -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    display: flex;
-    flex-direction: column;
-    min-height: 100%;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Space Grotesk', system-ui, sans-serif;
+    font-weight: 400;
   }
+  .mono { font-family: 'Space Mono', monospace; }
 
-  canvas#bg {
-    position: fixed;
-    inset: 0;
-    z-index: 0;
-    opacity: 0.5;
-  }
+  canvas#grid { position: fixed; inset: 0; width: 100%; height: 100%; z-index: 0; }
 
   .wrap {
     position: relative;
     z-index: 1;
-    max-width: 860px;
+    max-width: 900px;
     margin: 0 auto;
-    padding: 48px 24px 80px;
-    width: 100%;
+    padding: 56px 24px 90px;
     display: flex;
     flex-direction: column;
-    gap: 28px;
-    flex: 1;
+    gap: 26px;
   }
 
-  header { display: flex; flex-direction: column; gap: 10px; align-items: center; text-align: center; }
+  header { display: flex; flex-direction: column; gap: 14px; align-items: center; text-align: center; }
   .eyebrow {
-    font-size: 11px; text-transform: uppercase; letter-spacing: 0.18em;
-    color: var(--copper); font-weight: 600;
+    font-family: 'Space Mono', monospace;
+    font-size: 10px; text-transform: uppercase; letter-spacing: 0.22em;
+    color: var(--accent); display: flex; align-items: center; gap: 10px;
   }
+  .eyebrow::before, .eyebrow::after { content: ''; width: 22px; height: 1px; background: var(--accent); opacity: 0.5; }
   h1 {
-    font-size: 30px; font-weight: 600; margin: 0; letter-spacing: -0.01em;
-    background: linear-gradient(180deg, #fff, #b9c2d1 140%);
-    -webkit-background-clip: text; background-clip: text; color: transparent;
+    font-family: 'Syne', sans-serif; font-weight: 800; font-size: 34px;
+    margin: 0; letter-spacing: -0.01em;
   }
-  .stats { display: flex; gap: 10px; margin-top: 4px; flex-wrap: wrap; justify-content: center; }
+  .stats { display: flex; gap: 8px; margin-top: 2px; flex-wrap: wrap; justify-content: center; }
   .stat-chip {
-    font-size: 12px; color: var(--muted); border: 1px solid var(--line);
-    border-radius: 999px; padding: 5px 12px; font-variant-numeric: tabular-nums;
-    background: rgba(255,255,255,0.02);
+    font-family: 'Space Mono', monospace; font-size: 11px; color: var(--muted);
+    border: 1px solid var(--line); border-radius: 999px; padding: 6px 13px;
+    background: rgba(255,255,255,0.7); backdrop-filter: blur(6px);
+    font-variant-numeric: tabular-nums;
   }
-  .stat-chip b { color: var(--paper); font-weight: 600; }
+  .stat-chip b { color: var(--ink); font-weight: 700; }
 
   .search-card {
-    background: var(--panel);
+    background: var(--card);
     border: 1px solid var(--line);
-    border-radius: 16px;
-    padding: 8px;
+    border-radius: 4px;
+    padding: 4px;
     display: flex;
-    gap: 8px;
-    box-shadow: 0 0 0 1px rgba(255,255,255,0.02), 0 20px 60px -20px rgba(0,0,0,0.6);
+    gap: 4px;
+    box-shadow: 0 12px 40px -18px rgba(0,0,0,0.18);
   }
-  .search-card:focus-within {
-    border-color: var(--copper-glow);
-    box-shadow: 0 0 0 3px var(--copper-glow), 0 20px 60px -20px rgba(0,0,0,0.6);
-  }
+  .search-card:focus-within { border-color: var(--accent); }
   #q {
-    flex: 1;
-    background: transparent;
-    border: none;
-    outline: none;
-    color: var(--paper);
-    font-size: 16px;
-    padding: 14px 12px;
-    font-family: inherit;
+    flex: 1; background: transparent; border: none; outline: none;
+    color: var(--ink); font-size: 15px; padding: 15px 14px;
+    font-family: 'Space Grotesk', sans-serif;
   }
-  #q::placeholder { color: var(--muted); }
+  #q::placeholder { color: #b5b5b5; }
   #ask-btn {
-    background: var(--copper);
-    color: #1a0f06;
-    border: none;
-    border-radius: 10px;
-    padding: 0 22px;
-    font-size: 15px;
-    font-weight: 600;
-    cursor: pointer;
-    transition: filter 0.15s ease, transform 0.15s ease;
+    background: var(--ink); color: var(--bg); border: none; border-radius: 3px;
+    padding: 0 26px; font-size: 11px; text-transform: uppercase; letter-spacing: 0.1em;
+    font-family: 'Space Mono', monospace; font-weight: 700; cursor: pointer;
+    transition: background 0.2s ease, transform 0.15s ease;
   }
-  #ask-btn:hover { filter: brightness(1.08); }
+  #ask-btn:hover { background: var(--accent); }
   #ask-btn:active { transform: scale(0.98); }
-  #ask-btn:disabled { opacity: 0.5; cursor: default; }
+  #ask-btn:disabled { opacity: 0.4; cursor: default; }
 
   .examples { display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; }
   .example-chip {
-    font-size: 12.5px; color: var(--muted); background: var(--panel-2);
-    border: 1px solid var(--line); border-radius: 999px; padding: 7px 13px;
-    cursor: pointer; transition: color 0.15s ease, border-color 0.15s ease;
+    font-family: 'Space Mono', monospace; font-size: 11.5px; color: var(--muted);
+    background: transparent; border: 1px solid var(--line); border-radius: 999px;
+    padding: 7px 13px; cursor: pointer; transition: all 0.15s ease;
   }
-  .example-chip:hover { color: var(--paper); border-color: var(--copper-glow); }
-
-  #result { display: none; flex-direction: column; gap: 16px; }
-  #result.show { display: flex; }
+  .example-chip:hover { color: var(--accent); border-color: var(--accent); }
 
   .loading {
-    display: none;
-    align-items: center;
-    gap: 10px;
-    color: var(--muted);
-    font-size: 14px;
-    padding: 4px 4px;
+    display: none; align-items: center; gap: 10px; color: var(--muted);
+    font-family: 'Space Mono', monospace; font-size: 12px; padding: 4px;
   }
   .loading.show { display: flex; }
-  .dot {
-    width: 6px; height: 6px; border-radius: 50%; background: var(--copper);
-    animation: pulse 1.1s ease-in-out infinite;
-  }
+  .dot { width: 5px; height: 5px; border-radius: 50%; background: var(--accent); animation: pulse 1.1s ease-in-out infinite; }
   .dot:nth-child(2) { animation-delay: 0.15s; }
   .dot:nth-child(3) { animation-delay: 0.3s; }
-  @keyframes pulse { 0%, 80%, 100% { opacity: 0.25; } 40% { opacity: 1; } }
+  @keyframes pulse { 0%, 80%, 100% { opacity: 0.2; } 40% { opacity: 1; } }
 
-  .answer-card {
-    background: var(--panel);
-    border: 1px solid var(--line);
-    border-radius: 14px;
-    padding: 24px;
+  #result { display: none; flex-direction: column; gap: 18px; }
+  #result.show { display: flex; }
+
+  .card {
+    background: var(--card); border: 1px solid var(--line); border-radius: 4px; padding: 26px;
   }
   .answer-meta {
-    display: flex; gap: 14px; flex-wrap: wrap;
-    font-size: 12px; color: var(--muted); margin-bottom: 14px;
-    padding-bottom: 14px; border-bottom: 1px dashed var(--line);
+    display: flex; gap: 16px; flex-wrap: wrap; font-family: 'Space Mono', monospace;
+    font-size: 11px; color: var(--muted); margin-bottom: 16px; padding-bottom: 16px;
+    border-bottom: 1px dashed var(--line);
   }
-  .answer-meta span b { color: var(--ok); font-variant-numeric: tabular-nums; }
-  .answer-text {
-    font-size: 15px; line-height: 1.65; white-space: pre-wrap; color: #dbe0ea;
-  }
-  .answer-text strong { color: var(--paper); }
+  .answer-meta span b { color: var(--accent); font-variant-numeric: tabular-nums; }
+  .answer-text { font-size: 15px; line-height: 1.7; white-space: pre-wrap; color: #1a1a1a; }
 
-  .sources {
-    display: flex; flex-direction: column; gap: 8px;
+  .panel-title {
+    font-family: 'Space Mono', monospace; font-size: 10px; text-transform: uppercase;
+    letter-spacing: 0.14em; color: var(--muted); margin: 0 0 12px; display: flex;
+    align-items: center; justify-content: space-between;
   }
-  .sources h3 {
-    font-size: 11px; text-transform: uppercase; letter-spacing: 0.1em;
-    color: var(--muted); margin: 0 0 4px; font-weight: 600;
+  .panel-title small { font-weight: 400; text-transform: none; letter-spacing: 0; color: #b5b5b5; }
+
+  #graph-card canvas {
+    width: 100%; height: 340px; display: block; border-radius: 3px;
+    background: linear-gradient(180deg, #fcfcfc, #f7f7f8);
+    cursor: grab;
   }
+  .legend { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 10px; }
+  .legend-item { display: flex; align-items: center; gap: 5px; font-family: 'Space Mono', monospace; font-size: 10px; color: var(--muted); }
+  .legend-dot { width: 7px; height: 7px; border-radius: 50%; }
+
+  .sources { display: flex; flex-direction: column; gap: 8px; }
   .source-pill {
-    display: inline-flex; align-items: center; gap: 6px;
-    font-size: 12.5px; color: var(--muted);
-    background: var(--panel-2); border: 1px solid var(--line);
-    border-radius: 8px; padding: 6px 10px; margin: 2px 4px 2px 0;
+    display: inline-flex; align-items: center; gap: 6px; font-family: 'Space Mono', monospace;
+    font-size: 11.5px; color: var(--muted); background: var(--card); border: 1px solid var(--line);
+    border-radius: 3px; padding: 6px 10px; margin: 2px 4px 2px 0;
   }
-  .source-pill::before { content: ""; width: 6px; height: 6px; border-radius: 50%; background: var(--copper); flex: none; }
+  .source-pill::before { content: ''; width: 5px; height: 5px; border-radius: 50%; background: var(--accent); flex: none; }
 
-  .empty-note {
-    color: var(--muted); font-size: 14px; padding: 16px; text-align: center;
-  }
+  .empty-note { color: var(--muted); font-size: 14px; padding: 10px 2px; }
 
   footer {
-    text-align: center; color: var(--muted); font-size: 12px;
-    padding-top: 20px; margin-top: auto;
+    text-align: center; color: var(--muted); font-family: 'Space Mono', monospace;
+    font-size: 10px; letter-spacing: 0.04em; padding-top: 10px;
   }
 </style>
 </head>
 <body>
-<canvas id="bg"></canvas>
+<canvas id="grid"></canvas>
 
 <div class="wrap">
   <header>
-    <div class="eyebrow">Harmonic Labs · Норникель AI Hack · Научный клубок</div>
+    <div class="eyebrow">Harmonic Labs · Норникель AI Hack</div>
     <h1>Карта знаний R&amp;D</h1>
-    <div class="stats" id="stats">
-      <span class="stat-chip">загрузка графа…</span>
-    </div>
+    <div class="stats" id="stats"><span class="stat-chip mono">загрузка графа…</span></div>
   </header>
 
   <div class="search-card">
@@ -200,11 +175,18 @@
   </div>
 
   <div id="result">
-    <div class="answer-card" id="answer-card"></div>
+    <div class="card" id="answer-card"></div>
+
+    <div class="card" id="graph-card">
+      <div class="panel-title">Карта связей<small id="graph-count"></small></div>
+      <canvas id="graph-canvas"></canvas>
+      <div class="legend" id="legend"></div>
+    </div>
+
     <div class="sources" id="sources-block"></div>
   </div>
 
-  <footer>Harmonic Labs — своя SSM-архитектура + граф знаний. MVP, не продакшн.</footer>
+  <footer>HARMONIC LABS — SSM-АРХИТЕКТУРА + ГРАФ ЗНАНИЙ · MVP</footer>
 </div>
 
 <script>
@@ -214,7 +196,6 @@ const EXAMPLES = [
   "Какие технические решения циркуляции электролита описаны?",
   "Какое оборудование используется при флотации?",
 ];
-
 const examplesEl = document.getElementById("examples");
 EXAMPLES.forEach(ex => {
   const chip = document.createElement("div");
@@ -228,16 +209,14 @@ async function loadStats() {
   try {
     const r = await fetch("/api/stats");
     const d = await r.json();
-    const typeStr = Object.entries(d.by_type)
-      .sort((a, b) => b[1] - a[1])
-      .map(([k, v]) => `${k}: <b>${v}</b>`).join(" · ");
+    const typeStr = Object.entries(d.by_type).sort((a,b) => b[1]-a[1])
+      .map(([k,v]) => `${k}: <b>${v}</b>`).join(" · ");
     document.getElementById("stats").innerHTML = `
-      <span class="stat-chip">узлов: <b>${d.nodes}</b></span>
-      <span class="stat-chip">связей: <b>${d.edges}</b></span>
-      <span class="stat-chip">${typeStr}</span>
-    `;
+      <span class="stat-chip mono">узлов: <b>${d.nodes}</b></span>
+      <span class="stat-chip mono">связей: <b>${d.edges}</b></span>
+      <span class="stat-chip mono">${typeStr}</span>`;
   } catch (e) {
-    document.getElementById("stats").innerHTML = `<span class="stat-chip">граф недоступен</span>`;
+    document.getElementById("stats").innerHTML = `<span class="stat-chip mono">граф недоступен</span>`;
   }
 }
 loadStats();
@@ -258,6 +237,7 @@ async function ask() {
   btn.disabled = true;
   loading.classList.add("show");
   result.classList.remove("show");
+  stopGraph();
 
   try {
     const r = await fetch("/api/ask", {
@@ -269,6 +249,7 @@ async function ask() {
     render(d);
   } catch (e) {
     answerCard.innerHTML = `<div class="empty-note">Ошибка запроса: ${e}</div>`;
+    document.getElementById("graph-card").style.display = "none";
     sourcesBlock.innerHTML = "";
     result.classList.add("show");
   } finally {
@@ -278,8 +259,10 @@ async function ask() {
 }
 
 function render(d) {
+  const graphCard = document.getElementById("graph-card");
   if (!d.answer) {
     answerCard.innerHTML = `<div class="empty-note">${d.reason || "Ничего не найдено."}</div>`;
+    graphCard.style.display = "none";
     sourcesBlock.innerHTML = "";
     result.classList.add("show");
     return;
@@ -289,73 +272,229 @@ function render(d) {
       <span>узлов-затравок: <b>${d.seeds.length}</b></span>
       <span>подграф: <b>${d.subgraph_nodes}</b> узлов / <b>${d.subgraph_edges}</b> связей</span>
       <span>источников: <b>${d.sources.length}</b></span>
+      <span>retrieval: <b>${d.retrieval || "?"}</b></span>
     </div>
-    <div class="answer-text"></div>
-  `;
+    <div class="answer-text"></div>`;
   answerCard.querySelector(".answer-text").textContent = d.answer;
 
   if (d.sources && d.sources.length) {
-    sourcesBlock.innerHTML = `<h3>Источники</h3>` +
+    sourcesBlock.innerHTML = `<h3 class="panel-title">Источники</h3>` +
       d.sources.map(s => `<span class="source-pill">${s}</span>`).join("");
   } else {
     sourcesBlock.innerHTML = "";
   }
+
+  if (d.graph && d.graph.nodes.length) {
+    graphCard.style.display = "block";
+    document.getElementById("graph-count").textContent =
+      `${d.graph.nodes.length} узлов показано из ${d.subgraph_nodes}`;
+    startGraph(d.graph);
+  } else {
+    graphCard.style.display = "none";
+  }
+
   result.classList.add("show");
 }
 
-// фоновый холст: тихая сетка узлов-связей, намёк на граф знаний
-const canvas = document.getElementById("bg");
-const ctx = canvas.getContext("2d");
-let W, H, nodes = [];
-function resize() {
-  W = canvas.width = window.innerWidth;
-  H = canvas.height = window.innerHeight;
-}
-window.addEventListener("resize", resize);
-resize();
+// ══════════════ граф связей (a-la Obsidian) ══════════════
+const TYPE_COLOR = {
+  Material: "#2563EB", Process: "#7c3aed", Equipment: "#059669",
+  Property: "#d97706", Experiment: "#dc2626", Publication: "#64748b",
+  Expert: "#db2777", Facility: "#0891b2",
+};
+const gcanvas = document.getElementById("graph-canvas");
+const gctx = gcanvas.getContext("2d");
+let gNodes = [], gEdges = [], gRAF = null, gDragging = null, gDPR = 1;
 
-const N = Math.min(46, Math.floor((W * H) / 42000));
-for (let i = 0; i < N; i++) {
-  nodes.push({
-    x: Math.random() * W, y: Math.random() * H,
-    vx: (Math.random() - 0.5) * 0.15, vy: (Math.random() - 0.5) * 0.15,
+function resizeGraphCanvas() {
+  gDPR = Math.min(window.devicePixelRatio || 1, 2);
+  const r = gcanvas.getBoundingClientRect();
+  gcanvas.width = Math.ceil(r.width * gDPR);
+  gcanvas.height = Math.ceil(340 * gDPR);
+}
+
+function startGraph(graph) {
+  resizeGraphCanvas();
+  const W = gcanvas.width, H = gcanvas.height;
+  const idx = {};
+  gNodes = graph.nodes.map((n, i) => {
+    idx[n.id] = i;
+    const ang = (i / graph.nodes.length) * Math.PI * 2;
+    const r = Math.min(W, H) * 0.32;
+    return {
+      ...n, x: W/2 + Math.cos(ang) * r, y: H/2 + Math.sin(ang) * r,
+      vx: 0, vy: 0, r: 3.2 * gDPR + Math.min(n.degree, 10) * 0.5 * gDPR,
+    };
   });
+  gEdges = graph.edges.map(e => ({ s: idx[e.source], t: idx[e.target], relation: e.relation }))
+    .filter(e => e.s !== undefined && e.t !== undefined);
+
+  const legend = document.getElementById("legend");
+  const usedTypes = [...new Set(graph.nodes.map(n => n.type))];
+  legend.innerHTML = usedTypes.map(t =>
+    `<span class="legend-item"><span class="legend-dot" style="background:${TYPE_COLOR[t]||'#999'}"></span>${t}</span>`
+  ).join("");
+
+  attachDrag();
+  if (gRAF) cancelAnimationFrame(gRAF);
+  simTick();
 }
 
-function frame() {
-  ctx.clearRect(0, 0, W, H);
-  for (const n of nodes) {
-    n.x += n.vx; n.y += n.vy;
-    if (n.x < 0 || n.x > W) n.vx *= -1;
-    if (n.y < 0 || n.y > H) n.vy *= -1;
+function stopGraph() {
+  if (gRAF) cancelAnimationFrame(gRAF);
+  gRAF = null;
+}
+
+function simTick() {
+  const W = gcanvas.width, H = gcanvas.height;
+  const N = gNodes.length;
+
+  // силы: отталкивание всех от всех, притяжение по рёбрам, центрирование
+  for (let i = 0; i < N; i++) {
+    const a = gNodes[i];
+    if (a === gDragging) continue;
+    let fx = (W/2 - a.x) * 0.0006, fy = (H/2 - a.y) * 0.0006;
+    for (let j = 0; j < N; j++) {
+      if (i === j) continue;
+      const b = gNodes[j];
+      const dx = a.x - b.x, dy = a.y - b.y;
+      const d2 = Math.max(dx*dx + dy*dy, 4);
+      const f = (2200 * gDPR * gDPR) / d2;
+      fx += dx / Math.sqrt(d2) * f;
+      fy += dy / Math.sqrt(d2) * f;
+    }
+    a.vx = (a.vx + fx) * 0.82;
+    a.vy = (a.vy + fy) * 0.82;
   }
-  for (let i = 0; i < nodes.length; i++) {
-    for (let j = i + 1; j < nodes.length; j++) {
-      const dx = nodes[i].x - nodes[j].x, dy = nodes[i].y - nodes[j].y;
-      const dist = Math.hypot(dx, dy);
-      if (dist < 160) {
-        ctx.strokeStyle = `rgba(201,131,79,${0.10 * (1 - dist / 160)})`;
-        ctx.lineWidth = 1;
-        ctx.beginPath();
-        ctx.moveTo(nodes[i].x, nodes[i].y);
-        ctx.lineTo(nodes[j].x, nodes[j].y);
-        ctx.stroke();
-      }
+  for (const e of gEdges) {
+    const a = gNodes[e.s], b = gNodes[e.t];
+    const dx = b.x - a.x, dy = b.y - a.y;
+    const dist = Math.sqrt(dx*dx + dy*dy) || 1;
+    const target = 70 * gDPR;
+    const f = (dist - target) * 0.02;
+    const fx = dx / dist * f, fy = dy / dist * f;
+    if (a !== gDragging) { a.vx += fx; a.vy += fy; }
+    if (b !== gDragging) { b.vx -= fx; b.vy -= fy; }
+  }
+  for (const n of gNodes) {
+    if (n === gDragging) continue;
+    n.x += n.vx; n.y += n.vy;
+    n.x = Math.max(n.r, Math.min(W - n.r, n.x));
+    n.y = Math.max(n.r, Math.min(H - n.r, n.y));
+  }
+
+  gctx.clearRect(0, 0, W, H);
+  gctx.strokeStyle = "rgba(0,0,0,0.10)";
+  gctx.lineWidth = 1 * gDPR;
+  for (const e of gEdges) {
+    const a = gNodes[e.s], b = gNodes[e.t];
+    gctx.beginPath(); gctx.moveTo(a.x, a.y); gctx.lineTo(b.x, b.y); gctx.stroke();
+  }
+  for (const n of gNodes) {
+    gctx.fillStyle = TYPE_COLOR[n.type] || "#999";
+    gctx.beginPath(); gctx.arc(n.x, n.y, n.r, 0, 6.2832); gctx.fill();
+  }
+  gctx.font = `${10 * gDPR}px 'Space Mono', monospace`;
+  gctx.fillStyle = "rgba(8,8,8,0.55)";
+  const topLabeled = [...gNodes].sort((a,b) => b.degree - a.degree).slice(0, 12);
+  for (const n of topLabeled) {
+    gctx.fillText(n.label.slice(0, 22), n.x + n.r + 4, n.y + 3);
+  }
+
+  gRAF = requestAnimationFrame(simTick);
+}
+
+function attachDrag() {
+  gcanvas.onmousedown = e => {
+    const rect = gcanvas.getBoundingClientRect();
+    const mx = (e.clientX - rect.left) * gDPR, my = (e.clientY - rect.top) * gDPR;
+    let closest = null, bestD = 400 * gDPR * gDPR;
+    for (const n of gNodes) {
+      const d2 = (n.x-mx)**2 + (n.y-my)**2;
+      if (d2 < bestD) { bestD = d2; closest = n; }
+    }
+    gDragging = closest;
+    gcanvas.style.cursor = closest ? "grabbing" : "grab";
+  };
+  window.addEventListener("mousemove", e => {
+    if (!gDragging) return;
+    const rect = gcanvas.getBoundingClientRect();
+    gDragging.x = (e.clientX - rect.left) * gDPR;
+    gDragging.y = (e.clientY - rect.top) * gDPR;
+    gDragging.vx = 0; gDragging.vy = 0;
+  });
+  window.addEventListener("mouseup", () => { gDragging = null; gcanvas.style.cursor = "grab"; });
+}
+
+// ══════════════ фон: точечная сетка с синим пульсом у курсора ══════════════
+const cv = document.getElementById("grid");
+const ctx = cv.getContext("2d");
+let W, H, DPR, SP, OFF;
+const RAD = 190;
+let mx = -99999, my = -99999;
+
+function resize() {
+  DPR = Math.min(window.devicePixelRatio || 1, 2);
+  const r = cv.getBoundingClientRect();
+  cv.width = Math.ceil(r.width * DPR);
+  cv.height = Math.ceil(r.height * DPR);
+  W = cv.width; H = cv.height;
+  SP = 30 * DPR; OFF = SP * 0.5;
+}
+resize();
+window.addEventListener("resize", resize);
+window.addEventListener("mousemove", e => { mx = e.clientX; my = e.clientY; });
+window.addEventListener("mouseleave", () => { mx = -99999; my = -99999; });
+
+function renderGrid(t) {
+  ctx.clearRect(0, 0, W, H);
+  const cols = Math.ceil(W / SP) + 1, rows = Math.ceil(H / SP) + 1;
+
+  ctx.fillStyle = "rgb(222,222,224)";
+  ctx.beginPath();
+  for (let i = 0; i < cols; i++) {
+    const x = i * SP + OFF;
+    for (let j = 0; j < rows; j++) {
+      const y = j * SP + OFF;
+      ctx.moveTo(x + 1.3*DPR, y);
+      ctx.arc(x, y, 1.3 * DPR, 0, 6.2832);
     }
   }
-  for (const n of nodes) {
-    ctx.fillStyle = "rgba(238,241,246,0.35)";
-    ctx.beginPath();
-    ctx.arc(n.x, n.y, 1.4, 0, Math.PI * 2);
-    ctx.fill();
+  ctx.fill();
+
+  if (mx < -9000) return;
+  const R = RAD * DPR, mxp = mx * DPR, myp = my * DPR;
+  const iMin = Math.max(0, Math.floor((mxp - R - OFF) / SP));
+  const iMax = Math.min(cols - 1, Math.ceil((mxp + R - OFF) / SP));
+  const jMin = Math.max(0, Math.floor((myp - R - OFF) / SP));
+  const jMax = Math.min(rows - 1, Math.ceil((myp + R - OFF) / SP));
+  for (let i = iMin; i <= iMax; i++) {
+    const x = i * SP + OFF;
+    for (let j = jMin; j <= jMax; j++) {
+      const y = j * SP + OFF;
+      const dx = x - mxp, dy = y - myp;
+      const d = Math.sqrt(dx*dx + dy*dy);
+      if (d >= R) continue;
+      const inf = 1 - d / R;
+      const pulse = 0.18 * Math.sin(t * 2.8 - d * 0.017) * inf;
+      const ti = Math.min(1, Math.pow(inf, 0.72) + pulse);
+      const rr = (222 + (37 - 222) * ti) | 0;
+      const gg = (222 + (99 - 222) * ti) | 0;
+      const bb = (224 + (235 - 224) * ti) | 0;
+      const sz = (1.3 + ti * 4.0) * DPR;
+      ctx.fillStyle = `rgb(${rr},${gg},${bb})`;
+      ctx.beginPath(); ctx.arc(x, y, sz, 0, 6.2832); ctx.fill();
+    }
   }
-  requestAnimationFrame(frame);
 }
-if (!window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
-  frame();
-} else {
-  ctx.clearRect(0, 0, W, H);
+
+function bgTick(ts) {
+  if (!window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+    renderGrid(ts / 1000);
+  }
+  requestAnimationFrame(bgTick);
 }
+requestAnimationFrame(bgTick);
 </script>
 </body>
 </html>
