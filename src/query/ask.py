@@ -13,13 +13,17 @@ import sys
 import time
 from pathlib import Path
 
+import torch
 from dotenv import load_dotenv
 from openai import OpenAI
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "graph"))
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "harmonic_train"))
 from graph_store import find_nodes, load_graph, neighborhood  # noqa: E402
+from harmonic_embed import embed_text, load_model  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
+DOC_EMBEDDINGS_PATH = ROOT / "data" / "harmonic_runs" / "doc_embeddings.pt"
 BASE_URL = "https://openrouter.ai/api/v1"
 API_KEY_ENV = "OPENROUTER_API_KEY"
 # несколько бесплатных моделей подряд -- если одна упирается в upstream
@@ -44,10 +48,43 @@ def extract_keywords(question: str) -> list[str]:
 
 
 def retrieve_seed_nodes(g, question: str) -> list[str]:
+    """Baseline: наивное совпадение слов вопроса с именами узлов графа."""
     seeds: set[str] = set()
     for kw in extract_keywords(question):
         seeds.update(find_nodes(g, kw, limit=5))
     return list(seeds)
+
+
+_doc_embeddings = None
+
+
+def load_doc_embeddings():
+    global _doc_embeddings
+    if _doc_embeddings is None:
+        _doc_embeddings = torch.load(DOC_EMBEDDINGS_PATH, weights_only=False)
+    return _doc_embeddings
+
+
+def retrieve_seed_nodes_harmonic(g, question: str, top_k: int = 8) -> tuple[list[str], list[tuple[str, float]]]:
+    """Harmonic: эмбеддинг вопроса сравнивается с эмбеддингами целых документов
+    (посчитаны заранее через forward_states обученного чекпоинта), берём top_k
+    файлов, затем -- узлы графа с provenance из этих файлов."""
+    entries = load_doc_embeddings()
+    model = load_model()
+    q_vec = embed_text(question, model=model)
+
+    scored = []
+    for e in entries:
+        sim = torch.nn.functional.cosine_similarity(q_vec, e["vector"], dim=0).item()
+        scored.append((e["filename"], sim))
+    scored.sort(key=lambda x: -x[1])
+    top_files = {f for f, _ in scored[:top_k]}
+
+    seeds: set[str] = set()
+    for key, data in g.nodes(data=True):
+        if data["sources"] & top_files:
+            seeds.add(key)
+    return list(seeds), scored[:top_k]
 
 
 def facts_to_text(g, sub) -> tuple[str, set[str]]:
@@ -86,13 +123,19 @@ def get_client() -> OpenAI:
     return OpenAI(api_key=os.environ[API_KEY_ENV], base_url=BASE_URL)
 
 
-def answer_question(g, client: OpenAI, question: str, hops: int = 2) -> dict:
-    """Возвращает {seeds, subgraph_nodes, subgraph_edges, sources, answer}
+def answer_question(g, client: OpenAI, question: str, hops: int = 2, retrieval: str = "harmonic") -> dict:
+    """retrieval: "harmonic" (эмбеддинги целых документов из обученного
+    чекпоинта) или "keyword" (baseline, наивное совпадение слов).
+    Возвращает {seeds, subgraph_nodes, subgraph_edges, sources, answer}
     либо {seeds: [], answer: None, reason: "..."} если графу нечего сказать.
     Используется и CLI (main), и веб-приложением."""
-    seeds = retrieve_seed_nodes(g, question)
+    doc_scores = None
+    if retrieval == "harmonic":
+        seeds, doc_scores = retrieve_seed_nodes_harmonic(g, question)
+    else:
+        seeds = retrieve_seed_nodes(g, question)
     if not seeds:
-        return {"seeds": [], "answer": None, "reason": "Ничего не найдено в графе по ключевым словам вопроса."}
+        return {"seeds": [], "answer": None, "reason": "Ничего не найдено в графе.", "doc_scores": doc_scores}
 
     sub = neighborhood(g, seeds, hops=hops)
     facts_text, sources = facts_to_text(g, sub)
@@ -117,27 +160,35 @@ def answer_question(g, client: OpenAI, question: str, hops: int = 2) -> dict:
             continue
     if resp is None:
         return {"seeds": [g.nodes[s]["canonical_name"] for s in seeds], "answer": None,
-                "reason": f"LLM недоступен: {str(last_err)[:200]}"}
+                "reason": f"LLM недоступен: {str(last_err)[:200]}", "doc_scores": doc_scores}
     return {
         "seeds": [g.nodes[s]["canonical_name"] for s in seeds],
         "subgraph_nodes": sub.number_of_nodes(),
         "subgraph_edges": sub.number_of_edges(),
         "sources": sorted(sources),
         "answer": resp.choices[0].message.content,
+        "retrieval": retrieval,
+        "doc_scores": doc_scores,
+        "model": used_model,
     }
 
 
 def main() -> None:
     if len(sys.argv) < 2:
-        print('Использование: uv run python3 src/query/ask.py "твой вопрос"')
+        print('Использование: uv run python3 src/query/ask.py "твой вопрос" [harmonic|keyword]')
         sys.exit(1)
     question = sys.argv[1]
+    retrieval = sys.argv[2] if len(sys.argv) > 2 else "harmonic"
 
     client = get_client()
     g = load_graph()
-    result = answer_question(g, client, question)
+    result = answer_question(g, client, question, retrieval=retrieval)
 
-    print(f"Найдено узлов-затравок: {len(result['seeds'])} -> {result['seeds'][:10]}")
+    print(f"[{retrieval}] Найдено узлов-затравок: {len(result['seeds'])} -> {result['seeds'][:10]}")
+    if result.get("doc_scores"):
+        print("Топ документов по сходству:")
+        for f, s in result["doc_scores"][:5]:
+            print(f"  {s:.3f}  {f}")
     if result["answer"] is None:
         print(result["reason"])
         return
