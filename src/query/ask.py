@@ -10,6 +10,7 @@ touching anything past retrieve_seed_nodes().
 import os
 import re
 import sys
+import time
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -19,7 +20,16 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "graph"))
 from graph_store import find_nodes, load_graph, neighborhood  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
-MODEL = "gpt-oss-120b"
+BASE_URL = "https://openrouter.ai/api/v1"
+API_KEY_ENV = "OPENROUTER_API_KEY"
+# несколько бесплатных моделей подряд -- если одна упирается в upstream
+# rate-limit (бывает часто на :free тарифе), пробуем следующую
+MODEL_FALLBACKS = [
+    "openai/gpt-oss-120b:free",
+    "meta-llama/llama-3.3-70b-instruct:free",
+    "qwen/qwen3-next-80b-a3b-instruct:free",
+    "nvidia/nemotron-3-super-120b-a12b:free",
+]
 
 STOPWORDS = {
     "какие", "какой", "какая", "что", "как", "для", "при", "если", "или",
@@ -71,38 +81,70 @@ R&D-области, используя ТОЛЬКО факты ниже. Есл�
 """
 
 
+def get_client() -> OpenAI:
+    load_dotenv(ROOT / ".env")
+    return OpenAI(api_key=os.environ[API_KEY_ENV], base_url=BASE_URL)
+
+
+def answer_question(g, client: OpenAI, question: str, hops: int = 2) -> dict:
+    """Возвращает {seeds, subgraph_nodes, subgraph_edges, sources, answer}
+    либо {seeds: [], answer: None, reason: "..."} если графу нечего сказать.
+    Используется и CLI (main), и веб-приложением."""
+    seeds = retrieve_seed_nodes(g, question)
+    if not seeds:
+        return {"seeds": [], "answer": None, "reason": "Ничего не найдено в графе по ключевым словам вопроса."}
+
+    sub = neighborhood(g, seeds, hops=hops)
+    facts_text, sources = facts_to_text(g, sub)
+    if not facts_text:
+        return {"seeds": [g.nodes[s]["canonical_name"] for s in seeds], "answer": None,
+                "reason": "В окрестности найденных узлов нет связей (изолированные упоминания)."}
+
+    resp = None
+    last_err = None
+    used_model = None
+    for model in MODEL_FALLBACKS:
+        try:
+            resp = client.chat.completions.create(
+                model=model,
+                messages=[{"role": "user", "content": ANSWER_PROMPT.format(question=question, facts=facts_text[:15000])}],
+                temperature=0.2,
+            )
+            used_model = model
+            break
+        except Exception as e:  # noqa: BLE001
+            last_err = e
+            continue
+    if resp is None:
+        return {"seeds": [g.nodes[s]["canonical_name"] for s in seeds], "answer": None,
+                "reason": f"LLM недоступен: {str(last_err)[:200]}"}
+    return {
+        "seeds": [g.nodes[s]["canonical_name"] for s in seeds],
+        "subgraph_nodes": sub.number_of_nodes(),
+        "subgraph_edges": sub.number_of_edges(),
+        "sources": sorted(sources),
+        "answer": resp.choices[0].message.content,
+    }
+
+
 def main() -> None:
     if len(sys.argv) < 2:
         print('Использование: uv run python3 src/query/ask.py "твой вопрос"')
         sys.exit(1)
     question = sys.argv[1]
 
-    load_dotenv(ROOT / ".env")
-    client = OpenAI(api_key=os.environ["CEREBRAS_API_KEY"], base_url="https://api.cerebras.ai/v1")
-
+    client = get_client()
     g = load_graph()
-    seeds = retrieve_seed_nodes(g, question)
-    print(f"Найдено узлов-затравок: {len(seeds)} -> {[g.nodes[s]['canonical_name'] for s in seeds][:10]}")
+    result = answer_question(g, client, question)
 
-    if not seeds:
-        print("Ничего не найдено в графе по ключевым словам вопроса.")
+    print(f"Найдено узлов-затравок: {len(result['seeds'])} -> {result['seeds'][:10]}")
+    if result["answer"] is None:
+        print(result["reason"])
         return
-
-    sub = neighborhood(g, seeds, hops=2)
-    facts_text, sources = facts_to_text(g, sub)
-    print(f"Подграф: {sub.number_of_nodes()} узлов, {sub.number_of_edges()} рёбер, {len(sources)} источников\n")
-
-    if not facts_text:
-        print("В окрестности найденных узлов нет связей (изолированные упоминания).")
-        return
-
-    resp = client.chat.completions.create(
-        model=MODEL,
-        messages=[{"role": "user", "content": ANSWER_PROMPT.format(question=question, facts=facts_text[:15000])}],
-        temperature=0.2,
-    )
+    print(f"Подграф: {result['subgraph_nodes']} узлов, {result['subgraph_edges']} рёбер, "
+          f"{len(result['sources'])} источников\n")
     print("=== ОТВЕТ ===")
-    print(resp.choices[0].message.content)
+    print(result["answer"])
 
 
 if __name__ == "__main__":
