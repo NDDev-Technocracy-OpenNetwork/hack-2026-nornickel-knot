@@ -147,10 +147,22 @@ def run_batch(items_json: str) -> str:
     print(f"Генерирую {len(prompts)} чанков одним батчем...", flush=True)
     outputs = llm.generate(prompts, sampling)
 
+    def clean_json(text: str) -> str:
+        text = text.strip()
+        if text.startswith("```"):
+            text = text.split("\n", 1)[1] if "\n" in text else text
+        if text.endswith("```"):
+            text = text.rsplit("```", 1)[0]
+        start = text.find("{")
+        end = text.rfind("}")
+        if start != -1 and end != -1 and end > start:
+            text = text[start:end + 1]
+        return text.strip()
+
     by_doc: dict[str, dict] = {}
     ok, failed = 0, 0
     for it, out in zip(items, outputs):
-        raw = out.outputs[0].text
+        raw = clean_json(out.outputs[0].text)
         try:
             parsed = ExtractionResult.model_validate_json(raw)
         except Exception as e:  # noqa: BLE001
@@ -192,7 +204,4 @@ def main():
               f"({len(entry['entities'])} entities, {len(entry['relations'])} relations)", flush=True)
 
     print(f"\nГотово. {result['ok']} чанков разобрано, {result['failed']} не распарсились. "
-          f"{len(by_doc)} документов записано.", flush=True)
-
-    print(f"\nГотово. {ok} чанков разобрано, {failed} не распарсились. "
           f"{len(by_doc)} документов записано.", flush=True)
