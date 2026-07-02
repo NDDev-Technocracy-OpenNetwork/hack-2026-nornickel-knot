@@ -87,7 +87,7 @@ def retrieve_seed_nodes_harmonic(g, question: str, top_k: int = 8) -> tuple[list
     return list(seeds), scored[:top_k]
 
 
-def subgraph_to_viz(g, sub, max_nodes: int = 60) -> dict:
+def subgraph_to_viz(g, sub, max_nodes: int = 36) -> dict:
     """Компактное представление подграфа для отрисовки в браузере (a-la
     Obsidian graph view): top-N узлов по степени внутри подграфа + рёбра
     между ними."""

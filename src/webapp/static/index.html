@@ -216,12 +216,11 @@ async function loadStats() {
   try {
     const r = await fetch("/api/stats");
     const d = await r.json();
-    const typeStr = Object.entries(d.by_type).sort((a,b) => b[1]-a[1])
-      .map(([k,v]) => `${k}: <b>${v}</b>`).join(" · ");
+    const typeChips = Object.entries(d.by_type).sort((a,b) => b[1]-a[1])
+      .map(([k,v]) => `<span class="stat-chip mono">${k}: <b>${v}</b></span>`).join("");
     document.getElementById("stats").innerHTML = `
       <span class="stat-chip mono">узлов: <b>${d.nodes}</b></span>
-      <span class="stat-chip mono">связей: <b>${d.edges}</b></span>
-      <span class="stat-chip mono">${typeStr}</span>`;
+      <span class="stat-chip mono">связей: <b>${d.edges}</b></span>${typeChips}`;
   } catch (e) {
     document.getElementById("stats").innerHTML = `<span class="stat-chip mono">граф недоступен</span>`;
   }
@@ -351,7 +350,7 @@ const TYPE_COLOR = {
 };
 const gcanvas = document.getElementById("graph-canvas");
 const gctx = gcanvas.getContext("2d");
-let gNodes = [], gEdges = [], gRAF = null, gDragging = null, gDPR = 1;
+let gNodes = [], gEdges = [], gRAF = null, gDragging = null, gHover = null, gDPR = 1;
 
 function resizeGraphCanvas() {
   gDPR = Math.min(window.devicePixelRatio || 1, 2);
@@ -383,6 +382,7 @@ function startGraph(graph) {
   ).join("");
 
   attachDrag();
+  attachHover();
   if (gRAF) cancelAnimationFrame(gRAF);
   simTick();
 }
@@ -406,7 +406,7 @@ function simTick() {
       const b = gNodes[j];
       const dx = a.x - b.x, dy = a.y - b.y;
       const d2 = Math.max(dx*dx + dy*dy, 4);
-      const f = (2200 * gDPR * gDPR) / d2;
+      const f = (4600 * gDPR * gDPR) / d2;
       fx += dx / Math.sqrt(d2) * f;
       fy += dy / Math.sqrt(d2) * f;
     }
@@ -417,7 +417,7 @@ function simTick() {
     const a = gNodes[e.s], b = gNodes[e.t];
     const dx = b.x - a.x, dy = b.y - a.y;
     const dist = Math.sqrt(dx*dx + dy*dy) || 1;
-    const target = 70 * gDPR;
+    const target = 100 * gDPR;
     const f = (dist - target) * 0.02;
     const fx = dx / dist * f, fy = dy / dist * f;
     if (a !== gDragging) { a.vx += fx; a.vy += fy; }
@@ -442,10 +442,17 @@ function simTick() {
     gctx.beginPath(); gctx.arc(n.x, n.y, n.r, 0, 6.2832); gctx.fill();
   }
   gctx.font = `${10 * gDPR}px 'Space Mono', monospace`;
-  gctx.fillStyle = "rgba(242,242,240,0.72)";
-  const topLabeled = [...gNodes].sort((a,b) => b.degree - a.degree).slice(0, 12);
-  for (const n of topLabeled) {
-    gctx.fillText(n.label.slice(0, 22), n.x + n.r + 4, n.y + 3);
+  const topLabeled = [...gNodes].sort((a,b) => b.degree - a.degree).slice(0, 6);
+  const toDraw = new Set(topLabeled);
+  if (gHover) toDraw.add(gHover);
+  for (const n of toDraw) {
+    const label = n.label.slice(0, 26);
+    const w = gctx.measureText(label).width;
+    const lx = n.x + n.r + 5, ly = n.y + 3;
+    gctx.fillStyle = "rgba(10,10,13,0.82)";
+    gctx.fillRect(lx - 3, ly - 10 * gDPR, w + 6, 13 * gDPR);
+    gctx.fillStyle = n === gHover ? "#ffffff" : "rgba(242,242,240,0.75)";
+    gctx.fillText(label, lx, ly);
   }
 
   gRAF = requestAnimationFrame(simTick);
@@ -471,6 +478,21 @@ function attachDrag() {
     gDragging.vx = 0; gDragging.vy = 0;
   });
   window.addEventListener("mouseup", () => { gDragging = null; gcanvas.style.cursor = "grab"; });
+}
+
+function attachHover() {
+  gcanvas.addEventListener("mousemove", e => {
+    if (gDragging) { gHover = null; return; }
+    const rect = gcanvas.getBoundingClientRect();
+    const mx = (e.clientX - rect.left) * gDPR, my = (e.clientY - rect.top) * gDPR;
+    let closest = null, bestD = 900 * gDPR * gDPR;
+    for (const n of gNodes) {
+      const d2 = (n.x-mx)**2 + (n.y-my)**2;
+      if (d2 < bestD) { bestD = d2; closest = n; }
+    }
+    gHover = closest;
+  });
+  gcanvas.addEventListener("mouseleave", () => { gHover = null; });
 }
 
 // ══════════════ фон: точечная сетка с синим пульсом у курсора ══════════════
