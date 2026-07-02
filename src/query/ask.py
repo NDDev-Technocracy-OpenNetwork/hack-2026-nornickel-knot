@@ -13,14 +13,13 @@ import sys
 from pathlib import Path
 
 from dotenv import load_dotenv
-from google import genai
-from google.genai import types
+from openai import OpenAI
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "graph"))
 from graph_store import find_nodes, load_graph, neighborhood  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
-MODEL = "gemini-2.5-flash-lite"
+MODEL = "gpt-oss-120b"
 
 STOPWORDS = {
     "какие", "какой", "какая", "что", "как", "для", "при", "если", "или",
@@ -79,7 +78,7 @@ def main() -> None:
     question = sys.argv[1]
 
     load_dotenv(ROOT / ".env")
-    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    client = OpenAI(api_key=os.environ["CEREBRAS_API_KEY"], base_url="https://api.cerebras.ai/v1")
 
     g = load_graph()
     seeds = retrieve_seed_nodes(g, question)
@@ -97,13 +96,13 @@ def main() -> None:
         print("В окрестности найденных узлов нет связей (изолированные упоминания).")
         return
 
-    resp = client.models.generate_content(
+    resp = client.chat.completions.create(
         model=MODEL,
-        contents=ANSWER_PROMPT.format(question=question, facts=facts_text[:15000]),
-        config=types.GenerateContentConfig(temperature=0.2),
+        messages=[{"role": "user", "content": ANSWER_PROMPT.format(question=question, facts=facts_text[:15000])}],
+        temperature=0.2,
     )
     print("=== ОТВЕТ ===")
-    print(resp.text)
+    print(resp.choices[0].message.content)
 
 
 if __name__ == "__main__":
