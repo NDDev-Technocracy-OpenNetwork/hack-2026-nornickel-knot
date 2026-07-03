@@ -47,7 +47,9 @@ def main() -> None:
         (dest_dir / doc_path.name).write_text(
             json.dumps({
                 "filename": doc["filename"], "category": doc["category"],
-                "entities": doc["entities"], "facts": readable_relations,
+                "entities": doc["entities"],
+                "relations": readable_relations,  # то же самое, что и facts -- имя как в оригинале
+                "facts": readable_relations,
             }, ensure_ascii=False, indent=2),
             encoding="utf-8",
         )
