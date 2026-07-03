@@ -126,6 +126,11 @@
   .answer-text code { background: rgba(255,255,255,0.08); padding: 1px 5px; border-radius: 3px; font-family: 'Space Mono', monospace; font-size: 0.9em; }
   .answer-text hr { border: none; border-top: 1px dashed var(--line); margin: 14px 0; }
   .answer-text h1, .answer-text h2, .answer-text h3 { font-family: 'Syne', sans-serif; margin: 16px 0 8px; color: #fff; }
+  .answer-text .table-wrap { overflow-x: auto; margin: 0 0 14px; border: 1px solid var(--line); border-radius: 6px; }
+  .answer-text table { border-collapse: collapse; width: 100%; font-size: 13.5px; }
+  .answer-text th, .answer-text td { padding: 8px 12px; text-align: left; border-bottom: 1px solid var(--line); vertical-align: top; }
+  .answer-text th { font-family: 'Space Mono', monospace; font-size: 11px; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); background: rgba(255,255,255,0.03); }
+  .answer-text tr:last-child td { border-bottom: none; }
 
   .panel-title {
     font-family: 'Space Mono', monospace; font-size: 10px; text-transform: uppercase;
@@ -313,13 +318,45 @@ function mdInline(s) {
   s = s.replace(/(?<!\*)\*([^*]+)\*(?!\*)/g, "<em>$1</em>");
   return s;
 }
+function isTableRow(line) {
+  return /^\|.*\|$/.test(line.trim());
+}
+function isTableSep(line) {
+  return /^\|?[\s:|-]+\|?$/.test(line.trim()) && line.includes("-");
+}
+function splitRow(line) {
+  const t = line.trim().replace(/^\|/, "").replace(/\|$/, "");
+  return t.split("|").map(c => c.trim());
+}
+function tableToHtml(rows) {
+  const [head, ...body] = rows;
+  let html = "<table><thead><tr>" +
+    head.map(c => `<th>${mdInline(c)}</th>`).join("") + "</tr></thead><tbody>";
+  for (const r of body) {
+    html += "<tr>" + r.map(c => `<td>${mdInline(c)}</td>`).join("") + "</tr>";
+  }
+  return html + "</tbody></table>";
+}
+
 function mdToHtml(text) {
   const lines = text.split("\n");
   let html = "", inList = null;
   const closeList = () => { if (inList) { html += `</${inList}>`; inList = null; } };
-  for (let raw of lines) {
-    const line = raw.trim();
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i].trim();
     if (!line) { closeList(); continue; }
+
+    if (isTableRow(line) && i + 1 < lines.length && isTableSep(lines[i + 1])) {
+      closeList();
+      const tableLines = [line];
+      let j = i + 2;
+      while (j < lines.length && isTableRow(lines[j])) { tableLines.push(lines[j]); j++; }
+      const rows = [splitRow(tableLines[0]), ...tableLines.slice(1).map(splitRow)];
+      html += `<div class="table-wrap">${tableToHtml(rows)}</div>`;
+      i = j - 1;
+      continue;
+    }
+
     if (/^-{3,}$|^\*{3,}$/.test(line)) { closeList(); html += "<hr>"; continue; }
     const h = line.match(/^(#{1,3})\s+(.*)/);
     if (h) { closeList(); html += `<h${h[1].length}>${mdInline(h[2])}</h${h[1].length}>`; continue; }
