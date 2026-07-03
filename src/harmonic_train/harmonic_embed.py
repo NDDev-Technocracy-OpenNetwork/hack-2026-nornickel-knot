@@ -17,7 +17,8 @@ VOCAB = 50257
 HIDDEN = 128
 TAUS = (4.0, 32.0, 128.0)
 A_RANGES = ((0.55, 0.88), (0.90, 0.975), (0.992, 0.999))
-MAX_EMBED_TOKENS = 4096  # cap per document for speed на CPU
+MAX_EMBED_TOKENS = 4096  # 32000 пробовали -- retrieval стало ХУЖЕ (модель обучена на seq_len=512,
+# сильно за пределами тренировочной длины SSM-состояние деградирует, не улучшается)
 
 ROOT = Path(__file__).resolve().parents[2]
 CHECKPOINT_PATH = ROOT / "data" / "harmonic_runs" / "harmonic_corpus_final.pt"

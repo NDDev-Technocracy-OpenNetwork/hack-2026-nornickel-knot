@@ -69,13 +69,20 @@ def train(
 
 
 @app.local_entrypoint()
-def main(steps: int = 30_000, hidden_dim: int = 128, seq_len: int = 512, batch_size: int = 32):
+def main(steps: int = 30_000, hidden_dim: int = 128, seq_len: int = 512, batch_size: int = 32, resume: bool = False):
     out_dir = PROJECT_ROOT / "data" / "harmonic_runs"
     out_dir.mkdir(parents=True, exist_ok=True)
 
+    resume_bytes = b""
+    ckpt_path = out_dir / "harmonic_corpus_final.pt"
+    if resume and ckpt_path.exists():
+        resume_bytes = ckpt_path.read_bytes()
+        print(f"Resume с локального чекпоинта: {ckpt_path} ({len(resume_bytes)//1024} KB)", flush=True)
+
     print(f"Запуск обучения Harmonic на корпусе: steps={steps} hidden={hidden_dim} "
-          f"seq={seq_len} batch={batch_size}", flush=True)
-    result = train.remote(steps=steps, hidden_dim=hidden_dim, seq_len=seq_len, batch_size=batch_size)
+          f"seq={seq_len} batch={batch_size} resume={resume}", flush=True)
+    result = train.remote(steps=steps, hidden_dim=hidden_dim, seq_len=seq_len, batch_size=batch_size,
+                          resume_bytes=resume_bytes)
 
     if result:
         out_path = out_dir / "harmonic_corpus_final.pt"

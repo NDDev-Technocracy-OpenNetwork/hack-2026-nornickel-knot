@@ -85,14 +85,19 @@ def find_nodes(g: nx.MultiDiGraph, query: str, limit: int = 15) -> list[str]:
     return hits[:limit]
 
 
-def neighborhood(g: nx.MultiDiGraph, keys: list[str], hops: int = 2) -> nx.MultiDiGraph:
+def neighborhood(g: nx.MultiDiGraph, keys: list[str], hops: int = 2, max_degree: int = 20) -> nx.MultiDiGraph:
+    """max_degree: узлы-хабы (например "медь", упомянутая в полусотне
+    документов) не используются как мост для дальнейшего обхода -- иначе
+    2 хопа от них комбинаторно взрывают подграф на тысячи узлов, и нужный
+    факт тонет в шуме. Сам хаб-узел при этом остаётся в результате, если до
+    него дошли -- просто не идём ОТ него дальше."""
     seen = set(keys)
     frontier = set(keys)
     undirected = g.to_undirected(as_view=True)
     for _ in range(hops):
         next_frontier = set()
         for k in frontier:
-            if k in undirected:
+            if k in undirected and undirected.degree(k) <= max_degree:
                 next_frontier |= set(undirected.neighbors(k))
         next_frontier -= seen
         seen |= next_frontier

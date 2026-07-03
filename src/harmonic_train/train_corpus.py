@@ -319,7 +319,23 @@ def save_and_upload(model, opt, sched, step, val_l, device):
     upload_checkpoint(path, STEP_CKPT_HF_NAME)
 
 
+def maybe_resume(model, device):
+    """Продолжение с чекпоинта: только веса модели, optimizer/scheduler свежие
+    для нового отрезка шагов. Возвращает prev_step (0 если чекпоинта нет)."""
+    path = os.path.join(CKPT_DIR, "harmonic_corpus_step.pt")
+    if not os.path.exists(path):
+        return 0
+    ck = torch.load(path, map_location=device, weights_only=False)
+    model.load_state_dict(ck["model_state"])
+    prev_step = ck.get("step", 0)
+    print(f"Resume: загружены веса с шага {prev_step}  "
+          f"(val={ck.get('val_loss', float('nan')):.4f}  bpt={ck.get('bpt', float('nan')):.4f})", flush=True)
+    return prev_step
+
+
 def train_one(model, train_tokens, val_tokens, device, args_steps, args_batch, args_seq):
+    prev_step = maybe_resume(model, device)
+
     opt = torch.optim.AdamW(model.parameters(), lr=LR, weight_decay=WD, betas=(0.9, 0.95))
     sched = torch.optim.lr_scheduler.CosineAnnealingLR(opt, args_steps, eta_min=LR / 10)
     torch.manual_seed(SEED)
@@ -334,19 +350,20 @@ def train_one(model, train_tokens, val_tokens, device, args_steps, args_batch, a
     dtype = next(model.parameters()).dtype
 
     for step in range(args_steps + 1):
+        total_step = prev_step + step
         if step % LOG_EVERY == 0:
             vl = val_loss(model, val_tokens, args_batch, args_seq, device)
             ppl = math.exp(min(vl, 20))
             bpt = vl / math.log(2)
             A1, A2, A3 = model.mean_gates(device, dtype)
             tps = (LOG_EVERY * args_batch * args_seq) / max(t_window, 1e-9) if step > 0 else 0.0
-            print(f"{step:>7}  {'—' if step==0 else f'{train_loss_display:.4f}':>7}  {vl:>7.4f}  "
+            print(f"{total_step:>7}  {'—' if step==0 else f'{train_loss_display:.4f}':>7}  {vl:>7.4f}  "
                   f"{ppl:>9.1f}  {bpt:>6.3f}  {A1:>6.3f}  {A2:>6.3f}  {A3:>6.3f}  {tps/1e3:>7.1f}k",
                   flush=True)
             t_window = 0.0
 
         if step > 0 and step % STEP_CKPT_EVERY == 0:
-            save_and_upload(model, opt, sched, step, vl, device)
+            save_and_upload(model, opt, sched, total_step, vl, device)
 
         if step == args_steps:
             break
@@ -365,8 +382,9 @@ def train_one(model, train_tokens, val_tokens, device, args_steps, args_batch, a
         t_total += dt
         t_window += dt
 
-    save_and_upload(model, opt, sched, args_steps, vl, device)
-    print(f"\nГотово. Финал: val={vl:.4f}  bpt={vl/math.log(2):.4f}  ppl={math.exp(min(vl,20)):.1f}", flush=True)
+    save_and_upload(model, opt, sched, prev_step + args_steps, vl, device)
+    print(f"\nГотово. Финал (шаг {prev_step + args_steps}): val={vl:.4f}  "
+          f"bpt={vl/math.log(2):.4f}  ppl={math.exp(min(vl,20)):.1f}", flush=True)
 
 
 def main():

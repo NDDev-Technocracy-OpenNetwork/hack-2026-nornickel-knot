@@ -23,7 +23,12 @@ ROOT = pathlib.Path.cwd()
 
 SOURCE_ROOT = ROOT / "data" / "parsed"
 DEST_ROOT = ROOT / "data" / "extracted"
-MAX_CHARS_PER_DOC = 12000
+# было 12000: контрольная проверка на реальных вопросах показала, что это
+# обрезает документы задолго до релевантного контента (медиана документа
+# в корпусе -- 79000 символов, у крупных до 800000+). 120000 покрывает
+# медианный документ целиком; самые длинные всё ещё частично обрезаются --
+# честно задокументированное, не скрытое ограничение.
+MAX_CHARS_PER_DOC = 120000
 CHUNK_SIZE = 3000
 
 MODEL_ID = "Qwen/Qwen2.5-32B-Instruct"
@@ -48,7 +53,12 @@ ONTOLOGY_PROMPT = """Ты извлекаешь структурированны�
 Publication, Expert, Facility.
 
 Типы связей: uses_material, operates_at_condition, produces_output,
-described_in, validated_by, contradicts.
+described_in, validated_by, contradicts, affiliated_with.
+
+affiliated_with -- эксперт или исследовательская команда работает в/принадлежит
+организации/лаборатории/институту (например: "Вострикова Н.М." --[affiliated_with]--> "Институт Гипроникель").
+Используй это явно, когда текст называет организацию авторов/экспертов --
+не оставляй такую связь висеть только на described_in.
 
 Для canonical_name: нормализуй синонимы и переводы к одному виду
 (например «электроэкстракция» и «electrowinning» -> «electrowinning»).
@@ -112,7 +122,7 @@ def collect_pending_chunks():
     return pending
 
 
-@app.function(gpu="H100", image=image, timeout=3 * 3600)
+@app.function(gpu="H100", image=image, timeout=6 * 3600)
 def run_batch(items_json: str) -> str:
     from pydantic import BaseModel
     from typing import Literal, Optional
@@ -126,12 +136,12 @@ def run_batch(items_json: str) -> str:
 
     class Relation(BaseModel):
         source_id: str
-        relation: Literal["uses_material", "operates_at_condition", "produces_output", "described_in", "validated_by", "contradicts"]
+        relation: Literal["uses_material", "operates_at_condition", "produces_output", "described_in", "validated_by", "contradicts", "affiliated_with"]
         target_id: str
         numeric_value: Optional[float] = None
         unit: Optional[str] = None
         condition: Optional[str] = None
-        confidence: float
+        confidence: Optional[float] = None
 
     class ExtractionResult(BaseModel):
         entities: list[Entity]

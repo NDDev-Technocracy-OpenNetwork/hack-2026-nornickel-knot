@@ -29,12 +29,17 @@ ROOT = Path(__file__).resolve().parents[2]
 SOURCE_ROOT = ROOT / "data" / "parsed"
 DEST_ROOT = ROOT / "data" / "extracted"
 
-MODEL = "gpt-oss-120b"
-MAX_CHARS_PER_DOC = 12000
+PROVIDER = os.environ.get("EXTRACT_PROVIDER", "cerebras")  # cerebras | openrouter
+PROVIDERS = {
+    "cerebras":   dict(base_url="https://api.cerebras.ai/v1",     key_env="CEREBRAS_API_KEY",   model="gpt-oss-120b",                          delay=13),
+    "openrouter": dict(base_url="https://openrouter.ai/api/v1",   key_env="OPENROUTER_API_KEY", model="qwen/qwen3-next-80b-a3b-instruct:free", delay=3),
+}
+MODEL = PROVIDERS[PROVIDER]["model"]
+MAX_CHARS_PER_DOC = 120000
 CHUNK_SIZE = 3000
 MAX_RETRIES = 3
 MAX_TOKENS = 4096
-DELAY_BETWEEN_CALLS = 13  # Cerebras free tier: 5 requests/minute account-wide
+DELAY_BETWEEN_CALLS = PROVIDERS[PROVIDER]["delay"]
 
 ONTOLOGY_PROMPT = """Ты извлекаешь структурированные факты из технического текста
 по горно-металлургической отрасли (добыча, обогащение, гидро- и пирометаллургия)
@@ -48,7 +53,11 @@ ONTOLOGY_PROMPT = """Ты извлекаешь структурированны�
 Publication, Expert, Facility.
 
 Типы связей: uses_material, operates_at_condition, produces_output,
-described_in, validated_by, contradicts.
+described_in, validated_by, contradicts, affiliated_with.
+
+affiliated_with -- эксперт или исследовательская команда работает в/принадлежит
+организации/лаборатории/институту. Используй явно, когда текст называет
+организацию авторов/экспертов.
 
 Для canonical_name: нормализуй синонимы и переводы к одному виду
 (например «электроэкстракция» и «electrowinning» -> «electrowinning»).
@@ -116,7 +125,9 @@ def extract_chunk(client: OpenAI, chunk_text: str) -> ExtractionResult:
 
 def main() -> None:
     load_dotenv(ROOT / ".env")
-    client = OpenAI(api_key=os.environ["CEREBRAS_API_KEY"], base_url="https://api.cerebras.ai/v1")
+    cfg = PROVIDERS[PROVIDER]
+    client = OpenAI(api_key=os.environ[cfg["key_env"]], base_url=cfg["base_url"])
+    print(f"Provider: {PROVIDER}  model: {MODEL}  delay: {DELAY_BETWEEN_CALLS}s", flush=True)
 
     DEST_ROOT.mkdir(parents=True, exist_ok=True)
     parsed_files = sorted(SOURCE_ROOT.rglob("*.json"))

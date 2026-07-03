@@ -12,7 +12,7 @@ EntityType = Literal[
 
 RelationType = Literal[
     "uses_material", "operates_at_condition", "produces_output",
-    "described_in", "validated_by", "contradicts",
+    "described_in", "validated_by", "contradicts", "affiliated_with",
 ]
 
 
@@ -33,7 +33,7 @@ class Relation(BaseModel):
     numeric_value: Optional[float] = Field(default=None, description="numeric value if the relation carries one")
     unit: Optional[str] = Field(default=None, description="unit for numeric_value, e.g. 'mg/l', 'm3/h', 'C'")
     condition: Optional[str] = Field(default=None, description="qualifying condition, e.g. 'холодный климат'")
-    confidence: float = Field(description="model's own confidence that this relation is explicitly supported by the text, 0-1")
+    confidence: Optional[float] = Field(default=None, description="model's own confidence that this relation is explicitly supported by the text, 0-1")
 
 
 class ExtractionResult(BaseModel):
