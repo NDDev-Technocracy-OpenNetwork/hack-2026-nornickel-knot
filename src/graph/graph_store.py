@@ -85,21 +85,32 @@ def find_nodes(g: nx.MultiDiGraph, query: str, limit: int = 15) -> list[str]:
     return hits[:limit]
 
 
-def neighborhood(g: nx.MultiDiGraph, keys: list[str], hops: int = 2, max_degree: int = 20) -> nx.MultiDiGraph:
+def neighborhood(g: nx.MultiDiGraph, keys: list[str], hops: int = 2, max_degree: int = 20,
+                  max_nodes: int = 350) -> nx.MultiDiGraph:
     """max_degree: узлы-хабы (например "медь", упомянутая в полусотне
     документов) не используются как мост для дальнейшего обхода -- иначе
     2 хопа от них комбинаторно взрывают подграф на тысячи узлов, и нужный
     факт тонет в шуме. Сам хаб-узел при этом остаётся в результате, если до
-    него дошли -- просто не идём ОТ него дальше."""
-    seen = set(keys)
-    frontier = set(keys)
+    него дошли -- просто не идём ОТ него дальше.
+
+    max_nodes: жёсткий потолок на весь подграф -- при большом графе (12K+
+    узлов) даже с ограничением по степени 2-хоп обход мог набирать тысячи
+    узлов и превращать ответ в многоминутное ожидание на живом демо. Без
+    этого предела время ответа непредсказуемо; с ним -- всегда ограничено."""
+    seen = set(list(keys)[:max_nodes])
+    frontier = set(seen)
     undirected = g.to_undirected(as_view=True)
     for _ in range(hops):
+        if len(seen) >= max_nodes:
+            break
         next_frontier = set()
         for k in frontier:
             if k in undirected and undirected.degree(k) <= max_degree:
                 next_frontier |= set(undirected.neighbors(k))
         next_frontier -= seen
+        room = max_nodes - len(seen)
+        if len(next_frontier) > room:
+            next_frontier = set(list(next_frontier)[:room])
         seen |= next_frontier
         frontier = next_frontier
     return g.subgraph(seen).copy()
