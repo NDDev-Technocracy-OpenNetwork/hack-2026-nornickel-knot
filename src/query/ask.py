@@ -76,9 +76,17 @@ def load_doc_embeddings():
 
 
 def retrieve_seed_nodes_harmonic(g, question: str, top_k: int = 4) -> tuple[list[str], list[tuple[str, float]]]:
-    """Harmonic: эмбеддинг вопроса сравнивается с эмбеддингами целых документов
-    (посчитаны заранее через forward_states обученного чекпоинта), берём top_k
-    файлов, затем -- узлы графа с provenance из этих файлов."""
+    """Harmonic (эмбеддинг всего документа) + точное совпадение по именам
+    сущностей -- гибрид. Проблема чистого эмбеддинга: документ-"сборник"
+    (журнальный номер с десятком разных статей) даёт усреднённый вектор,
+    который может не попасть в top_k даже если внутри есть точный ответ --
+    подтверждено на реальном вопросе жюри про штейн/шлак: документ с фактами
+    "штейн"/"шлак" был вне top-4 по эмбеддингу, хотя термины буквально есть
+    в тексте. Точное совпадение имени сущности с словом вопроса -- сигнал
+    не хуже похожести векторов, и не разбавляется остальным содержимым
+    документа. Добавляем такие документы в seed-набор, не заменяя эмбеддинг
+    (объединение, не замена -- эмбеддинг всё ещё ловит смысловые совпадения
+    без точных слов)."""
     entries = load_doc_embeddings()
     model = load_model()
     q_vec = embed_text(question, model=model)
@@ -90,11 +98,30 @@ def retrieve_seed_nodes_harmonic(g, question: str, top_k: int = 4) -> tuple[list
     scored.sort(key=lambda x: -x[1])
     top_files = {f for f, _ in scored[:top_k]}
 
-    seeds: set[str] = set()
-    for key, data in g.nodes(data=True):
-        if data["sources"] & top_files:
-            seeds.add(key)
-    return list(seeds), scored[:top_k]
+    kw_nodes: list[str] = []
+    keywords = set(extract_keywords(question))
+    if keywords:
+        # сравнение по префиксу (первые 4 символа), не по точному слову --
+        # русские падежные окончания ("штейном" в вопросе vs "штейн" в
+        # графе) не совпадут как строки, но совпадут по стеблю/префиксу
+        kw_prefixes = {w[:4] for w in keywords if len(w) >= 4}
+        for key, data in g.nodes(data=True):
+            name_words = re.findall(r"[a-zA-Zа-яА-ЯёЁ]+", data["canonical_name"].lower())
+            if any(w[:4] in kw_prefixes for w in name_words if len(w) >= 4):
+                kw_nodes.append(key)
+
+    # kw_nodes -- первыми: neighborhood() обрезает seed-список до max_nodes,
+    # и с общими словами вопроса (после/между/покажите тоже проходят фильтр
+    # длины) набирается несколько тысяч совпадений -- если положить их
+    # вперемешку с embedding-узлами, точное совпадение по нужному термину
+    # может просто не попасть в обрезанные первые max_nodes.
+    seen_keys = set(kw_nodes)
+    other_nodes = [
+        key for key, data in g.nodes(data=True)
+        if key not in seen_keys and data["sources"] & top_files
+    ]
+    seeds = kw_nodes + other_nodes
+    return seeds, scored[:top_k]
 
 
 def subgraph_to_viz(g, sub, max_nodes: int = 36) -> dict:
@@ -131,6 +158,7 @@ def facts_to_text(g, sub) -> tuple[str, set[str]]:
     доступного. Правильный фикс -- не резать, а не резать так рано."""
     lines = []
     sources: set[str] = set()
+    connected: set[str] = set()
     for u, v, data in sub.edges(data=True):
         u_name = g.nodes[u]["canonical_name"]
         v_name = g.nodes[v]["canonical_name"]
@@ -141,7 +169,23 @@ def facts_to_text(g, sub) -> tuple[str, set[str]]:
             extra += f", condition={data['condition']}"
         src = data["source_file"]
         sources.add(src)
+        connected.add(u)
+        connected.add(v)
         lines.append(f"- {u_name} --[{data['relation']}]--> {v_name}{extra} (source: {src}, p.{data['page_start']}-{data['page_end']})")
+
+    # Узлы без связей (LLM выделила сущность, но не извлекла отношение к
+    # ней) иначе пропадают полностью из текста для ответа -- даже если
+    # ретрив правильно нашёл документ и термин, при facts_to_text по
+    # рёбрам он теряется. Даём модели хотя бы упоминание "сущность
+    # встречается в источнике X" вместо полного молчания.
+    for key, data in sub.nodes(data=True):
+        if key in connected:
+            continue
+        for src in data["sources"]:
+            sources.add(src)
+        src_list = ", ".join(sorted(data["sources"])[:3])
+        lines.append(f"- упоминается: {data['canonical_name']} ({data['type']}) (source: {src_list})")
+
     return "\n".join(lines), sources
 
 
