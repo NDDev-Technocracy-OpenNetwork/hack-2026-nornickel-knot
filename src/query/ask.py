@@ -25,10 +25,15 @@ from harmonic_embed import embed_text, load_model  # noqa: E402
 ROOT = Path(__file__).resolve().parents[2]
 DOC_EMBEDDINGS_PATH = ROOT / "data" / "harmonic_runs" / "doc_embeddings.pt"
 
-# Cerebras первым -- для рабочей демонстрации жюри: ~1с на ответ (проверено),
-# не свободный :free тариф со скачущими upstream rate-limit'ами. OpenRouter --
-# запасной путь, если Cerebras снова упрётся в дневной лимит на 1M токенов.
+# Yandex первым -- жёсткое требование задания: модель должна быть доступна
+# из РФ без обхода ограничений. Cerebras (проверено -- 403 без прокси) и
+# OpenRouter остаются в цепочке как запасные, но не для официальной сдачи.
+# gpt-oss-120b на Yandex -- reasoning-модель, без большого max_tokens отдаёт
+# пустой content (бюджет уходит на скрытые раздумья) -- поэтому primary
+# именно yandexgpt/latest, не reasoning, отвечает сразу и предсказуемо.
 PROVIDERS = [
+    ("yandex", "https://llm.api.cloud.yandex.net/v1", "YANDEX_API_KEY", "gpt://__FOLDER__/yandexgpt/latest"),
+    ("yandex", "https://llm.api.cloud.yandex.net/v1", "YANDEX_API_KEY", "gpt://__FOLDER__/gpt-oss-120b/latest"),
     ("cerebras", "https://api.cerebras.ai/v1", "CEREBRAS_API_KEY", "gpt-oss-120b"),
     ("openrouter", "https://openrouter.ai/api/v1", "OPENROUTER_API_KEY", "openai/gpt-oss-120b:free"),
     ("openrouter", "https://openrouter.ai/api/v1", "OPENROUTER_API_KEY", "meta-llama/llama-3.3-70b-instruct:free"),
@@ -201,17 +206,27 @@ def answer_question(g, client: OpenAI | None, question: str, hops: int = 2, retr
     last_err = None
     used_model = None
     for provider_name, base_url, key_env, model in PROVIDERS:
+        if key_env not in os.environ:
+            continue
         try:
             c = _client_for(base_url, key_env)
+            resolved_model = model.replace("__FOLDER__", os.environ.get("YANDEX_FOLDER_ID", ""))
             resp = c.chat.completions.create(
-                model=model,
+                model=resolved_model,
                 messages=[{"role": "user", "content": ANSWER_PROMPT.format(question=question, facts=facts_text[:400000])}],
                 temperature=0.2,
+                max_tokens=4000,  # gpt-oss на Yandex -- reasoning-модель, съедает бюджет
+                                  # на скрытые раздумья, при малом max_tokens content=None
             )
-            used_model = f"{provider_name}:{model}"
+            if not resp.choices[0].message.content:
+                last_err = RuntimeError(f"{provider_name}:{resolved_model} вернул пустой content")
+                resp = None
+                continue
+            used_model = f"{provider_name}:{resolved_model}"
             break
         except Exception as e:  # noqa: BLE001
             last_err = e
+            resp = None
             continue
     if resp is None:
         return {"seeds": [g.nodes[s]["canonical_name"] for s in seeds], "answer": None,
