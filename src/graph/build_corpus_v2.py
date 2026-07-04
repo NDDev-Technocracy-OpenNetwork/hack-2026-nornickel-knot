@@ -227,7 +227,7 @@ def process_pdf(rel_path: str) -> dict:
     return _process_one_pdf(path)
 
 
-@app.function(image=pdf_image, gpu="H100", timeout=7200, max_containers=16)
+@app.function(image=pdf_image, gpu="H100", timeout=7200, max_containers=50)
 def process_pdf_batch(rel_paths: list[str], worker_id: int) -> dict:
     """Не документ за раз, а целая группа документов на одном воркере,
     одна загруженная EasyOCR-модель на всю группу -- без пересоздания
@@ -381,10 +381,10 @@ def main():
             return "doc_converted/" + str(p.relative_to(DOC_CONVERTED_ROOT))
         raise ValueError(f"путь вне известных корней: {path_str}")
 
-    pdf_paths = [to_rel(p) for p in read_list("all_pdfs.txt")]
-    docx_paths = [to_rel(p) for p in read_list("all_docx.txt")]
-    pptx_paths = [to_rel(p) for p in read_list("all_pptx.txt")]
-    xls_paths = [to_rel(p) for p in read_list("all_xls.txt")]
+    pdf_paths = [to_rel(p) for p in read_list("all_pdfs_test.txt")]
+    docx_paths = [to_rel(p) for p in read_list("all_docx_test.txt")]
+    pptx_paths = [to_rel(p) for p in read_list("all_pptx_test.txt")]
+    xls_paths = [to_rel(p) for p in read_list("all_xls_test.txt")]
 
     # Возобновление: если файл уже частично собран (прошлый прогон упал/
     # завис), пропускаем документы, чьи чанки уже записаны, вместо того
@@ -421,7 +421,7 @@ def main():
     # N_PDF_WORKERS групп, один воркер = одна загрузка EasyOCR-модели на
     # всю свою группу, не на каждый файл. Каждый пишет свой jsonl внутри
     # контейнера и возвращает содержимое одним куском -- склеиваем здесь.
-    N_PDF_WORKERS = 16
+    N_PDF_WORKERS = 50
     if pdf_paths:
         groups = [pdf_paths[i::N_PDF_WORKERS] for i in range(N_PDF_WORKERS)]
         groups = [(g, idx) for idx, g in enumerate(groups) if g]

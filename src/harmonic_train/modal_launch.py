@@ -17,7 +17,7 @@ ROOT = pathlib.Path(__file__).parent
 PROJECT_ROOT = ROOT.parent.parent
 
 TRAIN_SCRIPT = ROOT / "train_corpus.py"
-CORPUS_FILE  = PROJECT_ROOT / "data" / "harmonic_corpus.txt"
+CORPUS_FILE  = PROJECT_ROOT / "data" / "harmonic_corpus_v2.txt"
 
 image = (
     modal.Image.debian_slim(python_version="3.11")
@@ -69,7 +69,7 @@ def train(
 
 
 @app.local_entrypoint()
-def main(steps: int = 30_000, hidden_dim: int = 128, seq_len: int = 512, batch_size: int = 32, resume: bool = False):
+def main(steps: int = 30_000, hidden_dim: int = 128, seq_len: int = 512, batch_size: int = 96, resume: bool = True):
     out_dir = PROJECT_ROOT / "data" / "harmonic_runs"
     out_dir.mkdir(parents=True, exist_ok=True)
 

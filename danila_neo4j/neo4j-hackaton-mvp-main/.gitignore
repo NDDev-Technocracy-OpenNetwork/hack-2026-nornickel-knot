@@ -1,0 +1,10 @@
+.env
+..gitignore.swp
+.venv/
+__pycache__/
+neo4j_data/
+node_modules/
+reports/
+*.pyc
+.neo4j/
+.DS_Store

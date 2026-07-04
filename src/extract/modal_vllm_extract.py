@@ -15,6 +15,11 @@ import pathlib
 import modal
 
 app = modal.App("nornikel-vllm-extract")
+# Постоянное хранилище на стороне Modal -- переживает обрыв ЛОКАЛЬНОГО
+# клиента полностью (в отличие от .spawn()+call.get(), где результат всё
+# равно нужно ДОЖДАТЬСЯ одним вызовом). Пишем сюда после каждой под-пачки,
+# читаем оттуда отдельно, независимо от того, жив ли исходный процесс.
+results_dict = modal.Dict.from_name("nornikel-extract-results", create_if_missing=True)
 # cwd, не __file__.parents -- этот модуль исполняется и локально (cwd=корень
 # проекта, т.к. modal run запускается оттуда), и удалённо в контейнере Modal,
 # где файл лежит на другой глубине (/root/modal_vllm_extract.py) и parents[2]
@@ -31,7 +36,7 @@ DEST_ROOT = ROOT / "data" / "extracted"
 MAX_CHARS_PER_DOC = 120000
 CHUNK_SIZE = 3000
 
-MODEL_ID = "Qwen/Qwen2.5-32B-Instruct"
+MODEL_ID = "Qwen/Qwen2.5-7B-Instruct"
 
 image = (
     modal.Image.debian_slim(python_version="3.11")
@@ -103,10 +108,18 @@ def make_chunks(pages: list[dict], max_total_chars: int, chunk_size: int) -> lis
     return chunks
 
 
+MAX_DOCS_PER_RUN = 1500  # 7B даёт ~2.76 валидных чанков/сек -- весь
+# оставшийся корпус (~1008 документов, ~33000 чанков) укладывается в
+# ~3.5 часа одним прогоном, лимит уже не нужен, оставлен с запасом сверху
+
+
 def collect_pending_chunks():
     """Те же документы/чанки что и extract.py, но только уже НЕ извлечённые."""
     pending = []
+    n_docs = 0
     for parsed_path in sorted(SOURCE_ROOT.rglob("*.json")):
+        if n_docs >= MAX_DOCS_PER_RUN:
+            break
         category_dir = DEST_ROOT / parsed_path.parent.name
         dest_path = category_dir / parsed_path.name
         if dest_path.exists():
@@ -119,11 +132,12 @@ def collect_pending_chunks():
                 "chunk_index": i, "page_start": chunk["page_start"], "page_end": chunk["page_end"],
                 "text": chunk["text"],
             })
+        n_docs += 1
     return pending
 
 
-@app.function(gpu="H100", image=image, timeout=6 * 3600)
-def run_batch(items_json: str) -> str:
+@app.function(gpu="H100", image=image, timeout=6 * 3600, max_containers=10)
+def run_batch(items_json: str, worker_id: int = 0) -> str:
     from pydantic import BaseModel
     from typing import Literal, Optional
     from vllm import LLM, SamplingParams
@@ -149,13 +163,27 @@ def run_batch(items_json: str) -> str:
 
     items = json.loads(items_json)
     print(f"Загружаю {MODEL_ID} ...", flush=True)
-    llm = LLM(model=MODEL_ID, dtype="bfloat16", max_model_len=8192, gpu_memory_utilization=0.92)
+    # Промпт ~2060 токенов + max_tokens=2560 на ответ ~= 4620 -- подняли
+    # max_model_len под это. Но с max_model_len=6144 vLLM сам печатает
+    # реальный потолок: "Maximum concurrency for 6144 tokens per request:
+    # 174.04x" -- мы стояли на 224, ВЫШЕ потолка (был риск повторить старый
+    # затор с преэмпшенами). 160 -- с небольшим запасом ниже реального 174.
+    llm = LLM(model=MODEL_ID, dtype="bfloat16", max_model_len=6144,
+              gpu_memory_utilization=0.92, max_num_seqs=160)
 
-    prompts = [ONTOLOGY_PROMPT.format(chunk_text=it["text"]) for it in items]
-    sampling = SamplingParams(temperature=0.1, max_tokens=4096)
-
-    print(f"Генерирую {len(prompts)} чанков одним батчем...", flush=True)
-    outputs = llm.generate(prompts, sampling)
+    # было 4096: на 24000+ чанках разом это забивало KV-кэш (PreemptionMode.
+    # RECOMPUTE, GPU толокся сам с собой) -- JSON-ответ (сущности+связи с
+    # одного чанка ~3000 символов) реально помещается в разы меньше
+    #
+    # guided_decoding (JSON-схема через логит-маскирование) пробовали --
+    # xgrammar несовместим по версии, lm-format-enforcer совместим, но
+    # даёт огромный оверхед на токен (упало с ~300 ток/с до ~2 ток/с) --
+    # цена за отказ от малого % провалов парсинга оказалась неприемлемой.
+    # Остаёмся на обычном JSON + clean_json()-фоллбэке ниже.
+    # 1536 резало JSON на полуслове у 7B (EOF while parsing a list) -- она
+    # многословнее 32B в форматировании. Памяти теперь много (7B лёгкая),
+    # можно позволить больше без риска повторить прежний KV-кэш затор.
+    sampling = SamplingParams(temperature=0.1, max_tokens=2560)
 
     def clean_json(text: str) -> str:
         text = text.strip()
@@ -169,49 +197,145 @@ def run_batch(items_json: str) -> str:
             text = text[start:end + 1]
         return text.strip()
 
-    by_doc: dict[str, dict] = {}
-    ok, failed = 0, 0
-    for it, out in zip(items, outputs):
-        raw = clean_json(out.outputs[0].text)
-        try:
-            parsed = ExtractionResult.model_validate_json(raw)
-        except Exception as e:  # noqa: BLE001
-            failed += 1
-            print(f"  parse FAILED: {it['filename']} chunk {it['chunk_index']}: {str(e)[:150]}", flush=True)
-            continue
-        ok += 1
-        key = f"{it['category']}/{it['filename']}"
-        entry = by_doc.setdefault(key, {"filename": it["filename"], "category": it["category"],
-                                         "entities": [], "relations": []})
-        provenance = {"source_file": it["filename"], "category": it["category"],
-                      "chunk_index": it["chunk_index"], "page_start": it["page_start"], "page_end": it["page_end"]}
-        for e in parsed.entities:
-            entry["entities"].append({**e.model_dump(), "provenance": provenance})
-        for rel in parsed.relations:
-            entry["relations"].append({**rel.model_dump(), "provenance": provenance})
+    # Пользователь осознанно выбрал скорость важнее защиты от краха --
+    # каждый новый generate() разгоняется по 1-2 минуты, много под-пачек
+    # суммарно съедают заметное время на повторные разгоны. SUB_BATCH
+    # выше общего числа чанков = фактически один вызов на всё сразу.
+    # Механизм results_dict/run_id остаётся -- если где-то всё же наберётся
+    # больше одной под-пачки (не в этот раз), защита сработает как раньше.
+    SUB_BATCH = 100000
+    run_id = items[0].get("run_id", "run") if items else "run"
+    total_ok, total_failed, total_docs = 0, 0, set()
+    for start_idx in range(0, len(items), SUB_BATCH):
+        sub_items = items[start_idx:start_idx + SUB_BATCH]
+        prompts = [ONTOLOGY_PROMPT.format(chunk_text=it["text"]) for it in sub_items]
+        print(f"Под-пачка {start_idx}-{start_idx+len(sub_items)}/{len(items)}...", flush=True)
+        outputs = llm.generate(prompts, sampling)
 
-    print(f"Готово: {ok} чанков разобрано, {failed} не распарсились, {len(by_doc)} документов.", flush=True)
-    return json.dumps({"by_doc": by_doc, "ok": ok, "failed": failed}, ensure_ascii=False)
+        by_doc: dict[str, dict] = {}
+        ok, failed = 0, 0
+        for it, out in zip(sub_items, outputs):
+            raw = clean_json(out.outputs[0].text)
+            try:
+                parsed = ExtractionResult.model_validate_json(raw)
+            except Exception as e:  # noqa: BLE001
+                failed += 1
+                print(f"  parse FAILED: {it['filename']} chunk {it['chunk_index']}: {str(e)[:150]}", flush=True)
+                continue
+            ok += 1
+            key = f"{it['category']}/{it['filename']}"
+            entry = by_doc.setdefault(key, {"filename": it["filename"], "category": it["category"],
+                                             "entities": [], "relations": []})
+            provenance = {"source_file": it["filename"], "category": it["category"],
+                          "chunk_index": it["chunk_index"], "page_start": it["page_start"], "page_end": it["page_end"]}
+            for e in parsed.entities:
+                entry["entities"].append({**e.model_dump(), "provenance": provenance})
+            for rel in parsed.relations:
+                entry["relations"].append({**rel.model_dump(), "provenance": provenance})
+
+        sub_batch_key = f"{run_id}:{worker_id}:{start_idx}"
+        results_dict[sub_batch_key] = json.dumps({"by_doc": by_doc, "ok": ok, "failed": failed}, ensure_ascii=False)
+        total_ok += ok
+        total_failed += failed
+        total_docs |= set(by_doc.keys())
+        print(f"  под-пачка готова: {ok} ок, {failed} провалов -- записано в results_dict[{sub_batch_key}]", flush=True)
+
+    print(f"Воркер {worker_id} готов: {total_ok} чанков разобрано, {total_failed} не распарсились, "
+          f"{len(total_docs)} документов.", flush=True)
+    return json.dumps({"run_id": run_id, "worker_id": worker_id, "ok": total_ok,
+                        "failed": total_failed, "n_docs": len(total_docs)})
+
+
+CALL_ID_PATH = ROOT / "data" / "last_extract_call_id.txt"
+RUN_ID_PATH = ROOT / "data" / "last_extract_run_id.txt"
+
+
+def write_entries(by_doc: dict) -> int:
+    """Пишет/дополняет data/extracted/*.json -- если документ уже частично
+    записан (из предыдущей под-пачки этого же прогона), дописывает, а не
+    затирает."""
+    n = 0
+    for key, entry in by_doc.items():
+        stem = pathlib.Path(entry["filename"]).stem
+        dest_path = DEST_ROOT / entry["category"] / f"{stem}.json"
+        dest_path.parent.mkdir(parents=True, exist_ok=True)
+        if dest_path.exists():
+            existing = json.loads(dest_path.read_text(encoding="utf-8"))
+            existing["entities"].extend(entry["entities"])
+            existing["relations"].extend(entry["relations"])
+            entry = existing
+        dest_path.write_text(json.dumps(entry, ensure_ascii=False, indent=2), encoding="utf-8")
+        n += 1
+    return n
+
+
+def harvest(run_id: str) -> None:
+    """Читает все под-пачки прогона run_id из results_dict и пишет файлы.
+    Не зависит от того, жив ли исходный .spawn()-вызов -- Dict персистентен
+    сам по себе, можно запускать этот харвест сколько угодно раз позже."""
+    prefix = f"{run_id}:"
+    keys = [k for k in results_dict.keys() if k.startswith(prefix)]
+    print(f"Найдено под-пачек в results_dict для {run_id}: {len(keys)}", flush=True)
+    total_ok, total_failed, total_written = 0, 0, 0
+    for k in sorted(keys):  # порядок неважен -- write_entries дописывает, не затирает
+        chunk = json.loads(results_dict[k])
+        total_ok += chunk["ok"]
+        total_failed += chunk["failed"]
+        total_written += write_entries(chunk["by_doc"])
+    print(f"Готово: {total_ok} чанков разобрано, {total_failed} не распарсились, "
+          f"{total_written} документов записано (из {len(keys)} под-пачек).", flush=True)
 
 
 @app.local_entrypoint()
-def main():
+def main(call_id: str = "", harvest_run_id: str = ""):
+    # harvest_run_id -- если .spawn()-вызов уже недоступен (истёк, потерян
+    # call_id), но под-пачки успели записаться в results_dict, можно забрать
+    # их отдельно в любой момент: modal run ...::main --harvest-run-id=XXX
+    if harvest_run_id:
+        harvest(harvest_run_id)
+        return
+
+    run_id = f"run_{int(__import__('time').time())}"
+    # .remote() отменяется при обрыве локального клиента, даже под
+    # `modal run --detach` -- сам Modal явно предупреждает об этом
+    # ("Use .spawn() for detached or background work"). .spawn() отдаёт
+    # call_id сразу и не зависит от того, жив ли клиент -- но теперь это
+    # подстраховка №2: данные и так безопасны в results_dict по мере
+    # готовности под-пачек, даже если .get() тут ничего не дождётся.
+    N_WORKERS = 10  # 10 параллельных H100 вместо одной -- та же цена в
+    # GPU-часах (Modal считает по факту использования), но в ~10x меньше
+    # по настенным часам. Тот же приём что и для OCR-шага (build_corpus_v2.py).
+
+    if call_id:
+        from modal.functions import FunctionCall
+        print(f"Переподключаюсь к вызову {call_id}...", flush=True)
+        call = FunctionCall.from_id(call_id)
+        result_json = call.get()
+        run_id = json.loads(result_json)["run_id"]
+        harvest(run_id)
+        return
+
     pending = collect_pending_chunks()
     if not pending:
         print("Нечего извлекать -- всё уже готово.", flush=True)
         return
-    print(f"К извлечению: {len(pending)} чанков из документов без готового extracted/*.json", flush=True)
+    for it in pending:
+        it["run_id"] = run_id
 
-    result_json = run_batch.remote(json.dumps(pending, ensure_ascii=False))
-    result = json.loads(result_json)
-    by_doc = result["by_doc"]
+    groups = [pending[i::N_WORKERS] for i in range(N_WORKERS)]
+    groups = [(json.dumps(g, ensure_ascii=False), idx) for idx, g in enumerate(groups) if g]
+    RUN_ID_PATH.write_text(run_id, encoding="utf-8")
+    print(f"К извлечению: {len(pending)} чанков, {len(groups)} параллельных воркеров "
+          f"(run_id={run_id}). Если что-то оборвётся -- забрать результат можно в любой "
+          f"момент: modal run src/extract/modal_vllm_extract.py::main --harvest-run-id={run_id}",
+          flush=True)
 
-    for key, entry in by_doc.items():
-        dest_path = DEST_ROOT / entry["category"] / entry["filename"].replace(".pdf", ".json")
-        dest_path.parent.mkdir(parents=True, exist_ok=True)
-        dest_path.write_text(json.dumps(entry, ensure_ascii=False, indent=2), encoding="utf-8")
-        print(f"  wrote {dest_path.relative_to(ROOT)}  "
-              f"({len(entry['entities'])} entities, {len(entry['relations'])} relations)", flush=True)
+    for result_json in run_batch.starmap(groups, return_exceptions=True):
+        if isinstance(result_json, Exception):
+            print(f"  воркер упал: {result_json}", flush=True)
+            continue
+        r = json.loads(result_json)
+        print(f"  воркер {r['worker_id']} завершён: {r['ok']} ок, {r['failed']} провалов, "
+              f"{r['n_docs']} документов", flush=True)
 
-    print(f"\nГотово. {result['ok']} чанков разобрано, {result['failed']} не распарсились. "
-          f"{len(by_doc)} документов записано.", flush=True)
+    harvest(run_id)
