@@ -186,12 +186,10 @@ def _get_easyocr_reader():
     return _easyocr_reader
 
 
-@app.function(image=pdf_image, gpu="H100", timeout=1800, max_containers=20)
-def process_pdf(rel_path: str) -> dict:
+def _process_one_pdf(path: pathlib.Path) -> dict:
     import fitz
     import pymupdf4llm
 
-    path = pathlib.Path("/root") / rel_path
     stem = path.stem
     try:
         doc = fitz.open(str(path))
@@ -221,6 +219,33 @@ def process_pdf(rel_path: str) -> dict:
 
     rows = make_rows(stem, path.name, "pdf", sections)
     return {"document_id": stem, "rows": rows, "error": None}
+
+
+@app.function(image=pdf_image, gpu="H100", timeout=1800, max_containers=20)
+def process_pdf(rel_path: str) -> dict:
+    path = pathlib.Path("/root") / rel_path
+    return _process_one_pdf(path)
+
+
+@app.function(image=pdf_image, gpu="H100", timeout=7200, max_containers=16)
+def process_pdf_batch(rel_paths: list[str], worker_id: int) -> dict:
+    """Не документ за раз, а целая группа документов на одном воркере,
+    одна загруженная EasyOCR-модель на всю группу -- без пересоздания
+    контейнера на каждый файл. Пишет свой JSONL, склейка потом отдельно."""
+    out_path = pathlib.Path("/root") / f"worker_{worker_id}.jsonl"
+    n_rows, n_failed = 0, 0
+    with open(out_path, "w", encoding="utf-8") as f:
+        for rel_path in rel_paths:
+            path = pathlib.Path("/root") / rel_path
+            result = _process_one_pdf(path)
+            if result["error"]:
+                n_failed += 1
+                continue
+            for row in result["rows"]:
+                f.write(json.dumps(row, ensure_ascii=False) + "\n")
+                n_rows += 1
+    return {"worker_id": worker_id, "n_docs": len(rel_paths), "n_rows": n_rows,
+            "n_failed": n_failed, "content": out_path.read_text(encoding="utf-8")}
 
 
 @app.function(image=image, timeout=300, max_containers=100)
@@ -361,14 +386,58 @@ def main():
     pptx_paths = [to_rel(p) for p in read_list("all_pptx.txt")]
     xls_paths = [to_rel(p) for p in read_list("all_xls.txt")]
 
-    print(f"PDF: {len(pdf_paths)}, DOCX: {len(docx_paths)}, PPTX: {len(pptx_paths)}, XLS: {len(xls_paths)}")
+    # Возобновление: если файл уже частично собран (прошлый прогон упал/
+    # завис), пропускаем документы, чьи чанки уже записаны, вместо того
+    # чтобы стирать прогресс и начинать с нуля.
+    done_ids: set[str] = set()
+    if OUT_PATH.exists():
+        with open(OUT_PATH, encoding="utf-8") as f:
+            for line in f:
+                done_ids.add(json.loads(line)["document_id"])
+    if OUT_PATH.exists() and FAILED_PATH.exists():
+        with open(FAILED_PATH, encoding="utf-8") as f:
+            for line in f:
+                doc_id = json.loads(line).get("document_id")
+                if doc_id:
+                    done_ids.add(doc_id)
+    if done_ids:
+        print(f"Возобновление: {len(done_ids)} документов уже обработано, пропускаю их.")
+
+    def stem_of(rel_path: str) -> str:
+        return pathlib.Path(rel_path).stem
+
+    pdf_paths = [p for p in pdf_paths if stem_of(p) not in done_ids]
+    docx_paths = [p for p in docx_paths if stem_of(p) not in done_ids]
+    pptx_paths = [p for p in pptx_paths if stem_of(p) not in done_ids]
+    xls_paths = [p for p in xls_paths if stem_of(p) not in done_ids]
+
+    print(f"К обработке: PDF {len(pdf_paths)}, DOCX {len(docx_paths)}, PPTX {len(pptx_paths)}, XLS {len(xls_paths)}")
 
     total_rows, total_failed = 0, 0
-    out_f = open(OUT_PATH, "w", encoding="utf-8")
-    failed_f = open(FAILED_PATH, "w", encoding="utf-8")
+    out_f = open(OUT_PATH, "a", encoding="utf-8")
+    failed_f = open(FAILED_PATH, "a", encoding="utf-8")
+
+    # PDF -- не по одному документу на вызов, а весь список поделён на
+    # N_PDF_WORKERS групп, один воркер = одна загрузка EasyOCR-модели на
+    # всю свою группу, не на каждый файл. Каждый пишет свой jsonl внутри
+    # контейнера и возвращает содержимое одним куском -- склеиваем здесь.
+    N_PDF_WORKERS = 16
+    if pdf_paths:
+        groups = [pdf_paths[i::N_PDF_WORKERS] for i in range(N_PDF_WORKERS)]
+        groups = [(g, idx) for idx, g in enumerate(groups) if g]
+        print(f"\n--- pdf: {len(pdf_paths)} файлов, {len(groups)} воркеров ---")
+        for result in process_pdf_batch.starmap(groups, return_exceptions=True):
+            if isinstance(result, Exception):
+                total_failed += 1
+                failed_f.write(json.dumps({"format": "pdf", "error": str(result)[:300]}, ensure_ascii=False) + "\n")
+                continue
+            out_f.write(result["content"])
+            total_rows += result["n_rows"]
+            total_failed += result["n_failed"]
+            print(f"  воркер {result['worker_id']}: {result['n_docs']} документов, "
+                  f"{result['n_rows']} чанков, {result['n_failed']} провалов")
 
     jobs = [
-        (process_pdf, pdf_paths, "pdf"),
         (process_docx, docx_paths, "docx"),
         (process_pptx, pptx_paths, "pptx"),
         (process_xls, xls_paths, "xls"),
