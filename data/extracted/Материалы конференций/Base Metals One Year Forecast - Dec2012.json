@@ -1,0 +1,921 @@
+{
+  "filename": "Base Metals One Year Forecast - Dec2012.pdf",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "cobalt",
+      "canonical_name": "cobalt",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "34",
+      "type": "Property",
+      "name": "supply",
+      "canonical_name": "supply",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "5",
+      "type": "Expert",
+      "name": "Sumitomo & Mitsui",
+      "canonical_name": "Sumitomo & Mitsui",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "zinc",
+      "canonical_name": "zinc",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "25",
+      "type": "Property",
+      "name": "consumption",
+      "canonical_name": "consumption",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "15",
+      "type": "Facility",
+      "name": "Ambatovy",
+      "canonical_name": "Ambatovy",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "27",
+      "type": "Property",
+      "name": "demand",
+      "canonical_name": "demand",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "lead",
+      "canonical_name": "lead",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "33",
+      "type": "Property",
+      "name": "schedule",
+      "canonical_name": "schedule",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "nickel",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "28",
+      "type": "Property",
+      "name": "LME Cash $/tonne",
+      "canonical_name": "LME Cash $/tonne",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "18",
+      "type": "Facility",
+      "name": "Long Harbour nickel and cobalt mine project",
+      "canonical_name": "Long Harbour nickel and cobalt mine project",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "7",
+      "type": "Expert",
+      "name": "Vale",
+      "canonical_name": "Vale",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "14",
+      "type": "Process",
+      "name": "mining",
+      "canonical_name": "mining",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "3",
+      "type": "Equipment",
+      "name": "processing plant",
+      "canonical_name": "processing plant",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "21",
+      "type": "Facility",
+      "name": "Portovesme smelter",
+      "canonical_name": "Portovesme smelter",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "23",
+      "type": "Facility",
+      "name": "Taganito HPAL operation",
+      "canonical_name": "Taganito HPAL operation",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "16",
+      "type": "Facility",
+      "name": "Goro project",
+      "canonical_name": "Goro project",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "31",
+      "type": "Property",
+      "name": "production",
+      "canonical_name": "production",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "19",
+      "type": "Facility",
+      "name": "Paroo Station mine",
+      "canonical_name": "Paroo Station mine",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "29",
+      "type": "Property",
+      "name": "operating profit",
+      "canonical_name": "operating profit",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "13",
+      "type": "Process",
+      "name": "HPAL operation",
+      "canonical_name": "HPAL operation",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "4",
+      "type": "Expert",
+      "name": "Nickel Asia",
+      "canonical_name": "Nickel Asia",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "6",
+      "type": "Expert",
+      "name": "Thomson Reuters GFMS",
+      "canonical_name": "Thomson Reuters GFMS",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "lead-acid battery",
+      "canonical_name": "lead-acid battery",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Thomson Reuters GFMS",
+      "canonical_name": "Thomson Reuters GFMS",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "32",
+      "type": "Property",
+      "name": "reported stocks",
+      "canonical_name": "reported stocks",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "36",
+      "type": "Property",
+      "name": "trading range",
+      "canonical_name": "trading range",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "20",
+      "type": "Facility",
+      "name": "Penasquito mine",
+      "canonical_name": "Penasquito mine",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "26",
+      "type": "Property",
+      "name": "cost",
+      "canonical_name": "cost",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "2",
+      "type": "Equipment",
+      "name": "mine",
+      "canonical_name": "mine",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "24",
+      "type": "Property",
+      "name": "cash flow",
+      "canonical_name": "cash flow",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "35",
+      "type": "Property",
+      "name": "surplus",
+      "canonical_name": "surplus",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "17",
+      "type": "Facility",
+      "name": "La Oroya polymetallic complex",
+      "canonical_name": "La Oroya polymetallic complex",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "22",
+      "type": "Facility",
+      "name": "Ramu nickel-cobalt project",
+      "canonical_name": "Ramu nickel-cobalt project",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "30",
+      "type": "Property",
+      "name": "price",
+      "canonical_name": "price",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "37",
+      "type": "Property",
+      "name": "weeks' consumption",
+      "canonical_name": "weeks' consumption",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "22",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "33",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "30",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "30",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "35",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "34",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "31",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "25",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "32",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "37",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "28",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "36",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 38,
+        "page_end": 38
+      }
+    }
+  ]
+}

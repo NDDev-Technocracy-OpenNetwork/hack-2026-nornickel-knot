@@ -1,0 +1,895 @@
+{
+  "filename": "Доклад_Румянцев А.Е.pdf",
+  "category": "Доклады",
+  "entities": [
+    {
+      "id": "16",
+      "type": "Process",
+      "name": "геомеханическое обоснование отработки месторождений",
+      "canonical_name": "геомеханическое обоснование отработки месторождений",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "20",
+      "type": "Process",
+      "name": "полевой геотехнический мониторинг",
+      "canonical_name": "полевой геотехнический мониторинг",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "18",
+      "type": "Process",
+      "name": "определение компонент тензора напряжений",
+      "canonical_name": "определение компонент тензора напряжений",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "30",
+      "type": "Property",
+      "name": "geological domains",
+      "canonical_name": "geological domains",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "34",
+      "type": "Property",
+      "name": "stable parameters of cleaning chambers",
+      "canonical_name": "stable parameters of cleaning chambers",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "29",
+      "type": "Property",
+      "name": "ELOS",
+      "canonical_name": "ELOS",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "радиальный экстензометр",
+      "canonical_name": "радиальный экстензометр",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "1",
+      "type": "Equipment",
+      "name": "4-х компонентный скважинный экстензометр",
+      "canonical_name": "4-х компонентный скважинный экстензометр",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "27",
+      "type": "Facility",
+      "name": "Лаборатория геотехники ООО «Институт Гипроникель»",
+      "canonical_name": "Лаборатория геотехники ООО «Институт Гипроникель»",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "26",
+      "type": "Process",
+      "name": "численное моделирование CAE Fidesys",
+      "canonical_name": "численное моделирование CAE Fidesys",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Александр Евгеньевич Румянцев",
+      "canonical_name": "Александр Евгеньевич Румянцев",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "25",
+      "type": "Process",
+      "name": "ЧИСЛЕННОЕ ГЕОМЕХАНИЧЕСКОЕ МОДЕЛИРОВАНИЕ",
+      "canonical_name": "ЧИСЛЕННОЕ ГЕОМЕХАНИЧЕСКОЕ МОДЕЛИРОВАНИЕ",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "23",
+      "type": "Process",
+      "name": "процесс разбуривания керна методом оверкоринг",
+      "canonical_name": "процесс разбуривания керна методом оверкоринг",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "7",
+      "type": "Equipment",
+      "name": "собственное буровое оборудование",
+      "canonical_name": "собственное буровое оборудование",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "17",
+      "type": "Process",
+      "name": "дискование керна",
+      "canonical_name": "дискование керна",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "21",
+      "type": "Process",
+      "name": "постпроцессинг в CAE Fidesys",
+      "canonical_name": "постпроцессинг в CAE Fidesys",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "14",
+      "type": "Process",
+      "name": "бурение скважин",
+      "canonical_name": "бурение скважин",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "15",
+      "type": "Process",
+      "name": "геомеханическое блочное моделирование",
+      "canonical_name": "геомеханическое блочное моделирование",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "block geomechanical modeling",
+      "canonical_name": "block geomechanical modeling",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "2",
+      "type": "Equipment",
+      "name": "6-и компонентный скважинный экстензометр",
+      "canonical_name": "6-и компонентный скважинный экстензометр",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "33",
+      "type": "Property",
+      "name": "seismic activity",
+      "canonical_name": "seismic activity",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "13",
+      "type": "Process",
+      "name": "БЛОЧНОЕ ГЕОМЕХАНИЧЕСКОЕ МОДЕЛИРОВАНИЕ",
+      "canonical_name": "БЛОЧНОЕ ГЕОМЕХАНИЧЕСКОЕ МОДЕЛИРОВАНИЕ",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "12",
+      "type": "Process",
+      "name": "акустическое сканирование скважин (ATV)",
+      "canonical_name": "акустическое сканирование скважин (ATV)",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "19",
+      "type": "Process",
+      "name": "определение напряженно-деформированного состояния массива методом полной разгрузки керна",
+      "canonical_name": "определение напряженно-деформированного состояния массива методом полной разгрузки керна",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "24",
+      "type": "Process",
+      "name": "формирование модели в CAD среде",
+      "canonical_name": "формирование модели в CAD среде",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "горные породы",
+      "canonical_name": "горные породы",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "5",
+      "type": "Equipment",
+      "name": "осевой экстензометр",
+      "canonical_name": "осевой экстензометр",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "31",
+      "type": "Property",
+      "name": "geomechanical data",
+      "canonical_name": "geomechanical data",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "22",
+      "type": "Process",
+      "name": "препроцессинг в CAE Fidesys",
+      "canonical_name": "препроцессинг в CAE Fidesys",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "11",
+      "type": "Process",
+      "name": "physical-mechanical core tests",
+      "canonical_name": "physical-mechanical core tests",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "28",
+      "type": "Property",
+      "name": "caving",
+      "canonical_name": "caving",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "32",
+      "type": "Property",
+      "name": "geotechnical data",
+      "canonical_name": "geotechnical data",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "3",
+      "type": "Equipment",
+      "name": "CAD среда",
+      "canonical_name": "CAD среда",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "35",
+      "type": "Property",
+      "name": "stress",
+      "canonical_name": "stress",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "4",
+      "type": "Equipment",
+      "name": "CAE Fidesys",
+      "canonical_name": "CAE Fidesys",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 14
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "25",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "operates_at_condition",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "operates_at_condition",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "operates_at_condition",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "25",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "24",
+      "relation": "produces_output",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "produces_output",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "operates_at_condition",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "operates_at_condition",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "produces_output",
+      "target_id": "31",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "produces_output",
+      "target_id": "34",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "operates_at_condition",
+      "target_id": "28",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "operates_at_condition",
+      "target_id": "28",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "operates_at_condition",
+      "target_id": "28",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "produces_output",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "produces_output",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "produces_output",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 14
+      }
+    }
+  ]
+}

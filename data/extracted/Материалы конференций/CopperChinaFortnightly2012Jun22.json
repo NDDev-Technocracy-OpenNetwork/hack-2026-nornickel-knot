@@ -1,0 +1,382 @@
+{
+  "filename": "CopperChinaFortnightly2012Jun22.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "selling to the LME market",
+      "canonical_name": "selling to the LME market",
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "metal",
+      "canonical_name": "metal",
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "LME warehouses",
+      "canonical_name": "LME warehouses",
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "SHFE",
+      "canonical_name": "SHFE",
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "bonded",
+      "canonical_name": "bonded",
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "US",
+      "canonical_name": "US",
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "selling to the LME market",
+      "canonical_name": "selling to the LME market",
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "metal",
+      "canonical_name": "metal",
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "LME warehouses",
+      "canonical_name": "LME warehouses",
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "SHFE",
+      "canonical_name": "SHFE",
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "bonded",
+      "canonical_name": "bonded",
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "US",
+      "canonical_name": "US",
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperChinaFortnightly2012Jun22.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    }
+  ]
+}

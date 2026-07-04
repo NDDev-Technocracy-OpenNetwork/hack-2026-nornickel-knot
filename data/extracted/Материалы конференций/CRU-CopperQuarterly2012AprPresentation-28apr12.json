@@ -1,0 +1,2340 @@
+{
+  "filename": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "Smelting",
+      "canonical_name": "smelting",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Blister",
+      "canonical_name": "blister",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Smelter",
+      "canonical_name": "smelter",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Mine",
+      "canonical_name": "mine",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "CRU",
+      "canonical_name": "CRU",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "China Metals",
+      "canonical_name": "China Metals",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper raw materials",
+      "canonical_name": "copper raw materials",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "blister",
+      "canonical_name": "blister",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "anode",
+      "canonical_name": "anode",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Onahama smelter",
+      "canonical_name": "Onahama smelter",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Vostrikova N.M.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Grasberg mine",
+      "canonical_name": "Grasberg mine",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "SHFE",
+      "canonical_name": "SHFE",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "LME",
+      "canonical_name": "LME",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Comex",
+      "canonical_name": "Comex",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "refined copper",
+      "canonical_name": "refined copper",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "CRU Analysis",
+      "canonical_name": "CRU Analysis",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "CRU International Limited",
+      "canonical_name": "CRU International Limited",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "ore",
+      "canonical_name": "ore",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "refined copper",
+      "canonical_name": "refined copper",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "direct use",
+      "canonical_name": "direct use",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "refining",
+      "canonical_name": "refining",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "electrowinning",
+      "canonical_name": "electrowinning",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Grasberg mine",
+      "canonical_name": "Grasberg mine",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Batu Hijau",
+      "canonical_name": "Batu Hijau",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Kansanshi mine",
+      "canonical_name": "Kansanshi mine",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Oyu Tolgoi project",
+      "canonical_name": "Oyu Tolgoi project",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Zambia",
+      "canonical_name": "Zambia",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Romania",
+      "canonical_name": "Romania",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "Smelting",
+      "canonical_name": "smelting",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Blister",
+      "canonical_name": "blister",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Smelter",
+      "canonical_name": "smelter",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Mine",
+      "canonical_name": "mine",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "CRU",
+      "canonical_name": "CRU",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "China Metals",
+      "canonical_name": "China Metals",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper raw materials",
+      "canonical_name": "copper raw materials",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "blister",
+      "canonical_name": "blister",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "anode",
+      "canonical_name": "anode",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Onahama smelter",
+      "canonical_name": "Onahama smelter",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Vostrikova N.M.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Grasberg mine",
+      "canonical_name": "Grasberg mine",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "SHFE",
+      "canonical_name": "SHFE",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "LME",
+      "canonical_name": "LME",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Comex",
+      "canonical_name": "Comex",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "refined copper",
+      "canonical_name": "refined copper",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "CRU Analysis",
+      "canonical_name": "CRU Analysis",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "CRU International Limited",
+      "canonical_name": "CRU International Limited",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "ore",
+      "canonical_name": "ore",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "refined copper",
+      "canonical_name": "refined copper",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "direct use",
+      "canonical_name": "direct use",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "refining",
+      "canonical_name": "refining",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "electrowinning",
+      "canonical_name": "electrowinning",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Grasberg mine",
+      "canonical_name": "Grasberg mine",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Batu Hijau",
+      "canonical_name": "Batu Hijau",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Kansanshi mine",
+      "canonical_name": "Kansanshi mine",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Oyu Tolgoi project",
+      "canonical_name": "Oyu Tolgoi project",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Zambia",
+      "canonical_name": "Zambia",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Romania",
+      "canonical_name": "Romania",
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "utilisation rates",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "production",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "affiliated_with",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "affiliated_with",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "affiliated_with",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "utilisation rates",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "production",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "affiliated_with",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "affiliated_with",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "affiliated_with",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "CRU-CopperQuarterly2012AprPresentation-28apr12.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    }
+  ]
+}

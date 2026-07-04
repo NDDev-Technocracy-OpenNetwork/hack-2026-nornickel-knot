@@ -1,0 +1,548 @@
+{
+  "filename": "NN2201.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "Tanaka Kikinzoku Kogyo",
+      "canonical_name": "Tanaka Kikinzoku Kogyo",
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "The French government",
+      "canonical_name": "The French government",
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "General Motors",
+      "canonical_name": "General Motors",
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "4",
+      "type": "Expert",
+      "name": "National Union of Mineworkers (NUM)",
+      "canonical_name": "National Union of Mineworkers (NUM)",
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Rustenburg offices of Anglo Platinum’s Rustenburg operations",
+      "canonical_name": "Rustenburg offices of Anglo Platinum’s Rustenburg operations",
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Frank shaft",
+      "canonical_name": "Frank shaft",
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "Tanaka Kikinzoku Kogyo",
+      "canonical_name": "Tanaka Kikinzoku Kogyo",
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "The French government",
+      "canonical_name": "The French government",
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "General Motors",
+      "canonical_name": "General Motors",
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "4",
+      "type": "Expert",
+      "name": "National Union of Mineworkers (NUM)",
+      "canonical_name": "National Union of Mineworkers (NUM)",
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Rustenburg offices of Anglo Platinum’s Rustenburg operations",
+      "canonical_name": "Rustenburg offices of Anglo Platinum’s Rustenburg operations",
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Frank shaft",
+      "canonical_name": "Frank shaft",
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "affiliated_with",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "affiliated_with",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "affiliated_with",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "affiliated_with",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "affiliated_with",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "affiliated_with",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN2201.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    }
+  ]
+}

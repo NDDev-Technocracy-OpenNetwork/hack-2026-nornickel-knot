@@ -1,0 +1,4946 @@
+{
+  "filename": "annual_data.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "Smelter Production",
+      "canonical_name": "smelter production",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Domestic Ore",
+      "canonical_name": "domestic ore",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Foreign Ore",
+      "canonical_name": "foreign ore",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Blister/Anode Copper",
+      "canonical_name": "blister/aneode copper",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Zinc",
+      "canonical_name": "zinc",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Tin",
+      "canonical_name": "tin",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Nickel",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Secondary Copper Alloys",
+      "canonical_name": "secondary copper alloys",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Unalloyed Copper",
+      "canonical_name": "unalloyed copper",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Unalloyed Zinc",
+      "canonical_name": "unalloyed zinc",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Unalloyed Tin",
+      "canonical_name": "unalloyed tin",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "Unalloyed Nickel",
+      "canonical_name": "unalloyed nickel",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "Zinc in Scrap",
+      "canonical_name": "zinc in scrap",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "Zinc-Slab",
+      "canonical_name": "zinc-slab",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "Tin-Refined",
+      "canonical_name": "tin-refined",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "Powder Plants",
+      "canonical_name": "powder plants",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "Wire Rod Mills",
+      "canonical_name": "wire rod mills",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "Brass Mills",
+      "canonical_name": "brass mills",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "Foundries",
+      "canonical_name": "foundries",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "17",
+      "type": "Material",
+      "name": "Other Industries",
+      "canonical_name": "other industries",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "18",
+      "type": "Material",
+      "name": "Total Alloying Metal",
+      "canonical_name": "total alloying metal",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Copper-Base Scrap",
+      "canonical_name": "copper-base scrap",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Scrap Copper-Base Stocks",
+      "canonical_name": "scrap copper-base stocks",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Copper Recovered from Copper-Base Scrap",
+      "canonical_name": "copper recovered from copper-base scrap",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "New Scrap",
+      "canonical_name": "new scrap",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Old Scrap",
+      "canonical_name": "old scrap",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Brass Mills",
+      "canonical_name": "brass mills",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Foundries",
+      "canonical_name": "foundries",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Other Processors",
+      "canonical_name": "other processors",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "Secondary Smelters & Primary Producers",
+      "canonical_name": "secondary smelters & primary producers",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Copper",
+      "canonical_name": "Copper",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Alloy",
+      "canonical_name": "Alloy",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Strip, Sheet, Plate and Foil",
+      "canonical_name": "Strip, Sheet, Plate and Foil",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Mechanical Wire",
+      "canonical_name": "Mechanical Wire",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Rod and Bar",
+      "canonical_name": "Rod and Bar",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Tube and Pipe",
+      "canonical_name": "Tube and Pipe",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "All Mill Products",
+      "canonical_name": "All Mill Products",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "8",
+      "type": "Publication",
+      "name": "Supply of Brass Mill Products in the United States, 1992-2012",
+      "canonical_name": "Supply of Brass Mill Products in the United States, 1992-2012",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Wire Rod Mills",
+      "canonical_name": "wire rod mills",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Brass Mills",
+      "canonical_name": "brass mills",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Ingot Makers",
+      "canonical_name": "ingot makers",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Foundries",
+      "canonical_name": "foundries",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Powder Plants",
+      "canonical_name": "powder plants",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Chemical Plants",
+      "canonical_name": "chemical plants",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "ore",
+      "canonical_name": "ore",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "conc.",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "matte",
+      "canonical_name": "matte",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "electrowon copper",
+      "canonical_name": "electrowon copper",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "primary copper",
+      "canonical_name": "primary copper",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "blister/aneode",
+      "canonical_name": "blister/aneode",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "ingot",
+      "canonical_name": "ingot",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "rod & bar",
+      "canonical_name": "rod & bar",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "wire",
+      "canonical_name": "wire",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "machinery & equipment",
+      "canonical_name": "machinery & equipment",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "powder",
+      "canonical_name": "powder",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "foundries/castings",
+      "canonical_name": "foundries/castings",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "consumer & general products",
+      "canonical_name": "consumer & general products",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Copper content",
+      "canonical_name": "copper content",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Copper content of mine production",
+      "canonical_name": "copper content of mine production",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Copper content of world mine production",
+      "canonical_name": "copper content of world mine production",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Copper content of concentrates, precipitates, or electrowon",
+      "canonical_name": "copper content of concentrates, precipitates, or electrowon",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Arizona",
+      "canonical_name": "Arizona",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Other States",
+      "canonical_name": "Other States",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Australasia",
+      "canonical_name": "Australasia",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "Australia",
+      "canonical_name": "Australia",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "Papua New Guinea",
+      "canonical_name": "Papua New Guinea",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "Smelter Production",
+      "canonical_name": "smelter production",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Domestic Ore",
+      "canonical_name": "domestic ore",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Foreign Ore",
+      "canonical_name": "foreign ore",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Blister/Anode Copper",
+      "canonical_name": "blister/aneode copper",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Zinc",
+      "canonical_name": "zinc",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Tin",
+      "canonical_name": "tin",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Nickel",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Secondary Copper Alloys",
+      "canonical_name": "secondary copper alloys",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Unalloyed Copper",
+      "canonical_name": "unalloyed copper",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Unalloyed Zinc",
+      "canonical_name": "unalloyed zinc",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Unalloyed Tin",
+      "canonical_name": "unalloyed tin",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "Unalloyed Nickel",
+      "canonical_name": "unalloyed nickel",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "Zinc in Scrap",
+      "canonical_name": "zinc in scrap",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "Zinc-Slab",
+      "canonical_name": "zinc-slab",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "Tin-Refined",
+      "canonical_name": "tin-refined",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "Powder Plants",
+      "canonical_name": "powder plants",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "Wire Rod Mills",
+      "canonical_name": "wire rod mills",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "Brass Mills",
+      "canonical_name": "brass mills",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "Foundries",
+      "canonical_name": "foundries",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "17",
+      "type": "Material",
+      "name": "Other Industries",
+      "canonical_name": "other industries",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "18",
+      "type": "Material",
+      "name": "Total Alloying Metal",
+      "canonical_name": "total alloying metal",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Copper-Base Scrap",
+      "canonical_name": "copper-base scrap",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Scrap Copper-Base Stocks",
+      "canonical_name": "scrap copper-base stocks",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Copper Recovered from Copper-Base Scrap",
+      "canonical_name": "copper recovered from copper-base scrap",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "New Scrap",
+      "canonical_name": "new scrap",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Old Scrap",
+      "canonical_name": "old scrap",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Brass Mills",
+      "canonical_name": "brass mills",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Foundries",
+      "canonical_name": "foundries",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Other Processors",
+      "canonical_name": "other processors",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "Secondary Smelters & Primary Producers",
+      "canonical_name": "secondary smelters & primary producers",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Copper",
+      "canonical_name": "Copper",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Alloy",
+      "canonical_name": "Alloy",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Strip, Sheet, Plate and Foil",
+      "canonical_name": "Strip, Sheet, Plate and Foil",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Mechanical Wire",
+      "canonical_name": "Mechanical Wire",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Rod and Bar",
+      "canonical_name": "Rod and Bar",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Tube and Pipe",
+      "canonical_name": "Tube and Pipe",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "All Mill Products",
+      "canonical_name": "All Mill Products",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "8",
+      "type": "Publication",
+      "name": "Supply of Brass Mill Products in the United States, 1992-2012",
+      "canonical_name": "Supply of Brass Mill Products in the United States, 1992-2012",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Wire Rod Mills",
+      "canonical_name": "wire rod mills",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Brass Mills",
+      "canonical_name": "brass mills",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Ingot Makers",
+      "canonical_name": "ingot makers",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Foundries",
+      "canonical_name": "foundries",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Powder Plants",
+      "canonical_name": "powder plants",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Chemical Plants",
+      "canonical_name": "chemical plants",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "ore",
+      "canonical_name": "ore",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "conc.",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "matte",
+      "canonical_name": "matte",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "electrowon copper",
+      "canonical_name": "electrowon copper",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "primary copper",
+      "canonical_name": "primary copper",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "blister/aneode",
+      "canonical_name": "blister/aneode",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "ingot",
+      "canonical_name": "ingot",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "rod & bar",
+      "canonical_name": "rod & bar",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "wire",
+      "canonical_name": "wire",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "machinery & equipment",
+      "canonical_name": "machinery & equipment",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "powder",
+      "canonical_name": "powder",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "foundries/castings",
+      "canonical_name": "foundries/castings",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "consumer & general products",
+      "canonical_name": "consumer & general products",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Copper content",
+      "canonical_name": "copper content",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Copper content of mine production",
+      "canonical_name": "copper content of mine production",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Copper content of world mine production",
+      "canonical_name": "copper content of world mine production",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Copper content of concentrates, precipitates, or electrowon",
+      "canonical_name": "copper content of concentrates, precipitates, or electrowon",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Arizona",
+      "canonical_name": "Arizona",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Other States",
+      "canonical_name": "Other States",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Australasia",
+      "canonical_name": "Australasia",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "Australia",
+      "canonical_name": "Australia",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "Papua New Guinea",
+      "canonical_name": "Papua New Guinea",
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": 1866.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": 1102.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": 1179.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": 309.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": 1102.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": 309.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": 1102.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": 309.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": 385.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": 27.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": 13.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": 10.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": 335.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": 27.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": 13.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": 10.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": 27.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "11",
+      "numeric_value": 27.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": 13.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "13",
+      "numeric_value": 10.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "14",
+      "numeric_value": 1866.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": 1102.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "16",
+      "numeric_value": 1102.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "17",
+      "numeric_value": 1102.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "18",
+      "numeric_value": 385.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": 1866.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": 1102.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": 1179.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": 309.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": 1102.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": 309.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": 1102.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": 309.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": 385.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": 27.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": 13.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": 10.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": 335.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": 27.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": 13.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": 10.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": 27.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "11",
+      "numeric_value": 27.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": 13.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "13",
+      "numeric_value": 10.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "14",
+      "numeric_value": 1866.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": 1102.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "16",
+      "numeric_value": 1102.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "17",
+      "numeric_value": 1102.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "18",
+      "numeric_value": 385.0,
+      "unit": "kg",
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "annual_data.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    }
+  ]
+}

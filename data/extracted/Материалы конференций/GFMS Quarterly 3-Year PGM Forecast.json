@@ -1,0 +1,3814 @@
+{
+  "filename": "GFMS Quarterly 3-Year PGM Forecast.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "metal-in-process",
+      "canonical_name": "metal-in-process",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Canada",
+      "canonical_name": "Canada",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "South Africa",
+      "canonical_name": "South Africa",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Zimbabwe",
+      "canonical_name": "Zimbabwe",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Russia",
+      "canonical_name": "Russia",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Lac des Iles",
+      "canonical_name": "Lac des Iles",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "1",
+      "type": "Property",
+      "name": "GDP growth",
+      "canonical_name": "GDP growth",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "2",
+      "type": "Property",
+      "name": "platinum content",
+      "canonical_name": "platinum content",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "3",
+      "type": "Property",
+      "name": "metal content",
+      "canonical_name": "metal content",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "4",
+      "type": "Property",
+      "name": "demand",
+      "canonical_name": "demand",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "sales",
+      "canonical_name": "sales",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "price",
+      "canonical_name": "price",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "7",
+      "type": "Property",
+      "name": "scrap volumes",
+      "canonical_name": "scrap volumes",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "recycling",
+      "canonical_name": "recycling",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "9",
+      "type": "Property",
+      "name": "market saturation",
+      "canonical_name": "market saturation",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "10",
+      "type": "Property",
+      "name": "consumer spending",
+      "canonical_name": "consumer spending",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "11",
+      "type": "Property",
+      "name": "retail price rises",
+      "canonical_name": "retail price rises",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "economic weakness",
+      "canonical_name": "economic weakness",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "13",
+      "type": "Property",
+      "name": "adornment jewellery",
+      "canonical_name": "adornment jewellery",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "14",
+      "type": "Property",
+      "name": "bridal jewellery",
+      "canonical_name": "bridal jewellery",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "15",
+      "type": "Property",
+      "name": "white gold",
+      "canonical_name": "white gold",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "16",
+      "type": "Property",
+      "name": "platinum jewellery",
+      "canonical_name": "platinum jewellery",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "17",
+      "type": "Property",
+      "name": "engagement rings",
+      "canonical_name": "engagement rings",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "18",
+      "type": "Property",
+      "name": "wedding rings",
+      "canonical_name": "wedding rings",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "19",
+      "type": "Property",
+      "name": "platinum scrap",
+      "canonical_name": "platinum scrap",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "20",
+      "type": "Property",
+      "name": "yen",
+      "canonical_name": "yen",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "21",
+      "type": "Property",
+      "name": "dollar",
+      "canonical_name": "dollar",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "22",
+      "type": "Property",
+      "name": "platinum prices",
+      "canonical_name": "platinum prices",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "23",
+      "type": "Property",
+      "name": "platinum jewellery scrap",
+      "canonical_name": "platinum jewellery scrap",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "24",
+      "type": "Property",
+      "name": "platinum jewellery demand",
+      "canonical_name": "platinum jewellery demand",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "25",
+      "type": "Property",
+      "name": "platinum jewellery sales",
+      "canonical_name": "platinum jewellery sales",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "26",
+      "type": "Property",
+      "name": "platinum jewellery price",
+      "canonical_name": "platinum jewellery price",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "27",
+      "type": "Property",
+      "name": "platinum jewellery scrap volumes",
+      "canonical_name": "platinum jewellery scrap volumes",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "28",
+      "type": "Property",
+      "name": "platinum jewellery recycling",
+      "canonical_name": "platinum jewellery recycling",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "29",
+      "type": "Property",
+      "name": "platinum jewellery market saturation",
+      "canonical_name": "platinum jewellery market saturation",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "jewellery",
+      "canonical_name": "jewellery",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "autocatalysts",
+      "canonical_name": "autocatalysts",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "autocatalyst",
+      "canonical_name": "autocatalyst",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "jewellery",
+      "canonical_name": "jewellery",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "retail investment",
+      "canonical_name": "retail investment",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "chemicals",
+      "canonical_name": "chemicals",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "glass",
+      "canonical_name": "glass",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "electronics",
+      "canonical_name": "electronics",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "dental",
+      "canonical_name": "dental",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "carat palladium jewellery",
+      "canonical_name": "carat palladium jewellery",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "VAT",
+      "canonical_name": "VAT",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "price transparency",
+      "canonical_name": "price transparency",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "consumer awareness",
+      "canonical_name": "consumer awareness",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "glass",
+      "canonical_name": "glass",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "petroleum",
+      "canonical_name": "petroleum",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "electronics",
+      "canonical_name": "electronics",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "retail investment",
+      "canonical_name": "retail investment",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "retail jewellery",
+      "canonical_name": "retail jewellery",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "jewellery scrap",
+      "canonical_name": "jewellery scrap",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "mine production",
+      "canonical_name": "mine production",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "spent autocatalysts",
+      "canonical_name": "spent autocatalysts",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "total platinum supply",
+      "canonical_name": "total platinum supply",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "substitution",
+      "canonical_name": "substitution",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "scrap incentive programmes",
+      "canonical_name": "scrap incentive programmes",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "GFMS",
+      "canonical_name": "GFMS",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "above-ground stocks",
+      "canonical_name": "above-ground stocks",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "refined metal",
+      "canonical_name": "refined metal",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Gross Surplus or Deficit",
+      "canonical_name": "Gross Surplus or Deficit",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Estimated Movements in Stocks",
+      "canonical_name": "Estimated Movements in Stocks",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Residual Surplus or Deficit",
+      "canonical_name": "Residual Surplus or Deficit",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "Vostrikova N.M.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "GFMS",
+      "canonical_name": "GFMS",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "PGM",
+      "canonical_name": "PGM",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "catalyst",
+      "canonical_name": "catalyst",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "vehicle",
+      "canonical_name": "vehicle",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "canister",
+      "canonical_name": "canister",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "autocatalyst",
+      "canonical_name": "autocatalyst",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "spent PGMs",
+      "canonical_name": "spent PGMs",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "spent palladium autocatalysts",
+      "canonical_name": "spent palladium autocatalysts",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "spent platinum autocatalysts",
+      "canonical_name": "spent platinum autocatalysts",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "metal-in-process",
+      "canonical_name": "metal-in-process",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Canada",
+      "canonical_name": "Canada",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "South Africa",
+      "canonical_name": "South Africa",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Zimbabwe",
+      "canonical_name": "Zimbabwe",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Russia",
+      "canonical_name": "Russia",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Lac des Iles",
+      "canonical_name": "Lac des Iles",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "1",
+      "type": "Property",
+      "name": "GDP growth",
+      "canonical_name": "GDP growth",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "2",
+      "type": "Property",
+      "name": "platinum content",
+      "canonical_name": "platinum content",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "3",
+      "type": "Property",
+      "name": "metal content",
+      "canonical_name": "metal content",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "4",
+      "type": "Property",
+      "name": "demand",
+      "canonical_name": "demand",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "sales",
+      "canonical_name": "sales",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "price",
+      "canonical_name": "price",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "7",
+      "type": "Property",
+      "name": "scrap volumes",
+      "canonical_name": "scrap volumes",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "recycling",
+      "canonical_name": "recycling",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "9",
+      "type": "Property",
+      "name": "market saturation",
+      "canonical_name": "market saturation",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "10",
+      "type": "Property",
+      "name": "consumer spending",
+      "canonical_name": "consumer spending",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "11",
+      "type": "Property",
+      "name": "retail price rises",
+      "canonical_name": "retail price rises",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "economic weakness",
+      "canonical_name": "economic weakness",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "13",
+      "type": "Property",
+      "name": "adornment jewellery",
+      "canonical_name": "adornment jewellery",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "14",
+      "type": "Property",
+      "name": "bridal jewellery",
+      "canonical_name": "bridal jewellery",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "15",
+      "type": "Property",
+      "name": "white gold",
+      "canonical_name": "white gold",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "16",
+      "type": "Property",
+      "name": "platinum jewellery",
+      "canonical_name": "platinum jewellery",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "17",
+      "type": "Property",
+      "name": "engagement rings",
+      "canonical_name": "engagement rings",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "18",
+      "type": "Property",
+      "name": "wedding rings",
+      "canonical_name": "wedding rings",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "19",
+      "type": "Property",
+      "name": "platinum scrap",
+      "canonical_name": "platinum scrap",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "20",
+      "type": "Property",
+      "name": "yen",
+      "canonical_name": "yen",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "21",
+      "type": "Property",
+      "name": "dollar",
+      "canonical_name": "dollar",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "22",
+      "type": "Property",
+      "name": "platinum prices",
+      "canonical_name": "platinum prices",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "23",
+      "type": "Property",
+      "name": "platinum jewellery scrap",
+      "canonical_name": "platinum jewellery scrap",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "24",
+      "type": "Property",
+      "name": "platinum jewellery demand",
+      "canonical_name": "platinum jewellery demand",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "25",
+      "type": "Property",
+      "name": "platinum jewellery sales",
+      "canonical_name": "platinum jewellery sales",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "26",
+      "type": "Property",
+      "name": "platinum jewellery price",
+      "canonical_name": "platinum jewellery price",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "27",
+      "type": "Property",
+      "name": "platinum jewellery scrap volumes",
+      "canonical_name": "platinum jewellery scrap volumes",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "28",
+      "type": "Property",
+      "name": "platinum jewellery recycling",
+      "canonical_name": "platinum jewellery recycling",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "29",
+      "type": "Property",
+      "name": "platinum jewellery market saturation",
+      "canonical_name": "platinum jewellery market saturation",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "jewellery",
+      "canonical_name": "jewellery",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "autocatalysts",
+      "canonical_name": "autocatalysts",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "autocatalyst",
+      "canonical_name": "autocatalyst",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "jewellery",
+      "canonical_name": "jewellery",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "retail investment",
+      "canonical_name": "retail investment",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "chemicals",
+      "canonical_name": "chemicals",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "glass",
+      "canonical_name": "glass",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "electronics",
+      "canonical_name": "electronics",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "dental",
+      "canonical_name": "dental",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "carat palladium jewellery",
+      "canonical_name": "carat palladium jewellery",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "VAT",
+      "canonical_name": "VAT",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "price transparency",
+      "canonical_name": "price transparency",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "consumer awareness",
+      "canonical_name": "consumer awareness",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "glass",
+      "canonical_name": "glass",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "petroleum",
+      "canonical_name": "petroleum",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "electronics",
+      "canonical_name": "electronics",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "retail investment",
+      "canonical_name": "retail investment",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "retail jewellery",
+      "canonical_name": "retail jewellery",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "jewellery scrap",
+      "canonical_name": "jewellery scrap",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "mine production",
+      "canonical_name": "mine production",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "spent autocatalysts",
+      "canonical_name": "spent autocatalysts",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "total platinum supply",
+      "canonical_name": "total platinum supply",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "substitution",
+      "canonical_name": "substitution",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "scrap incentive programmes",
+      "canonical_name": "scrap incentive programmes",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "GFMS",
+      "canonical_name": "GFMS",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "above-ground stocks",
+      "canonical_name": "above-ground stocks",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "refined metal",
+      "canonical_name": "refined metal",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Gross Surplus or Deficit",
+      "canonical_name": "Gross Surplus or Deficit",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Estimated Movements in Stocks",
+      "canonical_name": "Estimated Movements in Stocks",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Residual Surplus or Deficit",
+      "canonical_name": "Residual Surplus or Deficit",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "Vostrikova N.M.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "GFMS",
+      "canonical_name": "GFMS",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "PGM",
+      "canonical_name": "PGM",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "catalyst",
+      "canonical_name": "catalyst",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "vehicle",
+      "canonical_name": "vehicle",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "canister",
+      "canonical_name": "canister",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "autocatalyst",
+      "canonical_name": "autocatalyst",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "spent PGMs",
+      "canonical_name": "spent PGMs",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "spent palladium autocatalysts",
+      "canonical_name": "spent palladium autocatalysts",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "spent platinum autocatalysts",
+      "canonical_name": "spent platinum autocatalysts",
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": 4.0,
+      "unit": "%",
+      "condition": "2010",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": 4.8,
+      "unit": "M ounces",
+      "condition": "2010",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": 7.0,
+      "unit": "%",
+      "condition": "2010-2013",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": 7.01,
+      "unit": "M ounces",
+      "condition": "2013",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": 7.0,
+      "unit": "%",
+      "condition": "2010-2013",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": 7.0,
+      "unit": "%",
+      "condition": "2010-2013",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": 7.0,
+      "unit": "%",
+      "condition": "2010-2013",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": 7.0,
+      "unit": "%",
+      "condition": "2010-2013",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": 7.0,
+      "unit": "%",
+      "condition": "2010-2013",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": 11.0,
+      "unit": "%",
+      "condition": "2010",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": 5.1,
+      "unit": "%/year",
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": 4.5,
+      "unit": "%/year",
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": 4.0,
+      "unit": "%",
+      "condition": "2010",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": 4.8,
+      "unit": "M ounces",
+      "condition": "2010",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": 7.0,
+      "unit": "%",
+      "condition": "2010-2013",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": 7.01,
+      "unit": "M ounces",
+      "condition": "2013",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": 7.0,
+      "unit": "%",
+      "condition": "2010-2013",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": 7.0,
+      "unit": "%",
+      "condition": "2010-2013",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": 7.0,
+      "unit": "%",
+      "condition": "2010-2013",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": 7.0,
+      "unit": "%",
+      "condition": "2010-2013",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": 7.0,
+      "unit": "%",
+      "condition": "2010-2013",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": 11.0,
+      "unit": "%",
+      "condition": "2010",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": 5.1,
+      "unit": "%/year",
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": 4.5,
+      "unit": "%/year",
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2011-2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS Quarterly 3-Year PGM Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    }
+  ]
+}

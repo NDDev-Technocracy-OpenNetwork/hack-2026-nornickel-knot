@@ -1,0 +1,1942 @@
+{
+  "filename": "BH-Chile_Power_Insight_sep2012.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Mejillones LNG regas terminal",
+      "canonical_name": "Mejillones LNG regas terminal",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Argentine gas",
+      "canonical_name": "Argentine gas",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "oil products",
+      "canonical_name": "oil products",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "coal",
+      "canonical_name": "coal",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "hydro potential",
+      "canonical_name": "hydro potential",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "electricity",
+      "canonical_name": "electricity",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "desalination",
+      "canonical_name": "desalination",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "pumping water",
+      "canonical_name": "pumping water",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "power generation",
+      "canonical_name": "power generation",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "power supply",
+      "canonical_name": "power supply",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "11",
+      "type": "Process",
+      "name": "copper production",
+      "canonical_name": "copper production",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "SxEw",
+      "canonical_name": "SxEw",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "Mill",
+      "canonical_name": "Mill",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Copper",
+      "canonical_name": "Copper",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "4",
+      "type": "Expert",
+      "name": "Wood Mackenzie",
+      "canonical_name": "Wood Mackenzie",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "SING grid region",
+      "canonical_name": "SING grid region",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "SING",
+      "canonical_name": "SING",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "SIC",
+      "canonical_name": "SIC",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "3",
+      "type": "Equipment",
+      "name": "High Pressure Grinding Rolls (HPGR)",
+      "canonical_name": "High Pressure Grinding Rolls (HPGR)",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "electricity",
+      "canonical_name": "electricity",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "gas",
+      "canonical_name": "gas",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "LNG",
+      "canonical_name": "LNG",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "5",
+      "type": "Equipment",
+      "name": "power plant",
+      "canonical_name": "power plant",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "SING",
+      "canonical_name": "SING",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "SIC",
+      "canonical_name": "SIC",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Salta",
+      "canonical_name": "Salta",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "Chilean miners",
+      "canonical_name": "Chilean miners",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "AES Gener",
+      "canonical_name": "AES Gener",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "11",
+      "type": "Expert",
+      "name": "Bolivia and Peru gas export contracts",
+      "canonical_name": "Bolivia and Peru gas export contracts",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "12",
+      "type": "Expert",
+      "name": "Argentina",
+      "canonical_name": "Argentina",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "13",
+      "type": "Expert",
+      "name": "Chile",
+      "canonical_name": "Chile",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "14",
+      "type": "Expert",
+      "name": "Peru",
+      "canonical_name": "Peru",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "15",
+      "type": "Expert",
+      "name": "Bolivia",
+      "canonical_name": "Bolivia",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "16",
+      "type": "Expert",
+      "name": "Saudi Arabia",
+      "canonical_name": "Saudi Arabia",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Mejillones LNG regas terminal",
+      "canonical_name": "Mejillones LNG regas terminal",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Argentine gas",
+      "canonical_name": "Argentine gas",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "oil products",
+      "canonical_name": "oil products",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "coal",
+      "canonical_name": "coal",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "hydro potential",
+      "canonical_name": "hydro potential",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "electricity",
+      "canonical_name": "electricity",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "desalination",
+      "canonical_name": "desalination",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "pumping water",
+      "canonical_name": "pumping water",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "power generation",
+      "canonical_name": "power generation",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "power supply",
+      "canonical_name": "power supply",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "11",
+      "type": "Process",
+      "name": "copper production",
+      "canonical_name": "copper production",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "SxEw",
+      "canonical_name": "SxEw",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "Mill",
+      "canonical_name": "Mill",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Copper",
+      "canonical_name": "Copper",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "4",
+      "type": "Expert",
+      "name": "Wood Mackenzie",
+      "canonical_name": "Wood Mackenzie",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "SING grid region",
+      "canonical_name": "SING grid region",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "SING",
+      "canonical_name": "SING",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "SIC",
+      "canonical_name": "SIC",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "3",
+      "type": "Equipment",
+      "name": "High Pressure Grinding Rolls (HPGR)",
+      "canonical_name": "High Pressure Grinding Rolls (HPGR)",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "electricity",
+      "canonical_name": "electricity",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "gas",
+      "canonical_name": "gas",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "LNG",
+      "canonical_name": "LNG",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "5",
+      "type": "Equipment",
+      "name": "power plant",
+      "canonical_name": "power plant",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "SING",
+      "canonical_name": "SING",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "SIC",
+      "canonical_name": "SIC",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Salta",
+      "canonical_name": "Salta",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "Chilean miners",
+      "canonical_name": "Chilean miners",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "AES Gener",
+      "canonical_name": "AES Gener",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "11",
+      "type": "Expert",
+      "name": "Bolivia and Peru gas export contracts",
+      "canonical_name": "Bolivia and Peru gas export contracts",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "12",
+      "type": "Expert",
+      "name": "Argentina",
+      "canonical_name": "Argentina",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "13",
+      "type": "Expert",
+      "name": "Chile",
+      "canonical_name": "Chile",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "14",
+      "type": "Expert",
+      "name": "Peru",
+      "canonical_name": "Peru",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "15",
+      "type": "Expert",
+      "name": "Bolivia",
+      "canonical_name": "Bolivia",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "16",
+      "type": "Expert",
+      "name": "Saudi Arabia",
+      "canonical_name": "Saudi Arabia",
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "less-power intensive copper production techniques",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "connected grids",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "affiliated_with",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "affiliated_with",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "affiliated_with",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "less-power intensive copper production techniques",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "connected grids",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "affiliated_with",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "affiliated_with",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "affiliated_with",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BH-Chile_Power_Insight_sep2012.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    }
+  ]
+}

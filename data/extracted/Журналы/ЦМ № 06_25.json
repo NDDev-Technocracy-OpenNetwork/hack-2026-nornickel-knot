@@ -1,0 +1,5408 @@
+{
+  "filename": "ЦМ № 06_25.md",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Исследования применения метода магнитной сепарации для обогащения малоникелистого пирротина и его комбинаций с флотационным обогащением",
+      "canonical_name": "Исследования применения метода магнитной сепарации для обогащения малоникелистого пирротина и его комбинаций с флотационным обогащением",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Publication",
+      "name": "К вопросу унификации технологии флотационного разделения медно-никелевых концентратов для типов руд единого генезиса",
+      "canonical_name": "К вопросу унификации технологии флотационного разделения медно-никелевых концентратов для типов руд единого генезиса",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Publication",
+      "name": "Перспективы применения флотации струйного типа с интенсивным напорным перемешиванием трехфазной пульпы в условиях Норильской обогатительной фабрики ООО «Медвежий ручей»",
+      "canonical_name": "Перспективы применения флотации струйного типа с интенсивным напорным перемешиванием трехфазной пульпы в условиях Норильской обогатительной фабрики ООО «Медвежий ручей»",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Publication",
+      "name": "Исследования обогащения отвальных металлургических шлаков ЗФ ПАО «ГМК Норильский никель» методом радиоизотопной сепарации",
+      "canonical_name": "Исследования обогащения отвальных металлургических шлаков ЗФ ПАО «ГМК Норильский никель» методом радиоизотопной сепарации",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Publication",
+      "name": "Оптимизация аэродинамических характеристик печи взвешенной плавки с использованием CFD-моделирования",
+      "canonical_name": "Оптимизация аэродинамических характеристик печи взвешенной плавки с использованием CFD-моделирования",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Publication",
+      "name": "Изучение форм потерь цветных металлов со шлаками печей Ванюкова Медного завода",
+      "canonical_name": "Изучение форм потерь цветных металлов со шлаками печей Ванюкова Медного завода",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Publication",
+      "name": "Применение альтернативных источников сырья в качестве флюсового материала в пирометаллургическом производстве Заполярного филиала ПАО «ГМК «Норильский никель»",
+      "canonical_name": "Применение альтернативных источников сырья в качестве флюсового материала в пирометаллургическом производстве Заполярного филиала ПАО «ГМК «Норильский никель»",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "8",
+      "type": "Publication",
+      "name": "Основные аспекты выбора и реализации технологии утилизации серосодержащих технологических газов пирометаллургического производства",
+      "canonical_name": "Основные аспекты выбора и реализации технологии утилизации серосодержащих технологических газов пирометаллургического производства",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "моноклинный пирротин",
+      "canonical_name": "monoclinic pyrrhotite",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "гексагональный пирротин",
+      "canonical_name": "hexagonal pyrrhotite",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "пентландит",
+      "canonical_name": "pentlandite",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "ционный концентрат",
+      "canonical_name": "cinnabar concentrate",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "хвосты флотационного обогащения",
+      "canonical_name": "tailings from flotation",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "магнитная фракция",
+      "canonical_name": "magnetic fraction",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "флотационное обогащение",
+      "canonical_name": "flotation",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "магнитная сепарация",
+      "canonical_name": "magnetic separation",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "комбинированные методы обогащения",
+      "canonical_name": "combined beneficiation methods",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Norilsk Concentrator Plant",
+      "canonical_name": "Norilsk Concentrator Plant",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "disseminated ores",
+      "canonical_name": "disseminated ores",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "nickel and copper concentrates",
+      "canonical_name": "nickel and copper concentrates",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "copper and disseminated ores",
+      "canonical_name": "copper and disseminated ores",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "id": "5",
+      "type": "Equipment",
+      "name": "pneumatic-mechanical flotation machines",
+      "canonical_name": "pneumatic-mechanical flotation machines",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "pneumatic flotation cell",
+      "canonical_name": "pneumatic flotation cell",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "air and pulp",
+      "canonical_name": "air and pulp",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Tsvetnye Metally",
+      "canonical_name": "Tsvetnye Metally",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Navoi Mining & Metallurgy Combinat",
+      "canonical_name": "Navoi Mining & Metallurgy Combinat",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "S. P. Korolev Rocket and Corporation Energia",
+      "canonical_name": "S. P. Korolev Rocket and Corporation Energia",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "National Research Nuclear University “MEPhI”",
+      "canonical_name": "National Research Nuclear University “MEPhI”",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "National Research Tomsk State University",
+      "canonical_name": "National Research Tomsk State University",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "State Hermitage Museum",
+      "canonical_name": "State Hermitage Museum",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "JSC “Design & Survey and Research & Development Institute of Industrial Technology” (“Rosatom” State Corporation)",
+      "canonical_name": "JSC “Design & Survey and Research & Development Institute of Industrial Technology” (“Rosatom” State Corporation)",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Vladislav Deev",
+      "canonical_name": "Vladislav Deev",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "Vaycheslav Brichkin",
+      "canonical_name": "Vaycheslav Brichkin",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "Igor Sergeev",
+      "canonical_name": "Igor Sergeev",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "11",
+      "type": "Expert",
+      "name": "Alexander Vorobev",
+      "canonical_name": "Alexander Vorobev",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "12",
+      "type": "Expert",
+      "name": "Nataliya Sharkina",
+      "canonical_name": "Nataliya Sharkina",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "13",
+      "type": "Expert",
+      "name": "Elena Rakhmanova",
+      "canonical_name": "Elena Rakhmanova",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "14",
+      "type": "Expert",
+      "name": "Vera Smiltina",
+      "canonical_name": "Vera Smiltina",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Mical and XPS investigations on the galvanic interaction between pentlandite and pyrrhotite in collectorless flotation system",
+      "canonical_name": "Mical and XPS investigations on the galvanic interaction between pentlandite and pyrrhotite in collectorless flotation system",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "2",
+      "type": "Publication",
+      "name": "Ways to cover the raw material demand in the copper-nickel sector",
+      "canonical_name": "Ways to cover the raw material demand in the copper-nickel sector",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "3",
+      "type": "Publication",
+      "name": "Change in the mineral resource supplies in production of heavy nonferrous metals in terms of copper and nickel",
+      "canonical_name": "Change in the mineral resource supplies in production of heavy nonferrous metals in terms of copper and nickel",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "4",
+      "type": "Publication",
+      "name": "The flotation of magnetic and non-magnetic pyrrhotite from selected nickel ore deposits",
+      "canonical_name": "The flotation of magnetic and non-magnetic pyrrhotite from selected nickel ore deposits",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "5",
+      "type": "Publication",
+      "name": "Use of magnetic techniques for lead concentrate upgrading",
+      "canonical_name": "Use of magnetic techniques for lead concentrate upgrading",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "6",
+      "type": "Publication",
+      "name": "Pyrrhotites: (Crystal and magnetic structure, phase transformations)",
+      "canonical_name": "Pyrrhotites: (Crystal and magnetic structure, phase transformations)",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "7",
+      "type": "Publication",
+      "name": "Near-zero-waste processing of low-grade, complex primary ores and secondary raw materials in Europe: technology development trends",
+      "canonical_name": "Near-zero-waste processing of low-grade, complex primary ores and secondary raw materials in Europe: technology development trends",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "8",
+      "type": "Publication",
+      "name": "Magnetic properties of natural pyrrhotite. Part I: Behaviour of initial susceptibility and saturation-magnetization-related rockmagnetic parameters in a grain-size dependent framework",
+      "canonical_name": "Magnetic properties of natural pyrrhotite. Part I: Behaviour of initial susceptibility and saturation-magnetization-related rockmagnetic parameters in a grain-size dependent framework",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "9",
+      "type": "Publication",
+      "name": "Distribution of cobalt in pyrrhotites of various modifications of solid copper-nickel ores of the Talnakh ore cluster deposits",
+      "canonical_name": "Distribution of cobalt in pyrrhotites of various modifications of solid copper-nickel ores of the Talnakh ore cluster deposits",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "10",
+      "type": "Publication",
+      "name": "Magnetic properties of natural pyrrhotite. II High- and low-temperature behaviour of Jrs and TRM as function of grain size",
+      "canonical_name": "Magnetic properties of natural pyrrhotite. II High- and low-temperature behaviour of Jrs and TRM as function of grain size",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "11",
+      "type": "Publication",
+      "name": "On the distribution of nickel in pyrrhotites of copper-nickel ores of Norilsk deposits",
+      "canonical_name": "On the distribution of nickel in pyrrhotites of copper-nickel ores of Norilsk deposits",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "12",
+      "type": "Publication",
+      "name": "Identification features of pyrrhotite as a cation-deficient magnetic mineral",
+      "canonical_name": "Identification features of pyrrhotite as a cation-deficient magnetic mineral",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "13",
+      "type": "Publication",
+      "name": "Norilsk ore-bearing intrusions and sulfide ores. To the 120th anniversary of M. N. Godlevsky",
+      "canonical_name": "Norilsk ore-bearing intrusions and sulfide ores. To the 120th anniversary of M. N. Godlevsky",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "14",
+      "type": "Publication",
+      "name": "Development of a high-gradient magnetic separator for enhancing selective separation: A review",
+      "canonical_name": "Development of a high-gradient magnetic separator for enhancing selective separation: A review",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "О. Ю. ЯНБЕКОВА",
+      "canonical_name": "O.Yu.Yanbekova",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "Г. А. ВЕЛЮЖИНЕЦ",
+      "canonical_name": "G.A.Velyuzhinets",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "И. В. ДЗАНСОЛОВ",
+      "canonical_name": "I.V.Dzansolov",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Надеждинский металлургический завод",
+      "canonical_name": "Nadezhinsky metallurgical plant",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Талнахский горно-обогатительный комбинат",
+      "canonical_name": "Talnakh ore dressing plant",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Норильский никель",
+      "canonical_name": "Norilsk Nickel",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Никелевый завод",
+      "canonical_name": "Nickel plant",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Медный завод",
+      "canonical_name": "Copper plant",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Хвостохранилище Талнахской ОФ",
+      "canonical_name": "Tailings storage facility Talnakh OF",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Хвостохранилище Норильской ОФ",
+      "canonical_name": "Tailings storage facility Norilsk OF",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Шлакоотвал Никелевого завода",
+      "canonical_name": "Nickel plant slag dump",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Шлакоотвал Медного завода",
+      "canonical_name": "Copper plant slag dump",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Шлакоотвал Надеждинского металлургического завода",
+      "canonical_name": "Nadezhinsky metallurgical plant slag dump",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "отвальный шлак",
+      "canonical_name": "ore_slag",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "корольки",
+      "canonical_name": "corundic_korlets",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "шпинель",
+      "canonical_name": "spinel",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "фаялит",
+      "canonical_name": "fayalite",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "сульфидно-металлические корольки",
+      "canonical_name": "sulfide-metallic_korlets",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "установка кусковой РРС Angstrem",
+      "canonical_name": "Angstrem_chunk_RRS",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "сепарация",
+      "canonical_name": "separation",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "выход концентрата",
+      "canonical_name": "concentrate_yield",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "9",
+      "type": "Experiment",
+      "name": "опытно-промышленные испытания",
+      "canonical_name": "industrial_scale_tests",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Медный завод",
+      "canonical_name": "Copper_Mine_Mill",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Никелевый завод",
+      "canonical_name": "Nickel_Mill",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "1",
+      "type": "Experiment",
+      "name": "сепарация на выход целевого концентрата 10 % (10 Angs) по содержанию Cu",
+      "canonical_name": "сепарация на выход целевого концентрата 10 % (10 Angs) по содержанию Cu",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "2",
+      "type": "Experiment",
+      "name": "сепарация на выход целевого концентрата 20 % (20 Angs) по содержанию Cu",
+      "canonical_name": "сепарация на выход целевого концентрата 20 % (20 Angs) по содержанию Cu",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "3",
+      "type": "Experiment",
+      "name": "сепарация на выход целевого концентрата 30 % (30 Angs) по содержанию Cu",
+      "canonical_name": "сепарация на выход целевого концентрата 30 % (30 Angs) по содержанию Cu",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "4",
+      "type": "Experiment",
+      "name": "сепарация на выход целевого концентрата 10 % (10 Angs) по содержанию Ni + Cu",
+      "canonical_name": "сепарация на выход целевого концентрата 10 % (10 Angs) по содержанию Ni + Cu",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "magnetic separation",
+      "canonical_name": "magnetic separation",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "flotation",
+      "canonical_name": "flotation",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "3",
+      "type": "Equipment",
+      "name": "magnetic separator Erga MBS-L",
+      "canonical_name": "magnetic separator Erga MBS-L",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "4",
+      "type": "Equipment",
+      "name": "flotation machine mechanical type",
+      "canonical_name": "flotation machine mechanical type",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "magnetic concentrate",
+      "canonical_name": "magnetic concentrate",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "tailings",
+      "canonical_name": "tailings",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "magnetic pyrite concentrate",
+      "canonical_name": "magnetic pyrite concentrate",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "butteryl xanthate",
+      "canonical_name": "butteryl xanthate",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "foaming agent T-92",
+      "canonical_name": "foaming agent T-92",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "10",
+      "type": "Property",
+      "name": "magnetic induction",
+      "canonical_name": "magnetic induction",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "11",
+      "type": "Experiment",
+      "name": "laboratory experiments",
+      "canonical_name": "laboratory experiments",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "12",
+      "type": "Publication",
+      "name": "Цветные металлы",
+      "canonical_name": "Цветные металлы",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Исследования применения метода магнитной сепарации для обогащения малоникелистого пирротина и его комбинаций с флотационным обогащением",
+      "canonical_name": "Исследования применения метода магнитной сепарации для обогащения малоникелистого пирротина и его комбинаций с флотационным обогащением",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Publication",
+      "name": "К вопросу унификации технологии флотационного разделения медно-никелевых концентратов для типов руд единого генезиса",
+      "canonical_name": "К вопросу унификации технологии флотационного разделения медно-никелевых концентратов для типов руд единого генезиса",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Publication",
+      "name": "Перспективы применения флотации струйного типа с интенсивным напорным перемешиванием трехфазной пульпы в условиях Норильской обогатительной фабрики ООО «Медвежий ручей»",
+      "canonical_name": "Перспективы применения флотации струйного типа с интенсивным напорным перемешиванием трехфазной пульпы в условиях Норильской обогатительной фабрики ООО «Медвежий ручей»",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Publication",
+      "name": "Исследования обогащения отвальных металлургических шлаков ЗФ ПАО «ГМК Норильский никель» методом радиоизотопной сепарации",
+      "canonical_name": "Исследования обогащения отвальных металлургических шлаков ЗФ ПАО «ГМК Норильский никель» методом радиоизотопной сепарации",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Publication",
+      "name": "Оптимизация аэродинамических характеристик печи взвешенной плавки с использованием CFD-моделирования",
+      "canonical_name": "Оптимизация аэродинамических характеристик печи взвешенной плавки с использованием CFD-моделирования",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Publication",
+      "name": "Изучение форм потерь цветных металлов со шлаками печей Ванюкова Медного завода",
+      "canonical_name": "Изучение форм потерь цветных металлов со шлаками печей Ванюкова Медного завода",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Publication",
+      "name": "Применение альтернативных источников сырья в качестве флюсового материала в пирометаллургическом производстве Заполярного филиала ПАО «ГМК «Норильский никель»",
+      "canonical_name": "Применение альтернативных источников сырья в качестве флюсового материала в пирометаллургическом производстве Заполярного филиала ПАО «ГМК «Норильский никель»",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "8",
+      "type": "Publication",
+      "name": "Основные аспекты выбора и реализации технологии утилизации серосодержащих технологических газов пирометаллургического производства",
+      "canonical_name": "Основные аспекты выбора и реализации технологии утилизации серосодержащих технологических газов пирометаллургического производства",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "моноклинный пирротин",
+      "canonical_name": "monoclinic pyrrhotite",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "гексагональный пирротин",
+      "canonical_name": "hexagonal pyrrhotite",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "пентландит",
+      "canonical_name": "pentlandite",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "ционный концентрат",
+      "canonical_name": "cinnabar concentrate",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "хвосты флотационного обогащения",
+      "canonical_name": "tailings from flotation",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "магнитная фракция",
+      "canonical_name": "magnetic fraction",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "флотационное обогащение",
+      "canonical_name": "flotation",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "магнитная сепарация",
+      "canonical_name": "magnetic separation",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "комбинированные методы обогащения",
+      "canonical_name": "combined beneficiation methods",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Norilsk Concentrator Plant",
+      "canonical_name": "Norilsk Concentrator Plant",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "disseminated ores",
+      "canonical_name": "disseminated ores",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "nickel and copper concentrates",
+      "canonical_name": "nickel and copper concentrates",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "copper and disseminated ores",
+      "canonical_name": "copper and disseminated ores",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "id": "5",
+      "type": "Equipment",
+      "name": "pneumatic-mechanical flotation machines",
+      "canonical_name": "pneumatic-mechanical flotation machines",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "pneumatic flotation cell",
+      "canonical_name": "pneumatic flotation cell",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "air and pulp",
+      "canonical_name": "air and pulp",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Tsvetnye Metally",
+      "canonical_name": "Tsvetnye Metally",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Navoi Mining & Metallurgy Combinat",
+      "canonical_name": "Navoi Mining & Metallurgy Combinat",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "S. P. Korolev Rocket and Corporation Energia",
+      "canonical_name": "S. P. Korolev Rocket and Corporation Energia",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "National Research Nuclear University “MEPhI”",
+      "canonical_name": "National Research Nuclear University “MEPhI”",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "National Research Tomsk State University",
+      "canonical_name": "National Research Tomsk State University",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "State Hermitage Museum",
+      "canonical_name": "State Hermitage Museum",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "JSC “Design & Survey and Research & Development Institute of Industrial Technology” (“Rosatom” State Corporation)",
+      "canonical_name": "JSC “Design & Survey and Research & Development Institute of Industrial Technology” (“Rosatom” State Corporation)",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Vladislav Deev",
+      "canonical_name": "Vladislav Deev",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "Vaycheslav Brichkin",
+      "canonical_name": "Vaycheslav Brichkin",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "Igor Sergeev",
+      "canonical_name": "Igor Sergeev",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "11",
+      "type": "Expert",
+      "name": "Alexander Vorobev",
+      "canonical_name": "Alexander Vorobev",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "12",
+      "type": "Expert",
+      "name": "Nataliya Sharkina",
+      "canonical_name": "Nataliya Sharkina",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "13",
+      "type": "Expert",
+      "name": "Elena Rakhmanova",
+      "canonical_name": "Elena Rakhmanova",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "14",
+      "type": "Expert",
+      "name": "Vera Smiltina",
+      "canonical_name": "Vera Smiltina",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Mical and XPS investigations on the galvanic interaction between pentlandite and pyrrhotite in collectorless flotation system",
+      "canonical_name": "Mical and XPS investigations on the galvanic interaction between pentlandite and pyrrhotite in collectorless flotation system",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "2",
+      "type": "Publication",
+      "name": "Ways to cover the raw material demand in the copper-nickel sector",
+      "canonical_name": "Ways to cover the raw material demand in the copper-nickel sector",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "3",
+      "type": "Publication",
+      "name": "Change in the mineral resource supplies in production of heavy nonferrous metals in terms of copper and nickel",
+      "canonical_name": "Change in the mineral resource supplies in production of heavy nonferrous metals in terms of copper and nickel",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "4",
+      "type": "Publication",
+      "name": "The flotation of magnetic and non-magnetic pyrrhotite from selected nickel ore deposits",
+      "canonical_name": "The flotation of magnetic and non-magnetic pyrrhotite from selected nickel ore deposits",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "5",
+      "type": "Publication",
+      "name": "Use of magnetic techniques for lead concentrate upgrading",
+      "canonical_name": "Use of magnetic techniques for lead concentrate upgrading",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "6",
+      "type": "Publication",
+      "name": "Pyrrhotites: (Crystal and magnetic structure, phase transformations)",
+      "canonical_name": "Pyrrhotites: (Crystal and magnetic structure, phase transformations)",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "7",
+      "type": "Publication",
+      "name": "Near-zero-waste processing of low-grade, complex primary ores and secondary raw materials in Europe: technology development trends",
+      "canonical_name": "Near-zero-waste processing of low-grade, complex primary ores and secondary raw materials in Europe: technology development trends",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "8",
+      "type": "Publication",
+      "name": "Magnetic properties of natural pyrrhotite. Part I: Behaviour of initial susceptibility and saturation-magnetization-related rockmagnetic parameters in a grain-size dependent framework",
+      "canonical_name": "Magnetic properties of natural pyrrhotite. Part I: Behaviour of initial susceptibility and saturation-magnetization-related rockmagnetic parameters in a grain-size dependent framework",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "9",
+      "type": "Publication",
+      "name": "Distribution of cobalt in pyrrhotites of various modifications of solid copper-nickel ores of the Talnakh ore cluster deposits",
+      "canonical_name": "Distribution of cobalt in pyrrhotites of various modifications of solid copper-nickel ores of the Talnakh ore cluster deposits",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "10",
+      "type": "Publication",
+      "name": "Magnetic properties of natural pyrrhotite. II High- and low-temperature behaviour of Jrs and TRM as function of grain size",
+      "canonical_name": "Magnetic properties of natural pyrrhotite. II High- and low-temperature behaviour of Jrs and TRM as function of grain size",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "11",
+      "type": "Publication",
+      "name": "On the distribution of nickel in pyrrhotites of copper-nickel ores of Norilsk deposits",
+      "canonical_name": "On the distribution of nickel in pyrrhotites of copper-nickel ores of Norilsk deposits",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "12",
+      "type": "Publication",
+      "name": "Identification features of pyrrhotite as a cation-deficient magnetic mineral",
+      "canonical_name": "Identification features of pyrrhotite as a cation-deficient magnetic mineral",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "13",
+      "type": "Publication",
+      "name": "Norilsk ore-bearing intrusions and sulfide ores. To the 120th anniversary of M. N. Godlevsky",
+      "canonical_name": "Norilsk ore-bearing intrusions and sulfide ores. To the 120th anniversary of M. N. Godlevsky",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "14",
+      "type": "Publication",
+      "name": "Development of a high-gradient magnetic separator for enhancing selective separation: A review",
+      "canonical_name": "Development of a high-gradient magnetic separator for enhancing selective separation: A review",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "О. Ю. ЯНБЕКОВА",
+      "canonical_name": "O.Yu.Yanbekova",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "Г. А. ВЕЛЮЖИНЕЦ",
+      "canonical_name": "G.A.Velyuzhinets",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "И. В. ДЗАНСОЛОВ",
+      "canonical_name": "I.V.Dzansolov",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Надеждинский металлургический завод",
+      "canonical_name": "Nadezhinsky metallurgical plant",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Талнахский горно-обогатительный комбинат",
+      "canonical_name": "Talnakh ore dressing plant",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Норильский никель",
+      "canonical_name": "Norilsk Nickel",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Никелевый завод",
+      "canonical_name": "Nickel plant",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Медный завод",
+      "canonical_name": "Copper plant",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Хвостохранилище Талнахской ОФ",
+      "canonical_name": "Tailings storage facility Talnakh OF",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Хвостохранилище Норильской ОФ",
+      "canonical_name": "Tailings storage facility Norilsk OF",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Шлакоотвал Никелевого завода",
+      "canonical_name": "Nickel plant slag dump",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Шлакоотвал Медного завода",
+      "canonical_name": "Copper plant slag dump",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Шлакоотвал Надеждинского металлургического завода",
+      "canonical_name": "Nadezhinsky metallurgical plant slag dump",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "отвальный шлак",
+      "canonical_name": "ore_slag",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "корольки",
+      "canonical_name": "corundic_korlets",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "шпинель",
+      "canonical_name": "spinel",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "фаялит",
+      "canonical_name": "fayalite",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "сульфидно-металлические корольки",
+      "canonical_name": "sulfide-metallic_korlets",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "установка кусковой РРС Angstrem",
+      "canonical_name": "Angstrem_chunk_RRS",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "сепарация",
+      "canonical_name": "separation",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "выход концентрата",
+      "canonical_name": "concentrate_yield",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "9",
+      "type": "Experiment",
+      "name": "опытно-промышленные испытания",
+      "canonical_name": "industrial_scale_tests",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Медный завод",
+      "canonical_name": "Copper_Mine_Mill",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Никелевый завод",
+      "canonical_name": "Nickel_Mill",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "1",
+      "type": "Experiment",
+      "name": "сепарация на выход целевого концентрата 10 % (10 Angs) по содержанию Cu",
+      "canonical_name": "сепарация на выход целевого концентрата 10 % (10 Angs) по содержанию Cu",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "2",
+      "type": "Experiment",
+      "name": "сепарация на выход целевого концентрата 20 % (20 Angs) по содержанию Cu",
+      "canonical_name": "сепарация на выход целевого концентрата 20 % (20 Angs) по содержанию Cu",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "3",
+      "type": "Experiment",
+      "name": "сепарация на выход целевого концентрата 30 % (30 Angs) по содержанию Cu",
+      "canonical_name": "сепарация на выход целевого концентрата 30 % (30 Angs) по содержанию Cu",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "4",
+      "type": "Experiment",
+      "name": "сепарация на выход целевого концентрата 10 % (10 Angs) по содержанию Ni + Cu",
+      "canonical_name": "сепарация на выход целевого концентрата 10 % (10 Angs) по содержанию Ni + Cu",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "magnetic separation",
+      "canonical_name": "magnetic separation",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "flotation",
+      "canonical_name": "flotation",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "3",
+      "type": "Equipment",
+      "name": "magnetic separator Erga MBS-L",
+      "canonical_name": "magnetic separator Erga MBS-L",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "4",
+      "type": "Equipment",
+      "name": "flotation machine mechanical type",
+      "canonical_name": "flotation machine mechanical type",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "magnetic concentrate",
+      "canonical_name": "magnetic concentrate",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "tailings",
+      "canonical_name": "tailings",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "magnetic pyrite concentrate",
+      "canonical_name": "magnetic pyrite concentrate",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "butteryl xanthate",
+      "canonical_name": "butteryl xanthate",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "foaming agent T-92",
+      "canonical_name": "foaming agent T-92",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "10",
+      "type": "Property",
+      "name": "magnetic induction",
+      "canonical_name": "magnetic induction",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "11",
+      "type": "Experiment",
+      "name": "laboratory experiments",
+      "canonical_name": "laboratory experiments",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "12",
+      "type": "Publication",
+      "name": "Цветные металлы",
+      "canonical_name": "Цветные металлы",
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "60 % от исходного продукта и 49 % из хвостов его флотационного обогащения",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "49 % из хвостов его флотационного обогащения",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "49 % из хвостов его флотационного обогащения",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "60 % от исходного продукта и 49 % из хвостов его флотационного обогащения",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "49 % из хвостов его флотационного обогащения",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "49 % из хвостов его флотационного обогащения",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "23,7 и 26,1 % соответственно",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "37,8 %",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "29,1 %",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "73 %",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "49 % (при флотационном обогащении — 29 %)",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "43 % (при флотационном обогащении — 24 %)",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": 20.0,
+      "unit": "%",
+      "condition": "first_stage",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": 10.0,
+      "unit": "%",
+      "condition": "second_stage",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": 10.0,
+      "unit": "%",
+      "condition": "second_stage",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "10 Angs",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "по содержанию Cu",
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "20 Angs",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "по содержанию Cu",
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "30 Angs",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "по содержанию Cu",
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "10 Angs",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "по содержанию Ni + Cu",
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "10 Angs",
+      "relation": "described_in",
+      "target_id": "табл. 2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "20 Angs",
+      "relation": "described_in",
+      "target_id": "табл. 2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "30 Angs",
+      "relation": "described_in",
+      "target_id": "табл. 2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "10 Angs",
+      "relation": "described_in",
+      "target_id": "табл. 3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "20 Angs",
+      "relation": "described_in",
+      "target_id": "табл. 3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "30 Angs",
+      "relation": "described_in",
+      "target_id": "табл. 3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 300.0,
+      "unit": "mTl",
+      "condition": "optimal",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 150.0,
+      "unit": "mTl",
+      "condition": "lower limit",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 600.0,
+      "unit": "mTl",
+      "condition": "upper limit",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 300.0,
+      "unit": "mTl",
+      "condition": "optimal",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 150.0,
+      "unit": "mTl",
+      "condition": "lower limit",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 600.0,
+      "unit": "mTl",
+      "condition": "upper limit",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "validated_by",
+      "target_id": "10",
+      "numeric_value": 300.0,
+      "unit": "mTl",
+      "condition": "optimal",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "60 % от исходного продукта и 49 % из хвостов его флотационного обогащения",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "49 % из хвостов его флотационного обогащения",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "49 % из хвостов его флотационного обогащения",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "60 % от исходного продукта и 49 % из хвостов его флотационного обогащения",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "49 % из хвостов его флотационного обогащения",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "49 % из хвостов его флотационного обогащения",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "23,7 и 26,1 % соответственно",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "37,8 %",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "29,1 %",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "73 %",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "49 % (при флотационном обогащении — 29 %)",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "43 % (при флотационном обогащении — 24 %)",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 33,
+        "page_start": 34,
+        "page_end": 34
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": 20.0,
+      "unit": "%",
+      "condition": "first_stage",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": 10.0,
+      "unit": "%",
+      "condition": "second_stage",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": 10.0,
+      "unit": "%",
+      "condition": "second_stage",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 37,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "10 Angs",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "по содержанию Cu",
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "20 Angs",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "по содержанию Cu",
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "30 Angs",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "по содержанию Cu",
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "10 Angs",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "по содержанию Ni + Cu",
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "10 Angs",
+      "relation": "described_in",
+      "target_id": "табл. 2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "20 Angs",
+      "relation": "described_in",
+      "target_id": "табл. 2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "30 Angs",
+      "relation": "described_in",
+      "target_id": "табл. 2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "10 Angs",
+      "relation": "described_in",
+      "target_id": "табл. 3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "20 Angs",
+      "relation": "described_in",
+      "target_id": "табл. 3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "30 Angs",
+      "relation": "described_in",
+      "target_id": "табл. 3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 300.0,
+      "unit": "mTl",
+      "condition": "optimal",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 150.0,
+      "unit": "mTl",
+      "condition": "lower limit",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 600.0,
+      "unit": "mTl",
+      "condition": "upper limit",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 300.0,
+      "unit": "mTl",
+      "condition": "optimal",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 150.0,
+      "unit": "mTl",
+      "condition": "lower limit",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 600.0,
+      "unit": "mTl",
+      "condition": "upper limit",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "validated_by",
+      "target_id": "10",
+      "numeric_value": 300.0,
+      "unit": "mTl",
+      "condition": "optimal",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 06_25.md",
+        "category": "Журналы",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    }
+  ]
+}

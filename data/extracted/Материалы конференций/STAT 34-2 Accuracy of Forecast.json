@@ -1,0 +1,518 @@
+{
+  "filename": "STAT 34-2 Accuracy of Forecast.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "refining",
+      "canonical_name": "refining",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "wire rod plant",
+      "canonical_name": "wire rod plant",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "tube plant",
+      "canonical_name": "tube plant",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "5",
+      "type": "Expert",
+      "name": "Vostrikova N.M.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "6",
+      "type": "Expert",
+      "name": "Institute of NIKEL",
+      "canonical_name": "Institute of NIKEL",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "mine production",
+      "canonical_name": "mine production",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "refined production",
+      "canonical_name": "refined production",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "refined usage",
+      "canonical_name": "refined usage",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Publication",
+      "name": "Table 1",
+      "canonical_name": "Table 1",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "refining",
+      "canonical_name": "refining",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "wire rod plant",
+      "canonical_name": "wire rod plant",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "tube plant",
+      "canonical_name": "tube plant",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "5",
+      "type": "Expert",
+      "name": "Vostrikova N.M.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "6",
+      "type": "Expert",
+      "name": "Institute of NIKEL",
+      "canonical_name": "Institute of NIKEL",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "mine production",
+      "canonical_name": "mine production",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "refined production",
+      "canonical_name": "refined production",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "refined usage",
+      "canonical_name": "refined usage",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Publication",
+      "name": "Table 1",
+      "canonical_name": "Table 1",
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "5",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "STAT 34-2 Accuracy of Forecast.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "filename": "IAP 10-5 Minutes.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "ICSG",
+      "type": "Expert",
+      "name": "International Copper Study Group",
+      "canonical_name": "International Copper Study Group",
+      "provenance": {
+        "source_file": "IAP 10-5 Minutes.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "Ana_Rebelo",
+      "type": "Expert",
+      "name": "Ana Rebelo",
+      "canonical_name": "Ana Rebelo",
+      "provenance": {
+        "source_file": "IAP 10-5 Minutes.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "Carlos_Risopatron",
+      "type": "Expert",
+      "name": "Carlos Risopatron",
+      "canonical_name": "Carlos Risopatron",
+      "provenance": {
+        "source_file": "IAP 10-5 Minutes.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "Joseph_Pickard",
+      "type": "Expert",
+      "name": "Joseph Pickard",
+      "canonical_name": "Joseph Pickard",
+      "provenance": {
+        "source_file": "IAP 10-5 Minutes.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "BHP_Billiton",
+      "type": "Expert",
+      "name": "BHP Billiton",
+      "canonical_name": "BHP Billiton",
+      "provenance": {
+        "source_file": "IAP 10-5 Minutes.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "CRU_Analysis",
+      "type": "Expert",
+      "name": "CRU Analysis",
+      "canonical_name": "CRU Analysis",
+      "provenance": {
+        "source_file": "IAP 10-5 Minutes.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "ICSG_IAP10_3",
+      "type": "Publication",
+      "name": "ICSG/IAP10/3",
+      "canonical_name": "ICSG/IAP10/3",
+      "provenance": {
+        "source_file": "IAP 10-5 Minutes.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "ICSG",
+      "relation": "described_in",
+      "target_id": "ICSG_IAP10_3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "IAP 10-5 Minutes.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "ICSG",
+      "relation": "operates_at_condition",
+      "target_id": "Ana_Rebelo",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "IAP 10-5 Minutes.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "ICSG",
+      "relation": "operates_at_condition",
+      "target_id": "Carlos_Risopatron",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "IAP 10-5 Minutes.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "ICSG",
+      "relation": "operates_at_condition",
+      "target_id": "Joseph_Pickard",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "IAP 10-5 Minutes.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "ICSG",
+      "relation": "operates_at_condition",
+      "target_id": "BHP_Billiton",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "IAP 10-5 Minutes.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "ICSG",
+      "relation": "operates_at_condition",
+      "target_id": "CRU_Analysis",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "IAP 10-5 Minutes.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    }
+  ]
+}

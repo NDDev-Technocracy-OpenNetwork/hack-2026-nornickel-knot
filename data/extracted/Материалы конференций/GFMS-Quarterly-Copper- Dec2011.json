@@ -1,0 +1,6368 @@
+{
+  "filename": "GFMS-Quarterly-Copper- Dec2011.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Property",
+      "name": "supply-demand balance",
+      "canonical_name": "supply-demand balance",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "2",
+      "type": "Property",
+      "name": "market balance",
+      "canonical_name": "market balance",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "3",
+      "type": "Property",
+      "name": "reported stocks",
+      "canonical_name": "reported stocks",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "4",
+      "type": "Property",
+      "name": "number of weeks' consumption",
+      "canonical_name": "number of weeks' consumption",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "LME Cash $/tonne",
+      "canonical_name": "LME Cash $/tonne",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "trading range",
+      "canonical_name": "trading range",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "production",
+      "canonical_name": "production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "consumption",
+      "canonical_name": "consumption",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "price projection",
+      "canonical_name": "price projection",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Bingham Canyon mine",
+      "canonical_name": "Bingham Canyon mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Ray mine",
+      "canonical_name": "Ray mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "Morenci mine",
+      "canonical_name": "Morenci mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Miami mine",
+      "canonical_name": "Miami mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Chino mine",
+      "canonical_name": "Chino mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Morenci mine (Freeport McMoRan)",
+      "canonical_name": "Morenci mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Miami (Freeport McMoRan)",
+      "canonical_name": "Miami mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Chino (Freeport McMoRan)",
+      "canonical_name": "Chino mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Northmet Project",
+      "canonical_name": "Northmet Project",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Rosemont mine",
+      "canonical_name": "Rosemont mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Highland Valley",
+      "canonical_name": "Highland Valley",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Copper Mountain mine",
+      "canonical_name": "Copper Mountain mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Gibraltar mine",
+      "canonical_name": "Gibraltar mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "LME Cash",
+      "canonical_name": "LME Cash",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "3",
+      "type": "Property",
+      "name": "price",
+      "canonical_name": "price",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "4",
+      "type": "Property",
+      "name": "supply-demand balance",
+      "canonical_name": "supply-demand balance",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "reported stocks",
+      "canonical_name": "reported stocks",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "consumption",
+      "canonical_name": "consumption",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "7",
+      "type": "Property",
+      "name": "production",
+      "canonical_name": "production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "stock drawdown",
+      "canonical_name": "stock drawdown",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "9",
+      "type": "Property",
+      "name": "interest rates",
+      "canonical_name": "interest rates",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "10",
+      "type": "Property",
+      "name": "inflation",
+      "canonical_name": "inflation",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "11",
+      "type": "Property",
+      "name": "sovereign debt",
+      "canonical_name": "sovereign debt",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "investment interest",
+      "canonical_name": "investment interest",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "13",
+      "type": "Property",
+      "name": "commodities",
+      "canonical_name": "commodities",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "14",
+      "type": "Property",
+      "name": "equities",
+      "canonical_name": "equities",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "15",
+      "type": "Property",
+      "name": "metal balance",
+      "canonical_name": "metal balance",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "production",
+      "canonical_name": "production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "consumption",
+      "canonical_name": "consumption",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "balance",
+      "canonical_name": "balance",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "price",
+      "canonical_name": "price",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "LME",
+      "canonical_name": "LME",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "7",
+      "type": "Expert",
+      "name": "Thomson Reuters GFMS",
+      "canonical_name": "Thomson Reuters GFMS",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "aluminum",
+      "canonical_name": "aluminum",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "nickel",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "lead",
+      "canonical_name": "lead",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "zinc",
+      "canonical_name": "zinc",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "tin",
+      "canonical_name": "tin",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Publication",
+      "name": "Three Year Copper Forecast - December 2011",
+      "canonical_name": "Three Year Copper Forecast - December 2011",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Thomson Reuters GFMS",
+      "canonical_name": "Thomson Reuters GFMS",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "OECD",
+      "canonical_name": "OECD",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "LME",
+      "canonical_name": "LME",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "1",
+      "type": "Property",
+      "name": "global copper usage growth",
+      "canonical_name": "global copper usage growth",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "2",
+      "type": "Property",
+      "name": "Chinese demand growth",
+      "canonical_name": "Chinese demand growth",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "3",
+      "type": "Property",
+      "name": "Eurozone demand contraction",
+      "canonical_name": "Eurozone demand contraction",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "4",
+      "type": "Property",
+      "name": "BRICs consumption growth",
+      "canonical_name": "BRICs consumption growth",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Thomson Reuters GFMS",
+      "canonical_name": "Thomson Reuters GFMS",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "ICSG",
+      "canonical_name": "ICSG",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "wire rod",
+      "canonical_name": "wire rod",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "cathode",
+      "canonical_name": "cathode",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Russia",
+      "canonical_name": "Russia",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "EU-27",
+      "canonical_name": "EU-27",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "6",
+      "type": "Expert",
+      "name": "Thomson Reuters GFMS",
+      "canonical_name": "Thomson Reuters GFMS",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper cathode",
+      "canonical_name": "copper cathode",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Eurozone",
+      "canonical_name": "Eurozone",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "industrial production",
+      "canonical_name": "industrial production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "fixed asset investment",
+      "canonical_name": "fixed asset investment",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "PMI",
+      "canonical_name": "PMI",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "consumer price inflation",
+      "canonical_name": "consumer price inflation",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "producer price inflation",
+      "canonical_name": "producer price inflation",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "refined production",
+      "canonical_name": "refined production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "mine production",
+      "canonical_name": "mine production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Africa",
+      "canonical_name": "Africa",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Asia",
+      "canonical_name": "Asia",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Europe",
+      "canonical_name": "Europe",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Americas",
+      "canonical_name": "Americas",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Oceania",
+      "canonical_name": "Oceania",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Global",
+      "canonical_name": "Global",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "mine production",
+      "canonical_name": "mine production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "solvent extraction electrowinning",
+      "canonical_name": "solvent extraction electrowinning",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "refined production",
+      "canonical_name": "refined production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Thomson Reuters GFMS",
+      "canonical_name": "Thomson Reuters GFMS",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "International Copper Study Group (ICSG)",
+      "canonical_name": "International Copper Study Group (ICSG)",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "refined production growth",
+      "canonical_name": "refined production growth",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "scrap supply",
+      "canonical_name": "scrap supply",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "price",
+      "canonical_name": "price",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "production cost curve",
+      "canonical_name": "production cost curve",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "copper production",
+      "canonical_name": "copper production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "refined output",
+      "canonical_name": "refined output",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "mine production",
+      "canonical_name": "mine production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "SX-EW",
+      "canonical_name": "SX-EW",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "secondary output",
+      "canonical_name": "secondary output",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "11",
+      "type": "Process",
+      "name": "concentrate stocks",
+      "canonical_name": "concentrate stocks",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "12",
+      "type": "Process",
+      "name": "production",
+      "canonical_name": "production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "13",
+      "type": "Process",
+      "name": "deficit",
+      "canonical_name": "deficit",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "14",
+      "type": "Process",
+      "name": "surplus",
+      "canonical_name": "surplus",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "15",
+      "type": "Process",
+      "name": "demand",
+      "canonical_name": "demand",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "1",
+      "type": "Property",
+      "name": "supply-demand balance",
+      "canonical_name": "supply-demand balance",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "2",
+      "type": "Property",
+      "name": "market balance",
+      "canonical_name": "market balance",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "3",
+      "type": "Property",
+      "name": "reported stocks",
+      "canonical_name": "reported stocks",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "4",
+      "type": "Property",
+      "name": "number of weeks' consumption",
+      "canonical_name": "number of weeks' consumption",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "LME Cash $/tonne",
+      "canonical_name": "LME Cash $/tonne",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "trading range",
+      "canonical_name": "trading range",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "production",
+      "canonical_name": "production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "consumption",
+      "canonical_name": "consumption",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "price projection",
+      "canonical_name": "price projection",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Bingham Canyon mine",
+      "canonical_name": "Bingham Canyon mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Ray mine",
+      "canonical_name": "Ray mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "Morenci mine",
+      "canonical_name": "Morenci mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Miami mine",
+      "canonical_name": "Miami mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Chino mine",
+      "canonical_name": "Chino mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Morenci mine (Freeport McMoRan)",
+      "canonical_name": "Morenci mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Miami (Freeport McMoRan)",
+      "canonical_name": "Miami mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Chino (Freeport McMoRan)",
+      "canonical_name": "Chino mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Northmet Project",
+      "canonical_name": "Northmet Project",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Rosemont mine",
+      "canonical_name": "Rosemont mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Highland Valley",
+      "canonical_name": "Highland Valley",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Copper Mountain mine",
+      "canonical_name": "Copper Mountain mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Gibraltar mine",
+      "canonical_name": "Gibraltar mine",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "LME Cash",
+      "canonical_name": "LME Cash",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "3",
+      "type": "Property",
+      "name": "price",
+      "canonical_name": "price",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "4",
+      "type": "Property",
+      "name": "supply-demand balance",
+      "canonical_name": "supply-demand balance",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "reported stocks",
+      "canonical_name": "reported stocks",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "consumption",
+      "canonical_name": "consumption",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "7",
+      "type": "Property",
+      "name": "production",
+      "canonical_name": "production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "stock drawdown",
+      "canonical_name": "stock drawdown",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "9",
+      "type": "Property",
+      "name": "interest rates",
+      "canonical_name": "interest rates",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "10",
+      "type": "Property",
+      "name": "inflation",
+      "canonical_name": "inflation",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "11",
+      "type": "Property",
+      "name": "sovereign debt",
+      "canonical_name": "sovereign debt",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "investment interest",
+      "canonical_name": "investment interest",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "13",
+      "type": "Property",
+      "name": "commodities",
+      "canonical_name": "commodities",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "14",
+      "type": "Property",
+      "name": "equities",
+      "canonical_name": "equities",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "15",
+      "type": "Property",
+      "name": "metal balance",
+      "canonical_name": "metal balance",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "production",
+      "canonical_name": "production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "consumption",
+      "canonical_name": "consumption",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "balance",
+      "canonical_name": "balance",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "price",
+      "canonical_name": "price",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "LME",
+      "canonical_name": "LME",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "7",
+      "type": "Expert",
+      "name": "Thomson Reuters GFMS",
+      "canonical_name": "Thomson Reuters GFMS",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "aluminum",
+      "canonical_name": "aluminum",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "nickel",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "lead",
+      "canonical_name": "lead",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "zinc",
+      "canonical_name": "zinc",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "tin",
+      "canonical_name": "tin",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Publication",
+      "name": "Three Year Copper Forecast - December 2011",
+      "canonical_name": "Three Year Copper Forecast - December 2011",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Thomson Reuters GFMS",
+      "canonical_name": "Thomson Reuters GFMS",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "OECD",
+      "canonical_name": "OECD",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "LME",
+      "canonical_name": "LME",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "1",
+      "type": "Property",
+      "name": "global copper usage growth",
+      "canonical_name": "global copper usage growth",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "2",
+      "type": "Property",
+      "name": "Chinese demand growth",
+      "canonical_name": "Chinese demand growth",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "3",
+      "type": "Property",
+      "name": "Eurozone demand contraction",
+      "canonical_name": "Eurozone demand contraction",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "4",
+      "type": "Property",
+      "name": "BRICs consumption growth",
+      "canonical_name": "BRICs consumption growth",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Thomson Reuters GFMS",
+      "canonical_name": "Thomson Reuters GFMS",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "ICSG",
+      "canonical_name": "ICSG",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "wire rod",
+      "canonical_name": "wire rod",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "cathode",
+      "canonical_name": "cathode",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Russia",
+      "canonical_name": "Russia",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "EU-27",
+      "canonical_name": "EU-27",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "6",
+      "type": "Expert",
+      "name": "Thomson Reuters GFMS",
+      "canonical_name": "Thomson Reuters GFMS",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper cathode",
+      "canonical_name": "copper cathode",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Eurozone",
+      "canonical_name": "Eurozone",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "industrial production",
+      "canonical_name": "industrial production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "fixed asset investment",
+      "canonical_name": "fixed asset investment",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "PMI",
+      "canonical_name": "PMI",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "consumer price inflation",
+      "canonical_name": "consumer price inflation",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "producer price inflation",
+      "canonical_name": "producer price inflation",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "refined production",
+      "canonical_name": "refined production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "mine production",
+      "canonical_name": "mine production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Africa",
+      "canonical_name": "Africa",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Asia",
+      "canonical_name": "Asia",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Europe",
+      "canonical_name": "Europe",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Americas",
+      "canonical_name": "Americas",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Oceania",
+      "canonical_name": "Oceania",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Global",
+      "canonical_name": "Global",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "mine production",
+      "canonical_name": "mine production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "solvent extraction electrowinning",
+      "canonical_name": "solvent extraction electrowinning",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "refined production",
+      "canonical_name": "refined production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Thomson Reuters GFMS",
+      "canonical_name": "Thomson Reuters GFMS",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "International Copper Study Group (ICSG)",
+      "canonical_name": "International Copper Study Group (ICSG)",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "refined production growth",
+      "canonical_name": "refined production growth",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "scrap supply",
+      "canonical_name": "scrap supply",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "price",
+      "canonical_name": "price",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "production cost curve",
+      "canonical_name": "production cost curve",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "copper production",
+      "canonical_name": "copper production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "refined output",
+      "canonical_name": "refined output",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "mine production",
+      "canonical_name": "mine production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "SX-EW",
+      "canonical_name": "SX-EW",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "secondary output",
+      "canonical_name": "secondary output",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "11",
+      "type": "Process",
+      "name": "concentrate stocks",
+      "canonical_name": "concentrate stocks",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "12",
+      "type": "Process",
+      "name": "production",
+      "canonical_name": "production",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "13",
+      "type": "Process",
+      "name": "deficit",
+      "canonical_name": "deficit",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "14",
+      "type": "Process",
+      "name": "surplus",
+      "canonical_name": "surplus",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "15",
+      "type": "Process",
+      "name": "demand",
+      "canonical_name": "demand",
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "lower ore grades",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "lower ore grades",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 57000.0,
+      "unit": "tonnes per year",
+      "condition": "incremental increase",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 31500.0,
+      "unit": "tonnes",
+      "condition": "expected to produce in 2011",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 91000.0,
+      "unit": "tonnes per year",
+      "condition": "expected to produce by 2014",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 102000.0,
+      "unit": "tonnes per year",
+      "condition": "targeted annual copper production",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 31500.0,
+      "unit": "tonnes",
+      "condition": "expected to produce in 2011",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 91000.0,
+      "unit": "tonnes per year",
+      "condition": "expected to produce by 2014",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 36000.0,
+      "unit": "tonnes per year",
+      "condition": "start-up of the project",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 100000.0,
+      "unit": "tonnes per year",
+      "condition": "start-up of the mine",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "dips this year",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 48000.0,
+      "unit": "tonnes per year",
+      "condition": "start-up of the mine",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 42000.0,
+      "unit": "tonnes",
+      "condition": "produced last year",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "dipped to 12.4% from 13.2%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "continued to ease",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "continued to ease",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "fall",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "fall",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "lower ore grades",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "lower ore grades",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 57000.0,
+      "unit": "tonnes per year",
+      "condition": "incremental increase",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 31500.0,
+      "unit": "tonnes",
+      "condition": "expected to produce in 2011",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 91000.0,
+      "unit": "tonnes per year",
+      "condition": "expected to produce by 2014",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 102000.0,
+      "unit": "tonnes per year",
+      "condition": "targeted annual copper production",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 31500.0,
+      "unit": "tonnes",
+      "condition": "expected to produce in 2011",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 91000.0,
+      "unit": "tonnes per year",
+      "condition": "expected to produce by 2014",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 36000.0,
+      "unit": "tonnes per year",
+      "condition": "start-up of the project",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 100000.0,
+      "unit": "tonnes per year",
+      "condition": "start-up of the mine",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "dips this year",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 48000.0,
+      "unit": "tonnes per year",
+      "condition": "start-up of the mine",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "produces_output",
+      "target_id": "Material",
+      "numeric_value": 42000.0,
+      "unit": "tonnes",
+      "condition": "produced last year",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "dipped to 12.4% from 13.2%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "continued to ease",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "continued to ease",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "fall",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "fall",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-Quarterly-Copper- Dec2011.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    }
+  ]
+}

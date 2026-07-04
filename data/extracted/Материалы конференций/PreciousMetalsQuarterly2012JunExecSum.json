@@ -1,0 +1,420 @@
+{
+  "filename": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "4",
+      "type": "Expert",
+      "name": "Graham Deller",
+      "canonical_name": "Graham Deller",
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "CRU International Limited",
+      "canonical_name": "CRU International Limited",
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "Ashok Patel",
+      "canonical_name": "Ashok Patel",
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "7",
+      "type": "Expert",
+      "name": "Neil Hawkes",
+      "canonical_name": "Neil Hawkes",
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "Giles Lloyd",
+      "canonical_name": "Giles Lloyd",
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "silver",
+      "canonical_name": "silver",
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Precious Metals Quarterly 2012 Q2",
+      "canonical_name": "Precious Metals Quarterly 2012 Q2",
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "gold",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "6",
+      "type": "Expert",
+      "name": "Kirill Kirilenko",
+      "canonical_name": "Kirill Kirilenko",
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "5",
+      "type": "Expert",
+      "name": "Helen O'Cleary",
+      "canonical_name": "Helen O'Cleary",
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "affiliated_with",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "affiliated_with",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "affiliated_with",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "affiliated_with",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "affiliated_with",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "PreciousMetalsQuarterly2012JunExecSum.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    }
+  ]
+}

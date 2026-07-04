@@ -1,0 +1,7232 @@
+{
+  "filename": "Barclays-Cu-substitution-11feb11.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Lead",
+      "canonical_name": "Lead",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Nickel",
+      "canonical_name": "Nickel",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Tin",
+      "canonical_name": "Tin",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Zinc",
+      "canonical_name": "Zinc",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Gold",
+      "canonical_name": "Gold",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Silver",
+      "canonical_name": "Silver",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Platinum",
+      "canonical_name": "Platinum",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Palladium",
+      "canonical_name": "Palladium",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper clad aluminium cable",
+      "canonical_name": "CCA",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper wire",
+      "canonical_name": "copper wire",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "aluminium",
+      "canonical_name": "aluminium",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "aluminium conductors reinforced with steel (ACSR)",
+      "canonical_name": "ACSR",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "enamelled magnet wire",
+      "canonical_name": "enamelled magnet wire",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "aluminium (or in some cases steel) wire core",
+      "canonical_name": "aluminium wire core",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "copper clad aluminium (CCA) wire and cable",
+      "canonical_name": "CCA",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "aluminium wires",
+      "canonical_name": "aluminium wires",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "steel",
+      "canonical_name": "steel",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "composite materials",
+      "canonical_name": "composite materials",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "coaxial cables",
+      "canonical_name": "coaxial cables",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "copper coated aluminium wires",
+      "canonical_name": "CCA",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Aluminium Association, Barclays Capital",
+      "canonical_name": "Aluminium Association, Barclays Capital",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "2",
+      "type": "Publication",
+      "name": "Japanese Aluminium Association, Barclays Capital",
+      "canonical_name": "Japanese Aluminium Association, Barclays Capital",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "3",
+      "type": "Publication",
+      "name": "Media reports, Brook Hunt, CRU",
+      "canonical_name": "Media reports, Brook Hunt, CRU",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "aluminium",
+      "canonical_name": "aluminium",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "alumina",
+      "canonical_name": "alumina",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Boyne smelting division",
+      "canonical_name": "Boyne smelting division",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Sumgait smelter",
+      "canonical_name": "Sumgait smelter",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "new plant",
+      "canonical_name": "new plant",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "aluminium",
+      "canonical_name": "aluminium",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "fibre optics",
+      "canonical_name": "fibre optics",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "roofing various",
+      "canonical_name": "roofing various",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "plastics",
+      "canonical_name": "plastics",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "alloy/steel/other",
+      "canonical_name": "alloy/steel/other",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "optical fibre",
+      "canonical_name": "optical fibre",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "aluminium/CCA",
+      "canonical_name": "aluminium/CCA",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper concentrate",
+      "canonical_name": "copper concentrate",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "refining",
+      "canonical_name": "refining",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "electrowinning",
+      "canonical_name": "electrowinning",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Chile",
+      "canonical_name": "Chile",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "EU-27",
+      "canonical_name": "EU-27",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "USA",
+      "canonical_name": "USA",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Russia",
+      "canonical_name": "Russia",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "ROW",
+      "canonical_name": "ROW",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Thomson Datastream, Barclays Capital",
+      "canonical_name": "Thomson Datastream, Barclays Capital",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "2",
+      "type": "Publication",
+      "name": "Ecowin, Barclays Capital",
+      "canonical_name": "Ecowin, Barclays Capital",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "3",
+      "type": "Publication",
+      "name": "Media reports, Brook Hunt, CRU",
+      "canonical_name": "Media reports, Brook Hunt, CRU",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "4",
+      "type": "Publication",
+      "name": "Brook Hunt, Barclays Capital",
+      "canonical_name": "Brook Hunt, Barclays Capital",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Coke",
+      "canonical_name": "coke",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Natural gas",
+      "canonical_name": "natural gas",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Nickel ores",
+      "canonical_name": "nickel ores",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Nickel",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "Concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "Drinking water",
+      "canonical_name": "drinking water",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "Tailings",
+      "canonical_name": "tailings",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Yabulu nickel refinery",
+      "canonical_name": "Yabulu nickel refinery",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Vale’s Sudbury facilities",
+      "canonical_name": "Vale’s Sudbury facilities",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "14",
+      "type": "Facility",
+      "name": "Vale’s Vois",
+      "canonical_name": "Vale’s Vois",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "15",
+      "type": "Facility",
+      "name": "Voisey’s Bay mine",
+      "canonical_name": "Voisey’s Bay mine",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "aluminium",
+      "canonical_name": "aluminium",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "building wire",
+      "canonical_name": "building wire",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "plumbing",
+      "canonical_name": "plumbing",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "roofing",
+      "canonical_name": "roofing",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "insulated wire and cable",
+      "canonical_name": "insulated wire and cable",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "EC aluminium",
+      "canonical_name": "EC aluminium",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Consumer Product Safety Commission",
+      "canonical_name": "Consumer Product Safety Commission",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "India",
+      "canonical_name": "India",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "aluminium",
+      "canonical_name": "aluminium",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "base metals",
+      "canonical_name": "base metals",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Zinc",
+      "canonical_name": "zinc",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Zinc concentrate",
+      "canonical_name": "zinc concentrate",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Zinc treatment charges",
+      "canonical_name": "zinc treatment charges",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Total Europe",
+      "canonical_name": "Total Europe",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "North America",
+      "canonical_name": "North America",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "ROW",
+      "canonical_name": "ROW",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Total Reported Stocks",
+      "canonical_name": "Total Reported Stocks",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "LME Cash Price",
+      "canonical_name": "LME Cash Price",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Global",
+      "canonical_name": "Global",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Europe",
+      "canonical_name": "Europe",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Canada",
+      "canonical_name": "Canada",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "US",
+      "canonical_name": "US",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "14",
+      "type": "Facility",
+      "name": "Peru",
+      "canonical_name": "Peru",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "15",
+      "type": "Facility",
+      "name": "Americas",
+      "canonical_name": "Americas",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "16",
+      "type": "Facility",
+      "name": "Asia",
+      "canonical_name": "Asia",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "17",
+      "type": "Facility",
+      "name": "Oceania",
+      "canonical_name": "Oceania",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "18",
+      "type": "Facility",
+      "name": "Africa",
+      "canonical_name": "Africa",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "19",
+      "type": "Facility",
+      "name": "Barclays Capital",
+      "canonical_name": "Barclays Capital",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "20",
+      "type": "Expert",
+      "name": "ILZSG",
+      "canonical_name": "ILZSG",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "21",
+      "type": "Expert",
+      "name": "CNIA",
+      "canonical_name": "CNIA",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "22",
+      "type": "Expert",
+      "name": "Brook Hunt",
+      "canonical_name": "Brook Hunt",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "23",
+      "type": "Expert",
+      "name": "CRU",
+      "canonical_name": "CRU",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "lead",
+      "canonical_name": "lead",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 30,
+        "page_end": 30
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "ILZSG",
+      "canonical_name": "ILZSG",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 30,
+        "page_end": 30
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "Barclays Capital",
+      "canonical_name": "Barclays Capital",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 30,
+        "page_end": 30
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "CNIA",
+      "canonical_name": "CNIA",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 30,
+        "page_end": 30
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "China Customs",
+      "canonical_name": "China Customs",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 30,
+        "page_end": 30
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "zinc",
+      "canonical_name": "zinc",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "ILZSG",
+      "canonical_name": "ILZSG",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "CNIA",
+      "canonical_name": "CNIA",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "China Customs",
+      "canonical_name": "China Customs",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Barclays Capital",
+      "canonical_name": "Barclays Capital",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "7",
+      "type": "Expert",
+      "name": "Vostrikova N.M.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Lead",
+      "canonical_name": "Lead",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Nickel",
+      "canonical_name": "Nickel",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Tin",
+      "canonical_name": "Tin",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Zinc",
+      "canonical_name": "Zinc",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Gold",
+      "canonical_name": "Gold",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Silver",
+      "canonical_name": "Silver",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Platinum",
+      "canonical_name": "Platinum",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Palladium",
+      "canonical_name": "Palladium",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper clad aluminium cable",
+      "canonical_name": "CCA",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper wire",
+      "canonical_name": "copper wire",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "aluminium",
+      "canonical_name": "aluminium",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "aluminium conductors reinforced with steel (ACSR)",
+      "canonical_name": "ACSR",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "enamelled magnet wire",
+      "canonical_name": "enamelled magnet wire",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "aluminium (or in some cases steel) wire core",
+      "canonical_name": "aluminium wire core",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "copper clad aluminium (CCA) wire and cable",
+      "canonical_name": "CCA",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "aluminium wires",
+      "canonical_name": "aluminium wires",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "steel",
+      "canonical_name": "steel",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "composite materials",
+      "canonical_name": "composite materials",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "coaxial cables",
+      "canonical_name": "coaxial cables",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "copper coated aluminium wires",
+      "canonical_name": "CCA",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Aluminium Association, Barclays Capital",
+      "canonical_name": "Aluminium Association, Barclays Capital",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "2",
+      "type": "Publication",
+      "name": "Japanese Aluminium Association, Barclays Capital",
+      "canonical_name": "Japanese Aluminium Association, Barclays Capital",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "3",
+      "type": "Publication",
+      "name": "Media reports, Brook Hunt, CRU",
+      "canonical_name": "Media reports, Brook Hunt, CRU",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "aluminium",
+      "canonical_name": "aluminium",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "alumina",
+      "canonical_name": "alumina",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Boyne smelting division",
+      "canonical_name": "Boyne smelting division",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Sumgait smelter",
+      "canonical_name": "Sumgait smelter",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "new plant",
+      "canonical_name": "new plant",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "aluminium",
+      "canonical_name": "aluminium",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "fibre optics",
+      "canonical_name": "fibre optics",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "roofing various",
+      "canonical_name": "roofing various",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "plastics",
+      "canonical_name": "plastics",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "alloy/steel/other",
+      "canonical_name": "alloy/steel/other",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "optical fibre",
+      "canonical_name": "optical fibre",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "aluminium/CCA",
+      "canonical_name": "aluminium/CCA",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper concentrate",
+      "canonical_name": "copper concentrate",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "refining",
+      "canonical_name": "refining",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "electrowinning",
+      "canonical_name": "electrowinning",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Chile",
+      "canonical_name": "Chile",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "EU-27",
+      "canonical_name": "EU-27",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "USA",
+      "canonical_name": "USA",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Russia",
+      "canonical_name": "Russia",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "ROW",
+      "canonical_name": "ROW",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Thomson Datastream, Barclays Capital",
+      "canonical_name": "Thomson Datastream, Barclays Capital",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "2",
+      "type": "Publication",
+      "name": "Ecowin, Barclays Capital",
+      "canonical_name": "Ecowin, Barclays Capital",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "3",
+      "type": "Publication",
+      "name": "Media reports, Brook Hunt, CRU",
+      "canonical_name": "Media reports, Brook Hunt, CRU",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "4",
+      "type": "Publication",
+      "name": "Brook Hunt, Barclays Capital",
+      "canonical_name": "Brook Hunt, Barclays Capital",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Coke",
+      "canonical_name": "coke",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Natural gas",
+      "canonical_name": "natural gas",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Nickel ores",
+      "canonical_name": "nickel ores",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Nickel",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "Concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "Drinking water",
+      "canonical_name": "drinking water",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "Tailings",
+      "canonical_name": "tailings",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Yabulu nickel refinery",
+      "canonical_name": "Yabulu nickel refinery",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Vale’s Sudbury facilities",
+      "canonical_name": "Vale’s Sudbury facilities",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "14",
+      "type": "Facility",
+      "name": "Vale’s Vois",
+      "canonical_name": "Vale’s Vois",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "15",
+      "type": "Facility",
+      "name": "Voisey’s Bay mine",
+      "canonical_name": "Voisey’s Bay mine",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "aluminium",
+      "canonical_name": "aluminium",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "building wire",
+      "canonical_name": "building wire",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "plumbing",
+      "canonical_name": "plumbing",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "roofing",
+      "canonical_name": "roofing",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "insulated wire and cable",
+      "canonical_name": "insulated wire and cable",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "EC aluminium",
+      "canonical_name": "EC aluminium",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Consumer Product Safety Commission",
+      "canonical_name": "Consumer Product Safety Commission",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "India",
+      "canonical_name": "India",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "aluminium",
+      "canonical_name": "aluminium",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "base metals",
+      "canonical_name": "base metals",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Zinc",
+      "canonical_name": "zinc",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Zinc concentrate",
+      "canonical_name": "zinc concentrate",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Zinc treatment charges",
+      "canonical_name": "zinc treatment charges",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Total Europe",
+      "canonical_name": "Total Europe",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "North America",
+      "canonical_name": "North America",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "ROW",
+      "canonical_name": "ROW",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Total Reported Stocks",
+      "canonical_name": "Total Reported Stocks",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "LME Cash Price",
+      "canonical_name": "LME Cash Price",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Global",
+      "canonical_name": "Global",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Europe",
+      "canonical_name": "Europe",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Canada",
+      "canonical_name": "Canada",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "US",
+      "canonical_name": "US",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "14",
+      "type": "Facility",
+      "name": "Peru",
+      "canonical_name": "Peru",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "15",
+      "type": "Facility",
+      "name": "Americas",
+      "canonical_name": "Americas",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "16",
+      "type": "Facility",
+      "name": "Asia",
+      "canonical_name": "Asia",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "17",
+      "type": "Facility",
+      "name": "Oceania",
+      "canonical_name": "Oceania",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "18",
+      "type": "Facility",
+      "name": "Africa",
+      "canonical_name": "Africa",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "19",
+      "type": "Facility",
+      "name": "Barclays Capital",
+      "canonical_name": "Barclays Capital",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "20",
+      "type": "Expert",
+      "name": "ILZSG",
+      "canonical_name": "ILZSG",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "21",
+      "type": "Expert",
+      "name": "CNIA",
+      "canonical_name": "CNIA",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "22",
+      "type": "Expert",
+      "name": "Brook Hunt",
+      "canonical_name": "Brook Hunt",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "23",
+      "type": "Expert",
+      "name": "CRU",
+      "canonical_name": "CRU",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "lead",
+      "canonical_name": "lead",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 30,
+        "page_end": 30
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "ILZSG",
+      "canonical_name": "ILZSG",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 30,
+        "page_end": 30
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "Barclays Capital",
+      "canonical_name": "Barclays Capital",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 30,
+        "page_end": 30
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "CNIA",
+      "canonical_name": "CNIA",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 30,
+        "page_end": 30
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "China Customs",
+      "canonical_name": "China Customs",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 30,
+        "page_end": 30
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "zinc",
+      "canonical_name": "zinc",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "ILZSG",
+      "canonical_name": "ILZSG",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "CNIA",
+      "canonical_name": "CNIA",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "China Customs",
+      "canonical_name": "China Customs",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Barclays Capital",
+      "canonical_name": "Barclays Capital",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "7",
+      "type": "Expert",
+      "name": "Vostrikova N.M.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "in the mid-1960s and 1970s",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "in the telecommunications market",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "in the radiator market",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "in the telecommunications market",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "shortage of coke",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "switch fuel from coke to natural gas",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "import nickel ores",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "refined metal",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "produces_output",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "concentrate",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "drinking water",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "tailings",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "pre-emption of Cyclone Yasi",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "shortage of coke",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "closure of the mill",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "contamination of the drinking water system",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "affiliated_with",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "affiliated_with",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "affiliated_with",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "affiliated_with",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "23",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 30,
+        "page_end": 30
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 30,
+        "page_end": 30
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 30,
+        "page_end": 30
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 30,
+        "page_end": 30
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "106",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "107",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "108",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "109",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "110",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "105",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "104",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "104",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "105",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "108",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "109",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "in the mid-1960s and 1970s",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "in the telecommunications market",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "in the radiator market",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "in the telecommunications market",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "shortage of coke",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "switch fuel from coke to natural gas",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "import nickel ores",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "refined metal",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "produces_output",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "concentrate",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "drinking water",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "tailings",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "pre-emption of Cyclone Yasi",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "shortage of coke",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "closure of the mill",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "contamination of the drinking water system",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "affiliated_with",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "affiliated_with",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "affiliated_with",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "affiliated_with",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "23",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 38,
+        "page_start": 39,
+        "page_end": 39
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 30,
+        "page_end": 30
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 30,
+        "page_end": 30
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 30,
+        "page_end": 30
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 30,
+        "page_end": 30
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "106",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "107",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "108",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "109",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "110",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "105",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "104",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "104",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "105",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "108",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "109",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Barclays-Cu-substitution-11feb11.md",
+        "category": "Материалы конференций",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    }
+  ]
+}

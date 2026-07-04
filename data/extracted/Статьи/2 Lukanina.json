@@ -1,0 +1,2160 @@
+{
+  "filename": "2 Lukanina.md",
+  "category": "Статьи",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "расплав базальта",
+      "canonical_name": "basalt melt",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "минеральная вата",
+      "canonical_name": "mineral wool",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "выпуск расплава базальта из газоэлектрической вагранки",
+      "canonical_name": "basalt melt discharge from gas-electric furnace",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "выпуск расплава базальта из газоэлектрической вагранки на центрифугу",
+      "canonical_name": "basalt melt discharge from gas-electric furnace to centrifuge",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "вычислительная гидрогазодинамика",
+      "canonical_name": "computational fluid dynamics",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "компьютерное моделирование",
+      "canonical_name": "computer modeling",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "7",
+      "type": "Equipment",
+      "name": "выпускной шибер",
+      "canonical_name": "discharge chute",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "желоб-фидер",
+      "canonical_name": "feeder chute",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "центрифуга",
+      "canonical_name": "centrifuge",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "10",
+      "type": "Equipment",
+      "name": "ванна",
+      "canonical_name": "vat",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "11",
+      "type": "Equipment",
+      "name": "газоэлектрическая вагранка",
+      "canonical_name": "gas-electric furnace",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "расход расплава",
+      "canonical_name": "melt flow rate",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "13",
+      "type": "Property",
+      "name": "температура",
+      "canonical_name": "temperature",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "14",
+      "type": "Property",
+      "name": "поле скорости",
+      "canonical_name": "velocity field",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "15",
+      "type": "Property",
+      "name": "пульсации расхода",
+      "canonical_name": "flow rate pulsations",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "16",
+      "type": "Property",
+      "name": "стабильность передачи расплава",
+      "canonical_name": "melt transfer stability",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "17",
+      "type": "Property",
+      "name": "застойные зоны",
+      "canonical_name": "stagnation zones",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "18",
+      "type": "Property",
+      "name": "теплопотери",
+      "canonical_name": "heat losses",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "19",
+      "type": "Expert",
+      "name": "М. А. Луканина",
+      "canonical_name": "M. A. Lukanova",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "20",
+      "type": "Expert",
+      "name": "В. А. Попов",
+      "canonical_name": "V. A. Popov",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "21",
+      "type": "Expert",
+      "name": "А. В. Лапин",
+      "canonical_name": "A. V. Lapin",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "22",
+      "type": "Expert",
+      "name": "В. И. Лазарев",
+      "canonical_name": "V. I. Lazarev",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "23",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "OJSC Institute of Gipronikel",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "24",
+      "type": "Facility",
+      "name": "АО «Канекс Технология»",
+      "canonical_name": "AO Kanex Technology",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "1",
+      "type": "Property",
+      "name": "Плотность",
+      "canonical_name": "density",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "2",
+      "type": "Property",
+      "name": "Коэфф. теплопроводности",
+      "canonical_name": "thermal_conductivity",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "3",
+      "type": "Property",
+      "name": "Коэфф. теплоёмкости",
+      "canonical_name": "specific_heat_capacity",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "4",
+      "type": "Property",
+      "name": "Вязкость",
+      "canonical_name": "viscosity",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "Коэфф. поверхностного натяжения",
+      "canonical_name": "surface_tension",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "stabilization of flow rate",
+      "canonical_name": "stabilization of flow rate",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "2",
+      "type": "Equipment",
+      "name": "separator",
+      "canonical_name": "separator",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "3",
+      "type": "Equipment",
+      "name": "feeder",
+      "canonical_name": "feeder",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "molten metal",
+      "canonical_name": "molten metal",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "melting",
+      "canonical_name": "melting",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "CFD modeling",
+      "canonical_name": "CFD modeling",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "7",
+      "type": "Experiment",
+      "name": "computer simulation",
+      "canonical_name": "computer simulation",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "расплав базальта",
+      "canonical_name": "basalt melt",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "минеральная вата",
+      "canonical_name": "mineral wool",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "выпуск расплава базальта из газоэлектрической вагранки",
+      "canonical_name": "basalt melt discharge from gas-electric furnace",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "выпуск расплава базальта из газоэлектрической вагранки на центрифугу",
+      "canonical_name": "basalt melt discharge from gas-electric furnace to centrifuge",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "вычислительная гидрогазодинамика",
+      "canonical_name": "computational fluid dynamics",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "компьютерное моделирование",
+      "canonical_name": "computer modeling",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "7",
+      "type": "Equipment",
+      "name": "выпускной шибер",
+      "canonical_name": "discharge chute",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "желоб-фидер",
+      "canonical_name": "feeder chute",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "центрифуга",
+      "canonical_name": "centrifuge",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "10",
+      "type": "Equipment",
+      "name": "ванна",
+      "canonical_name": "vat",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "11",
+      "type": "Equipment",
+      "name": "газоэлектрическая вагранка",
+      "canonical_name": "gas-electric furnace",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "расход расплава",
+      "canonical_name": "melt flow rate",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "13",
+      "type": "Property",
+      "name": "температура",
+      "canonical_name": "temperature",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "14",
+      "type": "Property",
+      "name": "поле скорости",
+      "canonical_name": "velocity field",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "15",
+      "type": "Property",
+      "name": "пульсации расхода",
+      "canonical_name": "flow rate pulsations",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "16",
+      "type": "Property",
+      "name": "стабильность передачи расплава",
+      "canonical_name": "melt transfer stability",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "17",
+      "type": "Property",
+      "name": "застойные зоны",
+      "canonical_name": "stagnation zones",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "18",
+      "type": "Property",
+      "name": "теплопотери",
+      "canonical_name": "heat losses",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "19",
+      "type": "Expert",
+      "name": "М. А. Луканина",
+      "canonical_name": "M. A. Lukanova",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "20",
+      "type": "Expert",
+      "name": "В. А. Попов",
+      "canonical_name": "V. A. Popov",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "21",
+      "type": "Expert",
+      "name": "А. В. Лапин",
+      "canonical_name": "A. V. Lapin",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "22",
+      "type": "Expert",
+      "name": "В. И. Лазарев",
+      "canonical_name": "V. I. Lazarev",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "23",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "OJSC Institute of Gipronikel",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "24",
+      "type": "Facility",
+      "name": "АО «Канекс Технология»",
+      "canonical_name": "AO Kanex Technology",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "1",
+      "type": "Property",
+      "name": "Плотность",
+      "canonical_name": "density",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "2",
+      "type": "Property",
+      "name": "Коэфф. теплопроводности",
+      "canonical_name": "thermal_conductivity",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "3",
+      "type": "Property",
+      "name": "Коэфф. теплоёмкости",
+      "canonical_name": "specific_heat_capacity",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "4",
+      "type": "Property",
+      "name": "Вязкость",
+      "canonical_name": "viscosity",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "Коэфф. поверхностного натяжения",
+      "canonical_name": "surface_tension",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "stabilization of flow rate",
+      "canonical_name": "stabilization of flow rate",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "2",
+      "type": "Equipment",
+      "name": "separator",
+      "canonical_name": "separator",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "3",
+      "type": "Equipment",
+      "name": "feeder",
+      "canonical_name": "feeder",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "molten metal",
+      "canonical_name": "molten metal",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "melting",
+      "canonical_name": "melting",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "CFD modeling",
+      "canonical_name": "CFD modeling",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "7",
+      "type": "Experiment",
+      "name": "computer simulation",
+      "canonical_name": "computer simulation",
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "19",
+      "relation": "affiliated_with",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "affiliated_with",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "affiliated_with",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "to smooth high-frequency and low-frequency pulsations",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "to eliminate flow rate fluctuations at the input to the centrifuge",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "affiliated_with",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "affiliated_with",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "affiliated_with",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "to smooth high-frequency and low-frequency pulsations",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "to eliminate flow rate fluctuations at the input to the centrifuge",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "2 Lukanina.md",
+        "category": "Статьи",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    }
+  ]
+}

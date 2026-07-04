@@ -1,0 +1,3023 @@
+{
+  "filename": "CM_04_2007.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "35",
+      "type": "Expert",
+      "name": "Н. А. Белов",
+      "canonical_name": "Н. А. Белов",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "111",
+      "type": "Facility",
+      "name": "ЭВАЛИС",
+      "canonical_name": "ЭВАЛИС",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "81",
+      "type": "Facility",
+      "name": "Schneider Electric",
+      "canonical_name": "Schneider Electric",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "90",
+      "type": "Facility",
+      "name": "Кандалакшский алюминиевый завод (КАЗ)",
+      "canonical_name": "Кандалакшский алюминиевый завод (КАЗ)",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "59",
+      "type": "Material",
+      "name": "медный концентрат",
+      "canonical_name": "медный концентрат",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "20",
+      "type": "Equipment",
+      "name": "тканевые дисковые вакуум-фильтры с филтротканью",
+      "canonical_name": "тканевые дисковые вакуум-фильтры с филтротканью",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "39",
+      "type": "Material",
+      "name": "concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "103",
+      "type": "Facility",
+      "name": "ОАО «Северсталь»",
+      "canonical_name": "ОАО «Северсталь»",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "76",
+      "type": "Facility",
+      "name": "Moscow State Evening Metallurgical Institute",
+      "canonical_name": "Moscow State Evening Metallurgical Institute",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "58",
+      "type": "Material",
+      "name": "медные полуфабрикаты",
+      "canonical_name": "медные полуфабрикаты",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "43",
+      "type": "Material",
+      "name": "Sn",
+      "canonical_name": "Sn",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "92",
+      "type": "Facility",
+      "name": "комбинат «Североникель»",
+      "canonical_name": "комбинат «Североникель»",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "36",
+      "type": "Expert",
+      "name": "«Севзапэлектрокомплект»",
+      "canonical_name": "«Севзапэлектрокомплект»",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "94",
+      "type": "Facility",
+      "name": "Красноярский алюминиевый завод (КрАЗ)",
+      "canonical_name": "Красноярский алюминиевый завод (КрАЗ)",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "98",
+      "type": "Facility",
+      "name": "металлургический завод «Петросталь»",
+      "canonical_name": "металлургический завод «Петросталь»",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "69",
+      "type": "Material",
+      "name": "цинковые покрытия",
+      "canonical_name": "цинковые покрытия",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "19",
+      "type": "Equipment",
+      "name": "пресс-фильтры Hoesch (Larox)",
+      "canonical_name": "пресс-фильтры Hoesch (Larox)",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "38",
+      "type": "Expert",
+      "name": "«Элтехника»",
+      "canonical_name": "«Элтехника»",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "89",
+      "type": "Facility",
+      "name": "Иркутский алюминиевый завод (ИркАЗ)",
+      "canonical_name": "Иркутский алюминиевый завод (ИркАЗ)",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "113",
+      "type": "Property",
+      "name": "коррозионные свойства",
+      "canonical_name": "коррозионные свойства",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "61",
+      "type": "Material",
+      "name": "отходы",
+      "canonical_name": "отходы",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "70",
+      "type": "Material",
+      "name": "цинковый концентрат",
+      "canonical_name": "цинковый концентрат",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "106",
+      "type": "Facility",
+      "name": "ОФ «Бучим»",
+      "canonical_name": "ОФ «Бучим»",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "72",
+      "type": "Process",
+      "name": "рафинирование расплава",
+      "canonical_name": "рафинирование расплава",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "102",
+      "type": "Facility",
+      "name": "ОАО «Кузнецкие ферросплавы",
+      "canonical_name": "ОАО «Кузнецкие ферросплавы",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "93",
+      "type": "Facility",
+      "name": "КрАЗ",
+      "canonical_name": "КрАЗ",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "22",
+      "type": "Equipment",
+      "name": "щиты КРУ MCset 10 кВ",
+      "canonical_name": "щиты КРУ MCset 10 кВ",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "78",
+      "type": "Facility",
+      "name": "Outokumpu",
+      "canonical_name": "Outokumpu",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "57",
+      "type": "Material",
+      "name": "медно-пиритный концентрат",
+      "canonical_name": "медно-пиритный концентрат",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "95",
+      "type": "Facility",
+      "name": "Магнитогорский металлургический комбинат",
+      "canonical_name": "Магнитогорский металлургический комбинат",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "21",
+      "type": "Equipment",
+      "name": "фильтры Larox Hoesch",
+      "canonical_name": "фильтры Larox Hoesch",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "65",
+      "type": "Material",
+      "name": "полуфабрикаты из цинка и сплавов на его основе",
+      "canonical_name": "полуфабрикаты из цинка и сплавов на его основе",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "109",
+      "type": "Facility",
+      "name": "ТД ЧЭАЗ",
+      "canonical_name": "ТД ЧЭАЗ",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "114",
+      "type": "Property",
+      "name": "механические свойства",
+      "canonical_name": "механические свойства",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "99",
+      "type": "Facility",
+      "name": "МИСиС",
+      "canonical_name": "МИСиС",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "101",
+      "type": "Facility",
+      "name": "Новолипецкий металлургический комбинат",
+      "canonical_name": "Новолипецкий металлургический комбинат",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "51",
+      "type": "Material",
+      "name": "литверные цинковые сплавы",
+      "canonical_name": "литверные цинковые сплавы",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "54",
+      "type": "Material",
+      "name": "лом",
+      "canonical_name": "лом",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "4",
+      "type": "Equipment",
+      "name": "EMCS",
+      "canonical_name": "EMCS",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "74",
+      "type": "Facility",
+      "name": "Kirov Plant OCM",
+      "canonical_name": "Kirov Plant OCM",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "7",
+      "type": "Equipment",
+      "name": "furnace control system",
+      "canonical_name": "furnace control system",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "75",
+      "type": "Facility",
+      "name": "Kolchugino Plant OCM",
+      "canonical_name": "Kolchugino Plant OCM",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "32",
+      "type": "Expert",
+      "name": "ЗАО «Шнейдер Электрик»",
+      "canonical_name": "ЗАО «Шнейдер Электрик»",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "85",
+      "type": "Facility",
+      "name": "Братский алюминиевый завод (БрАЗ)",
+      "canonical_name": "Братский алюминиевый завод (БрАЗ)",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "88",
+      "type": "Facility",
+      "name": "ИркАЗ",
+      "canonical_name": "ИркАЗ",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "96",
+      "type": "Facility",
+      "name": "Мариупольский металлургический комбинат им. Ильича",
+      "canonical_name": "Мариупольский металлургический комбинат им. Ильича",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "10",
+      "type": "Equipment",
+      "name": "Sepam",
+      "canonical_name": "Sepam",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "29",
+      "type": "Expert",
+      "name": "А. А. Аксенов",
+      "canonical_name": "А. А. Аксенов",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "82",
+      "type": "Facility",
+      "name": "Serbian Plant Maidanpek",
+      "canonical_name": "Serbian Plant Maidanpek",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "3",
+      "type": "Equipment",
+      "name": "disk vacuum filter with ceramic filter elements",
+      "canonical_name": "disk vacuum filter with ceramic filter elements",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "97",
+      "type": "Facility",
+      "name": "международный концерн Schneider Electric",
+      "canonical_name": "международный концерн Schneider Electric",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "49",
+      "type": "Material",
+      "name": "концентрат",
+      "canonical_name": "концентрат",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "48",
+      "type": "Material",
+      "name": "газ",
+      "canonical_name": "газ",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "26",
+      "type": "Expert",
+      "name": "M. D. Zharnitsky",
+      "canonical_name": "M. D. Zharnitsky",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "16",
+      "type": "Equipment",
+      "name": "МПРЗ Sepam",
+      "canonical_name": "МПРЗ Sepam",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "Masterpact",
+      "canonical_name": "Masterpact",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "73",
+      "type": "Process",
+      "name": "сортировка",
+      "canonical_name": "сортировка",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "1",
+      "type": "Equipment",
+      "name": "combustion control system",
+      "canonical_name": "combustion control system",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "5",
+      "type": "Equipment",
+      "name": "filter cloth",
+      "canonical_name": "filter cloth",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "87",
+      "type": "Facility",
+      "name": "Зыряновская ОФ",
+      "canonical_name": "Зыряновская ОФ",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "112",
+      "type": "Property",
+      "name": "влажность кека",
+      "canonical_name": "влажность кека",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "105",
+      "type": "Facility",
+      "name": "ОМК-Сталь",
+      "canonical_name": "ОМК-Сталь",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "24",
+      "type": "Expert",
+      "name": "B. L. Krasnyy",
+      "canonical_name": "B. L. Krasnyy",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "62",
+      "type": "Material",
+      "name": "первичные сплавы",
+      "canonical_name": "первичные сплавы",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "115",
+      "type": "Property",
+      "name": "производительность",
+      "canonical_name": "производительность",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "46",
+      "type": "Material",
+      "name": "вторичное сырье",
+      "canonical_name": "вторичное сырье",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "53",
+      "type": "Material",
+      "name": "литейные медные сплавы",
+      "canonical_name": "литейные медные сплавы",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "11",
+      "type": "Equipment",
+      "name": "автоматические выключатели 0,4 кВ Masterpact",
+      "canonical_name": "автоматические выключатели 0,4 кВ Masterpact",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "Micrologic",
+      "canonical_name": "Micrologic",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "45",
+      "type": "Material",
+      "name": "возобновляемые источники энергии",
+      "canonical_name": "возобновляемые источники энергии",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "27",
+      "type": "Expert",
+      "name": "N. Belov",
+      "canonical_name": "N. Belov",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "47",
+      "type": "Material",
+      "name": "вторичные сплавы",
+      "canonical_name": "вторичные сплавы",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "2",
+      "type": "Equipment",
+      "name": "Compact",
+      "canonical_name": "Compact",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "34",
+      "type": "Expert",
+      "name": "М. Д. Жарницкий",
+      "canonical_name": "М. Д. Жарницкий",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "84",
+      "type": "Facility",
+      "name": "Zyryanskaya Concentrator Plant",
+      "canonical_name": "Zyryanskaya Concentrator Plant",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "104",
+      "type": "Facility",
+      "name": "ОАО «Уральская Сталь»",
+      "canonical_name": "ОАО «Уральская Сталь»",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "77",
+      "type": "Facility",
+      "name": "OOO «Bakor-Filter-Keramika»",
+      "canonical_name": "OOO «Bakor-Filter-Keramika»",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "12",
+      "type": "Equipment",
+      "name": "блоки Micrologic",
+      "canonical_name": "блоки Micrologic",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "13",
+      "type": "Equipment",
+      "name": "вакуумные выключатели «Эволис»",
+      "canonical_name": "вакуумные выключатели «Эволис»",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "52",
+      "type": "Material",
+      "name": "литейные алюминиевые сплавы",
+      "canonical_name": "литейные алюминиевые сплавы",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "42",
+      "type": "Material",
+      "name": "Pb",
+      "canonical_name": "Pb",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "25",
+      "type": "Expert",
+      "name": "E. Ya. Roitman",
+      "canonical_name": "E. Ya. Roitman",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "14",
+      "type": "Equipment",
+      "name": "вакуумный выключатель «Эволис»",
+      "canonical_name": "вакуумный выключатель «Эволис»",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "freq. drive",
+      "canonical_name": "freq. drive",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "17",
+      "type": "Equipment",
+      "name": "МПРЗ Sepam 1000+",
+      "canonical_name": "МПРЗ Sepam 1000+",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "60",
+      "type": "Material",
+      "name": "оксиды",
+      "canonical_name": "оксиды",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "50",
+      "type": "Material",
+      "name": "латунь",
+      "canonical_name": "латунь",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "18",
+      "type": "Equipment",
+      "name": "МПРЗ серий 20, 40 и 80",
+      "canonical_name": "МПРЗ серий 20, 40 и 80",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "83",
+      "type": "Facility",
+      "name": "ZAO NTC «Bakor»",
+      "canonical_name": "ZAO NTC «Bakor»",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "56",
+      "type": "Material",
+      "name": "медная руда",
+      "canonical_name": "медная руда",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "100",
+      "type": "Facility",
+      "name": "Новокузнецкий алюминиевый завод (НкАЗ)",
+      "canonical_name": "Новокузнецкий алюминиевый завод (НкАЗ)",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "63",
+      "type": "Material",
+      "name": "полуфабрикаты",
+      "canonical_name": "полуфабрикаты",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "108",
+      "type": "Facility",
+      "name": "СибВАМИ",
+      "canonical_name": "СибВАМИ",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "23",
+      "type": "Equipment",
+      "name": "элегазовые выключатели LF",
+      "canonical_name": "элегазовые выключатели LF",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "55",
+      "type": "Material",
+      "name": "медесодержащие отходы",
+      "canonical_name": "медесодержащие отходы",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "107",
+      "type": "Facility",
+      "name": "Риддерская ОФ",
+      "canonical_name": "Риддерская ОФ",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "41",
+      "type": "Material",
+      "name": "Fe",
+      "canonical_name": "Fe",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "37",
+      "type": "Expert",
+      "name": "СибВАМИ",
+      "canonical_name": "СибВАМИ",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "40",
+      "type": "Material",
+      "name": "copper_tubes",
+      "canonical_name": "copper_tubes",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "71",
+      "type": "Material",
+      "name": "электричество",
+      "canonical_name": "электричество",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "28",
+      "type": "Expert",
+      "name": "V. V. Bondary",
+      "canonical_name": "V. V. Bondary",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "66",
+      "type": "Material",
+      "name": "рафинированная медь",
+      "canonical_name": "рафинированная медь",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "67",
+      "type": "Material",
+      "name": "СО2-сертификаты",
+      "canonical_name": "СО2-сертификаты",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "79",
+      "type": "Facility",
+      "name": "Research Center",
+      "canonical_name": "Research Center",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "68",
+      "type": "Material",
+      "name": "цинк",
+      "canonical_name": "цинк",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "80",
+      "type": "Facility",
+      "name": "Revda Plant OCM",
+      "canonical_name": "Revda Plant OCM",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "15",
+      "type": "Equipment",
+      "name": "дисковые вакуум-фильтры с керамическими фильтрующими элементами",
+      "canonical_name": "дисковые вакуум-фильтры с керамическими фильтрующими элементами",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "91",
+      "type": "Facility",
+      "name": "Карагайлинская ОФ",
+      "canonical_name": "Карагайлинская ОФ",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "44",
+      "type": "Material",
+      "name": "водород",
+      "canonical_name": "водород",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "30",
+      "type": "Expert",
+      "name": "В. С. Золоторевский",
+      "canonical_name": "В. С. Золоторевский",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "86",
+      "type": "Facility",
+      "name": "ЗАО «Шнейдер Электрик»",
+      "canonical_name": "ЗАО «Шнейдер Электрик»",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "31",
+      "type": "Expert",
+      "name": "«ВОСервис»",
+      "canonical_name": "«ВОСервис»",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "110",
+      "type": "Facility",
+      "name": "Тихвинский ферросплавный завод",
+      "canonical_name": "Тихвинский ферросплавный завод",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "64",
+      "type": "Material",
+      "name": "полуфабрикаты из меди и медных сплавов",
+      "canonical_name": "полуфабрикаты из меди и медных сплавов",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "33",
+      "type": "Expert",
+      "name": "«КрасГЭСинжиниринг»",
+      "canonical_name": "«КрасГЭСинжиниринг»",
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "35",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "99",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "59",
+      "relation": "uses_material",
+      "target_id": "104",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "70",
+      "relation": "uses_material",
+      "target_id": "81",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "57",
+      "relation": "produces_output",
+      "target_id": "111",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "112",
+      "relation": "produces_output",
+      "target_id": "86",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "109",
+      "relation": "uses_material",
+      "target_id": "88",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "88",
+      "relation": "uses_material",
+      "target_id": "108",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "108",
+      "relation": "uses_material",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "26",
+      "relation": "uses_material",
+      "target_id": "86",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "108",
+      "relation": "affiliated_with",
+      "target_id": "86",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "86",
+      "relation": "affiliated_with",
+      "target_id": "97",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "91",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "validated_by",
+      "target_id": "91",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "87",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "91",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "59",
+      "relation": "operates_at_condition",
+      "target_id": "91",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "70",
+      "relation": "operates_at_condition",
+      "target_id": "91",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "57",
+      "relation": "uses_material",
+      "target_id": "70",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "112",
+      "relation": "uses_material",
+      "target_id": "106",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "115",
+      "relation": "uses_material",
+      "target_id": "106",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "affiliated_with",
+      "target_id": "91",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "91",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "35",
+      "relation": "affiliated_with",
+      "target_id": "91",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "affiliated_with",
+      "target_id": "91",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "99",
+      "relation": "affiliated_with",
+      "target_id": "91",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "104",
+      "relation": "affiliated_with",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "59",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "70",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "57",
+      "relation": "operates_at_condition",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "112",
+      "relation": "operates_at_condition",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "115",
+      "relation": "operates_at_condition",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "81",
+      "relation": "affiliated_with",
+      "target_id": "86",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "111",
+      "relation": "affiliated_with",
+      "target_id": "86",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "109",
+      "relation": "affiliated_with",
+      "target_id": "86",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "26",
+      "relation": "described_in",
+      "target_id": "81",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "70",
+      "relation": "affiliated_with",
+      "target_id": "57",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "59",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "70",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "70",
+      "relation": "operates_at_condition",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "70",
+      "relation": "operates_at_condition",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "70",
+      "relation": "uses_material",
+      "target_id": "57",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "70",
+      "relation": "uses_material",
+      "target_id": "112",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "70",
+      "relation": "uses_material",
+      "target_id": "115",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "70",
+      "relation": "uses_material",
+      "target_id": "91",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "70",
+      "relation": "uses_material",
+      "target_id": "87",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "70",
+      "relation": "operates_at_condition",
+      "target_id": "107",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "70",
+      "relation": "operates_at_condition",
+      "target_id": "106",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "99",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "35",
+      "relation": "affiliated_with",
+      "target_id": "99",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "affiliated_with",
+      "target_id": "99",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "validated_by",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "59",
+      "relation": "affiliated_with",
+      "target_id": "57",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "70",
+      "relation": "affiliated_with",
+      "target_id": "112",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "91",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "112",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "115",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "115",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "59",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "57",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "57",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "70",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "70",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "70",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "70",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "70",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "70",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "70",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "70",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "115",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "115",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "115",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "115",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "115",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "115",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "115",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "produces_output",
+      "target_id": "57",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "produces_output",
+      "target_id": "57",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "115",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "contradicts",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "contradicts",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "CM_04_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 26,
+        "page_end": 26
+      }
+    }
+  ]
+}

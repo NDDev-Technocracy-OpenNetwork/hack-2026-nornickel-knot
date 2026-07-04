@@ -1,0 +1,4352 @@
+{
+  "filename": "GFMS-forecast-Cu-13feb09.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "2",
+      "type": "Property",
+      "name": "global production",
+      "canonical_name": "global production",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "3",
+      "type": "Property",
+      "name": "global consumption",
+      "canonical_name": "global consumption",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "4",
+      "type": "Property",
+      "name": "metal balance",
+      "canonical_name": "metal balance",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "reported stock change",
+      "canonical_name": "reported stock change",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "reported stocks",
+      "canonical_name": "reported stocks",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "7",
+      "type": "Property",
+      "name": "LME cash",
+      "canonical_name": "LME cash",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "% change y-o-y",
+      "canonical_name": "% change y-o-y",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "9",
+      "type": "Property",
+      "name": "total stocks",
+      "canonical_name": "total stocks",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "10",
+      "type": "Property",
+      "name": "total as No. weeks con",
+      "canonical_name": "total as No. weeks con",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "11",
+      "type": "Property",
+      "name": "LME as No. weeks con",
+      "canonical_name": "LME as No. weeks con",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "LME cash (€/tonne)",
+      "canonical_name": "LME cash (€/tonne)",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "13",
+      "type": "Property",
+      "name": "LME cash ($/tonne)",
+      "canonical_name": "LME cash ($/tonne)",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "14",
+      "type": "Facility",
+      "name": "LME",
+      "canonical_name": "LME",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "15",
+      "type": "Facility",
+      "name": "Comex",
+      "canonical_name": "Comex",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "16",
+      "type": "Facility",
+      "name": "SHFE",
+      "canonical_name": "SHFE",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "17",
+      "type": "Facility",
+      "name": "ICSG",
+      "canonical_name": "ICSG",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "18",
+      "type": "Facility",
+      "name": "WBMS",
+      "canonical_name": "WBMS",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "19",
+      "type": "Facility",
+      "name": "GFMS-MC",
+      "canonical_name": "GFMS-MC",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "20",
+      "type": "Expert",
+      "name": "GFMS METALS CONSULTING",
+      "canonical_name": "GFMS METALS CONSULTING",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "physical premiums",
+      "canonical_name": "physical premiums",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "stimulus package",
+      "canonical_name": "stimulus package",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "construction",
+      "canonical_name": "construction",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "automotive market",
+      "canonical_name": "automotive market",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "housing starts",
+      "canonical_name": "housing starts",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "vehicle sales",
+      "canonical_name": "vehicle sales",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "physical premiums",
+      "canonical_name": "physical premiums",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "copper consumption",
+      "canonical_name": "copper consumption",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "BRICS",
+      "canonical_name": "BRICS",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "Europe",
+      "canonical_name": "Europe",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "Japan",
+      "canonical_name": "Japan",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "USA",
+      "canonical_name": "USA",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "Russia",
+      "canonical_name": "Russia",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "Brazil",
+      "canonical_name": "Brazil",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "India",
+      "canonical_name": "India",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "17",
+      "type": "Material",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "18",
+      "type": "Material",
+      "name": "SEATAK",
+      "canonical_name": "SEATAK",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "19",
+      "type": "Material",
+      "name": "Mature",
+      "canonical_name": "Mature",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "20",
+      "type": "Material",
+      "name": "Others",
+      "canonical_name": "Others",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "SX-EW",
+      "canonical_name": "SX-EW",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "GFMS Metals Consulting",
+      "canonical_name": "GFMS Metals Consulting",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "ICSG",
+      "canonical_name": "ICSG",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "GFMS Metals Consulting",
+      "canonical_name": "GFMS Metals Consulting",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper concentrate",
+      "canonical_name": "copper concentrate",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "sulphuric acid",
+      "canonical_name": "sulphuric acid",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "energy",
+      "canonical_name": "energy",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "equipment",
+      "canonical_name": "equipment",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "labour",
+      "canonical_name": "labour",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "base metals",
+      "canonical_name": "base metals",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "copper concentrate",
+      "canonical_name": "copper concentrate",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "sulphuric acid",
+      "canonical_name": "sulphuric acid",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "energy",
+      "canonical_name": "energy",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "equipment",
+      "canonical_name": "equipment",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "labour",
+      "canonical_name": "labour",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "base metals",
+      "canonical_name": "base metals",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "2",
+      "type": "Property",
+      "name": "global production",
+      "canonical_name": "global production",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "3",
+      "type": "Property",
+      "name": "global consumption",
+      "canonical_name": "global consumption",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "4",
+      "type": "Property",
+      "name": "metal balance",
+      "canonical_name": "metal balance",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "reported stock change",
+      "canonical_name": "reported stock change",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "reported stocks",
+      "canonical_name": "reported stocks",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "7",
+      "type": "Property",
+      "name": "LME cash",
+      "canonical_name": "LME cash",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "% change y-o-y",
+      "canonical_name": "% change y-o-y",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "9",
+      "type": "Property",
+      "name": "total stocks",
+      "canonical_name": "total stocks",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "10",
+      "type": "Property",
+      "name": "total as No. weeks con",
+      "canonical_name": "total as No. weeks con",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "11",
+      "type": "Property",
+      "name": "LME as No. weeks con",
+      "canonical_name": "LME as No. weeks con",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "LME cash (€/tonne)",
+      "canonical_name": "LME cash (€/tonne)",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "13",
+      "type": "Property",
+      "name": "LME cash ($/tonne)",
+      "canonical_name": "LME cash ($/tonne)",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "14",
+      "type": "Facility",
+      "name": "LME",
+      "canonical_name": "LME",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "15",
+      "type": "Facility",
+      "name": "Comex",
+      "canonical_name": "Comex",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "16",
+      "type": "Facility",
+      "name": "SHFE",
+      "canonical_name": "SHFE",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "17",
+      "type": "Facility",
+      "name": "ICSG",
+      "canonical_name": "ICSG",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "18",
+      "type": "Facility",
+      "name": "WBMS",
+      "canonical_name": "WBMS",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "19",
+      "type": "Facility",
+      "name": "GFMS-MC",
+      "canonical_name": "GFMS-MC",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "20",
+      "type": "Expert",
+      "name": "GFMS METALS CONSULTING",
+      "canonical_name": "GFMS METALS CONSULTING",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "physical premiums",
+      "canonical_name": "physical premiums",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "stimulus package",
+      "canonical_name": "stimulus package",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "construction",
+      "canonical_name": "construction",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "automotive market",
+      "canonical_name": "automotive market",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "housing starts",
+      "canonical_name": "housing starts",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "vehicle sales",
+      "canonical_name": "vehicle sales",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "physical premiums",
+      "canonical_name": "physical premiums",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "copper consumption",
+      "canonical_name": "copper consumption",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "BRICS",
+      "canonical_name": "BRICS",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "Europe",
+      "canonical_name": "Europe",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "Japan",
+      "canonical_name": "Japan",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "USA",
+      "canonical_name": "USA",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "Russia",
+      "canonical_name": "Russia",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "Brazil",
+      "canonical_name": "Brazil",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "India",
+      "canonical_name": "India",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "17",
+      "type": "Material",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "18",
+      "type": "Material",
+      "name": "SEATAK",
+      "canonical_name": "SEATAK",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "19",
+      "type": "Material",
+      "name": "Mature",
+      "canonical_name": "Mature",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "20",
+      "type": "Material",
+      "name": "Others",
+      "canonical_name": "Others",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "SX-EW",
+      "canonical_name": "SX-EW",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "GFMS Metals Consulting",
+      "canonical_name": "GFMS Metals Consulting",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "ICSG",
+      "canonical_name": "ICSG",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "GFMS Metals Consulting",
+      "canonical_name": "GFMS Metals Consulting",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper concentrate",
+      "canonical_name": "copper concentrate",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "sulphuric acid",
+      "canonical_name": "sulphuric acid",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "energy",
+      "canonical_name": "energy",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "equipment",
+      "canonical_name": "equipment",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "labour",
+      "canonical_name": "labour",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "base metals",
+      "canonical_name": "base metals",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "copper concentrate",
+      "canonical_name": "copper concentrate",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "sulphuric acid",
+      "canonical_name": "sulphuric acid",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "energy",
+      "canonical_name": "energy",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "equipment",
+      "canonical_name": "equipment",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "labour",
+      "canonical_name": "labour",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "base metals",
+      "canonical_name": "base metals",
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-forecast-Cu-13feb09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    }
+  ]
+}

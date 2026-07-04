@@ -1,0 +1,404 @@
+{
+  "filename": "ICSG_2012_04__forecast-2013.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "International Copper Study Group (ICSG)",
+      "canonical_name": "International Copper Study Group (ICSG)",
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Lisbon, Portugal",
+      "canonical_name": "Lisbon, Portugal",
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "electrowinning",
+      "canonical_name": "electrowinning",
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "secondary refined production",
+      "canonical_name": "secondary refined production",
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "refined copper",
+      "canonical_name": "refined copper",
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "world",
+      "canonical_name": "world",
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "EU",
+      "canonical_name": "EU",
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Japan",
+      "canonical_name": "Japan",
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "U.S.",
+      "canonical_name": "U.S.",
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 20.149,
+      "unit": "Mt",
+      "condition": "2012",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 21.549,
+      "unit": "Mt",
+      "condition": "2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 160000.0,
+      "unit": "t",
+      "condition": "2012",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 130000.0,
+      "unit": "t",
+      "condition": "2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 190000.0,
+      "unit": "t",
+      "condition": "2012",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 180000.0,
+      "unit": "t",
+      "condition": "2013",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ICSG_2012_04__forecast-2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    }
+  ]
+}

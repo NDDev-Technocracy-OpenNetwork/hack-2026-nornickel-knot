@@ -1,0 +1,7074 @@
+{
+  "filename": "Сверхтонкое_измельчение_2012.md",
+  "category": "Обзоры",
+  "entities": [
+    {
+      "id": "G-Cell",
+      "type": "Process",
+      "name": "G-Cell",
+      "canonical_name": "G-Cell",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "Leachox Aachen Reactor",
+      "type": "Equipment",
+      "name": "Leachox Aachen Reactor",
+      "canonical_name": "Leachox Aachen Reactor",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "Deswik mill",
+      "type": "Equipment",
+      "name": "Deswik mill",
+      "canonical_name": "Deswik mill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "Vasylkivsky GOK",
+      "type": "Facility",
+      "name": "Vasylkivsky GOK",
+      "canonical_name": "Vasylkivsky GOK",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "Altyntau GOK",
+      "type": "Facility",
+      "name": "Altyntau GOK",
+      "canonical_name": "Altyntau GOK",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "MMS",
+      "type": "Expert",
+      "name": "MMS",
+      "canonical_name": "MMS",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "Xstrata",
+      "type": "Expert",
+      "name": "Xstrata",
+      "canonical_name": "Xstrata",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "IsaMill",
+      "type": "Equipment",
+      "name": "IsaMill",
+      "canonical_name": "IsaMill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "Institute of Gipronikel",
+      "type": "Expert",
+      "name": "Institute of Gipronikel",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "Xstrata_Copper",
+      "type": "Expert",
+      "name": "Xstrata Copper",
+      "canonical_name": "Xstrata Copper",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "Vale",
+      "type": "Expert",
+      "name": "Vale",
+      "canonical_name": "Vale",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "Институт_Гипроникель",
+      "type": "Expert",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "CORe",
+      "type": "Experiment",
+      "name": "CORe",
+      "canonical_name": "CORe",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "Clarabelle",
+      "type": "Facility",
+      "name": "Clarabelle",
+      "canonical_name": "Clarabelle",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "Copper_Cliff",
+      "type": "Facility",
+      "name": "Copper Cliff",
+      "canonical_name": "Copper Cliff",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "IsaMill_M3000_HF",
+      "type": "Equipment",
+      "name": "Мельница М3000 HF",
+      "canonical_name": "IsaMill M3000 HF",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "IsaMill_M3000",
+      "type": "Equipment",
+      "name": "Мельница IsaMill M3000",
+      "canonical_name": "IsaMill M3000",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "Leinster",
+      "type": "Facility",
+      "name": "Leinster",
+      "canonical_name": "Leinster",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "NiWest",
+      "type": "Facility",
+      "name": "NiWest",
+      "canonical_name": "NiWest",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "BHP_Billiton",
+      "type": "Expert",
+      "name": "BHP Billiton",
+      "canonical_name": "BHP Billiton",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "UG2",
+      "type": "Material",
+      "name": "UG2",
+      "canonical_name": "UG2",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "Platreef",
+      "type": "Material",
+      "name": "Platreef",
+      "canonical_name": "Platreef",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "MF2",
+      "type": "Process",
+      "name": "MF2",
+      "canonical_name": "MF2",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "нейтральное выщелачивание пирита",
+      "canonical_name": "нейтральное выщелачивание пирита",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "процесс Albion",
+      "canonical_name": "процесс Albion",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Fe(III)",
+      "canonical_name": "Fe(III)",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "серная кислота",
+      "canonical_name": "серная кислота",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "гетит",
+      "canonical_name": "гетит",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "гипс",
+      "canonical_name": "гипс",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "известняковая пульпа",
+      "canonical_name": "известняковая пульпа",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "цианид",
+      "canonical_name": "цианид",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "Fe (II)/Fe (III)",
+      "canonical_name": "Fe (II)/Fe (III)",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "силикаты",
+      "canonical_name": "силикаты",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "ярозит",
+      "canonical_name": "ярозит",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "сульфидная матрица",
+      "canonical_name": "сульфидная матрица",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "серебро",
+      "canonical_name": "серебро",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "соль",
+      "canonical_name": "соль",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "кислород",
+      "canonical_name": "кислород",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "сверхтонкий измельчение",
+      "canonical_name": "сверхтонкий измельчение",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "17",
+      "type": "Material",
+      "name": "концентрат базовых металлов",
+      "canonical_name": "концентрат базовых металлов",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "18",
+      "type": "Material",
+      "name": "Cu/Au концентраты",
+      "canonical_name": "Cu/Au концентраты",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "19",
+      "type": "Material",
+      "name": "мышьяковистые пыли медеплавильных заводов",
+      "canonical_name": "мышьяковистые пыли медеплавильных заводов",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "20",
+      "type": "Material",
+      "name": "низкосортные медные концентраты",
+      "canonical_name": "низкосортные медные концентраты",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "21",
+      "type": "Material",
+      "name": "мышьяковистые концентраты",
+      "canonical_name": "мышьяковистые концентраты",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "22",
+      "type": "Material",
+      "name": "цинковые концентраты",
+      "canonical_name": "цинковые концентраты",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "23",
+      "type": "Material",
+      "name": "никель",
+      "canonical_name": "никель",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "24",
+      "type": "Material",
+      "name": "мышьяк",
+      "canonical_name": "мышьяк",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "25",
+      "type": "Material",
+      "name": "MgO",
+      "canonical_name": "MgO",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "26",
+      "type": "Material",
+      "name": "концентрат",
+      "canonical_name": "концентрат",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "27",
+      "type": "Material",
+      "name": "Zod",
+      "canonical_name": "Zod",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "28",
+      "type": "Material",
+      "name": "GeoProMining Gold",
+      "canonical_name": "GeoProMining Gold",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "29",
+      "type": "Material",
+      "name": "араратская золотоизвлекательная фабрика",
+      "canonical_name": "араратская золотоизвлекательная фабрика",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "30",
+      "type": "Facility",
+      "name": "араратская золотоизвлекательная фабрика",
+      "canonical_name": "араратская золотоизвлекательная фабрика",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "31",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Вострикова Н.М.",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "32",
+      "type": "Expert",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": " кварцевый песок",
+      "canonical_name": "quartz sand",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": " керамическая измельчающая среда",
+      "canonical_name": "ceramic grinding medium",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": " глинозем",
+      "canonical_name": "bauxite",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": " упрочненный ZrO2",
+      "canonical_name": "strengthened ZrO2",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": " сверхтонкое измельчение",
+      "canonical_name": "ultrafine grinding",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": " повторное измельчение",
+      "canonical_name": "regrinding",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": " контрольная основная флотация",
+      "canonical_name": "primary concentrate flotation",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": " извлечение МПГ",
+      "canonical_name": "MPG extraction",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": " ультратонкое измельчение",
+      "canonical_name": "ultrafine grinding",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": " основной поток",
+      "canonical_name": "main stream",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "11",
+      "type": "Process",
+      "name": " вторичный продукт",
+      "canonical_name": "secondary product",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "12",
+      "type": "Process",
+      "name": " шаровая мельница",
+      "canonical_name": "ball mill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "13",
+      "type": "Equipment",
+      "name": " Isa Mill М10000",
+      "canonical_name": "Isa Mill М10000",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "14",
+      "type": "Equipment",
+      "name": " Isa Mill",
+      "canonical_name": "Isa Mill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "15",
+      "type": "Equipment",
+      "name": " Deswik-2000 л",
+      "canonical_name": "Deswik-2000 л",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "16",
+      "type": "Equipment",
+      "name": " Deswik-500 л",
+      "canonical_name": "Deswik-500 л",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "17",
+      "type": "Equipment",
+      "name": " SMD355",
+      "canonical_name": "SMD355",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "18",
+      "type": "Equipment",
+      "name": " Kings",
+      "canonical_name": "Kings",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "19",
+      "type": "Facility",
+      "name": " Mogalakwena South секция ‘C’",
+      "canonical_name": "Mogalakwena South секция ‘C’",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "20",
+      "type": "Facility",
+      "name": " рудник Amandelbult",
+      "canonical_name": "Amandelbult Mine",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "21",
+      "type": "Facility",
+      "name": " рудник Waterval",
+      "canonical_name": "Waterval Mine",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "22",
+      "type": "Expert",
+      "name": " Anglo Platinum",
+      "canonical_name": "Anglo Platinum",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "23",
+      "type": "Expert",
+      "name": " ООО «Институт Гипроникель»",
+      "canonical_name": "ООО «Институт Гипроникель»",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "Second grinding",
+      "canonical_name": "second grinding",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "Perfection flotation",
+      "canonical_name": "perfection flotation",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "3",
+      "type": "Equipment",
+      "name": "IsaMill",
+      "canonical_name": "IsaMill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Tailings",
+      "canonical_name": "tailings",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Magnetite concentrate",
+      "canonical_name": "magnetite concentrate",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Unopened magnetite",
+      "canonical_name": "unopened magnetite",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Disc filter",
+      "canonical_name": "disc filter",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Kroondal mine",
+      "canonical_name": "Kroondal mine",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Ernest Henry mine",
+      "canonical_name": "Ernest Henry mine",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "11",
+      "type": "Expert",
+      "name": "Vostrikova N.M.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "12",
+      "type": "Publication",
+      "name": "Rule [15]",
+      "canonical_name": "Rule [15]",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "13",
+      "type": "Publication",
+      "name": "Xstrata [16]",
+      "canonical_name": "Xstrata [16]",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "14",
+      "type": "Expert",
+      "name": "OAO 'Institute Gipronikel'",
+      "canonical_name": "OAO 'Institute Gipronikel'",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "1",
+      "type": "Equipment",
+      "name": "IsaMill",
+      "canonical_name": "IsaMill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "2",
+      "type": "Equipment",
+      "name": "Шаровая мельница",
+      "canonical_name": "ball mill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "измельчающая среда",
+      "canonical_name": "grinding medium",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "сырье",
+      "canonical_name": "raw material",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "частицы измельчаемого материала",
+      "canonical_name": "grindable particles",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "частицы измельчающей среды",
+      "canonical_name": "grinding medium particles",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "OJSC Institute of Gipronikel",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "ультратонкое измельчение",
+      "canonical_name": "ultratoning grinding",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "исходный продукт",
+      "canonical_name": "raw product",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "ультратонкий продукт",
+      "canonical_name": "ultratoning product",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "цианирование",
+      "canonical_name": "cyanidation",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "центробежная сепарация",
+      "canonical_name": "centrifugal separation",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "перечистная флотация",
+      "canonical_name": "selective flotation",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "7",
+      "type": "Equipment",
+      "name": "вертикальная мельница Deswik",
+      "canonical_name": "Deswik vertical mill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "ТОМС",
+      "canonical_name": "ТОМС",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Вострикова Н.М.",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "11",
+      "type": "Publication",
+      "name": "Сенченко [1]",
+      "canonical_name": "Сенченко [1]",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "12",
+      "type": "Publication",
+      "name": "ТОМС [1]",
+      "canonical_name": "ТОМС [1]",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "IsaMill",
+      "canonical_name": "IsaMill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "шаровая мельница",
+      "canonical_name": "sharova melnica",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "измельчающая среда",
+      "canonical_name": "izmelchayushchaya sreda",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "керамические частицы",
+      "canonical_name": "keramicheskie chastitsy",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "стальные шары",
+      "canonical_name": "stalnye shary",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "IsaCharger™",
+      "canonical_name": "IsaCharger™",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Михеевский ГОК",
+      "canonical_name": "Mikhayevskiy GOK",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Institut Gipronikel",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "IsaMill",
+      "type": "Equipment",
+      "name": "IsaMill",
+      "canonical_name": "IsaMill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "IsaMill_open_loop",
+      "type": "Process",
+      "name": "IsaMill in open loop",
+      "canonical_name": "IsaMill in open loop",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "SAG_mill",
+      "type": "Equipment",
+      "name": "SAG mill",
+      "canonical_name": "SAG mill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "Cavex_cyclones",
+      "type": "Equipment",
+      "name": "Cavex cyclones",
+      "canonical_name": "Cavex cyclones",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "SkimAir_flotation_cell",
+      "type": "Equipment",
+      "name": "SkimAir flotation cell",
+      "canonical_name": "SkimAir flotation cell",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "Cosmos_mine",
+      "type": "Facility",
+      "name": "Cosmos mine",
+      "canonical_name": "Cosmos mine",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "Xstrata",
+      "type": "Expert",
+      "name": "Xstrata",
+      "canonical_name": "Xstrata",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "Institute_Gipronikel",
+      "type": "Expert",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "G-Cell",
+      "type": "Process",
+      "name": "G-Cell",
+      "canonical_name": "G-Cell",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "Leachox Aachen Reactor",
+      "type": "Equipment",
+      "name": "Leachox Aachen Reactor",
+      "canonical_name": "Leachox Aachen Reactor",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "Deswik mill",
+      "type": "Equipment",
+      "name": "Deswik mill",
+      "canonical_name": "Deswik mill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "Vasylkivsky GOK",
+      "type": "Facility",
+      "name": "Vasylkivsky GOK",
+      "canonical_name": "Vasylkivsky GOK",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "Altyntau GOK",
+      "type": "Facility",
+      "name": "Altyntau GOK",
+      "canonical_name": "Altyntau GOK",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "MMS",
+      "type": "Expert",
+      "name": "MMS",
+      "canonical_name": "MMS",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "Xstrata",
+      "type": "Expert",
+      "name": "Xstrata",
+      "canonical_name": "Xstrata",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "IsaMill",
+      "type": "Equipment",
+      "name": "IsaMill",
+      "canonical_name": "IsaMill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "Institute of Gipronikel",
+      "type": "Expert",
+      "name": "Institute of Gipronikel",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "Xstrata_Copper",
+      "type": "Expert",
+      "name": "Xstrata Copper",
+      "canonical_name": "Xstrata Copper",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "Vale",
+      "type": "Expert",
+      "name": "Vale",
+      "canonical_name": "Vale",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "Институт_Гипроникель",
+      "type": "Expert",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "CORe",
+      "type": "Experiment",
+      "name": "CORe",
+      "canonical_name": "CORe",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "Clarabelle",
+      "type": "Facility",
+      "name": "Clarabelle",
+      "canonical_name": "Clarabelle",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "Copper_Cliff",
+      "type": "Facility",
+      "name": "Copper Cliff",
+      "canonical_name": "Copper Cliff",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "IsaMill_M3000_HF",
+      "type": "Equipment",
+      "name": "Мельница М3000 HF",
+      "canonical_name": "IsaMill M3000 HF",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "IsaMill_M3000",
+      "type": "Equipment",
+      "name": "Мельница IsaMill M3000",
+      "canonical_name": "IsaMill M3000",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "Leinster",
+      "type": "Facility",
+      "name": "Leinster",
+      "canonical_name": "Leinster",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "NiWest",
+      "type": "Facility",
+      "name": "NiWest",
+      "canonical_name": "NiWest",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "BHP_Billiton",
+      "type": "Expert",
+      "name": "BHP Billiton",
+      "canonical_name": "BHP Billiton",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "UG2",
+      "type": "Material",
+      "name": "UG2",
+      "canonical_name": "UG2",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "Platreef",
+      "type": "Material",
+      "name": "Platreef",
+      "canonical_name": "Platreef",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "MF2",
+      "type": "Process",
+      "name": "MF2",
+      "canonical_name": "MF2",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "нейтральное выщелачивание пирита",
+      "canonical_name": "нейтральное выщелачивание пирита",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "процесс Albion",
+      "canonical_name": "процесс Albion",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Fe(III)",
+      "canonical_name": "Fe(III)",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "серная кислота",
+      "canonical_name": "серная кислота",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "гетит",
+      "canonical_name": "гетит",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "гипс",
+      "canonical_name": "гипс",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "известняковая пульпа",
+      "canonical_name": "известняковая пульпа",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "цианид",
+      "canonical_name": "цианид",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "Fe (II)/Fe (III)",
+      "canonical_name": "Fe (II)/Fe (III)",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "силикаты",
+      "canonical_name": "силикаты",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "ярозит",
+      "canonical_name": "ярозит",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "сульфидная матрица",
+      "canonical_name": "сульфидная матрица",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "серебро",
+      "canonical_name": "серебро",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "соль",
+      "canonical_name": "соль",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "кислород",
+      "canonical_name": "кислород",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "сверхтонкий измельчение",
+      "canonical_name": "сверхтонкий измельчение",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "17",
+      "type": "Material",
+      "name": "концентрат базовых металлов",
+      "canonical_name": "концентрат базовых металлов",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "18",
+      "type": "Material",
+      "name": "Cu/Au концентраты",
+      "canonical_name": "Cu/Au концентраты",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "19",
+      "type": "Material",
+      "name": "мышьяковистые пыли медеплавильных заводов",
+      "canonical_name": "мышьяковистые пыли медеплавильных заводов",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "20",
+      "type": "Material",
+      "name": "низкосортные медные концентраты",
+      "canonical_name": "низкосортные медные концентраты",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "21",
+      "type": "Material",
+      "name": "мышьяковистые концентраты",
+      "canonical_name": "мышьяковистые концентраты",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "22",
+      "type": "Material",
+      "name": "цинковые концентраты",
+      "canonical_name": "цинковые концентраты",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "23",
+      "type": "Material",
+      "name": "никель",
+      "canonical_name": "никель",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "24",
+      "type": "Material",
+      "name": "мышьяк",
+      "canonical_name": "мышьяк",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "25",
+      "type": "Material",
+      "name": "MgO",
+      "canonical_name": "MgO",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "26",
+      "type": "Material",
+      "name": "концентрат",
+      "canonical_name": "концентрат",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "27",
+      "type": "Material",
+      "name": "Zod",
+      "canonical_name": "Zod",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "28",
+      "type": "Material",
+      "name": "GeoProMining Gold",
+      "canonical_name": "GeoProMining Gold",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "29",
+      "type": "Material",
+      "name": "араратская золотоизвлекательная фабрика",
+      "canonical_name": "араратская золотоизвлекательная фабрика",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "30",
+      "type": "Facility",
+      "name": "араратская золотоизвлекательная фабрика",
+      "canonical_name": "араратская золотоизвлекательная фабрика",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "31",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Вострикова Н.М.",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "32",
+      "type": "Expert",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": " кварцевый песок",
+      "canonical_name": "quartz sand",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": " керамическая измельчающая среда",
+      "canonical_name": "ceramic grinding medium",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": " глинозем",
+      "canonical_name": "bauxite",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": " упрочненный ZrO2",
+      "canonical_name": "strengthened ZrO2",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": " сверхтонкое измельчение",
+      "canonical_name": "ultrafine grinding",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": " повторное измельчение",
+      "canonical_name": "regrinding",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": " контрольная основная флотация",
+      "canonical_name": "primary concentrate flotation",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": " извлечение МПГ",
+      "canonical_name": "MPG extraction",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": " ультратонкое измельчение",
+      "canonical_name": "ultrafine grinding",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": " основной поток",
+      "canonical_name": "main stream",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "11",
+      "type": "Process",
+      "name": " вторичный продукт",
+      "canonical_name": "secondary product",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "12",
+      "type": "Process",
+      "name": " шаровая мельница",
+      "canonical_name": "ball mill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "13",
+      "type": "Equipment",
+      "name": " Isa Mill М10000",
+      "canonical_name": "Isa Mill М10000",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "14",
+      "type": "Equipment",
+      "name": " Isa Mill",
+      "canonical_name": "Isa Mill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "15",
+      "type": "Equipment",
+      "name": " Deswik-2000 л",
+      "canonical_name": "Deswik-2000 л",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "16",
+      "type": "Equipment",
+      "name": " Deswik-500 л",
+      "canonical_name": "Deswik-500 л",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "17",
+      "type": "Equipment",
+      "name": " SMD355",
+      "canonical_name": "SMD355",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "18",
+      "type": "Equipment",
+      "name": " Kings",
+      "canonical_name": "Kings",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "19",
+      "type": "Facility",
+      "name": " Mogalakwena South секция ‘C’",
+      "canonical_name": "Mogalakwena South секция ‘C’",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "20",
+      "type": "Facility",
+      "name": " рудник Amandelbult",
+      "canonical_name": "Amandelbult Mine",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "21",
+      "type": "Facility",
+      "name": " рудник Waterval",
+      "canonical_name": "Waterval Mine",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "22",
+      "type": "Expert",
+      "name": " Anglo Platinum",
+      "canonical_name": "Anglo Platinum",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "23",
+      "type": "Expert",
+      "name": " ООО «Институт Гипроникель»",
+      "canonical_name": "ООО «Институт Гипроникель»",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "Second grinding",
+      "canonical_name": "second grinding",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "Perfection flotation",
+      "canonical_name": "perfection flotation",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "3",
+      "type": "Equipment",
+      "name": "IsaMill",
+      "canonical_name": "IsaMill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Tailings",
+      "canonical_name": "tailings",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Magnetite concentrate",
+      "canonical_name": "magnetite concentrate",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Unopened magnetite",
+      "canonical_name": "unopened magnetite",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Disc filter",
+      "canonical_name": "disc filter",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Kroondal mine",
+      "canonical_name": "Kroondal mine",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Ernest Henry mine",
+      "canonical_name": "Ernest Henry mine",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "11",
+      "type": "Expert",
+      "name": "Vostrikova N.M.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "12",
+      "type": "Publication",
+      "name": "Rule [15]",
+      "canonical_name": "Rule [15]",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "13",
+      "type": "Publication",
+      "name": "Xstrata [16]",
+      "canonical_name": "Xstrata [16]",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "14",
+      "type": "Expert",
+      "name": "OAO 'Institute Gipronikel'",
+      "canonical_name": "OAO 'Institute Gipronikel'",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "1",
+      "type": "Equipment",
+      "name": "IsaMill",
+      "canonical_name": "IsaMill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "2",
+      "type": "Equipment",
+      "name": "Шаровая мельница",
+      "canonical_name": "ball mill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "измельчающая среда",
+      "canonical_name": "grinding medium",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "сырье",
+      "canonical_name": "raw material",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "частицы измельчаемого материала",
+      "canonical_name": "grindable particles",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "частицы измельчающей среды",
+      "canonical_name": "grinding medium particles",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "OJSC Institute of Gipronikel",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "ультратонкое измельчение",
+      "canonical_name": "ultratoning grinding",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "исходный продукт",
+      "canonical_name": "raw product",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "ультратонкий продукт",
+      "canonical_name": "ultratoning product",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "цианирование",
+      "canonical_name": "cyanidation",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "центробежная сепарация",
+      "canonical_name": "centrifugal separation",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "перечистная флотация",
+      "canonical_name": "selective flotation",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "7",
+      "type": "Equipment",
+      "name": "вертикальная мельница Deswik",
+      "canonical_name": "Deswik vertical mill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "ТОМС",
+      "canonical_name": "ТОМС",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Вострикова Н.М.",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "11",
+      "type": "Publication",
+      "name": "Сенченко [1]",
+      "canonical_name": "Сенченко [1]",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "12",
+      "type": "Publication",
+      "name": "ТОМС [1]",
+      "canonical_name": "ТОМС [1]",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "IsaMill",
+      "canonical_name": "IsaMill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "шаровая мельница",
+      "canonical_name": "sharova melnica",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "измельчающая среда",
+      "canonical_name": "izmelchayushchaya sreda",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "керамические частицы",
+      "canonical_name": "keramicheskie chastitsy",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "стальные шары",
+      "canonical_name": "stalnye shary",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "IsaCharger™",
+      "canonical_name": "IsaCharger™",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Михеевский ГОК",
+      "canonical_name": "Mikhayevskiy GOK",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Institut Gipronikel",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "IsaMill",
+      "type": "Equipment",
+      "name": "IsaMill",
+      "canonical_name": "IsaMill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "IsaMill_open_loop",
+      "type": "Process",
+      "name": "IsaMill in open loop",
+      "canonical_name": "IsaMill in open loop",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "SAG_mill",
+      "type": "Equipment",
+      "name": "SAG mill",
+      "canonical_name": "SAG mill",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "Cavex_cyclones",
+      "type": "Equipment",
+      "name": "Cavex cyclones",
+      "canonical_name": "Cavex cyclones",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "SkimAir_flotation_cell",
+      "type": "Equipment",
+      "name": "SkimAir flotation cell",
+      "canonical_name": "SkimAir flotation cell",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "Cosmos_mine",
+      "type": "Facility",
+      "name": "Cosmos mine",
+      "canonical_name": "Cosmos mine",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "Xstrata",
+      "type": "Expert",
+      "name": "Xstrata",
+      "canonical_name": "Xstrata",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "Institute_Gipronikel",
+      "type": "Expert",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "G-Cell",
+      "relation": "uses_material",
+      "target_id": "Deswik mill",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "G-Cell",
+      "relation": "uses_material",
+      "target_id": "Leachox Aachen Reactor",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "Vasylkivsky GOK",
+      "relation": "affiliated_with",
+      "target_id": "MMS",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "Altyntau GOK",
+      "relation": "affiliated_with",
+      "target_id": "MMS",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "MMS",
+      "relation": "described_in",
+      "target_id": "Publication [3]",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "Xstrata",
+      "relation": "described_in",
+      "target_id": "Publication [4]",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "Process Albion",
+      "relation": "uses_material",
+      "target_id": "IsaMill",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "Process Albion",
+      "relation": "operates_at_condition",
+      "target_id": "AAL",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "acidic leaching",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "Process Albion",
+      "relation": "operates_at_condition",
+      "target_id": "NAL",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "neutral leaching",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "Xstrata_Copper",
+      "relation": "affiliated_with",
+      "target_id": "Институт_Гипроникель",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "CORe",
+      "relation": "described_in",
+      "target_id": "Институт_Гипроникель",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "CORe",
+      "relation": "produces_output",
+      "target_id": "Copper_Cliff",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "никелевый плавильно-рафинировочное предприятие",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "CORe",
+      "relation": "validated_by",
+      "target_id": "Tollinsky",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "IsaMill_M3000_HF",
+      "relation": "operates_at_condition",
+      "target_id": "Clarabelle",
+      "numeric_value": 1500.0,
+      "unit": "кВт",
+      "condition": "керамическая измельчающая среда",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "IsaMill_M3000",
+      "relation": "operates_at_condition",
+      "target_id": "Leinster",
+      "numeric_value": 1120.0,
+      "unit": "кВт",
+      "condition": "песок",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "IsaMill_M3000",
+      "relation": "operates_at_condition",
+      "target_id": "NiWest",
+      "numeric_value": 1120.0,
+      "unit": "кВт",
+      "condition": "песок",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "IsaMill_M3000",
+      "relation": "operates_at_condition",
+      "target_id": "BHP_Billiton",
+      "numeric_value": 1120.0,
+      "unit": "кВт",
+      "condition": "песок",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "UG2",
+      "relation": "uses_material",
+      "target_id": "Platreef",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "высокохромистый риф",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "pH 5,5 и 95-98˚С",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "25",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "28",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "30",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "affiliated_with",
+      "target_id": "32",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2003 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2006 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2006 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2006 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2006 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "affiliated_with",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "grinding to 38 microns",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "grinding to 40 microns",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "grinding to 40 microns",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "grinding to 40 microns",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "grinding to 40 microns",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "affiliated_with",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "affiliated_with",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "affiliated_with",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "высокая окружная скорость 21-23 м/сек, мелкие частицы измельчающей среды",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "высокая вероятность столкновения частиц измельчающей среды с частицами измельчаемого материала",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "высокая энергия столкновения, высокая вероятность разрушения частиц измельчаемого материала",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "механизм измельчения ударным действием, вероятность столкновения с частицами среды ниже",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "affiliated_with",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "validated_by",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "validated_by",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "affiliated_with",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "загрузка измельчающей среды <45% (полупустая)",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "скорость 20 оборотов в минуту",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "размер частиц измельч.среды >20 мм",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "загрузка измельчающей среды 80%",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "скорость >230 об/мин",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "размер частиц измельч.среды <3,5 мм",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "загрузка измельчающей среды 80%",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "скорость >230 об/мин",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "размер частиц измельч.среды <3,5 мм",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "affiliated_with",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "IsaMill",
+      "relation": "uses_material",
+      "target_id": "IsaMill_open_loop",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "IsaMill",
+      "relation": "produces_output",
+      "target_id": "IsaMill_open_loop",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "IsaMill",
+      "relation": "operates_at_condition",
+      "target_id": "IsaMill_open_loop",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "open loop",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "SAG_mill",
+      "relation": "operates_at_condition",
+      "target_id": "SAG_mill",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "closed loop",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "Cavex_cyclones",
+      "relation": "operates_at_condition",
+      "target_id": "Cavex_cyclones",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "closed loop",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "SkimAir_flotation_cell",
+      "relation": "operates_at_condition",
+      "target_id": "SkimAir_flotation_cell",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "open loop",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "Cosmos_mine",
+      "relation": "affiliated_with",
+      "target_id": "Xstrata",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "Cosmos_mine",
+      "relation": "affiliated_with",
+      "target_id": "Institute_Gipronikel",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "G-Cell",
+      "relation": "uses_material",
+      "target_id": "Deswik mill",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "G-Cell",
+      "relation": "uses_material",
+      "target_id": "Leachox Aachen Reactor",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "Vasylkivsky GOK",
+      "relation": "affiliated_with",
+      "target_id": "MMS",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "Altyntau GOK",
+      "relation": "affiliated_with",
+      "target_id": "MMS",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "MMS",
+      "relation": "described_in",
+      "target_id": "Publication [3]",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "Xstrata",
+      "relation": "described_in",
+      "target_id": "Publication [4]",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "Process Albion",
+      "relation": "uses_material",
+      "target_id": "IsaMill",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "Process Albion",
+      "relation": "operates_at_condition",
+      "target_id": "AAL",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "acidic leaching",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "Process Albion",
+      "relation": "operates_at_condition",
+      "target_id": "NAL",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "neutral leaching",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "Xstrata_Copper",
+      "relation": "affiliated_with",
+      "target_id": "Институт_Гипроникель",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "CORe",
+      "relation": "described_in",
+      "target_id": "Институт_Гипроникель",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "CORe",
+      "relation": "produces_output",
+      "target_id": "Copper_Cliff",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "никелевый плавильно-рафинировочное предприятие",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "CORe",
+      "relation": "validated_by",
+      "target_id": "Tollinsky",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "IsaMill_M3000_HF",
+      "relation": "operates_at_condition",
+      "target_id": "Clarabelle",
+      "numeric_value": 1500.0,
+      "unit": "кВт",
+      "condition": "керамическая измельчающая среда",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "IsaMill_M3000",
+      "relation": "operates_at_condition",
+      "target_id": "Leinster",
+      "numeric_value": 1120.0,
+      "unit": "кВт",
+      "condition": "песок",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "IsaMill_M3000",
+      "relation": "operates_at_condition",
+      "target_id": "NiWest",
+      "numeric_value": 1120.0,
+      "unit": "кВт",
+      "condition": "песок",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "IsaMill_M3000",
+      "relation": "operates_at_condition",
+      "target_id": "BHP_Billiton",
+      "numeric_value": 1120.0,
+      "unit": "кВт",
+      "condition": "песок",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "UG2",
+      "relation": "uses_material",
+      "target_id": "Platreef",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "высокохромистый риф",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "pH 5,5 и 95-98˚С",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "25",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "28",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "30",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "affiliated_with",
+      "target_id": "32",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2003 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2006 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2006 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2006 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2006 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2012 г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "affiliated_with",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "grinding to 38 microns",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "grinding to 40 microns",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "grinding to 40 microns",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "grinding to 40 microns",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "grinding to 40 microns",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "affiliated_with",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "affiliated_with",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "affiliated_with",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "высокая окружная скорость 21-23 м/сек, мелкие частицы измельчающей среды",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "высокая вероятность столкновения частиц измельчающей среды с частицами измельчаемого материала",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "высокая энергия столкновения, высокая вероятность разрушения частиц измельчаемого материала",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "механизм измельчения ударным действием, вероятность столкновения с частицами среды ниже",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "affiliated_with",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "validated_by",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "validated_by",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "affiliated_with",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "загрузка измельчающей среды <45% (полупустая)",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "скорость 20 оборотов в минуту",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "размер частиц измельч.среды >20 мм",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "загрузка измельчающей среды 80%",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "скорость >230 об/мин",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "размер частиц измельч.среды <3,5 мм",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "загрузка измельчающей среды 80%",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "скорость >230 об/мин",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "размер частиц измельч.среды <3,5 мм",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "affiliated_with",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "IsaMill",
+      "relation": "uses_material",
+      "target_id": "IsaMill_open_loop",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "IsaMill",
+      "relation": "produces_output",
+      "target_id": "IsaMill_open_loop",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "IsaMill",
+      "relation": "operates_at_condition",
+      "target_id": "IsaMill_open_loop",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "open loop",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "SAG_mill",
+      "relation": "operates_at_condition",
+      "target_id": "SAG_mill",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "closed loop",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "Cavex_cyclones",
+      "relation": "operates_at_condition",
+      "target_id": "Cavex_cyclones",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "closed loop",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "SkimAir_flotation_cell",
+      "relation": "operates_at_condition",
+      "target_id": "SkimAir_flotation_cell",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "open loop",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "Cosmos_mine",
+      "relation": "affiliated_with",
+      "target_id": "Xstrata",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "Cosmos_mine",
+      "relation": "affiliated_with",
+      "target_id": "Institute_Gipronikel",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Сверхтонкое_измельчение_2012.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    }
+  ]
+}

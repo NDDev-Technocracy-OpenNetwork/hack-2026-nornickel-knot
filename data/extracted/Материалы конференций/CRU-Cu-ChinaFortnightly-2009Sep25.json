@@ -1,0 +1,340 @@
+{
+  "filename": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "National Bureau of Statistics of China",
+      "canonical_name": "National Bureau of Statistics of China",
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "CRU International Ltd",
+      "canonical_name": "CRU International Ltd",
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "copper scrap",
+      "canonical_name": "copper scrap",
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "refined copper",
+      "canonical_name": "refined copper",
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "cathode",
+      "canonical_name": "cathode",
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "LME 3-month copper",
+      "canonical_name": "LME 3-month copper",
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "SHFE cash copper",
+      "canonical_name": "SHFE cash copper",
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "American house sales",
+      "canonical_name": "American house sales",
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "market insiders",
+      "canonical_name": "market insiders",
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "11",
+      "type": "Expert",
+      "name": "Vostrikova N.M.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "12",
+      "type": "Publication",
+      "name": "Cru Monitor",
+      "canonical_name": "Cru Monitor",
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "affiliated_with",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CRU-Cu-ChinaFortnightly-2009Sep25.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    }
+  ]
+}

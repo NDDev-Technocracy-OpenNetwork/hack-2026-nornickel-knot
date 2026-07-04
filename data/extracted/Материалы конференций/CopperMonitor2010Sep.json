@@ -1,0 +1,4810 @@
+{
+  "filename": "CopperMonitor2010Sep.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper tube",
+      "canonical_name": "copper tube",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "Wolverine Tube",
+      "canonical_name": "Wolverine Tube",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "4",
+      "type": "Expert",
+      "name": "KME",
+      "canonical_name": "KME",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Associated General Contractors of America",
+      "canonical_name": "Associated General Contractors of America",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Yunnan Copper Industrial Corp",
+      "canonical_name": "Yunnan Copper Industrial Corp",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Abu Dhabi Basic Industries Corporation",
+      "canonical_name": "Abu Dhabi Basic Industries Corporation",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "Taweelah",
+      "canonical_name": "Taweelah",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Copper and Brass Fabricators Council",
+      "canonical_name": "Copper and Brass Fabricators Council",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "J-Power Systems",
+      "canonical_name": "J-Power Systems",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Sumitomo Electric Industries",
+      "canonical_name": "Sumitomo Electric Industries",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Hitachi Cable",
+      "canonical_name": "Hitachi Cable",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "San-Etsu Metals",
+      "canonical_name": "San-Etsu Metals",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Furukawa Electric",
+      "canonical_name": "Furukawa Electric",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "KME Group",
+      "canonical_name": "KME Group",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "General Cable",
+      "canonical_name": "General Cable",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Canada",
+      "canonical_name": "Canada",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "United States",
+      "canonical_name": "United States",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Mexico",
+      "canonical_name": "Mexico",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "S&C America",
+      "canonical_name": "S&C America",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Americas",
+      "canonical_name": "Americas",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "France",
+      "canonical_name": "France",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Germany",
+      "canonical_name": "Germany",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Italy",
+      "canonical_name": "Italy",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Spain",
+      "canonical_name": "Spain",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "UK",
+      "canonical_name": "UK",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Nordic",
+      "canonical_name": "Nordic",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Benelux",
+      "canonical_name": "Benelux",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "14",
+      "type": "Facility",
+      "name": "Greece",
+      "canonical_name": "Greece",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "15",
+      "type": "Facility",
+      "name": "Other WE",
+      "canonical_name": "Other WE",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "16",
+      "type": "Facility",
+      "name": "W Europe",
+      "canonical_name": "W Europe",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "17",
+      "type": "Facility",
+      "name": "E&C Europe",
+      "canonical_name": "E&C Europe",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "18",
+      "type": "Facility",
+      "name": "Europe",
+      "canonical_name": "Europe",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "19",
+      "type": "Facility",
+      "name": "Japan",
+      "canonical_name": "Japan",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "20",
+      "type": "Facility",
+      "name": "South Korea",
+      "canonical_name": "South Korea",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "21",
+      "type": "Facility",
+      "name": "Taiwan",
+      "canonical_name": "Taiwan",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "22",
+      "type": "Facility",
+      "name": "NE Asia",
+      "canonical_name": "NE Asia",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "23",
+      "type": "Facility",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "24",
+      "type": "Facility",
+      "name": "Other Asia",
+      "canonical_name": "Other Asia",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "25",
+      "type": "Facility",
+      "name": "Asia",
+      "canonical_name": "Asia",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "26",
+      "type": "Expert",
+      "name": "CRU International Ltd",
+      "canonical_name": "CRU International Ltd",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Batu Hijau mine",
+      "canonical_name": "Batu Hijau mine",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper-in-concentrate",
+      "canonical_name": "copper-in-concentrate",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "Newmont Mining",
+      "canonical_name": "Newmont Mining",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Collahuasi",
+      "canonical_name": "Collahuasi",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Frontier mine",
+      "canonical_name": "Frontier mine",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "copper-in-concentrate",
+      "canonical_name": "copper-in-concentrate",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "7",
+      "type": "Expert",
+      "name": "First Quantum Minerals",
+      "canonical_name": "First Quantum Minerals",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "copper-in-concentrate",
+      "canonical_name": "copper-in-concentrate",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "copper-in-concentrate",
+      "canonical_name": "copper-in-concentrate",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "DR Congo’s Ministry of Mines",
+      "canonical_name": "DR Congo’s Ministry of Mines",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Kolwezi Tailings Project",
+      "canonical_name": "Kolwezi Tailings Project",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "raw materials",
+      "canonical_name": "raw materials",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "disruption allowance",
+      "canonical_name": "disruption allowance",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "utilisation rate",
+      "canonical_name": "utilisation rate",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "refined copper",
+      "canonical_name": "refined copper",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "round copper-gold mine",
+      "canonical_name": "round copper-gold mine",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Freeport McMoRan Copper & Gold",
+      "canonical_name": "Freeport McMoRan Copper & Gold",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "Tenke Fungurume mine",
+      "canonical_name": "Tenke Fungurume mine",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Imperial Metals",
+      "canonical_name": "Imperial Metals",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Huckleberry mine",
+      "canonical_name": "Huckleberry mine",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Oklahoma Firefighters Pension & Retirement Scheme",
+      "canonical_name": "Oklahoma Firefighters Pension & Retirement Scheme",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Southern Copper Corporation",
+      "canonical_name": "Southern Copper Corporation",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Asarco",
+      "canonical_name": "Asarco",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Grupo Mexico",
+      "canonical_name": "Grupo Mexico",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Xstrata",
+      "canonical_name": "Xstrata",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Las Bambas project",
+      "canonical_name": "Las Bambas project",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Antapaccay project",
+      "canonical_name": "Antapaccay project",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Inca De Oro project",
+      "canonical_name": "Inca De Oro project",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "14",
+      "type": "Facility",
+      "name": "Pan Aust",
+      "canonical_name": "Pan Aust",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "15",
+      "type": "Facility",
+      "name": "FESUC union",
+      "canonical_name": "FESUC union",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "16",
+      "type": "Facility",
+      "name": "Codelco",
+      "canonical_name": "Codelco",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "17",
+      "type": "Facility",
+      "name": "Australian miner",
+      "canonical_name": "Australian miner",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "18",
+      "type": "Expert",
+      "name": "Chilean President Sebastian Piňera",
+      "canonical_name": "Chilean President Sebastian Piňera",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "19",
+      "type": "Expert",
+      "name": "Chilean mining regulatory body officials",
+      "canonical_name": "Chilean mining regulatory body officials",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "20",
+      "type": "Expert",
+      "name": "Sernageomin",
+      "canonical_name": "Sernageomin",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "21",
+      "type": "Expert",
+      "name": "Oklahoma FPRS",
+      "canonical_name": "Oklahoma FPRS",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "22",
+      "type": "Expert",
+      "name": "Xstrata board",
+      "canonical_name": "Xstrata board",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "23",
+      "type": "Expert",
+      "name": "Pan Aust board",
+      "canonical_name": "Pan Aust board",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "24",
+      "type": "Expert",
+      "name": "Codelco board",
+      "canonical_name": "Codelco board",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper wire",
+      "canonical_name": "copper wire",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "copper bar",
+      "canonical_name": "copper bar",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "copper tube",
+      "canonical_name": "copper tube",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "smelting",
+      "canonical_name": "smelting",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "refining",
+      "canonical_name": "refining",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "electrowinning",
+      "canonical_name": "electrowinning",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "smelter",
+      "canonical_name": "smelter",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "refinery",
+      "canonical_name": "refinery",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "First Quantum Minerals",
+      "canonical_name": "First Quantum Minerals",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "11",
+      "type": "Expert",
+      "name": "International Chamber of Commerce",
+      "canonical_name": "International Chamber of Commerce",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "12",
+      "type": "Expert",
+      "name": "Southern Copper Corporation",
+      "canonical_name": "Southern Copper Corporation",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "13",
+      "type": "Expert",
+      "name": "Vale",
+      "canonical_name": "Vale",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "14",
+      "type": "Expert",
+      "name": "Anhui Huigang Copper Co Ltd",
+      "canonical_name": "Anhui Huigang Copper Co Ltd",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "15",
+      "type": "Expert",
+      "name": "Hailiang Anhui Copper",
+      "canonical_name": "Hailiang Anhui Copper",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "16",
+      "type": "Expert",
+      "name": "Hailiang Group",
+      "canonical_name": "Hailiang Group",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "17",
+      "type": "Facility",
+      "name": "Empalme",
+      "canonical_name": "Empalme",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "18",
+      "type": "Facility",
+      "name": "Caraiba Metais smelter and refinery",
+      "canonical_name": "Caraiba Metais smelter and refinery",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "19",
+      "type": "Facility",
+      "name": "Suixi Economic Development Zone",
+      "canonical_name": "Suixi Economic Development Zone",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "20",
+      "type": "Facility",
+      "name": "Tongling City",
+      "canonical_name": "Tongling City",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper tube",
+      "canonical_name": "copper tube",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "Wolverine Tube",
+      "canonical_name": "Wolverine Tube",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "4",
+      "type": "Expert",
+      "name": "KME",
+      "canonical_name": "KME",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Associated General Contractors of America",
+      "canonical_name": "Associated General Contractors of America",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Yunnan Copper Industrial Corp",
+      "canonical_name": "Yunnan Copper Industrial Corp",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Abu Dhabi Basic Industries Corporation",
+      "canonical_name": "Abu Dhabi Basic Industries Corporation",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "Taweelah",
+      "canonical_name": "Taweelah",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Copper and Brass Fabricators Council",
+      "canonical_name": "Copper and Brass Fabricators Council",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "J-Power Systems",
+      "canonical_name": "J-Power Systems",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Sumitomo Electric Industries",
+      "canonical_name": "Sumitomo Electric Industries",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Hitachi Cable",
+      "canonical_name": "Hitachi Cable",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "San-Etsu Metals",
+      "canonical_name": "San-Etsu Metals",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Furukawa Electric",
+      "canonical_name": "Furukawa Electric",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "KME Group",
+      "canonical_name": "KME Group",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "General Cable",
+      "canonical_name": "General Cable",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Canada",
+      "canonical_name": "Canada",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "United States",
+      "canonical_name": "United States",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Mexico",
+      "canonical_name": "Mexico",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "S&C America",
+      "canonical_name": "S&C America",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Americas",
+      "canonical_name": "Americas",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "France",
+      "canonical_name": "France",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Germany",
+      "canonical_name": "Germany",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Italy",
+      "canonical_name": "Italy",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Spain",
+      "canonical_name": "Spain",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "UK",
+      "canonical_name": "UK",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Nordic",
+      "canonical_name": "Nordic",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Benelux",
+      "canonical_name": "Benelux",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "14",
+      "type": "Facility",
+      "name": "Greece",
+      "canonical_name": "Greece",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "15",
+      "type": "Facility",
+      "name": "Other WE",
+      "canonical_name": "Other WE",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "16",
+      "type": "Facility",
+      "name": "W Europe",
+      "canonical_name": "W Europe",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "17",
+      "type": "Facility",
+      "name": "E&C Europe",
+      "canonical_name": "E&C Europe",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "18",
+      "type": "Facility",
+      "name": "Europe",
+      "canonical_name": "Europe",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "19",
+      "type": "Facility",
+      "name": "Japan",
+      "canonical_name": "Japan",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "20",
+      "type": "Facility",
+      "name": "South Korea",
+      "canonical_name": "South Korea",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "21",
+      "type": "Facility",
+      "name": "Taiwan",
+      "canonical_name": "Taiwan",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "22",
+      "type": "Facility",
+      "name": "NE Asia",
+      "canonical_name": "NE Asia",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "23",
+      "type": "Facility",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "24",
+      "type": "Facility",
+      "name": "Other Asia",
+      "canonical_name": "Other Asia",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "25",
+      "type": "Facility",
+      "name": "Asia",
+      "canonical_name": "Asia",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "26",
+      "type": "Expert",
+      "name": "CRU International Ltd",
+      "canonical_name": "CRU International Ltd",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Batu Hijau mine",
+      "canonical_name": "Batu Hijau mine",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper-in-concentrate",
+      "canonical_name": "copper-in-concentrate",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "Newmont Mining",
+      "canonical_name": "Newmont Mining",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Collahuasi",
+      "canonical_name": "Collahuasi",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Frontier mine",
+      "canonical_name": "Frontier mine",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "copper-in-concentrate",
+      "canonical_name": "copper-in-concentrate",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "7",
+      "type": "Expert",
+      "name": "First Quantum Minerals",
+      "canonical_name": "First Quantum Minerals",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "copper-in-concentrate",
+      "canonical_name": "copper-in-concentrate",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "copper-in-concentrate",
+      "canonical_name": "copper-in-concentrate",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "DR Congo’s Ministry of Mines",
+      "canonical_name": "DR Congo’s Ministry of Mines",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Kolwezi Tailings Project",
+      "canonical_name": "Kolwezi Tailings Project",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "raw materials",
+      "canonical_name": "raw materials",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "disruption allowance",
+      "canonical_name": "disruption allowance",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "utilisation rate",
+      "canonical_name": "utilisation rate",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "refined copper",
+      "canonical_name": "refined copper",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "round copper-gold mine",
+      "canonical_name": "round copper-gold mine",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Freeport McMoRan Copper & Gold",
+      "canonical_name": "Freeport McMoRan Copper & Gold",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "Tenke Fungurume mine",
+      "canonical_name": "Tenke Fungurume mine",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Imperial Metals",
+      "canonical_name": "Imperial Metals",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Huckleberry mine",
+      "canonical_name": "Huckleberry mine",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Oklahoma Firefighters Pension & Retirement Scheme",
+      "canonical_name": "Oklahoma Firefighters Pension & Retirement Scheme",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Southern Copper Corporation",
+      "canonical_name": "Southern Copper Corporation",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Asarco",
+      "canonical_name": "Asarco",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Grupo Mexico",
+      "canonical_name": "Grupo Mexico",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Xstrata",
+      "canonical_name": "Xstrata",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Las Bambas project",
+      "canonical_name": "Las Bambas project",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Antapaccay project",
+      "canonical_name": "Antapaccay project",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Inca De Oro project",
+      "canonical_name": "Inca De Oro project",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "14",
+      "type": "Facility",
+      "name": "Pan Aust",
+      "canonical_name": "Pan Aust",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "15",
+      "type": "Facility",
+      "name": "FESUC union",
+      "canonical_name": "FESUC union",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "16",
+      "type": "Facility",
+      "name": "Codelco",
+      "canonical_name": "Codelco",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "17",
+      "type": "Facility",
+      "name": "Australian miner",
+      "canonical_name": "Australian miner",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "18",
+      "type": "Expert",
+      "name": "Chilean President Sebastian Piňera",
+      "canonical_name": "Chilean President Sebastian Piňera",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "19",
+      "type": "Expert",
+      "name": "Chilean mining regulatory body officials",
+      "canonical_name": "Chilean mining regulatory body officials",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "20",
+      "type": "Expert",
+      "name": "Sernageomin",
+      "canonical_name": "Sernageomin",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "21",
+      "type": "Expert",
+      "name": "Oklahoma FPRS",
+      "canonical_name": "Oklahoma FPRS",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "22",
+      "type": "Expert",
+      "name": "Xstrata board",
+      "canonical_name": "Xstrata board",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "23",
+      "type": "Expert",
+      "name": "Pan Aust board",
+      "canonical_name": "Pan Aust board",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "24",
+      "type": "Expert",
+      "name": "Codelco board",
+      "canonical_name": "Codelco board",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper wire",
+      "canonical_name": "copper wire",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "copper bar",
+      "canonical_name": "copper bar",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "copper tube",
+      "canonical_name": "copper tube",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "smelting",
+      "canonical_name": "smelting",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "refining",
+      "canonical_name": "refining",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "electrowinning",
+      "canonical_name": "electrowinning",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "smelter",
+      "canonical_name": "smelter",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "refinery",
+      "canonical_name": "refinery",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "First Quantum Minerals",
+      "canonical_name": "First Quantum Minerals",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "11",
+      "type": "Expert",
+      "name": "International Chamber of Commerce",
+      "canonical_name": "International Chamber of Commerce",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "12",
+      "type": "Expert",
+      "name": "Southern Copper Corporation",
+      "canonical_name": "Southern Copper Corporation",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "13",
+      "type": "Expert",
+      "name": "Vale",
+      "canonical_name": "Vale",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "14",
+      "type": "Expert",
+      "name": "Anhui Huigang Copper Co Ltd",
+      "canonical_name": "Anhui Huigang Copper Co Ltd",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "15",
+      "type": "Expert",
+      "name": "Hailiang Anhui Copper",
+      "canonical_name": "Hailiang Anhui Copper",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "16",
+      "type": "Expert",
+      "name": "Hailiang Group",
+      "canonical_name": "Hailiang Group",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "17",
+      "type": "Facility",
+      "name": "Empalme",
+      "canonical_name": "Empalme",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "18",
+      "type": "Facility",
+      "name": "Caraiba Metais smelter and refinery",
+      "canonical_name": "Caraiba Metais smelter and refinery",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "19",
+      "type": "Facility",
+      "name": "Suixi Economic Development Zone",
+      "canonical_name": "Suixi Economic Development Zone",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "id": "20",
+      "type": "Facility",
+      "name": "Tongling City",
+      "canonical_name": "Tongling City",
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Q2 2010",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": -5.9,
+      "unit": "M USD",
+      "condition": "Q2 2010",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "H1 2010",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "affiliated_with",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "23",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "24",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": 275000.0,
+      "unit": "t",
+      "condition": "2010",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": 80000.0,
+      "unit": "t",
+      "condition": "2010",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "affiliated_with",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "affiliated_with",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "affiliated_with",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "affiliated_with",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "23",
+      "relation": "affiliated_with",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "24",
+      "relation": "affiliated_with",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "affiliated_with",
+      "target_id": "Southern Copper Corporation",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "Vale",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "affiliated_with",
+      "target_id": "Anhui Huigang Copper Co Ltd",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "affiliated_with",
+      "target_id": "Hailiang Anhui Copper",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "affiliated_with",
+      "target_id": "Hailiang Group",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Q2 2010",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": -5.9,
+      "unit": "M USD",
+      "condition": "Q2 2010",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "H1 2010",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "affiliated_with",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "23",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "24",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "uses_material",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": 275000.0,
+      "unit": "t",
+      "condition": "2010",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": 80000.0,
+      "unit": "t",
+      "condition": "2010",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "affiliated_with",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "affiliated_with",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "affiliated_with",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "affiliated_with",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "23",
+      "relation": "affiliated_with",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "24",
+      "relation": "affiliated_with",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "affiliated_with",
+      "target_id": "Southern Copper Corporation",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "Vale",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "affiliated_with",
+      "target_id": "Anhui Huigang Copper Co Ltd",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "affiliated_with",
+      "target_id": "Hailiang Anhui Copper",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "affiliated_with",
+      "target_id": "Hailiang Group",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2010Sep.md",
+        "category": "Материалы конференций",
+        "chunk_index": 20,
+        "page_start": 21,
+        "page_end": 21
+      }
+    }
+  ]
+}

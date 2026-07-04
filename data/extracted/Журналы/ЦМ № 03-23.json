@@ -1,0 +1,7482 @@
+{
+  "filename": "ЦМ № 03-23.md",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "tin",
+      "canonical_name": "tin",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "lithium",
+      "canonical_name": "lithium",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "cobalt",
+      "canonical_name": "cobalt",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "5",
+      "type": "Expert",
+      "name": "S. I. Korneev",
+      "canonical_name": "S. I. Korneev",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "6",
+      "type": "Expert",
+      "name": "I. B. Sergeev",
+      "canonical_name": "I. B. Sergeev",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Nikkelverk",
+      "canonical_name": "Nikkelverk",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Murrin Murrin",
+      "canonical_name": "Murrin Murrin",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Mutanda Mining",
+      "canonical_name": "Mutanda Mining",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "редкоземельные металлы",
+      "canonical_name": "rare_earth_metals",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "медная руда",
+      "canonical_name": "copper_ore",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "цинковая руда",
+      "canonical_name": "zinc_ore",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "теллур",
+      "canonical_name": "tellurium",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "индий",
+      "canonical_name": "indium",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "свинец",
+      "canonical_name": "lead",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "электролитическая переработка",
+      "canonical_name": "electrowinning",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Institute of Gipro Nickel",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "RTDI evaluation standards. Research, technological development and innovation evaluation standards - EVAL-INNO",
+      "canonical_name": "RTDI evaluation standards. Research, technological development and innovation evaluation standards - EVAL-INNO",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "2",
+      "type": "Publication",
+      "name": "Recovery of critical rare earth elements for green energy technologies",
+      "canonical_name": "Recovery of critical rare earth elements for green energy technologies",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "3",
+      "type": "Publication",
+      "name": "State report on the status and use of mineral raw materials of the Russian Federation in 2020",
+      "canonical_name": "State report on the status and use of mineral raw materials of the Russian Federation in 2020",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "4",
+      "type": "Publication",
+      "name": "The strategic role of rareearth metals in the world and in Russia",
+      "canonical_name": "The strategic role of rareearth metals in the world and in Russia",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "5",
+      "type": "Publication",
+      "name": "Route selection for minerals’ transportation to ensure sustainability of the Arctic",
+      "canonical_name": "Route selection for minerals’ transportation to ensure sustainability of the Arctic",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "6",
+      "type": "Publication",
+      "name": "Cost-benefit analysis. Standard Transport Appraisal Methods",
+      "canonical_name": "Cost-benefit analysis. Standard Transport Appraisal Methods",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "7",
+      "type": "Publication",
+      "name": "Exploring cost-benefit analysis of research, development and innovation infrastructures: an evaluation framework",
+      "canonical_name": "Exploring cost-benefit analysis of research, development and innovation infrastructures: an evaluation framework",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "8",
+      "type": "Publication",
+      "name": "Comprehensive processing of phosphogypsum with simultaneous recovery of rare-earth elements: A feasibility study of the project based on cost-benefit analysis",
+      "canonical_name": "Comprehensive processing of phosphogypsum with simultaneous recovery of rare-earth elements: A feasibility study of the project based on cost-benefit analysis",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "9",
+      "type": "Publication",
+      "name": "Developing processes for recovery of rareearth elements during sulphuric acid processing of the Khibiny apatite concentrate into mineral fertilizers",
+      "canonical_name": "Developing processes for recovery of rareearth elements during sulphuric acid processing of the Khibiny apatite concentrate into mineral fertilizers",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "10",
+      "type": "Publication",
+      "name": "Rare earth elements: overview of mining, mineralogy, uses, sustainability and environmental impact",
+      "canonical_name": "Rare earth elements: overview of mining, mineralogy, uses, sustainability and environmental impact",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "11",
+      "type": "Publication",
+      "name": "Global rare earth elements market",
+      "canonical_name": "Global rare earth elements market",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "тонкодисперсное золото",
+      "canonical_name": "disperse gold",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "углеродистые сланцы",
+      "canonical_name": "carbonaceous shales",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "тонкозернистый пирит",
+      "canonical_name": "fine-grained pyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "арсенопирит",
+      "canonical_name": "arsenopyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "окварцованная алевролит",
+      "canonical_name": "quartz-veined argillite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "сульфидная матрица",
+      "canonical_name": "sulfide matrix",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "хлористый железо",
+      "canonical_name": "ferrous chloride",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "неустойчивые соединения",
+      "canonical_name": "unstable compounds",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "тонкие слои сульфидов",
+      "canonical_name": "thin sulfide layers",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "химическое травление",
+      "canonical_name": "chemical etching",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "11",
+      "type": "Process",
+      "name": "ионно-плазменное травление",
+      "canonical_name": "ion-plasma etching",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "12",
+      "type": "Process",
+      "name": "ультразвуковая очистка",
+      "canonical_name": "ultrasonic cleaning",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "13",
+      "type": "Expert",
+      "name": "С. Г. Москвитин",
+      "canonical_name": "S. G. Moscowitin",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "14",
+      "type": "Expert",
+      "name": "Л. В. Москвитина",
+      "canonical_name": "L. V. Moscowtina",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "15",
+      "type": "Expert",
+      "name": "В. И. Попов",
+      "canonical_name": "V. I. Popov",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "16",
+      "type": "Facility",
+      "name": "Институт физико-технических проблем Севера им. В. П. Ларионова ФИЦ ЯНЦ CО РАН",
+      "canonical_name": "Institute of Physical and Technical Problems of the North named after V. P. Larinov, FRC KSC RAS",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "17",
+      "type": "Facility",
+      "name": "Институт космофизических исследований и аэрономии им. Ю. Г. Шафера ФИЦ ЯНЦ CО РАН",
+      "canonical_name": "Institute of Cosmic Research and Aeronomy named after Yu. G. Shafar, FRC KSC RAS",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "S. G. Moskvitin",
+      "canonical_name": "S. G. Moskvitin",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "L. V. Moskvitina",
+      "canonical_name": "L. V. Moskvitina",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "V. I. Popov",
+      "canonical_name": "V. I. Popov",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "carbonaceous shales",
+      "canonical_name": "carbonaceous shales",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "gold-bearing pyrite",
+      "canonical_name": "gold-bearing pyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "gold-bearing arsenopyrite",
+      "canonical_name": "gold-bearing arsenopyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "silicified aleurolites",
+      "canonical_name": "silicified aleurolites",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "sulphides",
+      "canonical_name": "sulphides",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "nanoscale gold",
+      "canonical_name": "nanoscale gold",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "iron chloride salts",
+      "canonical_name": "iron chloride salts",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "unstable compounds",
+      "canonical_name": "unstable compounds",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "precious metals",
+      "canonical_name": "precious metals",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "pyrite",
+      "canonical_name": "pyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "arsenopyrite",
+      "canonical_name": "arsenopyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "emulsion",
+      "canonical_name": "emulsion",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "dislocations",
+      "canonical_name": "dislocations",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "17",
+      "type": "Process",
+      "name": "chemical etching",
+      "canonical_name": "chemical etching",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "18",
+      "type": "Process",
+      "name": "ion-plasma etching",
+      "canonical_name": "ion-plasma etching",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "19",
+      "type": "Process",
+      "name": "scanning tunnel microscopy",
+      "canonical_name": "scanning tunnel microscopy",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "20",
+      "type": "Process",
+      "name": "atomic-force microscopy",
+      "canonical_name": "atomic-force microscopy",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "21",
+      "type": "Facility",
+      "name": "Larionov Institute for Physical and Engineering Problems of the North at the Yakutsk Research Centre, Siberian Branch of the Russian Academy of Sciences",
+      "canonical_name": "Larionov Institute for Physical and Engineering Problems of the North at the Yakutsk Research Centre, Siberian Branch of the Russian Academy of Sciences",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "22",
+      "type": "Facility",
+      "name": "Yu.G. Shafer Institute of Cosmophysical Research and Aeronomy at the Yakutsk Research Centre, Siberian Branch of the Russian Academy of Sciences",
+      "canonical_name": "Yu.G. Shafer Institute of Cosmophysical Research and Aeronomy at the Yakutsk Research Centre, Siberian Branch of the Russian Academy of Sciences",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "лопаритовые руды",
+      "canonical_name": "loparitovye rudy",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "apatitnefелиновые руды",
+      "canonical_name": "apatitnefeli novye rudy",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "редкоземельные материалы",
+      "canonical_name": "rare-earths materials",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "промышленные отходы",
+      "canonical_name": "industrial waste",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "использованное оборудование",
+      "canonical_name": "used equipment",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "побочный продукт",
+      "canonical_name": "by-product",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Томторское месторождение",
+      "canonical_name": "Tomtor ore deposit",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "9",
+      "type": "Publication",
+      "name": "USGS, National Minerals Information Center",
+      "canonical_name": "USGS, National Minerals Information Center",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "пирит",
+      "canonical_name": "pyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "арсенопирит",
+      "canonical_name": "arsenopyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "эпоксидные шашки",
+      "canonical_name": "epoxy resin blocks",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "соляная кислота",
+      "canonical_name": "hydrochloric acid",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "царская вода",
+      "canonical_name": "royal water",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "argon",
+      "canonical_name": "argon",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "oxygen",
+      "canonical_name": "oxygen",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "plasma",
+      "canonical_name": "plasma",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "УЗ-мойка",
+      "canonical_name": "ultrasonic bath",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "пирит",
+      "canonical_name": "pyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "арсенопирит",
+      "canonical_name": "arsenopyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "РЭМ",
+      "canonical_name": "scanning electron microscope",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "рамановская спектроскопия",
+      "canonical_name": "Raman spectroscopy",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "СТМ",
+      "canonical_name": "scanning tunneling microscopy",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "NT-MDT Integra Spectra 2011",
+      "canonical_name": "NT-MDT Integra Spectra 2011",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "арсенопирит",
+      "canonical_name": "arsenopyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "золото",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "глинистые сланцы",
+      "canonical_name": "clay shale",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "сульфидная матрица",
+      "canonical_name": "sulfide matrix",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "поры",
+      "canonical_name": "pores",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "кварцевые жилы",
+      "canonical_name": "quartz veins",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "царская вода",
+      "canonical_name": "royal water",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "RIPT",
+      "canonical_name": "RIPT",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "СТМ",
+      "canonical_name": "STM",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "nickel",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "gold",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "bauxite",
+      "canonical_name": "bauxite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "alumina",
+      "canonical_name": "alumina",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "aluminum",
+      "canonical_name": "aluminum",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "solar energy equipment",
+      "canonical_name": "solar energy equipment",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "NortMet",
+      "canonical_name": "NortMet",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "NRCN",
+      "canonical_name": "NRCN",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Mesaba",
+      "canonical_name": "Mesaba",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Reko Diq",
+      "canonical_name": "Reko Diq",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "14",
+      "type": "Facility",
+      "name": "Glencore",
+      "canonical_name": "Glencore",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "15",
+      "type": "Facility",
+      "name": "ОК РУСАЛ",
+      "canonical_name": "ОК РУСАЛ",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "16",
+      "type": "Expert",
+      "name": "International Aluminum Institute",
+      "canonical_name": "International Aluminum Institute",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "17",
+      "type": "Expert",
+      "name": "World Bureau of Metal Statistics",
+      "canonical_name": "World Bureau of Metal Statistics",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "18",
+      "type": "Expert",
+      "name": "Shanghai Metals Market",
+      "canonical_name": "Shanghai Metals Market",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "19",
+      "type": "Expert",
+      "name": "Главное таможенное управление КНР",
+      "canonical_name": "Главное таможенное управление КНР",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "арсенопирит",
+      "canonical_name": "arsenopyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "пирит",
+      "canonical_name": "pyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "арсенопирит ромбической морфологии",
+      "canonical_name": "arsenopyrite rhombohedral morphology",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "арсенопирит призматической морфологии",
+      "canonical_name": "arsenopyrite prismatic morphology",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "золото",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "серебро",
+      "canonical_name": "silver",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "антимонит",
+      "canonical_name": "antimony sulfide",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "кварц",
+      "canonical_name": "quartz",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "алюмосиликаты",
+      "canonical_name": "alumino-silicates",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "оксиды",
+      "canonical_name": "oxides",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "чёрносланцы",
+      "canonical_name": "schists",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Государственный доклад о состоянии и использовании минерально-сырьевых ресурсов России 2020",
+      "canonical_name": "Государственный доклад о состоянии и использовании минерально-сырьевых ресурсов России 2020",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "2",
+      "type": "Publication",
+      "name": "Стратегическое значение редкоземельных металлов в мире и в России",
+      "canonical_name": "Стратегическое значение редкоземельных металлов в мире и в России",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "3",
+      "type": "Publication",
+      "name": "Route selection for minerals' transportation to ensure sustainability of the Arctic",
+      "canonical_name": "Route selection for minerals' transportation to ensure sustainability of the Arctic",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "4",
+      "type": "Publication",
+      "name": "Cost-benefit analysis",
+      "canonical_name": "Cost-benefit analysis",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "5",
+      "type": "Publication",
+      "name": "Exploring costbenefit analysis of research, development and innovation infrastructures: an evaluation framework",
+      "canonical_name": "Exploring costbenefit analysis of research, development and innovation infrastructures: an evaluation framework",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "6",
+      "type": "Publication",
+      "name": "Экономическая оценка проекта комплексной переработки фосфогипса с попутным извлечением редкоземельных элементов на основе использования методики «затраты – выгоды»",
+      "canonical_name": "Экономическая оценка проекта комплексной переработки фосфогипса с попутным извлечением редкоземельных элементов на основе использования методики «затраты – выгоды»",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "7",
+      "type": "Publication",
+      "name": "Разработка технологий извлечения редкоземельных элементов при сернокислотной переработке хибинского апатитового концентрата на минеральные удобрения",
+      "canonical_name": "Разработка технологий извлечения редкоземельных элементов при сернокислотной переработке хибинского апатитового концентрата на минеральные удобрения",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "8",
+      "type": "Publication",
+      "name": "Rare earth elements: overview of mining, mineralogy, uses, sustainability and environmental impact",
+      "canonical_name": "Rare earth elements: overview of mining, mineralogy, uses, sustainability and environmental impact",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "9",
+      "type": "Publication",
+      "name": "Глобальный рынок редкоземельных металлов",
+      "canonical_name": "Глобальный рынок редкоземельных металлов",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "10",
+      "type": "Publication",
+      "name": "Мировой рынок и технологии переработки редкоземельных металлов: современное состояние и перспективы",
+      "canonical_name": "Мировой рынок и технологии переработки редкоземельных металлов: современное состояние и перспективы",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "tin",
+      "canonical_name": "tin",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "lithium",
+      "canonical_name": "lithium",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "cobalt",
+      "canonical_name": "cobalt",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "5",
+      "type": "Expert",
+      "name": "S. I. Korneev",
+      "canonical_name": "S. I. Korneev",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "6",
+      "type": "Expert",
+      "name": "I. B. Sergeev",
+      "canonical_name": "I. B. Sergeev",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Nikkelverk",
+      "canonical_name": "Nikkelverk",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Murrin Murrin",
+      "canonical_name": "Murrin Murrin",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Mutanda Mining",
+      "canonical_name": "Mutanda Mining",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "редкоземельные металлы",
+      "canonical_name": "rare_earth_metals",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "медная руда",
+      "canonical_name": "copper_ore",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "цинковая руда",
+      "canonical_name": "zinc_ore",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "теллур",
+      "canonical_name": "tellurium",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "индий",
+      "canonical_name": "indium",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "свинец",
+      "canonical_name": "lead",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "электролитическая переработка",
+      "canonical_name": "electrowinning",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Institute of Gipro Nickel",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "RTDI evaluation standards. Research, technological development and innovation evaluation standards - EVAL-INNO",
+      "canonical_name": "RTDI evaluation standards. Research, technological development and innovation evaluation standards - EVAL-INNO",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "2",
+      "type": "Publication",
+      "name": "Recovery of critical rare earth elements for green energy technologies",
+      "canonical_name": "Recovery of critical rare earth elements for green energy technologies",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "3",
+      "type": "Publication",
+      "name": "State report on the status and use of mineral raw materials of the Russian Federation in 2020",
+      "canonical_name": "State report on the status and use of mineral raw materials of the Russian Federation in 2020",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "4",
+      "type": "Publication",
+      "name": "The strategic role of rareearth metals in the world and in Russia",
+      "canonical_name": "The strategic role of rareearth metals in the world and in Russia",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "5",
+      "type": "Publication",
+      "name": "Route selection for minerals’ transportation to ensure sustainability of the Arctic",
+      "canonical_name": "Route selection for minerals’ transportation to ensure sustainability of the Arctic",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "6",
+      "type": "Publication",
+      "name": "Cost-benefit analysis. Standard Transport Appraisal Methods",
+      "canonical_name": "Cost-benefit analysis. Standard Transport Appraisal Methods",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "7",
+      "type": "Publication",
+      "name": "Exploring cost-benefit analysis of research, development and innovation infrastructures: an evaluation framework",
+      "canonical_name": "Exploring cost-benefit analysis of research, development and innovation infrastructures: an evaluation framework",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "8",
+      "type": "Publication",
+      "name": "Comprehensive processing of phosphogypsum with simultaneous recovery of rare-earth elements: A feasibility study of the project based on cost-benefit analysis",
+      "canonical_name": "Comprehensive processing of phosphogypsum with simultaneous recovery of rare-earth elements: A feasibility study of the project based on cost-benefit analysis",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "9",
+      "type": "Publication",
+      "name": "Developing processes for recovery of rareearth elements during sulphuric acid processing of the Khibiny apatite concentrate into mineral fertilizers",
+      "canonical_name": "Developing processes for recovery of rareearth elements during sulphuric acid processing of the Khibiny apatite concentrate into mineral fertilizers",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "10",
+      "type": "Publication",
+      "name": "Rare earth elements: overview of mining, mineralogy, uses, sustainability and environmental impact",
+      "canonical_name": "Rare earth elements: overview of mining, mineralogy, uses, sustainability and environmental impact",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "11",
+      "type": "Publication",
+      "name": "Global rare earth elements market",
+      "canonical_name": "Global rare earth elements market",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 22,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "тонкодисперсное золото",
+      "canonical_name": "disperse gold",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "углеродистые сланцы",
+      "canonical_name": "carbonaceous shales",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "тонкозернистый пирит",
+      "canonical_name": "fine-grained pyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "арсенопирит",
+      "canonical_name": "arsenopyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "окварцованная алевролит",
+      "canonical_name": "quartz-veined argillite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "сульфидная матрица",
+      "canonical_name": "sulfide matrix",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "хлористый железо",
+      "canonical_name": "ferrous chloride",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "неустойчивые соединения",
+      "canonical_name": "unstable compounds",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "тонкие слои сульфидов",
+      "canonical_name": "thin sulfide layers",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "химическое травление",
+      "canonical_name": "chemical etching",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "11",
+      "type": "Process",
+      "name": "ионно-плазменное травление",
+      "canonical_name": "ion-plasma etching",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "12",
+      "type": "Process",
+      "name": "ультразвуковая очистка",
+      "canonical_name": "ultrasonic cleaning",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "13",
+      "type": "Expert",
+      "name": "С. Г. Москвитин",
+      "canonical_name": "S. G. Moscowitin",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "14",
+      "type": "Expert",
+      "name": "Л. В. Москвитина",
+      "canonical_name": "L. V. Moscowtina",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "15",
+      "type": "Expert",
+      "name": "В. И. Попов",
+      "canonical_name": "V. I. Popov",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "16",
+      "type": "Facility",
+      "name": "Институт физико-технических проблем Севера им. В. П. Ларионова ФИЦ ЯНЦ CО РАН",
+      "canonical_name": "Institute of Physical and Technical Problems of the North named after V. P. Larinov, FRC KSC RAS",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "17",
+      "type": "Facility",
+      "name": "Институт космофизических исследований и аэрономии им. Ю. Г. Шафера ФИЦ ЯНЦ CО РАН",
+      "canonical_name": "Institute of Cosmic Research and Aeronomy named after Yu. G. Shafar, FRC KSC RAS",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "S. G. Moskvitin",
+      "canonical_name": "S. G. Moskvitin",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "L. V. Moskvitina",
+      "canonical_name": "L. V. Moskvitina",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "V. I. Popov",
+      "canonical_name": "V. I. Popov",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "carbonaceous shales",
+      "canonical_name": "carbonaceous shales",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "gold-bearing pyrite",
+      "canonical_name": "gold-bearing pyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "gold-bearing arsenopyrite",
+      "canonical_name": "gold-bearing arsenopyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "silicified aleurolites",
+      "canonical_name": "silicified aleurolites",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "sulphides",
+      "canonical_name": "sulphides",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "nanoscale gold",
+      "canonical_name": "nanoscale gold",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "iron chloride salts",
+      "canonical_name": "iron chloride salts",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "unstable compounds",
+      "canonical_name": "unstable compounds",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "precious metals",
+      "canonical_name": "precious metals",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "pyrite",
+      "canonical_name": "pyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "arsenopyrite",
+      "canonical_name": "arsenopyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "emulsion",
+      "canonical_name": "emulsion",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "dislocations",
+      "canonical_name": "dislocations",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "17",
+      "type": "Process",
+      "name": "chemical etching",
+      "canonical_name": "chemical etching",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "18",
+      "type": "Process",
+      "name": "ion-plasma etching",
+      "canonical_name": "ion-plasma etching",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "19",
+      "type": "Process",
+      "name": "scanning tunnel microscopy",
+      "canonical_name": "scanning tunnel microscopy",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "20",
+      "type": "Process",
+      "name": "atomic-force microscopy",
+      "canonical_name": "atomic-force microscopy",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "21",
+      "type": "Facility",
+      "name": "Larionov Institute for Physical and Engineering Problems of the North at the Yakutsk Research Centre, Siberian Branch of the Russian Academy of Sciences",
+      "canonical_name": "Larionov Institute for Physical and Engineering Problems of the North at the Yakutsk Research Centre, Siberian Branch of the Russian Academy of Sciences",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "22",
+      "type": "Facility",
+      "name": "Yu.G. Shafer Institute of Cosmophysical Research and Aeronomy at the Yakutsk Research Centre, Siberian Branch of the Russian Academy of Sciences",
+      "canonical_name": "Yu.G. Shafer Institute of Cosmophysical Research and Aeronomy at the Yakutsk Research Centre, Siberian Branch of the Russian Academy of Sciences",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "лопаритовые руды",
+      "canonical_name": "loparitovye rudy",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "apatitnefелиновые руды",
+      "canonical_name": "apatitnefeli novye rudy",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "редкоземельные материалы",
+      "canonical_name": "rare-earths materials",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "промышленные отходы",
+      "canonical_name": "industrial waste",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "использованное оборудование",
+      "canonical_name": "used equipment",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "побочный продукт",
+      "canonical_name": "by-product",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Томторское месторождение",
+      "canonical_name": "Tomtor ore deposit",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "9",
+      "type": "Publication",
+      "name": "USGS, National Minerals Information Center",
+      "canonical_name": "USGS, National Minerals Information Center",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "пирит",
+      "canonical_name": "pyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "арсенопирит",
+      "canonical_name": "arsenopyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "эпоксидные шашки",
+      "canonical_name": "epoxy resin blocks",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "соляная кислота",
+      "canonical_name": "hydrochloric acid",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "царская вода",
+      "canonical_name": "royal water",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "argon",
+      "canonical_name": "argon",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "oxygen",
+      "canonical_name": "oxygen",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "plasma",
+      "canonical_name": "plasma",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "УЗ-мойка",
+      "canonical_name": "ultrasonic bath",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "пирит",
+      "canonical_name": "pyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "арсенопирит",
+      "canonical_name": "arsenopyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "РЭМ",
+      "canonical_name": "scanning electron microscope",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "рамановская спектроскопия",
+      "canonical_name": "Raman spectroscopy",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "СТМ",
+      "canonical_name": "scanning tunneling microscopy",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "NT-MDT Integra Spectra 2011",
+      "canonical_name": "NT-MDT Integra Spectra 2011",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "арсенопирит",
+      "canonical_name": "arsenopyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "золото",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "глинистые сланцы",
+      "canonical_name": "clay shale",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "сульфидная матрица",
+      "canonical_name": "sulfide matrix",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "поры",
+      "canonical_name": "pores",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "кварцевые жилы",
+      "canonical_name": "quartz veins",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "царская вода",
+      "canonical_name": "royal water",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "RIPT",
+      "canonical_name": "RIPT",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "СТМ",
+      "canonical_name": "STM",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "nickel",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "gold",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "bauxite",
+      "canonical_name": "bauxite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "alumina",
+      "canonical_name": "alumina",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "aluminum",
+      "canonical_name": "aluminum",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "solar energy equipment",
+      "canonical_name": "solar energy equipment",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "NortMet",
+      "canonical_name": "NortMet",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "NRCN",
+      "canonical_name": "NRCN",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Mesaba",
+      "canonical_name": "Mesaba",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Reko Diq",
+      "canonical_name": "Reko Diq",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "14",
+      "type": "Facility",
+      "name": "Glencore",
+      "canonical_name": "Glencore",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "15",
+      "type": "Facility",
+      "name": "ОК РУСАЛ",
+      "canonical_name": "ОК РУСАЛ",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "16",
+      "type": "Expert",
+      "name": "International Aluminum Institute",
+      "canonical_name": "International Aluminum Institute",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "17",
+      "type": "Expert",
+      "name": "World Bureau of Metal Statistics",
+      "canonical_name": "World Bureau of Metal Statistics",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "18",
+      "type": "Expert",
+      "name": "Shanghai Metals Market",
+      "canonical_name": "Shanghai Metals Market",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "19",
+      "type": "Expert",
+      "name": "Главное таможенное управление КНР",
+      "canonical_name": "Главное таможенное управление КНР",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "арсенопирит",
+      "canonical_name": "arsenopyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "пирит",
+      "canonical_name": "pyrite",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "арсенопирит ромбической морфологии",
+      "canonical_name": "arsenopyrite rhombohedral morphology",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "арсенопирит призматической морфологии",
+      "canonical_name": "arsenopyrite prismatic morphology",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "золото",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "серебро",
+      "canonical_name": "silver",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "антимонит",
+      "canonical_name": "antimony sulfide",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "кварц",
+      "canonical_name": "quartz",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "алюмосиликаты",
+      "canonical_name": "alumino-silicates",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "оксиды",
+      "canonical_name": "oxides",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "чёрносланцы",
+      "canonical_name": "schists",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Государственный доклад о состоянии и использовании минерально-сырьевых ресурсов России 2020",
+      "canonical_name": "Государственный доклад о состоянии и использовании минерально-сырьевых ресурсов России 2020",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "2",
+      "type": "Publication",
+      "name": "Стратегическое значение редкоземельных металлов в мире и в России",
+      "canonical_name": "Стратегическое значение редкоземельных металлов в мире и в России",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "3",
+      "type": "Publication",
+      "name": "Route selection for minerals' transportation to ensure sustainability of the Arctic",
+      "canonical_name": "Route selection for minerals' transportation to ensure sustainability of the Arctic",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "4",
+      "type": "Publication",
+      "name": "Cost-benefit analysis",
+      "canonical_name": "Cost-benefit analysis",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "5",
+      "type": "Publication",
+      "name": "Exploring costbenefit analysis of research, development and innovation infrastructures: an evaluation framework",
+      "canonical_name": "Exploring costbenefit analysis of research, development and innovation infrastructures: an evaluation framework",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "6",
+      "type": "Publication",
+      "name": "Экономическая оценка проекта комплексной переработки фосфогипса с попутным извлечением редкоземельных элементов на основе использования методики «затраты – выгоды»",
+      "canonical_name": "Экономическая оценка проекта комплексной переработки фосфогипса с попутным извлечением редкоземельных элементов на основе использования методики «затраты – выгоды»",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "7",
+      "type": "Publication",
+      "name": "Разработка технологий извлечения редкоземельных элементов при сернокислотной переработке хибинского апатитового концентрата на минеральные удобрения",
+      "canonical_name": "Разработка технологий извлечения редкоземельных элементов при сернокислотной переработке хибинского апатитового концентрата на минеральные удобрения",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "8",
+      "type": "Publication",
+      "name": "Rare earth elements: overview of mining, mineralogy, uses, sustainability and environmental impact",
+      "canonical_name": "Rare earth elements: overview of mining, mineralogy, uses, sustainability and environmental impact",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "9",
+      "type": "Publication",
+      "name": "Глобальный рынок редкоземельных металлов",
+      "canonical_name": "Глобальный рынок редкоземельных металлов",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "10",
+      "type": "Publication",
+      "name": "Мировой рынок и технологии переработки редкоземельных металлов: современное состояние и перспективы",
+      "canonical_name": "Мировой рынок и технологии переработки редкоземельных металлов: современное состояние и перспективы",
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "tin",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "copper",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "lithium",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "cobalt",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "affiliated_with",
+      "target_id": "nirsks@yandex.ru",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "affiliated_with",
+      "target_id": "sergeev-ib@ranepa.ru",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "Nikkelverk",
+      "numeric_value": 3100.0,
+      "unit": "tonnes",
+      "condition": "2022",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "Murrin Murrin",
+      "numeric_value": 3300.0,
+      "unit": "tonnes",
+      "condition": "2022",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "Mutanda Mining",
+      "numeric_value": 40200.0,
+      "unit": "tonnes",
+      "condition": "2022",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "affiliated_with",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "affiliated_with",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "affiliated_with",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "в среде кислорода и аргона",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "в среде кислорода и аргона",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "ультразвуковая очистка",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "часть удаляется ультразвуковой очисткой",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "удаляются тонкие слои сульфидов",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "affiliated_with",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "affiliated_with",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "oxygen and argon environments",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "oxygen and argon environments",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "loose iron chloride salts and other unstable compounds",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "most of the products of the chemical reaction",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "thin layers of the sulphide matrix",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "validated_by",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "validated_by",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "250 Вт, 200 В, 60 см<sup>3</sup> /мин, 0,2 Па, 3 мин",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "5 мин",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "532 нм, 150–2500 см<sup>–1</sup>",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "532 нм, 150–2500 см<sup>–1</sup>",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "532 нм, 150–2500 см<sup>–1</sup>",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "532 нм, 150–2500 см<sup>–1</sup>",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": 3600.0,
+      "unit": "thousand tons",
+      "condition": "2024",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": 58000.0,
+      "unit": "ounces",
+      "condition": "2024",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": 12000.0,
+      "unit": "ounces",
+      "condition": "2024",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": 8100000.0,
+      "unit": "tons",
+      "condition": "2024",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 15000000.0,
+      "unit": "ounces",
+      "condition": "2024",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": 2000000.0,
+      "unit": "tons",
+      "condition": "2024",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 3700000.0,
+      "unit": "ounces",
+      "condition": "2024",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": 8100000.0,
+      "unit": "tons",
+      "condition": "2024",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 15000000.0,
+      "unit": "ounces",
+      "condition": "2024",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": 10581000.0,
+      "unit": "tons",
+      "condition": "2022",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": 12391000.0,
+      "unit": "tons",
+      "condition": "2022",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": 4363000.0,
+      "unit": "tons",
+      "condition": "2022",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": 5953000.0,
+      "unit": "tons",
+      "condition": "2022",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": 3835000.0,
+      "unit": "tons",
+      "condition": "2022",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "described_in",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "described_in",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "tin",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "copper",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "lithium",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "cobalt",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "affiliated_with",
+      "target_id": "nirsks@yandex.ru",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "affiliated_with",
+      "target_id": "sergeev-ib@ranepa.ru",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "Nikkelverk",
+      "numeric_value": 3100.0,
+      "unit": "tonnes",
+      "condition": "2022",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "Murrin Murrin",
+      "numeric_value": 3300.0,
+      "unit": "tonnes",
+      "condition": "2022",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "Mutanda Mining",
+      "numeric_value": 40200.0,
+      "unit": "tonnes",
+      "condition": "2022",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "affiliated_with",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "affiliated_with",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "affiliated_with",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "в среде кислорода и аргона",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "в среде кислорода и аргона",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "ультразвуковая очистка",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "часть удаляется ультразвуковой очисткой",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "удаляются тонкие слои сульфидов",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 23,
+        "page_end": 23
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "affiliated_with",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "affiliated_with",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "oxygen and argon environments",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "oxygen and argon environments",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "loose iron chloride salts and other unstable compounds",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "most of the products of the chemical reaction",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "thin layers of the sulphide matrix",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "validated_by",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "validated_by",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "250 Вт, 200 В, 60 см<sup>3</sup> /мин, 0,2 Па, 3 мин",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "5 мин",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "532 нм, 150–2500 см<sup>–1</sup>",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "532 нм, 150–2500 см<sup>–1</sup>",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "532 нм, 150–2500 см<sup>–1</sup>",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "532 нм, 150–2500 см<sup>–1</sup>",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 27,
+        "page_start": 28,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": 3600.0,
+      "unit": "thousand tons",
+      "condition": "2024",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": 58000.0,
+      "unit": "ounces",
+      "condition": "2024",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": 12000.0,
+      "unit": "ounces",
+      "condition": "2024",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": 8100000.0,
+      "unit": "tons",
+      "condition": "2024",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 15000000.0,
+      "unit": "ounces",
+      "condition": "2024",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": 2000000.0,
+      "unit": "tons",
+      "condition": "2024",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 3700000.0,
+      "unit": "ounces",
+      "condition": "2024",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": 8100000.0,
+      "unit": "tons",
+      "condition": "2024",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 15000000.0,
+      "unit": "ounces",
+      "condition": "2024",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": 10581000.0,
+      "unit": "tons",
+      "condition": "2022",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": 12391000.0,
+      "unit": "tons",
+      "condition": "2022",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": 4363000.0,
+      "unit": "tons",
+      "condition": "2022",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": 5953000.0,
+      "unit": "tons",
+      "condition": "2022",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": 3835000.0,
+      "unit": "tons",
+      "condition": "2022",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "described_in",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "described_in",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 28,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 03-23.md",
+        "category": "Журналы",
+        "chunk_index": 19,
+        "page_start": 20,
+        "page_end": 20
+      }
+    }
+  ]
+}

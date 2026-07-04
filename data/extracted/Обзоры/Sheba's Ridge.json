@@ -1,0 +1,3217 @@
+{
+  "filename": "Sheba's Ridge.pdf",
+  "category": "Обзоры",
+  "entities": [
+    {
+      "id": "7",
+      "type": "Experiment",
+      "name": "pilot mining",
+      "canonical_name": "pilot mining",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "74",
+      "type": "Facility",
+      "name": "Jubilee smelter",
+      "canonical_name": "Jubilee smelter",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "71",
+      "type": "Facility",
+      "name": "Industrial Development Corporation",
+      "canonical_name": "Industrial Development Corporation",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "82",
+      "type": "Facility",
+      "name": "MRC (Murray&Roberts)",
+      "canonical_name": "MRC (Murray&Roberts)",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "32",
+      "type": "Material",
+      "name": "Pd",
+      "canonical_name": "Pd",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "90",
+      "type": "Facility",
+      "name": "Waterval smelter",
+      "canonical_name": "Waterval smelter",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "65",
+      "type": "Facility",
+      "name": "Everest North",
+      "canonical_name": "Everest North",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "63",
+      "type": "Facility",
+      "name": "Eskom power station",
+      "canonical_name": "Eskom power station",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "62",
+      "type": "Facility",
+      "name": "Eskom",
+      "canonical_name": "Eskom",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "69",
+      "type": "Facility",
+      "name": "Impala Refining Services",
+      "canonical_name": "Impala Refining Services",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "75",
+      "type": "Facility",
+      "name": "Kroondal",
+      "canonical_name": "Kroondal",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "57",
+      "type": "Facility",
+      "name": "Blaauwbank",
+      "canonical_name": "Blaauwbank",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "21",
+      "type": "Material",
+      "name": "chromite",
+      "canonical_name": "chromite",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "78",
+      "type": "Facility",
+      "name": "Millenium",
+      "canonical_name": "Millenium",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "34",
+      "type": "Material",
+      "name": "Platchro",
+      "canonical_name": "Platchro",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "2",
+      "type": "Publication",
+      "name": "Aquarius Platinum: Blue Ridge Mine and Sheba’s Ridge Project",
+      "canonical_name": "Aquarius Platinum: Blue Ridge Mine and Sheba’s Ridge Project",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "12",
+      "type": "Expert",
+      "name": "Keith Liddell",
+      "canonical_name": "Keith Liddell",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "11",
+      "type": "Expert",
+      "name": "Jubilee Platinum",
+      "canonical_name": "Jubilee Platinum",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "59",
+      "type": "Facility",
+      "name": "Chieftains Plain",
+      "canonical_name": "Chieftains Plain",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "53",
+      "type": "Process",
+      "name": "selective mining",
+      "canonical_name": "selective mining",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "58",
+      "type": "Facility",
+      "name": "Blue Ridge",
+      "canonical_name": "Blue Ridge",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "54",
+      "type": "Process",
+      "name": "smelting",
+      "canonical_name": "smelting",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "39",
+      "type": "Material",
+      "name": "rhodium",
+      "canonical_name": "rhodium",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "40",
+      "type": "Material",
+      "name": "Ru",
+      "canonical_name": "Ru",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "22",
+      "type": "Material",
+      "name": "cobalt",
+      "canonical_name": "cobalt",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "79",
+      "type": "Facility",
+      "name": "Mimosa",
+      "canonical_name": "Mimosa",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "88",
+      "type": "Facility",
+      "name": "Tijate",
+      "canonical_name": "Tijate",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "Aquarius Platinum",
+      "canonical_name": "Aquarius Platinum",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "60",
+      "type": "Facility",
+      "name": "CTRP",
+      "canonical_name": "CTRP",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "45",
+      "type": "Process",
+      "name": "flotation",
+      "canonical_name": "flotation",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "47",
+      "type": "Process",
+      "name": "grinding",
+      "canonical_name": "grinding",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "43",
+      "type": "Process",
+      "name": "Conroast",
+      "canonical_name": "Conroast",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "89",
+      "type": "Facility",
+      "name": "Walhalla",
+      "canonical_name": "Walhalla",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "20",
+      "type": "Material",
+      "name": "Au",
+      "canonical_name": "Au",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "76",
+      "type": "Facility",
+      "name": "Marianca",
+      "canonical_name": "Marianca",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "13",
+      "type": "Expert",
+      "name": "Ridge Mining",
+      "canonical_name": "Ridge Mining",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "52",
+      "type": "Process",
+      "name": "refining",
+      "canonical_name": "refining",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "91",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "48",
+      "type": "Process",
+      "name": "hydrometallurgy",
+      "canonical_name": "hydrometallurgy",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "80",
+      "type": "Facility",
+      "name": "Mortimer smelter",
+      "canonical_name": "Mortimer smelter",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "56",
+      "type": "Facility",
+      "name": "Aquarius Platinum",
+      "canonical_name": "Aquarius Platinum",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "84",
+      "type": "Facility",
+      "name": "Polokwane smelter",
+      "canonical_name": "Polokwane smelter",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "27",
+      "type": "Material",
+      "name": "Ir",
+      "canonical_name": "Ir",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "28",
+      "type": "Material",
+      "name": "Merensky",
+      "canonical_name": "Merensky",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "77",
+      "type": "Facility",
+      "name": "MF2 processing plant",
+      "canonical_name": "MF2 processing plant",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "70",
+      "type": "Facility",
+      "name": "Industrial Development Corp",
+      "canonical_name": "Industrial Development Corp",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "4",
+      "type": "Publication",
+      "name": "ОИП РC – 05 - 2011",
+      "canonical_name": "ОИП РC – 05 - 2011",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "26",
+      "type": "Material",
+      "name": "gold",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "18",
+      "type": "Material",
+      "name": "3 PGM+Au",
+      "canonical_name": "3 PGM+Au",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "30",
+      "type": "Material",
+      "name": "nickel",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "5",
+      "type": "Equipment",
+      "name": "inclined shaft",
+      "canonical_name": "inclined shaft",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "42",
+      "type": "Process",
+      "name": "bulk mining",
+      "canonical_name": "bulk mining",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "66",
+      "type": "Facility",
+      "name": "Gipronikel Institute",
+      "canonical_name": "Gipronikel Institute",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "14",
+      "type": "Expert",
+      "name": "Vostrikova N.M.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "16",
+      "type": "Expert",
+      "name": "Колосова Г.К.",
+      "canonical_name": "Колосова Г.К.",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "Impala Platinum",
+      "canonical_name": "Impala Platinum",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "55",
+      "type": "Facility",
+      "name": "Anglo Platinum",
+      "canonical_name": "Anglo Platinum",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "51",
+      "type": "Process",
+      "name": "Preliminary Feasibility Study",
+      "canonical_name": "Preliminary Feasibility Study",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "29",
+      "type": "Material",
+      "name": "Ni",
+      "canonical_name": "Ni",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "49",
+      "type": "Process",
+      "name": "Kell process",
+      "canonical_name": "Kell process",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "68",
+      "type": "Facility",
+      "name": "Impala",
+      "canonical_name": "Impala",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "17",
+      "type": "Expert",
+      "name": "Р.А.Кузнецов",
+      "canonical_name": "Р.А.Кузнецов",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "87",
+      "type": "Facility",
+      "name": "Standard Bank",
+      "canonical_name": "Standard Bank",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "37",
+      "type": "Material",
+      "name": "Pt",
+      "canonical_name": "Pt",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "23",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "86",
+      "type": "Facility",
+      "name": "Sheba’s Ridge",
+      "canonical_name": "Sheba’s Ridge",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "36",
+      "type": "Material",
+      "name": "Platreef",
+      "canonical_name": "Platreef",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "67",
+      "type": "Facility",
+      "name": "Imbani Platinum",
+      "canonical_name": "Imbani Platinum",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "72",
+      "type": "Facility",
+      "name": "Investec",
+      "canonical_name": "Investec",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "24",
+      "type": "Material",
+      "name": "Cu",
+      "canonical_name": "Cu",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "73",
+      "type": "Facility",
+      "name": "ISF plant",
+      "canonical_name": "ISF plant",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "46",
+      "type": "Process",
+      "name": "gas-phase carbonylation",
+      "canonical_name": "gas-phase carbonylation",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "41",
+      "type": "Process",
+      "name": "Activox",
+      "canonical_name": "Activox",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "15",
+      "type": "Expert",
+      "name": "А.К.Евграфова",
+      "canonical_name": "А.К.Евграфова",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "3",
+      "type": "Publication",
+      "name": "Energy Consumption for Kell Hydrometallurgical Refining Versus Conventional Pyrometallurgical Smelting and Refining of PGM Concentrates",
+      "canonical_name": "Energy Consumption for Kell Hydrometallurgical Refining Versus Conventional Pyrometallurgical Smelting and Refining of PGM Concentrates",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "2008 PEA",
+      "canonical_name": "2008 PEA",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "81",
+      "type": "Facility",
+      "name": "MRC",
+      "canonical_name": "MRC",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "50",
+      "type": "Process",
+      "name": "open_pit_mining",
+      "canonical_name": "open_pit_mining",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "33",
+      "type": "Material",
+      "name": "PGM",
+      "canonical_name": "PGM",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "processing plant",
+      "canonical_name": "processing plant",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "31",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "35",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "38",
+      "type": "Material",
+      "name": "Rh",
+      "canonical_name": "Rh",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "83",
+      "type": "Facility",
+      "name": "Platinum Mile Resources",
+      "canonical_name": "Platinum Mile Resources",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "25",
+      "type": "Material",
+      "name": "flotation_concentrate",
+      "canonical_name": "flotation_concentrate",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "64",
+      "type": "Facility",
+      "name": "Everest",
+      "canonical_name": "Everest",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "61",
+      "type": "Facility",
+      "name": "Development Bank of Southern Africa",
+      "canonical_name": "Development Bank of Southern Africa",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "93",
+      "type": "Property",
+      "name": "recovery",
+      "canonical_name": "recovery",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Anglo Platinum",
+      "canonical_name": "Anglo Platinum",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "19",
+      "type": "Material",
+      "name": "4E",
+      "canonical_name": "4E",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "92",
+      "type": "Facility",
+      "name": "ООО «ИНСТИТУТ ГИПРОНИКЕЛЬ»",
+      "canonical_name": "ООО «ИНСТИТУТ ГИПРОНИКЕЛЬ»",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "44",
+      "type": "Process",
+      "name": "converting",
+      "canonical_name": "converting",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "85",
+      "type": "Facility",
+      "name": "Ridge Mining",
+      "canonical_name": "Ridge Mining",
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "12",
+      "relation": "affiliated_with",
+      "target_id": "73",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "affiliated_with",
+      "target_id": "73",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "77",
+      "relation": "affiliated_with",
+      "target_id": "73",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "80",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "80",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "90",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "84",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "uses_material",
+      "target_id": "80",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "74",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "74",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "84",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "49",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "uses_material",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "uses_material",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "uses_material",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "uses_material",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "uses_material",
+      "target_id": "48",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "uses_material",
+      "target_id": "46",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "80",
+      "relation": "uses_material",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "80",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "80",
+      "relation": "operates_at_condition",
+      "target_id": "77",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "80",
+      "relation": "produces_output",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "84",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "described_in",
+      "target_id": "74",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "33",
+      "relation": "operates_at_condition",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "33",
+      "relation": "operates_at_condition",
+      "target_id": "86",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "33",
+      "relation": "operates_at_condition",
+      "target_id": "88",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "33",
+      "relation": "uses_material",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "33",
+      "relation": "uses_material",
+      "target_id": "86",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "33",
+      "relation": "uses_material",
+      "target_id": "88",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "33",
+      "relation": "operates_at_condition",
+      "target_id": "33",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "33",
+      "relation": "operates_at_condition",
+      "target_id": "33",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "33",
+      "relation": "uses_material",
+      "target_id": "33",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "33",
+      "relation": "uses_material",
+      "target_id": "49",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "33",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "33",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "33",
+      "relation": "uses_material",
+      "target_id": "77",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "33",
+      "relation": "uses_material",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "33",
+      "relation": "uses_material",
+      "target_id": "48",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "33",
+      "relation": "uses_material",
+      "target_id": "46",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "33",
+      "relation": "uses_material",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "73",
+      "relation": "described_in",
+      "target_id": "33",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "affiliated_with",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "88",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "33",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "88",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "33",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "48",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "48",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "46",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "49",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "88",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "validated_by",
+      "target_id": "74",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "uses_material",
+      "target_id": "88",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "uses_material",
+      "target_id": "33",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "uses_material",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "86",
+      "relation": "uses_material",
+      "target_id": "88",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "86",
+      "relation": "uses_material",
+      "target_id": "33",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "86",
+      "relation": "uses_material",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "86",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "86",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "86",
+      "relation": "uses_material",
+      "target_id": "77",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "86",
+      "relation": "uses_material",
+      "target_id": "73",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "86",
+      "relation": "uses_material",
+      "target_id": "80",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "86",
+      "relation": "uses_material",
+      "target_id": "90",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "84",
+      "relation": "affiliated_with",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "74",
+      "relation": "affiliated_with",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "86",
+      "relation": "operates_at_condition",
+      "target_id": "80",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "86",
+      "relation": "operates_at_condition",
+      "target_id": "90",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "86",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "86",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "88",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "33",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "produces_output",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "49",
+      "relation": "produces_output",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "77",
+      "relation": "operates_at_condition",
+      "target_id": "49",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "73",
+      "relation": "operates_at_condition",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "73",
+      "relation": "operates_at_condition",
+      "target_id": "48",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "73",
+      "relation": "operates_at_condition",
+      "target_id": "46",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "80",
+      "relation": "operates_at_condition",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "90",
+      "relation": "operates_at_condition",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "84",
+      "relation": "operates_at_condition",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "74",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "uses_material",
+      "target_id": "58",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "63",
+      "relation": "affiliated_with",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 14,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "33",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "58",
+      "relation": "operates_at_condition",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "88",
+      "relation": "operates_at_condition",
+      "target_id": "33",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "88",
+      "relation": "operates_at_condition",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "88",
+      "relation": "operates_at_condition",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "88",
+      "relation": "operates_at_condition",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "49",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Sheba's Ridge.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 16,
+        "page_end": 17
+      }
+    }
+  ]
+}

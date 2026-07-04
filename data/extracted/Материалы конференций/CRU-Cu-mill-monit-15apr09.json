@@ -1,0 +1,2586 @@
+{
+  "filename": "CRU-Cu-mill-monit-15apr09.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "alloy rod",
+      "canonical_name": "alloy rod",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "brass rod",
+      "canonical_name": "brass rod",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "consumption",
+      "canonical_name": "consumption",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "offtake",
+      "canonical_name": "offtake",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "demand",
+      "canonical_name": "demand",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "production",
+      "canonical_name": "production",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "world consumption",
+      "canonical_name": "world consumption",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "world offtake",
+      "canonical_name": "world offtake",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "world output",
+      "canonical_name": "world output",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper alloy",
+      "canonical_name": "copper alloy",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "copper plate",
+      "canonical_name": "copper plate",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "copper sheet",
+      "canonical_name": "copper sheet",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "copper strip",
+      "canonical_name": "copper strip",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "copper foil",
+      "canonical_name": "copper foil",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "copper tube",
+      "canonical_name": "copper tube",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "copper alloy rod",
+      "canonical_name": "copper alloy rod",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "copper alloy mill products",
+      "canonical_name": "copper alloy mill products",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "brass rod",
+      "canonical_name": "brass rod",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "brass bar",
+      "canonical_name": "brass bar",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "alloy rod and wire",
+      "canonical_name": "alloy rod and wire",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "brass scrap",
+      "canonical_name": "brass scrap",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "indirect extrusion press",
+      "canonical_name": "indirect extrusion press",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "horizontal continuous casting furnaces",
+      "canonical_name": "horizontal continuous casting furnaces",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "vertical casting furnaces",
+      "canonical_name": "vertical casting furnaces",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Nippon Shindo",
+      "canonical_name": "Nippon Shindo",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Sakai City, Osaka",
+      "canonical_name": "Sakai City, Osaka",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "Nippon Shindo",
+      "canonical_name": "Nippon Shindo",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "International Copper Association (ICA)",
+      "canonical_name": "International Copper Association (ICA)",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "Codelco",
+      "canonical_name": "Codelco",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "copper cages",
+      "canonical_name": "copper cages",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "salmon",
+      "canonical_name": "salmon",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "5",
+      "type": "Experiment",
+      "name": "pilot programme",
+      "canonical_name": "pilot programme",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "International Copper Association (ICA)",
+      "canonical_name": "International Copper Association (ICA)",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Codelco",
+      "canonical_name": "Codelco",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "Sindicel",
+      "canonical_name": "Sindicel",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "Copper and Brass Servicenter Association (CBSA)",
+      "canonical_name": "Copper and Brass Servicenter Association (CBSA)",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "Standard & Poor",
+      "canonical_name": "Standard & Poor",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "4",
+      "type": "Expert",
+      "name": "Wolverine Tube Inc.",
+      "canonical_name": "Wolverine Tube Inc.",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "5",
+      "type": "Expert",
+      "name": "Wieland-Werke",
+      "canonical_name": "Wieland-Werke",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "6",
+      "type": "Expert",
+      "name": "Jiangxi Copper Co.",
+      "canonical_name": "Jiangxi Copper Co.",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "7",
+      "type": "Expert",
+      "name": "Chinalco Luoyang Copper Co., Ltd",
+      "canonical_name": "Chinalco Luoyang Copper Co., Ltd",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Antaike",
+      "canonical_name": "Antaike",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "State Administration of Taxation",
+      "canonical_name": "State Administration of Taxation",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "alloy rod",
+      "canonical_name": "alloy rod",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "brass rod",
+      "canonical_name": "brass rod",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "consumption",
+      "canonical_name": "consumption",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "offtake",
+      "canonical_name": "offtake",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "demand",
+      "canonical_name": "demand",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "production",
+      "canonical_name": "production",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "world consumption",
+      "canonical_name": "world consumption",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "world offtake",
+      "canonical_name": "world offtake",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "world output",
+      "canonical_name": "world output",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper alloy",
+      "canonical_name": "copper alloy",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "copper plate",
+      "canonical_name": "copper plate",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "copper sheet",
+      "canonical_name": "copper sheet",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "copper strip",
+      "canonical_name": "copper strip",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "copper foil",
+      "canonical_name": "copper foil",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "copper tube",
+      "canonical_name": "copper tube",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "copper alloy rod",
+      "canonical_name": "copper alloy rod",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "copper alloy mill products",
+      "canonical_name": "copper alloy mill products",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "brass rod",
+      "canonical_name": "brass rod",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "brass bar",
+      "canonical_name": "brass bar",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "alloy rod and wire",
+      "canonical_name": "alloy rod and wire",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "brass scrap",
+      "canonical_name": "brass scrap",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "indirect extrusion press",
+      "canonical_name": "indirect extrusion press",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "horizontal continuous casting furnaces",
+      "canonical_name": "horizontal continuous casting furnaces",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "vertical casting furnaces",
+      "canonical_name": "vertical casting furnaces",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Nippon Shindo",
+      "canonical_name": "Nippon Shindo",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Sakai City, Osaka",
+      "canonical_name": "Sakai City, Osaka",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "Nippon Shindo",
+      "canonical_name": "Nippon Shindo",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "International Copper Association (ICA)",
+      "canonical_name": "International Copper Association (ICA)",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "Codelco",
+      "canonical_name": "Codelco",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "copper cages",
+      "canonical_name": "copper cages",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "salmon",
+      "canonical_name": "salmon",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "5",
+      "type": "Experiment",
+      "name": "pilot programme",
+      "canonical_name": "pilot programme",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "International Copper Association (ICA)",
+      "canonical_name": "International Copper Association (ICA)",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Codelco",
+      "canonical_name": "Codelco",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "Sindicel",
+      "canonical_name": "Sindicel",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "Copper and Brass Servicenter Association (CBSA)",
+      "canonical_name": "Copper and Brass Servicenter Association (CBSA)",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "Standard & Poor",
+      "canonical_name": "Standard & Poor",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "4",
+      "type": "Expert",
+      "name": "Wolverine Tube Inc.",
+      "canonical_name": "Wolverine Tube Inc.",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "5",
+      "type": "Expert",
+      "name": "Wieland-Werke",
+      "canonical_name": "Wieland-Werke",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "6",
+      "type": "Expert",
+      "name": "Jiangxi Copper Co.",
+      "canonical_name": "Jiangxi Copper Co.",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "7",
+      "type": "Expert",
+      "name": "Chinalco Luoyang Copper Co., Ltd",
+      "canonical_name": "Chinalco Luoyang Copper Co., Ltd",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Antaike",
+      "canonical_name": "Antaike",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "State Administration of Taxation",
+      "canonical_name": "State Administration of Taxation",
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": -15.0,
+      "unit": "%",
+      "condition": "year-on-year",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": -6.2,
+      "unit": "%",
+      "condition": "year-on-year",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": -22.0,
+      "unit": "%",
+      "condition": "year-on-year",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": -2.7,
+      "unit": "million tonnes",
+      "condition": "2001 recessionary low",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "affiliated_with",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "affiliated_with",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "antimicrobial properties",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": -15.0,
+      "unit": "%",
+      "condition": "year-on-year",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": -6.2,
+      "unit": "%",
+      "condition": "year-on-year",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": -22.0,
+      "unit": "%",
+      "condition": "year-on-year",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": -2.7,
+      "unit": "million tonnes",
+      "condition": "2001 recessionary low",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "affiliated_with",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "affiliated_with",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "antimicrobial properties",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CRU-Cu-mill-monit-15apr09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    }
+  ]
+}

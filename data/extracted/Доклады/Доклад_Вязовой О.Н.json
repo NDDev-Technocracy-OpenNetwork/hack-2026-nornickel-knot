@@ -1,0 +1,356 @@
+{
+  "filename": "Доклад_Вязовой О.Н.md",
+  "category": "Доклады",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "Существующая технология ХМЦ КГМК",
+      "canonical_name": "existing_technology_HMC_KGMK",
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "Проектный вариант (Вариант 1)",
+      "canonical_name": "project_variant_1",
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Концентраты",
+      "canonical_name": "concentrates",
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "КПП",
+      "canonical_name": "KPP",
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "МСП",
+      "canonical_name": "MSP",
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "ДМ",
+      "canonical_name": "DM",
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "ОХР ПНТП",
+      "canonical_name": "OHRR_PNTP",
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "ПМ",
+      "canonical_name": "PM",
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "Селен",
+      "canonical_name": "selenium",
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "10",
+      "type": "Equipment",
+      "name": "Головной передел гидрохлорирования пенного продукта флотации",
+      "canonical_name": "hydrochlorination_head_reprocessing_froth_flotation_product",
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "11",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Vostrikova_N_M",
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Institute_Gipronikel",
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "affiliated_with",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Вязовой О.Н.md",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    }
+  ]
+}

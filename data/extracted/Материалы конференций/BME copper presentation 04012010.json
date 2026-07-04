@@ -1,0 +1,2960 @@
+{
+  "filename": "BME copper presentation 04012010.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "BME copper market case study: using mathematical models to sharpen thinking and to de-personalise debate on metal prices",
+      "canonical_name": "BME copper market case study: using mathematical models to sharpen thinking and to de-personalise debate on metal prices",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "Peter Hollands",
+      "canonical_name": "Peter Hollands",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "Adam Sotowicz",
+      "canonical_name": "Adam Sotowicz",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "4",
+      "type": "Expert",
+      "name": "Mire Zloh",
+      "canonical_name": "Mire Zloh",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "5",
+      "type": "Expert",
+      "name": "BME",
+      "canonical_name": "BME",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "1",
+      "type": "Property",
+      "name": "R2",
+      "canonical_name": "R2",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Nickel",
+      "canonical_name": "Nickel",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Copper",
+      "canonical_name": "Copper",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Aluminium",
+      "canonical_name": "Aluminium",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "LME stocks",
+      "canonical_name": "LME stocks",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "Y-O-Y IP Growth",
+      "canonical_name": "Y-O-Y IP Growth",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "7",
+      "type": "Property",
+      "name": "US$ Index",
+      "canonical_name": "US$ Index",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "The three combined in a BME model",
+      "canonical_name": "The three combined in a BME model",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "price model for copper",
+      "canonical_name": "price model for copper",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "gold",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "cash funds",
+      "canonical_name": "cash funds",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "hedge funds",
+      "canonical_name": "hedge funds",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "index funds",
+      "canonical_name": "index funds",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "LME stocks",
+      "canonical_name": "LME stocks",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "dollar index",
+      "canonical_name": "dollar index",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "IP",
+      "canonical_name": "IP",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "production costs",
+      "canonical_name": "production costs",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "futures investment",
+      "canonical_name": "futures investment",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "speculative shorts",
+      "canonical_name": "speculative shorts",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "physical market price",
+      "canonical_name": "physical market price",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "net-long investment",
+      "canonical_name": "net-long investment",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "reversion",
+      "canonical_name": "reversion",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "modelling",
+      "canonical_name": "modelling",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "analysis",
+      "canonical_name": "analysis",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "assumption",
+      "canonical_name": "assumption",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "investment-driven level",
+      "canonical_name": "investment-driven level",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "cash operating costs",
+      "canonical_name": "cash operating costs",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "7",
+      "type": "Property",
+      "name": "excess stocks",
+      "canonical_name": "excess stocks",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "structural over-capacity",
+      "canonical_name": "structural over-capacity",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "9",
+      "type": "Property",
+      "name": "legacy",
+      "canonical_name": "legacy",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "10",
+      "type": "Property",
+      "name": "long-term equilibrium",
+      "canonical_name": "long-term equilibrium",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "11",
+      "type": "Property",
+      "name": "short-term",
+      "canonical_name": "short-term",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "medium-term",
+      "canonical_name": "medium-term",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "13",
+      "type": "Property",
+      "name": "optimistic scenario",
+      "canonical_name": "optimistic scenario",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "14",
+      "type": "Property",
+      "name": "pessimistic scenario",
+      "canonical_name": "pessimistic scenario",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "15",
+      "type": "Property",
+      "name": "cash operating costs",
+      "canonical_name": "cash operating costs",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "16",
+      "type": "Property",
+      "name": "investment-driven prices",
+      "canonical_name": "investment-driven prices",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "17",
+      "type": "Property",
+      "name": "demand growth",
+      "canonical_name": "demand growth",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "18",
+      "type": "Property",
+      "name": "strength/weakness of the dollar",
+      "canonical_name": "strength/weakness of the dollar",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "19",
+      "type": "Property",
+      "name": "investment effects",
+      "canonical_name": "investment effects",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "20",
+      "type": "Property",
+      "name": "commodity index fund longs",
+      "canonical_name": "commodity index fund longs",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "21",
+      "type": "Property",
+      "name": "hedge fund longs/shorts",
+      "canonical_name": "hedge fund longs/shorts",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "22",
+      "type": "Property",
+      "name": "sector rotation",
+      "canonical_name": "sector rotation",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "23",
+      "type": "Property",
+      "name": "economic growth",
+      "canonical_name": "economic growth",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "24",
+      "type": "Property",
+      "name": "interest rates",
+      "canonical_name": "interest rates",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "25",
+      "type": "Property",
+      "name": "net long positions",
+      "canonical_name": "net long positions",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "BME copper market case study: using mathematical models to sharpen thinking and to de-personalise debate on metal prices",
+      "canonical_name": "BME copper market case study: using mathematical models to sharpen thinking and to de-personalise debate on metal prices",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "Peter Hollands",
+      "canonical_name": "Peter Hollands",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "Adam Sotowicz",
+      "canonical_name": "Adam Sotowicz",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "4",
+      "type": "Expert",
+      "name": "Mire Zloh",
+      "canonical_name": "Mire Zloh",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "5",
+      "type": "Expert",
+      "name": "BME",
+      "canonical_name": "BME",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "1",
+      "type": "Property",
+      "name": "R2",
+      "canonical_name": "R2",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Nickel",
+      "canonical_name": "Nickel",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Copper",
+      "canonical_name": "Copper",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Aluminium",
+      "canonical_name": "Aluminium",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "LME stocks",
+      "canonical_name": "LME stocks",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "Y-O-Y IP Growth",
+      "canonical_name": "Y-O-Y IP Growth",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "7",
+      "type": "Property",
+      "name": "US$ Index",
+      "canonical_name": "US$ Index",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "The three combined in a BME model",
+      "canonical_name": "The three combined in a BME model",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "price model for copper",
+      "canonical_name": "price model for copper",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "gold",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "cash funds",
+      "canonical_name": "cash funds",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "hedge funds",
+      "canonical_name": "hedge funds",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "index funds",
+      "canonical_name": "index funds",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "LME stocks",
+      "canonical_name": "LME stocks",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "dollar index",
+      "canonical_name": "dollar index",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "IP",
+      "canonical_name": "IP",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "production costs",
+      "canonical_name": "production costs",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "futures investment",
+      "canonical_name": "futures investment",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "speculative shorts",
+      "canonical_name": "speculative shorts",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "physical market price",
+      "canonical_name": "physical market price",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "net-long investment",
+      "canonical_name": "net-long investment",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "reversion",
+      "canonical_name": "reversion",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "modelling",
+      "canonical_name": "modelling",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "analysis",
+      "canonical_name": "analysis",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "assumption",
+      "canonical_name": "assumption",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "investment-driven level",
+      "canonical_name": "investment-driven level",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "cash operating costs",
+      "canonical_name": "cash operating costs",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "7",
+      "type": "Property",
+      "name": "excess stocks",
+      "canonical_name": "excess stocks",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "structural over-capacity",
+      "canonical_name": "structural over-capacity",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "9",
+      "type": "Property",
+      "name": "legacy",
+      "canonical_name": "legacy",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "10",
+      "type": "Property",
+      "name": "long-term equilibrium",
+      "canonical_name": "long-term equilibrium",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "11",
+      "type": "Property",
+      "name": "short-term",
+      "canonical_name": "short-term",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "medium-term",
+      "canonical_name": "medium-term",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "13",
+      "type": "Property",
+      "name": "optimistic scenario",
+      "canonical_name": "optimistic scenario",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "14",
+      "type": "Property",
+      "name": "pessimistic scenario",
+      "canonical_name": "pessimistic scenario",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "15",
+      "type": "Property",
+      "name": "cash operating costs",
+      "canonical_name": "cash operating costs",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "16",
+      "type": "Property",
+      "name": "investment-driven prices",
+      "canonical_name": "investment-driven prices",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "17",
+      "type": "Property",
+      "name": "demand growth",
+      "canonical_name": "demand growth",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "18",
+      "type": "Property",
+      "name": "strength/weakness of the dollar",
+      "canonical_name": "strength/weakness of the dollar",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "19",
+      "type": "Property",
+      "name": "investment effects",
+      "canonical_name": "investment effects",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "20",
+      "type": "Property",
+      "name": "commodity index fund longs",
+      "canonical_name": "commodity index fund longs",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "21",
+      "type": "Property",
+      "name": "hedge fund longs/shorts",
+      "canonical_name": "hedge fund longs/shorts",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "22",
+      "type": "Property",
+      "name": "sector rotation",
+      "canonical_name": "sector rotation",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "23",
+      "type": "Property",
+      "name": "economic growth",
+      "canonical_name": "economic growth",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "24",
+      "type": "Property",
+      "name": "interest rates",
+      "canonical_name": "interest rates",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "25",
+      "type": "Property",
+      "name": "net long positions",
+      "canonical_name": "net long positions",
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "5",
+      "relation": "affiliated_with",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": 0.62,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": 0.62,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": 0.13,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": 0.12,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": 0.11,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": 0.14,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": 0.21,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": 0.21,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": 0.09,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": 0.84,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": 0.82,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": 0.69,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "described_in",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "described_in",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "described_in",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "described_in",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "described_in",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "described_in",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "described_in",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "23",
+      "relation": "described_in",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "24",
+      "relation": "described_in",
+      "target_id": "25",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "affiliated_with",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": 0.62,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": 0.62,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": 0.13,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": 0.12,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": 0.11,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": 0.14,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": 0.21,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": 0.21,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": 0.09,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": 0.84,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": 0.82,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": 0.69,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "described_in",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "described_in",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "described_in",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "described_in",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "described_in",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "described_in",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "described_in",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "23",
+      "relation": "described_in",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "24",
+      "relation": "described_in",
+      "target_id": "25",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME copper presentation 04012010.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    }
+  ]
+}

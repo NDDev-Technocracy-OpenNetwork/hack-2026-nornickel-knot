@@ -1,0 +1,4354 @@
+{
+  "filename": "ОИ - 1 - 2016  Диспергирование.md",
+  "category": "Обзоры",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "VIGA",
+      "canonical_name": "VIGA",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "металл",
+      "canonical_name": "metal",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "инертный газ",
+      "canonical_name": "inert gas",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "argon",
+      "canonical_name": "argon",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "сталь",
+      "canonical_name": "steel",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "распылитель",
+      "canonical_name": "atomizer",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "7",
+      "type": "Equipment",
+      "name": "VIM-атомайзер",
+      "canonical_name": "VIM-atomizer",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "тигль",
+      "canonical_name": "tundish",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "VIGA",
+      "canonical_name": "VIGA",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "10",
+      "type": "Equipment",
+      "name": "рецептор",
+      "canonical_name": "receiver",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "11",
+      "type": "Equipment",
+      "name": "инструмент для вакуумного плавления",
+      "canonical_name": "vacuum melting equipment",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "соотношение между расходом металла и расходом газа",
+      "canonical_name": "ratio of metal flow rate to gas flow rate",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "13",
+      "type": "Property",
+      "name": "температура плавления",
+      "canonical_name": "melting temperature",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "14",
+      "type": "Property",
+      "name": "объем тигля",
+      "canonical_name": "tundish volume",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "15",
+      "type": "Property",
+      "name": "скорость выхода металла из тигля",
+      "canonical_name": "metal flow rate from tundish",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "С.М. Козырев",
+      "canonical_name": "С.М. Козырев",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "Р.А. Кузнецов",
+      "canonical_name": "Р.А. Кузнецов",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "ООО “ИНСТИТУТ ГИПРОНИКЕЛЬ”",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "ЦПР",
+      "canonical_name": "centrifugal powdering and quenching",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "УЗК",
+      "canonical_name": "ultrasonic granulation",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "ЭЙР",
+      "canonical_name": "electroimpulse granulation",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "порошок",
+      "canonical_name": "powder",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "расплав",
+      "canonical_name": "molten metal",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "тигель",
+      "canonical_name": "tundish",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "7",
+      "type": "Equipment",
+      "name": "центробежная форсунка",
+      "canonical_name": "centrifugal nozzle",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "вращающийся охлаждаемый кристаллизатор",
+      "canonical_name": "rotating cooled crystallizer",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "изгибно колеблющийся излучатель",
+      "canonical_name": "bending vibration emitter",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "10",
+      "type": "Equipment",
+      "name": "трубчатый пневмоакустический преобразователь",
+      "canonical_name": "tubular pneumatic acoustic transducer",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "11",
+      "type": "Equipment",
+      "name": "волновод",
+      "canonical_name": "waveguide",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "12",
+      "type": "Equipment",
+      "name": "генератор импульсов",
+      "canonical_name": "impulse generator",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "диспергирование металлического расплава",
+      "canonical_name": "dispersing molten metal",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "расплав",
+      "canonical_name": "molten metal",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Property",
+      "name": "температура",
+      "canonical_name": "temperature",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Property",
+      "name": "перегрев",
+      "canonical_name": "overheating",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "плотность",
+      "canonical_name": "density",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "форма",
+      "canonical_name": "shape",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Property",
+      "name": "сфероидизация",
+      "canonical_name": "spheroidization",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "состав",
+      "canonical_name": "composition",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "9",
+      "type": "Property",
+      "name": "оксидные пленки",
+      "canonical_name": "oxide films",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "10",
+      "type": "Property",
+      "name": "окисление",
+      "canonical_name": "oxidation",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "11",
+      "type": "Property",
+      "name": "азотирование",
+      "canonical_name": "nitriding",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "наводораживание",
+      "canonical_name": "hydrogen embrittlement",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "вода",
+      "canonical_name": "water",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "порошки",
+      "canonical_name": "powders",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "кислород",
+      "canonical_name": "oxygen",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "азот",
+      "canonical_name": "nitrogen",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "17",
+      "type": "Material",
+      "name": "водород",
+      "canonical_name": "hydrogen",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "18",
+      "type": "Material",
+      "name": "энергоноситель",
+      "canonical_name": "energy carrier",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "19",
+      "type": "Material",
+      "name": "охлаждающая среда",
+      "canonical_name": "cooling medium",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "20",
+      "type": "Equipment",
+      "name": "струя воды",
+      "canonical_name": "water jet",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "21",
+      "type": "Experiment",
+      "name": "распыление расплава водой высокого давления",
+      "canonical_name": "dispersion of molten metal by high-pressure water jet",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "water atomization",
+      "canonical_name": "water atomization",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "metal melt",
+      "canonical_name": "metal melt",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "water",
+      "canonical_name": "water",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "ferrosilicon",
+      "canonical_name": "ferrosilicon",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "ferromanganese",
+      "canonical_name": "ferromanganese",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "iron powder",
+      "canonical_name": "iron powder",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "copper alloy",
+      "canonical_name": "copper alloy",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "spraying nozzle",
+      "canonical_name": "spraying nozzle",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "9",
+      "type": "Property",
+      "name": "particle size",
+      "canonical_name": "particle size",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "10",
+      "type": "Property",
+      "name": "pressure",
+      "canonical_name": "pressure",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "11",
+      "type": "Property",
+      "name": "flow rate",
+      "canonical_name": "flow rate",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "temperature",
+      "canonical_name": "temperature",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "13",
+      "type": "Property",
+      "name": "oxygen content",
+      "canonical_name": "oxygen content",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "14",
+      "type": "Property",
+      "name": "cooling water volume",
+      "canonical_name": "cooling water volume",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "VIGA",
+      "canonical_name": "VIGA",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "металл",
+      "canonical_name": "metal",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "инертный газ",
+      "canonical_name": "inert gas",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "argon",
+      "canonical_name": "argon",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "сталь",
+      "canonical_name": "steel",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "распылитель",
+      "canonical_name": "atomizer",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "7",
+      "type": "Equipment",
+      "name": "VIM-атомайзер",
+      "canonical_name": "VIM-atomizer",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "тигль",
+      "canonical_name": "tundish",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "VIGA",
+      "canonical_name": "VIGA",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "10",
+      "type": "Equipment",
+      "name": "рецептор",
+      "canonical_name": "receiver",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "11",
+      "type": "Equipment",
+      "name": "инструмент для вакуумного плавления",
+      "canonical_name": "vacuum melting equipment",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "соотношение между расходом металла и расходом газа",
+      "canonical_name": "ratio of metal flow rate to gas flow rate",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "13",
+      "type": "Property",
+      "name": "температура плавления",
+      "canonical_name": "melting temperature",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "14",
+      "type": "Property",
+      "name": "объем тигля",
+      "canonical_name": "tundish volume",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "15",
+      "type": "Property",
+      "name": "скорость выхода металла из тигля",
+      "canonical_name": "metal flow rate from tundish",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "С.М. Козырев",
+      "canonical_name": "С.М. Козырев",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "Р.А. Кузнецов",
+      "canonical_name": "Р.А. Кузнецов",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "ООО “ИНСТИТУТ ГИПРОНИКЕЛЬ”",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "ЦПР",
+      "canonical_name": "centrifugal powdering and quenching",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "УЗК",
+      "canonical_name": "ultrasonic granulation",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "ЭЙР",
+      "canonical_name": "electroimpulse granulation",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "порошок",
+      "canonical_name": "powder",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "расплав",
+      "canonical_name": "molten metal",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "тигель",
+      "canonical_name": "tundish",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "7",
+      "type": "Equipment",
+      "name": "центробежная форсунка",
+      "canonical_name": "centrifugal nozzle",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "вращающийся охлаждаемый кристаллизатор",
+      "canonical_name": "rotating cooled crystallizer",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "изгибно колеблющийся излучатель",
+      "canonical_name": "bending vibration emitter",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "10",
+      "type": "Equipment",
+      "name": "трубчатый пневмоакустический преобразователь",
+      "canonical_name": "tubular pneumatic acoustic transducer",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "11",
+      "type": "Equipment",
+      "name": "волновод",
+      "canonical_name": "waveguide",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "12",
+      "type": "Equipment",
+      "name": "генератор импульсов",
+      "canonical_name": "impulse generator",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "диспергирование металлического расплава",
+      "canonical_name": "dispersing molten metal",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "расплав",
+      "canonical_name": "molten metal",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Property",
+      "name": "температура",
+      "canonical_name": "temperature",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Property",
+      "name": "перегрев",
+      "canonical_name": "overheating",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "плотность",
+      "canonical_name": "density",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "форма",
+      "canonical_name": "shape",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Property",
+      "name": "сфероидизация",
+      "canonical_name": "spheroidization",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "состав",
+      "canonical_name": "composition",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "9",
+      "type": "Property",
+      "name": "оксидные пленки",
+      "canonical_name": "oxide films",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "10",
+      "type": "Property",
+      "name": "окисление",
+      "canonical_name": "oxidation",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "11",
+      "type": "Property",
+      "name": "азотирование",
+      "canonical_name": "nitriding",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "наводораживание",
+      "canonical_name": "hydrogen embrittlement",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "вода",
+      "canonical_name": "water",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "порошки",
+      "canonical_name": "powders",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "кислород",
+      "canonical_name": "oxygen",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "азот",
+      "canonical_name": "nitrogen",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "17",
+      "type": "Material",
+      "name": "водород",
+      "canonical_name": "hydrogen",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "18",
+      "type": "Material",
+      "name": "энергоноситель",
+      "canonical_name": "energy carrier",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "19",
+      "type": "Material",
+      "name": "охлаждающая среда",
+      "canonical_name": "cooling medium",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "20",
+      "type": "Equipment",
+      "name": "струя воды",
+      "canonical_name": "water jet",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "21",
+      "type": "Experiment",
+      "name": "распыление расплава водой высокого давления",
+      "canonical_name": "dispersion of molten metal by high-pressure water jet",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "water atomization",
+      "canonical_name": "water atomization",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "metal melt",
+      "canonical_name": "metal melt",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "water",
+      "canonical_name": "water",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "ferrosilicon",
+      "canonical_name": "ferrosilicon",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "ferromanganese",
+      "canonical_name": "ferromanganese",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "iron powder",
+      "canonical_name": "iron powder",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "copper alloy",
+      "canonical_name": "copper alloy",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "spraying nozzle",
+      "canonical_name": "spraying nozzle",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "9",
+      "type": "Property",
+      "name": "particle size",
+      "canonical_name": "particle size",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "10",
+      "type": "Property",
+      "name": "pressure",
+      "canonical_name": "pressure",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "11",
+      "type": "Property",
+      "name": "flow rate",
+      "canonical_name": "flow rate",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "temperature",
+      "canonical_name": "temperature",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "13",
+      "type": "Property",
+      "name": "oxygen content",
+      "canonical_name": "oxygen content",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "14",
+      "type": "Property",
+      "name": "cooling water volume",
+      "canonical_name": "cooling water volume",
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "соотношение между расходом металла и расходом газа",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": "°С",
+      "condition": "температура плавления",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": "л",
+      "condition": "объем тигля",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": "кг/мин",
+      "condition": "скорость выхода металла из тигля",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "порошок",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "соотношение между расходом металла и расходом газа",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "соотношение между расходом металла и расходом газа",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "температура плавления",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "температура плавления",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "температура плавления",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": 1.0,
+      "unit": "л",
+      "condition": "объем тигля",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": 3.0,
+      "unit": "л",
+      "condition": "объем тигля",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": 5.0,
+      "unit": "л",
+      "condition": "объем тигля",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": 8.0,
+      "unit": "кг/мин",
+      "condition": "минимальный расход металла",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": 1.0,
+      "unit": "л/мин",
+      "condition": "минимальный расход металла",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": 1900.0,
+      "unit": "°С",
+      "condition": "температура плавления",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "affiliated_with",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "20-500 кг в час",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "расплав",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "напор",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "вращение и охлаждение",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "высокодисперсные порошки",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "расплав",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "ультразвуковая энергия",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "ультразвуковая энергия",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "ультразвуковая энергия",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "тонкодисперсные активные порошки",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "расплав",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "импульсный ток",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "импульсный генератор",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "высокая",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "высокий",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": "1000 раз",
+      "condition": "выше плотности воздуха",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "неправильная",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "не реализовывается",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "изменение состава расплава",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "оксидные пленки",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "окисление",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "азотирование",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "наводораживание",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "скорость и удельный расход",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 70.0,
+      "unit": "bar",
+      "condition": "to obtain iron powder with particle size of about 0.12 mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 20.0,
+      "unit": "bar",
+      "condition": "to obtain cast iron with particle size of about 0.5 mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 200.0,
+      "unit": "bar",
+      "condition": "to obtain ferrosilicon with particle size of about 50 microns",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": 27.0,
+      "unit": "kg/min",
+      "condition": "to obtain copper alloy powder with particle size of -149 microns",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": 1150.0,
+      "unit": "°C",
+      "condition": "for copper alloy",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": 1200.0,
+      "unit": "°C",
+      "condition": "for copper alloy",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 10.0,
+      "unit": "MPa",
+      "condition": "to obtain copper alloy powder with particle size of -149 microns",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 14.0,
+      "unit": "MPa",
+      "condition": "to obtain copper alloy powder with particle size of -149 microns",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": 0.1,
+      "unit": "%",
+      "condition": "for ferrosilicon",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": 1.0,
+      "unit": "%",
+      "condition": "for ferromanganese",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": 6.0,
+      "unit": "L/kg",
+      "condition": "for cooling ferrosilicon",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": 0.1,
+      "unit": "%",
+      "condition": "for ferrosilicon",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": 1.0,
+      "unit": "%",
+      "condition": "for ferromanganese",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 0.12,
+      "unit": "mm",
+      "condition": "for iron powder",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 0.5,
+      "unit": "mm",
+      "condition": "for cast iron",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 50.0,
+      "unit": "microns",
+      "condition": "for ferrosilicon",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 149.0,
+      "unit": "microns",
+      "condition": "for copper alloy powder",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 3.0,
+      "unit": "mm",
+      "condition": "to obtain iron powder with particle size of about 0.12 mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 30.0,
+      "unit": "mm",
+      "condition": "to obtain iron powder with particle size of about 0.12 mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": 5.0,
+      "unit": "kg/min",
+      "condition": "to obtain iron powder with particle size of about 0.12 mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": 500.0,
+      "unit": "kg/min",
+      "condition": "to obtain iron powder with particle size of about 0.12 mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": 27.0,
+      "unit": "kg/min",
+      "condition": "to obtain copper alloy powder with particle size of -149 microns",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 200.0,
+      "unit": "bar",
+      "condition": "to obtain ferrosilicon with particle size of about 50 microns",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 27.0,
+      "unit": "kg/min",
+      "condition": "to obtain copper alloy powder with particle size of -149 microns",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 1150.0,
+      "unit": "°C",
+      "condition": "for copper alloy",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 1200.0,
+      "unit": "°C",
+      "condition": "for copper alloy",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 0.1,
+      "unit": "%",
+      "condition": "for ferrosilicon",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 1.0,
+      "unit": "%",
+      "condition": "for ferromanganese",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 6.0,
+      "unit": "L/kg",
+      "condition": "for cooling ferrosilicon",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "соотношение между расходом металла и расходом газа",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": "°С",
+      "condition": "температура плавления",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": "л",
+      "condition": "объем тигля",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": "кг/мин",
+      "condition": "скорость выхода металла из тигля",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "порошок",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "соотношение между расходом металла и расходом газа",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "соотношение между расходом металла и расходом газа",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "температура плавления",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "температура плавления",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "температура плавления",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": 1.0,
+      "unit": "л",
+      "condition": "объем тигля",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": 3.0,
+      "unit": "л",
+      "condition": "объем тигля",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": 5.0,
+      "unit": "л",
+      "condition": "объем тигля",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": 8.0,
+      "unit": "кг/мин",
+      "condition": "минимальный расход металла",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": 1.0,
+      "unit": "л/мин",
+      "condition": "минимальный расход металла",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": 1900.0,
+      "unit": "°С",
+      "condition": "температура плавления",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "affiliated_with",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "20-500 кг в час",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "расплав",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "напор",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "вращение и охлаждение",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "высокодисперсные порошки",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "расплав",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "ультразвуковая энергия",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "ультразвуковая энергия",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "ультразвуковая энергия",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "тонкодисперсные активные порошки",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "расплав",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "импульсный ток",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "импульсный генератор",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "высокая",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "высокий",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": "1000 раз",
+      "condition": "выше плотности воздуха",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "неправильная",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "не реализовывается",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "изменение состава расплава",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "оксидные пленки",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "окисление",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "азотирование",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "наводораживание",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "скорость и удельный расход",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 70.0,
+      "unit": "bar",
+      "condition": "to obtain iron powder with particle size of about 0.12 mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 20.0,
+      "unit": "bar",
+      "condition": "to obtain cast iron with particle size of about 0.5 mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 200.0,
+      "unit": "bar",
+      "condition": "to obtain ferrosilicon with particle size of about 50 microns",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": 27.0,
+      "unit": "kg/min",
+      "condition": "to obtain copper alloy powder with particle size of -149 microns",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": 1150.0,
+      "unit": "°C",
+      "condition": "for copper alloy",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": 1200.0,
+      "unit": "°C",
+      "condition": "for copper alloy",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 10.0,
+      "unit": "MPa",
+      "condition": "to obtain copper alloy powder with particle size of -149 microns",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 14.0,
+      "unit": "MPa",
+      "condition": "to obtain copper alloy powder with particle size of -149 microns",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": 0.1,
+      "unit": "%",
+      "condition": "for ferrosilicon",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": 1.0,
+      "unit": "%",
+      "condition": "for ferromanganese",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": 6.0,
+      "unit": "L/kg",
+      "condition": "for cooling ferrosilicon",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": 0.1,
+      "unit": "%",
+      "condition": "for ferrosilicon",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": 1.0,
+      "unit": "%",
+      "condition": "for ferromanganese",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 0.12,
+      "unit": "mm",
+      "condition": "for iron powder",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 0.5,
+      "unit": "mm",
+      "condition": "for cast iron",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 50.0,
+      "unit": "microns",
+      "condition": "for ferrosilicon",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 149.0,
+      "unit": "microns",
+      "condition": "for copper alloy powder",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 3.0,
+      "unit": "mm",
+      "condition": "to obtain iron powder with particle size of about 0.12 mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 30.0,
+      "unit": "mm",
+      "condition": "to obtain iron powder with particle size of about 0.12 mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": 5.0,
+      "unit": "kg/min",
+      "condition": "to obtain iron powder with particle size of about 0.12 mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": 500.0,
+      "unit": "kg/min",
+      "condition": "to obtain iron powder with particle size of about 0.12 mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": 27.0,
+      "unit": "kg/min",
+      "condition": "to obtain copper alloy powder with particle size of -149 microns",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 200.0,
+      "unit": "bar",
+      "condition": "to obtain ferrosilicon with particle size of about 50 microns",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 27.0,
+      "unit": "kg/min",
+      "condition": "to obtain copper alloy powder with particle size of -149 microns",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 1150.0,
+      "unit": "°C",
+      "condition": "for copper alloy",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 1200.0,
+      "unit": "°C",
+      "condition": "for copper alloy",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 0.1,
+      "unit": "%",
+      "condition": "for ferrosilicon",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 1.0,
+      "unit": "%",
+      "condition": "for ferromanganese",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 6.0,
+      "unit": "L/kg",
+      "condition": "for cooling ferrosilicon",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОИ - 1 - 2016  Диспергирование.md",
+        "category": "Обзоры",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    }
+  ]
+}

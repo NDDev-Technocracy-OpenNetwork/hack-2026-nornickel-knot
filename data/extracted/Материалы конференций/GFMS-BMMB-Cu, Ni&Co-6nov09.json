@@ -1,0 +1,4264 @@
+{
+  "filename": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "base metals",
+      "canonical_name": "base metals",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "vehicle",
+      "canonical_name": "vehicle",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "housing",
+      "canonical_name": "housing",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "manufacturing",
+      "canonical_name": "manufacturing",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "production",
+      "canonical_name": "production",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "consumption",
+      "canonical_name": "consumption",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "housing starts",
+      "canonical_name": "housing starts",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "vehicle production",
+      "canonical_name": "vehicle production",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "industrial production",
+      "canonical_name": "industrial production",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "economic sentiment",
+      "canonical_name": "economic sentiment",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "11",
+      "type": "Process",
+      "name": "consumer confidence",
+      "canonical_name": "consumer confidence",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "12",
+      "type": "Process",
+      "name": "manufacturing PMI",
+      "canonical_name": "manufacturing PMI",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "13",
+      "type": "Process",
+      "name": "industrial PMI",
+      "canonical_name": "industrial PMI",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "14",
+      "type": "Process",
+      "name": "real GDP growth",
+      "canonical_name": "real GDP growth",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "15",
+      "type": "Equipment",
+      "name": "PMI",
+      "canonical_name": "PMI",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "16",
+      "type": "Expert",
+      "name": "Japanese",
+      "canonical_name": "Japanese",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "17",
+      "type": "Expert",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "18",
+      "type": "Expert",
+      "name": "Brazil",
+      "canonical_name": "Brazil",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "19",
+      "type": "Expert",
+      "name": "India",
+      "canonical_name": "India",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "20",
+      "type": "Expert",
+      "name": "Russia",
+      "canonical_name": "Russia",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "21",
+      "type": "Facility",
+      "name": "OECD",
+      "canonical_name": "OECD",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "22",
+      "type": "Facility",
+      "name": "GFMS",
+      "canonical_name": "GFMS",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "23",
+      "type": "Facility",
+      "name": "Thompson Reuters EcoWin",
+      "canonical_name": "Thompson Reuters EcoWin",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "24",
+      "type": "Facility",
+      "name": "National Statistics",
+      "canonical_name": "National Statistics",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "25",
+      "type": "Facility",
+      "name": "Disma",
+      "canonical_name": "Disma",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "26",
+      "type": "Facility",
+      "name": "Scientist & GFMS",
+      "canonical_name": "Scientist & GFMS",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "stocks",
+      "canonical_name": "stocks",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "production",
+      "canonical_name": "production",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "consumption",
+      "canonical_name": "consumption",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "market_balance",
+      "canonical_name": "market_balance",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "reported_stocks",
+      "canonical_name": "reported_stocks",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "trading_range",
+      "canonical_name": "trading_range",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "lme_cash",
+      "canonical_name": "lme_cash",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Refined Copper",
+      "canonical_name": "refined copper",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Copper Production",
+      "canonical_name": "copper production",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "South Africa",
+      "canonical_name": "South Africa",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Zambia",
+      "canonical_name": "Zambia",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Other Africa",
+      "canonical_name": "Other Africa",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Total Africa",
+      "canonical_name": "Total Africa",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "India",
+      "canonical_name": "India",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "Indonesia",
+      "canonical_name": "Indonesia",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "Japan",
+      "canonical_name": "Japan",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "Kazakhstan",
+      "canonical_name": "Kazakhstan",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "Philippines",
+      "canonical_name": "Philippines",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "South Korea",
+      "canonical_name": "South Korea",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "Other Asia",
+      "canonical_name": "Other Asia",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "Total Asia",
+      "canonical_name": "Total Asia",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "17",
+      "type": "Material",
+      "name": "Belgium",
+      "canonical_name": "Belgium",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "18",
+      "type": "Material",
+      "name": "Germany",
+      "canonical_name": "Germany",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "19",
+      "type": "Material",
+      "name": "Poland",
+      "canonical_name": "Poland",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "20",
+      "type": "Material",
+      "name": "Russia",
+      "canonical_name": "Russia",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "21",
+      "type": "Material",
+      "name": "Scandinavia",
+      "canonical_name": "Scandinavia",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "22",
+      "type": "Material",
+      "name": "Spain",
+      "canonical_name": "Spain",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "23",
+      "type": "Material",
+      "name": "Other Europe",
+      "canonical_name": "Other Europe",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "24",
+      "type": "Material",
+      "name": "Total Europe",
+      "canonical_name": "Total Europe",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "25",
+      "type": "Material",
+      "name": "Brazil",
+      "canonical_name": "Brazil",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "26",
+      "type": "Material",
+      "name": "Canada",
+      "canonical_name": "Canada",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "27",
+      "type": "Material",
+      "name": "Chile",
+      "canonical_name": "Chile",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "28",
+      "type": "Material",
+      "name": "Mexico",
+      "canonical_name": "Mexico",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "29",
+      "type": "Material",
+      "name": "Peru",
+      "canonical_name": "Peru",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "30",
+      "type": "Material",
+      "name": "USA",
+      "canonical_name": "USA",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "31",
+      "type": "Material",
+      "name": "Other Americas",
+      "canonical_name": "Other Americas",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "32",
+      "type": "Material",
+      "name": "Total Americas",
+      "canonical_name": "Total Americas",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "33",
+      "type": "Material",
+      "name": "Oceania",
+      "canonical_name": "Oceania",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "34",
+      "type": "Material",
+      "name": "Global Total",
+      "canonical_name": "Global Total",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "35",
+      "type": "Material",
+      "name": "Western World",
+      "canonical_name": "Western World",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "36",
+      "type": "Material",
+      "name": "Former Socialist",
+      "canonical_name": "Former Socialist",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "1",
+      "type": "Property",
+      "name": "Cobalt 99.8% $/lb",
+      "canonical_name": "Cobalt 99.8% $/lb",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "2",
+      "type": "Property",
+      "name": "Cobalt 99.3% $/lb",
+      "canonical_name": "Cobalt 99.3% $/lb",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "3",
+      "type": "Property",
+      "name": "% change y-o-y",
+      "canonical_name": "% change y-o-y",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "4",
+      "type": "Property",
+      "name": "Market Balance",
+      "canonical_name": "Market Balance",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "Global Supply",
+      "canonical_name": "Global Supply",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "Production",
+      "canonical_name": "Production",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "7",
+      "type": "Property",
+      "name": "Consumption",
+      "canonical_name": "Consumption",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "DLA Stockpile Sales",
+      "canonical_name": "DLA Stockpile Sales",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "9",
+      "type": "Property",
+      "name": "Cobalt 99.8% $/lb",
+      "canonical_name": "Cobalt 99.8% $/lb",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "10",
+      "type": "Property",
+      "name": "% change y-o-y",
+      "canonical_name": "% change y-o-y",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "11",
+      "type": "Property",
+      "name": "Cobalt 99.3% $/lb",
+      "canonical_name": "Cobalt 99.3% $/lb",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "% change y-o-y",
+      "canonical_name": "% change y-o-y",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "OECD Composite Leading Indicator",
+      "canonical_name": "OECD Composite Leading Indicator",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "European Commission",
+      "canonical_name": "European Commission",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "United States",
+      "canonical_name": "United States",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "4",
+      "type": "Expert",
+      "name": "Eurozone",
+      "canonical_name": "Eurozone",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "5",
+      "type": "Expert",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "6",
+      "type": "Expert",
+      "name": "Japan",
+      "canonical_name": "Japan",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "7",
+      "type": "Expert",
+      "name": "France",
+      "canonical_name": "France",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Germany",
+      "canonical_name": "Germany",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "Italy",
+      "canonical_name": "Italy",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "UK",
+      "canonical_name": "UK",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "11",
+      "type": "Expert",
+      "name": "NAFTA",
+      "canonical_name": "NAFTA",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "12",
+      "type": "Expert",
+      "name": "Brazil",
+      "canonical_name": "Brazil",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "13",
+      "type": "Expert",
+      "name": "India",
+      "canonical_name": "India",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "14",
+      "type": "Expert",
+      "name": "Russia",
+      "canonical_name": "Russia",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "base metals",
+      "canonical_name": "base metals",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "vehicle",
+      "canonical_name": "vehicle",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "housing",
+      "canonical_name": "housing",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "manufacturing",
+      "canonical_name": "manufacturing",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "production",
+      "canonical_name": "production",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "consumption",
+      "canonical_name": "consumption",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "housing starts",
+      "canonical_name": "housing starts",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "vehicle production",
+      "canonical_name": "vehicle production",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "industrial production",
+      "canonical_name": "industrial production",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "economic sentiment",
+      "canonical_name": "economic sentiment",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "11",
+      "type": "Process",
+      "name": "consumer confidence",
+      "canonical_name": "consumer confidence",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "12",
+      "type": "Process",
+      "name": "manufacturing PMI",
+      "canonical_name": "manufacturing PMI",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "13",
+      "type": "Process",
+      "name": "industrial PMI",
+      "canonical_name": "industrial PMI",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "14",
+      "type": "Process",
+      "name": "real GDP growth",
+      "canonical_name": "real GDP growth",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "15",
+      "type": "Equipment",
+      "name": "PMI",
+      "canonical_name": "PMI",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "16",
+      "type": "Expert",
+      "name": "Japanese",
+      "canonical_name": "Japanese",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "17",
+      "type": "Expert",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "18",
+      "type": "Expert",
+      "name": "Brazil",
+      "canonical_name": "Brazil",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "19",
+      "type": "Expert",
+      "name": "India",
+      "canonical_name": "India",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "20",
+      "type": "Expert",
+      "name": "Russia",
+      "canonical_name": "Russia",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "21",
+      "type": "Facility",
+      "name": "OECD",
+      "canonical_name": "OECD",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "22",
+      "type": "Facility",
+      "name": "GFMS",
+      "canonical_name": "GFMS",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "23",
+      "type": "Facility",
+      "name": "Thompson Reuters EcoWin",
+      "canonical_name": "Thompson Reuters EcoWin",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "24",
+      "type": "Facility",
+      "name": "National Statistics",
+      "canonical_name": "National Statistics",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "25",
+      "type": "Facility",
+      "name": "Disma",
+      "canonical_name": "Disma",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "26",
+      "type": "Facility",
+      "name": "Scientist & GFMS",
+      "canonical_name": "Scientist & GFMS",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "stocks",
+      "canonical_name": "stocks",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "production",
+      "canonical_name": "production",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "consumption",
+      "canonical_name": "consumption",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "market_balance",
+      "canonical_name": "market_balance",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "reported_stocks",
+      "canonical_name": "reported_stocks",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "trading_range",
+      "canonical_name": "trading_range",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "lme_cash",
+      "canonical_name": "lme_cash",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Refined Copper",
+      "canonical_name": "refined copper",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Copper Production",
+      "canonical_name": "copper production",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "South Africa",
+      "canonical_name": "South Africa",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "Zambia",
+      "canonical_name": "Zambia",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Other Africa",
+      "canonical_name": "Other Africa",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Total Africa",
+      "canonical_name": "Total Africa",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "India",
+      "canonical_name": "India",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "Indonesia",
+      "canonical_name": "Indonesia",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "Japan",
+      "canonical_name": "Japan",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "Kazakhstan",
+      "canonical_name": "Kazakhstan",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "Philippines",
+      "canonical_name": "Philippines",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "South Korea",
+      "canonical_name": "South Korea",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "Other Asia",
+      "canonical_name": "Other Asia",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "Total Asia",
+      "canonical_name": "Total Asia",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "17",
+      "type": "Material",
+      "name": "Belgium",
+      "canonical_name": "Belgium",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "18",
+      "type": "Material",
+      "name": "Germany",
+      "canonical_name": "Germany",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "19",
+      "type": "Material",
+      "name": "Poland",
+      "canonical_name": "Poland",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "20",
+      "type": "Material",
+      "name": "Russia",
+      "canonical_name": "Russia",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "21",
+      "type": "Material",
+      "name": "Scandinavia",
+      "canonical_name": "Scandinavia",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "22",
+      "type": "Material",
+      "name": "Spain",
+      "canonical_name": "Spain",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "23",
+      "type": "Material",
+      "name": "Other Europe",
+      "canonical_name": "Other Europe",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "24",
+      "type": "Material",
+      "name": "Total Europe",
+      "canonical_name": "Total Europe",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "25",
+      "type": "Material",
+      "name": "Brazil",
+      "canonical_name": "Brazil",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "26",
+      "type": "Material",
+      "name": "Canada",
+      "canonical_name": "Canada",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "27",
+      "type": "Material",
+      "name": "Chile",
+      "canonical_name": "Chile",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "28",
+      "type": "Material",
+      "name": "Mexico",
+      "canonical_name": "Mexico",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "29",
+      "type": "Material",
+      "name": "Peru",
+      "canonical_name": "Peru",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "30",
+      "type": "Material",
+      "name": "USA",
+      "canonical_name": "USA",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "31",
+      "type": "Material",
+      "name": "Other Americas",
+      "canonical_name": "Other Americas",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "32",
+      "type": "Material",
+      "name": "Total Americas",
+      "canonical_name": "Total Americas",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "33",
+      "type": "Material",
+      "name": "Oceania",
+      "canonical_name": "Oceania",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "34",
+      "type": "Material",
+      "name": "Global Total",
+      "canonical_name": "Global Total",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "35",
+      "type": "Material",
+      "name": "Western World",
+      "canonical_name": "Western World",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "36",
+      "type": "Material",
+      "name": "Former Socialist",
+      "canonical_name": "Former Socialist",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "1",
+      "type": "Property",
+      "name": "Cobalt 99.8% $/lb",
+      "canonical_name": "Cobalt 99.8% $/lb",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "2",
+      "type": "Property",
+      "name": "Cobalt 99.3% $/lb",
+      "canonical_name": "Cobalt 99.3% $/lb",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "3",
+      "type": "Property",
+      "name": "% change y-o-y",
+      "canonical_name": "% change y-o-y",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "4",
+      "type": "Property",
+      "name": "Market Balance",
+      "canonical_name": "Market Balance",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "Global Supply",
+      "canonical_name": "Global Supply",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "Production",
+      "canonical_name": "Production",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "7",
+      "type": "Property",
+      "name": "Consumption",
+      "canonical_name": "Consumption",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "DLA Stockpile Sales",
+      "canonical_name": "DLA Stockpile Sales",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "9",
+      "type": "Property",
+      "name": "Cobalt 99.8% $/lb",
+      "canonical_name": "Cobalt 99.8% $/lb",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "10",
+      "type": "Property",
+      "name": "% change y-o-y",
+      "canonical_name": "% change y-o-y",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "11",
+      "type": "Property",
+      "name": "Cobalt 99.3% $/lb",
+      "canonical_name": "Cobalt 99.3% $/lb",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "% change y-o-y",
+      "canonical_name": "% change y-o-y",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "OECD Composite Leading Indicator",
+      "canonical_name": "OECD Composite Leading Indicator",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "European Commission",
+      "canonical_name": "European Commission",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "United States",
+      "canonical_name": "United States",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "4",
+      "type": "Expert",
+      "name": "Eurozone",
+      "canonical_name": "Eurozone",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "5",
+      "type": "Expert",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "6",
+      "type": "Expert",
+      "name": "Japan",
+      "canonical_name": "Japan",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "7",
+      "type": "Expert",
+      "name": "France",
+      "canonical_name": "France",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Germany",
+      "canonical_name": "Germany",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "Italy",
+      "canonical_name": "Italy",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "UK",
+      "canonical_name": "UK",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "11",
+      "type": "Expert",
+      "name": "NAFTA",
+      "canonical_name": "NAFTA",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "12",
+      "type": "Expert",
+      "name": "Brazil",
+      "canonical_name": "Brazil",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "13",
+      "type": "Expert",
+      "name": "India",
+      "canonical_name": "India",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "14",
+      "type": "Expert",
+      "name": "Russia",
+      "canonical_name": "Russia",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "16",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Japanese manufacturing PMI remained comfortably within growth territory at 54.3 in October",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Housing starts in Japan were up at the margin in September, although they remained down notably on a year-on-year basis",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Vehicle production in Japan was down year-on-year in September, but the rate of decline slowed further and was the lowest this year-to-date",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Industrial production in Japan was up in September month-on-month, for the seventh consecutive month",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Base metals consumption in China has grown rapidly so far this year, and the latest economic data remains uniformly positive",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": 8.9,
+      "unit": "%",
+      "condition": "Real GDP growth in China accelerated in the third quarter to 8.9%",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": 13.9,
+      "unit": "%",
+      "condition": "Industrial production in China grew to 13.9% in September (compared to 12.3% in August)",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": 55.4,
+      "unit": "%",
+      "condition": "China’s manufacturing PMI rose further in October to 55.4, compared to 55 in the previous month",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": 52.3,
+      "unit": "%",
+      "condition": "Brazil’s manufacturing PMI at 52.3 in October, suggesting an expansion",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": 54.5,
+      "unit": "%",
+      "condition": "India’s manufacturing PMI at 54.5 in October, suggesting an expansion",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Russia’s manufacturing PMI saw a return below the 50 mark, largely as a result of weak export orders",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "OECD Leading Indicators",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "GFMS Base Metals Index",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "23",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "US & Eurozone",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "24",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "National Statistics",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Disma",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "26",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Scientist & GFMS",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "affiliated_with",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "affiliated_with",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "affiliated_with",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "affiliated_with",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Japanese manufacturing PMI remained comfortably within growth territory at 54.3 in October",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Housing starts in Japan were up at the margin in September, although they remained down notably on a year-on-year basis",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Vehicle production in Japan was down year-on-year in September, but the rate of decline slowed further and was the lowest this year-to-date",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Industrial production in Japan was up in September month-on-month, for the seventh consecutive month",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Base metals consumption in China has grown rapidly so far this year, and the latest economic data remains uniformly positive",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": 8.9,
+      "unit": "%",
+      "condition": "Real GDP growth in China accelerated in the third quarter to 8.9%",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": 13.9,
+      "unit": "%",
+      "condition": "Industrial production in China grew to 13.9% in September (compared to 12.3% in August)",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": 55.4,
+      "unit": "%",
+      "condition": "China’s manufacturing PMI rose further in October to 55.4, compared to 55 in the previous month",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": 52.3,
+      "unit": "%",
+      "condition": "Brazil’s manufacturing PMI at 52.3 in October, suggesting an expansion",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": 54.5,
+      "unit": "%",
+      "condition": "India’s manufacturing PMI at 54.5 in October, suggesting an expansion",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Russia’s manufacturing PMI saw a return below the 50 mark, largely as a result of weak export orders",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "OECD Leading Indicators",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "GFMS Base Metals Index",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "23",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "US & Eurozone",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "24",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "National Statistics",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "25",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Disma",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "26",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Scientist & GFMS",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "affiliated_with",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "affiliated_with",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "affiliated_with",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "affiliated_with",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-6nov09.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    }
+  ]
+}

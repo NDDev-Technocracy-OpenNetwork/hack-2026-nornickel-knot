@@ -1,0 +1,2484 @@
+{
+  "filename": "CopperQuarterly2010OctExecSum.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper concentrate",
+      "canonical_name": "copper concentrate",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "cathode",
+      "canonical_name": "cathode",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "brass mill",
+      "canonical_name": "brass mill",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "electrowinning",
+      "canonical_name": "electrowinning",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "smelting",
+      "canonical_name": "smelting",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Vostrikova N.M.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "Institute of NIKEL",
+      "canonical_name": "Institute of NIKEL",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "disruption allowance",
+      "canonical_name": "disruption allowance",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "market adjustment",
+      "canonical_name": "market adjustment",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "copper concentrate",
+      "canonical_name": "copper concentrate",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "secondary production",
+      "canonical_name": "secondary production",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "electrowinning cathode",
+      "canonical_name": "electrowinning cathode",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Andina",
+      "canonical_name": "Andina",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Los Pelambres",
+      "canonical_name": "Los Pelambres",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Los Bronces",
+      "canonical_name": "Los Bronces",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Oyu Tolgoi",
+      "canonical_name": "Oyu Tolgoi",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Las Bambas",
+      "canonical_name": "Las Bambas",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Phu Kham",
+      "canonical_name": "Phu Kham",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "West Wall project",
+      "canonical_name": "West Wall project",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "14",
+      "type": "Expert",
+      "name": "CRU International Limited",
+      "canonical_name": "CRU International Limited",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Los Bronces mine",
+      "canonical_name": "Los Bronces mine",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Konkola North",
+      "canonical_name": "Konkola North",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "Antapaccay",
+      "canonical_name": "Antapaccay",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "4",
+      "type": "Expert",
+      "name": "CRU International Limited",
+      "canonical_name": "CRU International Limited",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "aluminium",
+      "canonical_name": "aluminium",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "electrowinning",
+      "canonical_name": "electrowinning",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "wire production",
+      "canonical_name": "wire production",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "flat rolled product production",
+      "canonical_name": "flat rolled product production",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "heat transfer application",
+      "canonical_name": "heat transfer application",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "air conditioning",
+      "canonical_name": "air conditioning",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "micro channel technology",
+      "canonical_name": "micro channel technology",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Copper Quarterly October 2010",
+      "canonical_name": "Copper Quarterly October 2010",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "Eleni Joannides",
+      "canonical_name": "Eleni Joannides",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "Paul Settles",
+      "canonical_name": "Paul Settles",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "4",
+      "type": "Expert",
+      "name": "Christine Meilton",
+      "canonical_name": "Christine Meilton",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "5",
+      "type": "Expert",
+      "name": "David Duckworth",
+      "canonical_name": "David Duckworth",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "6",
+      "type": "Expert",
+      "name": "Vivienne Haley",
+      "canonical_name": "Vivienne Haley",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "7",
+      "type": "Expert",
+      "name": "Sushila Colquhoun",
+      "canonical_name": "Sushila Colquhoun",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Alicia Polo y La Borda",
+      "canonical_name": "Alicia Polo y La Borda",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "Grace Qu",
+      "canonical_name": "Grace Qu",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "Jon Barnes",
+      "canonical_name": "Jon Barnes",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper concentrate",
+      "canonical_name": "copper concentrate",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "cathode",
+      "canonical_name": "cathode",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "brass mill",
+      "canonical_name": "brass mill",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "electrowinning",
+      "canonical_name": "electrowinning",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "smelting",
+      "canonical_name": "smelting",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Vostrikova N.M.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "Institute of NIKEL",
+      "canonical_name": "Institute of NIKEL",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "disruption allowance",
+      "canonical_name": "disruption allowance",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "market adjustment",
+      "canonical_name": "market adjustment",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "copper concentrate",
+      "canonical_name": "copper concentrate",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "secondary production",
+      "canonical_name": "secondary production",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "electrowinning cathode",
+      "canonical_name": "electrowinning cathode",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Andina",
+      "canonical_name": "Andina",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Los Pelambres",
+      "canonical_name": "Los Pelambres",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Los Bronces",
+      "canonical_name": "Los Bronces",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Oyu Tolgoi",
+      "canonical_name": "Oyu Tolgoi",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Las Bambas",
+      "canonical_name": "Las Bambas",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Phu Kham",
+      "canonical_name": "Phu Kham",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "West Wall project",
+      "canonical_name": "West Wall project",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "14",
+      "type": "Expert",
+      "name": "CRU International Limited",
+      "canonical_name": "CRU International Limited",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Los Bronces mine",
+      "canonical_name": "Los Bronces mine",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Konkola North",
+      "canonical_name": "Konkola North",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "Antapaccay",
+      "canonical_name": "Antapaccay",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "4",
+      "type": "Expert",
+      "name": "CRU International Limited",
+      "canonical_name": "CRU International Limited",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "aluminium",
+      "canonical_name": "aluminium",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "electrowinning",
+      "canonical_name": "electrowinning",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "wire production",
+      "canonical_name": "wire production",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "flat rolled product production",
+      "canonical_name": "flat rolled product production",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "heat transfer application",
+      "canonical_name": "heat transfer application",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "air conditioning",
+      "canonical_name": "air conditioning",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "micro channel technology",
+      "canonical_name": "micro channel technology",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Copper Quarterly October 2010",
+      "canonical_name": "Copper Quarterly October 2010",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "Eleni Joannides",
+      "canonical_name": "Eleni Joannides",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "Paul Settles",
+      "canonical_name": "Paul Settles",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "4",
+      "type": "Expert",
+      "name": "Christine Meilton",
+      "canonical_name": "Christine Meilton",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "5",
+      "type": "Expert",
+      "name": "David Duckworth",
+      "canonical_name": "David Duckworth",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "6",
+      "type": "Expert",
+      "name": "Vivienne Haley",
+      "canonical_name": "Vivienne Haley",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "7",
+      "type": "Expert",
+      "name": "Sushila Colquhoun",
+      "canonical_name": "Sushila Colquhoun",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Alicia Polo y La Borda",
+      "canonical_name": "Alicia Polo y La Borda",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "Grace Qu",
+      "canonical_name": "Grace Qu",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "Jon Barnes",
+      "canonical_name": "Jon Barnes",
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "affiliated_with",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "contradicts",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "affiliated_with",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 3,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 5,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "contradicts",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperQuarterly2010OctExecSum.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    }
+  ]
+}

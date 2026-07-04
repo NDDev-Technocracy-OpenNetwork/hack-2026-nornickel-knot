@@ -1,0 +1,636 @@
+{
+  "filename": "Market Parameters Report December 2008.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "292",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2007-2010",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "425",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2008-2009",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "357",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2010",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "6.78",
+      "numeric_value": null,
+      "unit": "million ozs",
+      "condition": "2010",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "7.17",
+      "numeric_value": null,
+      "unit": "million ozs",
+      "condition": "2009",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "7.65",
+      "numeric_value": null,
+      "unit": "million ozs",
+      "condition": "2008",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "8.37",
+      "numeric_value": null,
+      "unit": "million ozs",
+      "condition": "2007",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "1.92",
+      "numeric_value": null,
+      "unit": "million ozs",
+      "condition": "2010",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "1.50",
+      "numeric_value": null,
+      "unit": "million ozs",
+      "condition": "2009",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "1.37",
+      "numeric_value": null,
+      "unit": "million ozs",
+      "condition": "2008",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "1.39",
+      "numeric_value": null,
+      "unit": "million ozs",
+      "condition": "2007",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2.6",
+      "numeric_value": null,
+      "unit": "months",
+      "condition": "2009",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2.3",
+      "numeric_value": null,
+      "unit": "months",
+      "condition": "2008",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2.2",
+      "numeric_value": null,
+      "unit": "months",
+      "condition": "2007",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "8.3",
+      "numeric_value": null,
+      "unit": "months",
+      "condition": "2010",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "9.3",
+      "numeric_value": null,
+      "unit": "months",
+      "condition": "2009",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "10.6",
+      "numeric_value": null,
+      "unit": "months",
+      "condition": "2008",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "12.1",
+      "numeric_value": null,
+      "unit": "months",
+      "condition": "2007",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "292",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2007-2010",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "425",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2008-2009",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "357",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2010",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "6.78",
+      "numeric_value": null,
+      "unit": "million ozs",
+      "condition": "2010",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "7.17",
+      "numeric_value": null,
+      "unit": "million ozs",
+      "condition": "2009",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "7.65",
+      "numeric_value": null,
+      "unit": "million ozs",
+      "condition": "2008",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "8.37",
+      "numeric_value": null,
+      "unit": "million ozs",
+      "condition": "2007",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "1.92",
+      "numeric_value": null,
+      "unit": "million ozs",
+      "condition": "2010",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "1.50",
+      "numeric_value": null,
+      "unit": "million ozs",
+      "condition": "2009",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "1.37",
+      "numeric_value": null,
+      "unit": "million ozs",
+      "condition": "2008",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "1.39",
+      "numeric_value": null,
+      "unit": "million ozs",
+      "condition": "2007",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2.6",
+      "numeric_value": null,
+      "unit": "months",
+      "condition": "2009",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2.3",
+      "numeric_value": null,
+      "unit": "months",
+      "condition": "2008",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2.2",
+      "numeric_value": null,
+      "unit": "months",
+      "condition": "2007",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "8.3",
+      "numeric_value": null,
+      "unit": "months",
+      "condition": "2010",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "9.3",
+      "numeric_value": null,
+      "unit": "months",
+      "condition": "2009",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "10.6",
+      "numeric_value": null,
+      "unit": "months",
+      "condition": "2008",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "12.1",
+      "numeric_value": null,
+      "unit": "months",
+      "condition": "2007",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "Market Parameters Report December 2008.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    }
+  ]
+}

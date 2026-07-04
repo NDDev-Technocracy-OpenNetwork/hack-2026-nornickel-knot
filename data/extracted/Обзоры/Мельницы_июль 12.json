@@ -1,0 +1,7334 @@
+{
+  "filename": "Мельницы_июль 12.md",
+  "category": "Обзоры",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "А.К. Евграфова",
+      "canonical_name": "А.К. Евграфова",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "Р.А. Кузнецов",
+      "canonical_name": "Р.А. Кузнецов",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "ООО «Институт Гипроникель»",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "дробление руды",
+      "canonical_name": "drilling ore",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "измельчение руды",
+      "canonical_name": "grinding ore",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "мокрая магнитная сепарация",
+      "canonical_name": "wet magnetic separation",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "флотация сульфидных минералов",
+      "canonical_name": "flotation of sulfide minerals",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "обезвоживание концентрата",
+      "canonical_name": "concentrate dehydration",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "руда Roche Bay",
+      "canonical_name": "Roche Bay ore",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "магнитный концентрат",
+      "canonical_name": "magnetic concentrate",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "конусные дробилки",
+      "canonical_name": "cone crushers",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "ИВВД",
+      "canonical_name": "IWWD",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "10",
+      "type": "Equipment",
+      "name": "мельницы SAG",
+      "canonical_name": "SAG mills",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "11",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "OJSC 'Institute Gipronikel'",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "KeMag",
+      "canonical_name": "KeMag",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "14",
+      "type": "Facility",
+      "name": "LabMag",
+      "canonical_name": "LabMag",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "15",
+      "type": "Facility",
+      "name": "Tata Steel",
+      "canonical_name": "Tata Steel",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "LabMag_project",
+      "type": "Facility",
+      "name": "LabMag project",
+      "canonical_name": "LabMag project",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "KeMag_project",
+      "type": "Facility",
+      "name": "KeMag project",
+      "canonical_name": "KeMag project",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "Takonit_project",
+      "type": "Facility",
+      "name": "Takonit project",
+      "canonical_name": "Takonit project",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "Santo_Domingo_project",
+      "type": "Facility",
+      "name": "Santo Domingo project",
+      "canonical_name": "Santo Domingo project",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "Capstone_Mining",
+      "type": "Expert",
+      "name": "Capstone Mining",
+      "canonical_name": "Capstone Mining",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "Korea_Resources",
+      "type": "Expert",
+      "name": "Korea Resources",
+      "canonical_name": "Korea Resources",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "Institute_Gipronikel",
+      "type": "Expert",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "Santo_Domingo",
+      "type": "Material",
+      "name": "Santo Domingo",
+      "canonical_name": "Santo Domingo",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "hematite",
+      "type": "Material",
+      "name": "гематит",
+      "canonical_name": "hematite",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "magnetite",
+      "type": "Material",
+      "name": "магнетит",
+      "canonical_name": "magnetite",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "chalcocite",
+      "type": "Material",
+      "name": "халькопирит",
+      "canonical_name": "chalcocite",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "iron_ore",
+      "type": "Material",
+      "name": "руды",
+      "canonical_name": "iron_ore",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "concentrate",
+      "type": "Material",
+      "name": "концентрат",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "wet_magnetic_separator",
+      "type": "Process",
+      "name": "мокрая магнитная сепарация",
+      "canonical_name": "wet_magnetic_separator",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "polycom_20_15_7",
+      "type": "Equipment",
+      "name": "мельница с валками высокого давления Polycom 20/15-7",
+      "canonical_name": "Polycom 20/15-7",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "sag_mill",
+      "type": "Equipment",
+      "name": "мельница SAG",
+      "canonical_name": "SAG mill",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "cone_crusher",
+      "type": "Equipment",
+      "name": "конусная дробилка",
+      "canonical_name": "cone crusher",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "vibrating_screen",
+      "type": "Equipment",
+      "name": "вибрационный грохот",
+      "canonical_name": "vibrating screen",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "sabc",
+      "type": "Process",
+      "name": "схема SABC",
+      "canonical_name": "SABC",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "ИВВД и мельницы с перемешиванием",
+      "canonical_name": "ИВВД и мельницы с перемешиванием",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "флотация халькопиритовой руды",
+      "canonical_name": "флотация халькопиритовой руды",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "магнетит",
+      "canonical_name": "магнетит",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "хвосты флотации меди",
+      "canonical_name": "хвосты флотации меди",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "халькопиритовая руда",
+      "canonical_name": "халькопиритовая руда",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "медный (золотосодержащий) концентрат",
+      "canonical_name": "медный (золотосодержащий) концентрат",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "О/Ф",
+      "canonical_name": "О/Ф",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "мельница полусамоизмельчения (SAG)",
+      "canonical_name": "мельница полусамоизмельчения (SAG)",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "вибрационные грохоты",
+      "canonical_name": "вибрационные грохоты",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Вострикова Н.М.",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "ООО «Институт Гипроникель»",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "медный рудник Ernest Henry",
+      "canonical_name": "медный рудник Ernest Henry",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "14",
+      "type": "Facility",
+      "name": "Xstrata",
+      "canonical_name": "Xstrata",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "maghemite concentrate",
+      "canonical_name": "maghemite concentrate",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "magnetite concentrate",
+      "canonical_name": "magnetite concentrate",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "copper concentrate",
+      "canonical_name": "copper concentrate",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "gold",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "primary crushing",
+      "canonical_name": "primary crushing",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "SAG milling",
+      "canonical_name": "SAG milling",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "pebble crushing",
+      "canonical_name": "pebble crushing",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "ball milling",
+      "canonical_name": "ball milling",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "hydrocyclone milling",
+      "canonical_name": "hydrocyclone milling",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "froth flotation",
+      "canonical_name": "froth flotation",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "11",
+      "type": "Process",
+      "name": "magnetic separation",
+      "canonical_name": "magnetic separation",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "12",
+      "type": "Equipment",
+      "name": "cone crusher",
+      "canonical_name": "cone crusher",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "13",
+      "type": "Equipment",
+      "name": "SAG mill",
+      "canonical_name": "SAG mill",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "14",
+      "type": "Equipment",
+      "name": "pebble crusher",
+      "canonical_name": "pebble crusher",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "15",
+      "type": "Equipment",
+      "name": "ball mill",
+      "canonical_name": "ball mill",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "16",
+      "type": "Equipment",
+      "name": "hydrocyclone",
+      "canonical_name": "hydrocyclone",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "17",
+      "type": "Equipment",
+      "name": "froth flotation machine",
+      "canonical_name": "froth flotation machine",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "18",
+      "type": "Equipment",
+      "name": "magnetic separator",
+      "canonical_name": "magnetic separator",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "19",
+      "type": "Expert",
+      "name": "Vostrikova N.M.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "20",
+      "type": "Facility",
+      "name": "Ausenco. Technical Report on the San Domingo Project, Chile, 28 September  2011",
+      "canonical_name": "Ausenco. Technical Report on the San Domingo Project, Chile, 28 September  2011",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "magmagnetic separation",
+      "canonical_name": "magnetic separation",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "flotation",
+      "canonical_name": "flotation",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "primary crushing",
+      "canonical_name": "primary crushing",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "SAG milling",
+      "canonical_name": "SAG milling",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "ball milling",
+      "canonical_name": "ball milling",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "iron ore",
+      "canonical_name": "iron ore",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "magnetite concentrate",
+      "canonical_name": "magnetite concentrate",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "chalcocite",
+      "canonical_name": "chalcocite",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "pyrite",
+      "canonical_name": "pyrite",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "gold",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "iron",
+      "canonical_name": "iron",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "12",
+      "type": "Equipment",
+      "name": "FLSmidth 54\"Ч74\" cone crusher",
+      "canonical_name": "FLSmidth 54\"Ч74\" cone crusher",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "13",
+      "type": "Equipment",
+      "name": "SAG mill",
+      "canonical_name": "SAG mill",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "14",
+      "type": "Equipment",
+      "name": "ball mill",
+      "canonical_name": "ball mill",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "15",
+      "type": "Expert",
+      "name": "Hatch",
+      "canonical_name": "Hatch",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "16",
+      "type": "Expert",
+      "name": "Vostrikova N.M.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "17",
+      "type": "Facility",
+      "name": "OJSC Institute Gipro nickel",
+      "canonical_name": "OJSC Institute Gipro nickel",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "primary crushing",
+      "canonical_name": "primary crushing",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "2",
+      "type": "Equipment",
+      "name": "IVVD",
+      "canonical_name": "IVVD",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "ore",
+      "canonical_name": "ore",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "pulp",
+      "canonical_name": "pulp",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "magnetic separation",
+      "canonical_name": "magnetic separation",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "7",
+      "type": "Equipment",
+      "name": "Flexowell",
+      "canonical_name": "Flexowell",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "cyclone flocculator",
+      "canonical_name": "cyclone flocculator",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "ball mill",
+      "canonical_name": "ball mill",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "10",
+      "type": "Equipment",
+      "name": "LIMS",
+      "canonical_name": "LIMS",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "11",
+      "type": "Equipment",
+      "name": "Stacksizer",
+      "canonical_name": "Stacksizer",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Otelnuk Lake Iron Ore Project",
+      "canonical_name": "Otelnuk Lake Iron Ore Project",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Roche Bay",
+      "canonical_name": "Roche Bay",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "14",
+      "type": "Expert",
+      "name": "Institute of Hydrometallurgy",
+      "canonical_name": "Institute of Hydrometallurgy",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "15",
+      "type": "Expert",
+      "name": "Roche Bay",
+      "canonical_name": "Roche Bay",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "16",
+      "type": "Expert",
+      "name": "Advanced Explorations",
+      "canonical_name": "Advanced Explorations",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "self-crushing",
+      "canonical_name": "self-crushing",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "ball-milling",
+      "canonical_name": "ball-milling",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "cone-crushing",
+      "canonical_name": "cone-crushing",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "hydrocyclone-classification",
+      "canonical_name": "hydrocyclone-classification",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "chalcopyrite",
+      "canonical_name": "chalcopyrite",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "pyrite",
+      "canonical_name": "pyrite",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "pyrrhotine",
+      "canonical_name": "pyrrhotine",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "gold",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "silver",
+      "canonical_name": "silver",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "molybdenum",
+      "canonical_name": "molybdenum",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "12",
+      "type": "Equipment",
+      "name": "SAG mill",
+      "canonical_name": "SAG mill",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "13",
+      "type": "Equipment",
+      "name": "cone crusher",
+      "canonical_name": "cone crusher",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "14",
+      "type": "Equipment",
+      "name": "AG mill",
+      "canonical_name": "AG mill",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "15",
+      "type": "Equipment",
+      "name": "pebble mill",
+      "canonical_name": "pebble mill",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "16",
+      "type": "Equipment",
+      "name": "classifier",
+      "canonical_name": "classifier",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "17",
+      "type": "Equipment",
+      "name": "hydrocyclone",
+      "canonical_name": "hydrocyclone",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "18",
+      "type": "Facility",
+      "name": "Hannukainen",
+      "canonical_name": "Hannukainen",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "19",
+      "type": "Facility",
+      "name": "Aitik",
+      "canonical_name": "Aitik",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "А.К. Евграфова",
+      "canonical_name": "А.К. Евграфова",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "Р.А. Кузнецов",
+      "canonical_name": "Р.А. Кузнецов",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "ООО «Институт Гипроникель»",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "дробление руды",
+      "canonical_name": "drilling ore",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "измельчение руды",
+      "canonical_name": "grinding ore",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "мокрая магнитная сепарация",
+      "canonical_name": "wet magnetic separation",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "флотация сульфидных минералов",
+      "canonical_name": "flotation of sulfide minerals",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "обезвоживание концентрата",
+      "canonical_name": "concentrate dehydration",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "руда Roche Bay",
+      "canonical_name": "Roche Bay ore",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "магнитный концентрат",
+      "canonical_name": "magnetic concentrate",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "конусные дробилки",
+      "canonical_name": "cone crushers",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "ИВВД",
+      "canonical_name": "IWWD",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "10",
+      "type": "Equipment",
+      "name": "мельницы SAG",
+      "canonical_name": "SAG mills",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "11",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "OJSC 'Institute Gipronikel'",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "KeMag",
+      "canonical_name": "KeMag",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "14",
+      "type": "Facility",
+      "name": "LabMag",
+      "canonical_name": "LabMag",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "15",
+      "type": "Facility",
+      "name": "Tata Steel",
+      "canonical_name": "Tata Steel",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "LabMag_project",
+      "type": "Facility",
+      "name": "LabMag project",
+      "canonical_name": "LabMag project",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "KeMag_project",
+      "type": "Facility",
+      "name": "KeMag project",
+      "canonical_name": "KeMag project",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "Takonit_project",
+      "type": "Facility",
+      "name": "Takonit project",
+      "canonical_name": "Takonit project",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "Santo_Domingo_project",
+      "type": "Facility",
+      "name": "Santo Domingo project",
+      "canonical_name": "Santo Domingo project",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "Capstone_Mining",
+      "type": "Expert",
+      "name": "Capstone Mining",
+      "canonical_name": "Capstone Mining",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "Korea_Resources",
+      "type": "Expert",
+      "name": "Korea Resources",
+      "canonical_name": "Korea Resources",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "Institute_Gipronikel",
+      "type": "Expert",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "Santo_Domingo",
+      "type": "Material",
+      "name": "Santo Domingo",
+      "canonical_name": "Santo Domingo",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "hematite",
+      "type": "Material",
+      "name": "гематит",
+      "canonical_name": "hematite",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "magnetite",
+      "type": "Material",
+      "name": "магнетит",
+      "canonical_name": "magnetite",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "chalcocite",
+      "type": "Material",
+      "name": "халькопирит",
+      "canonical_name": "chalcocite",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "iron_ore",
+      "type": "Material",
+      "name": "руды",
+      "canonical_name": "iron_ore",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "concentrate",
+      "type": "Material",
+      "name": "концентрат",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "wet_magnetic_separator",
+      "type": "Process",
+      "name": "мокрая магнитная сепарация",
+      "canonical_name": "wet_magnetic_separator",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "polycom_20_15_7",
+      "type": "Equipment",
+      "name": "мельница с валками высокого давления Polycom 20/15-7",
+      "canonical_name": "Polycom 20/15-7",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "sag_mill",
+      "type": "Equipment",
+      "name": "мельница SAG",
+      "canonical_name": "SAG mill",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "cone_crusher",
+      "type": "Equipment",
+      "name": "конусная дробилка",
+      "canonical_name": "cone crusher",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "vibrating_screen",
+      "type": "Equipment",
+      "name": "вибрационный грохот",
+      "canonical_name": "vibrating screen",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "sabc",
+      "type": "Process",
+      "name": "схема SABC",
+      "canonical_name": "SABC",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "ИВВД и мельницы с перемешиванием",
+      "canonical_name": "ИВВД и мельницы с перемешиванием",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "флотация халькопиритовой руды",
+      "canonical_name": "флотация халькопиритовой руды",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "магнетит",
+      "canonical_name": "магнетит",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "хвосты флотации меди",
+      "canonical_name": "хвосты флотации меди",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "халькопиритовая руда",
+      "canonical_name": "халькопиритовая руда",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "медный (золотосодержащий) концентрат",
+      "canonical_name": "медный (золотосодержащий) концентрат",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "О/Ф",
+      "canonical_name": "О/Ф",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "мельница полусамоизмельчения (SAG)",
+      "canonical_name": "мельница полусамоизмельчения (SAG)",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "вибрационные грохоты",
+      "canonical_name": "вибрационные грохоты",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Вострикова Н.М.",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "ООО «Институт Гипроникель»",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "медный рудник Ernest Henry",
+      "canonical_name": "медный рудник Ernest Henry",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "14",
+      "type": "Facility",
+      "name": "Xstrata",
+      "canonical_name": "Xstrata",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "maghemite concentrate",
+      "canonical_name": "maghemite concentrate",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "magnetite concentrate",
+      "canonical_name": "magnetite concentrate",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "copper concentrate",
+      "canonical_name": "copper concentrate",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "gold",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "primary crushing",
+      "canonical_name": "primary crushing",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "SAG milling",
+      "canonical_name": "SAG milling",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "pebble crushing",
+      "canonical_name": "pebble crushing",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "ball milling",
+      "canonical_name": "ball milling",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "hydrocyclone milling",
+      "canonical_name": "hydrocyclone milling",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "froth flotation",
+      "canonical_name": "froth flotation",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "11",
+      "type": "Process",
+      "name": "magnetic separation",
+      "canonical_name": "magnetic separation",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "12",
+      "type": "Equipment",
+      "name": "cone crusher",
+      "canonical_name": "cone crusher",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "13",
+      "type": "Equipment",
+      "name": "SAG mill",
+      "canonical_name": "SAG mill",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "14",
+      "type": "Equipment",
+      "name": "pebble crusher",
+      "canonical_name": "pebble crusher",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "15",
+      "type": "Equipment",
+      "name": "ball mill",
+      "canonical_name": "ball mill",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "16",
+      "type": "Equipment",
+      "name": "hydrocyclone",
+      "canonical_name": "hydrocyclone",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "17",
+      "type": "Equipment",
+      "name": "froth flotation machine",
+      "canonical_name": "froth flotation machine",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "18",
+      "type": "Equipment",
+      "name": "magnetic separator",
+      "canonical_name": "magnetic separator",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "19",
+      "type": "Expert",
+      "name": "Vostrikova N.M.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "20",
+      "type": "Facility",
+      "name": "Ausenco. Technical Report on the San Domingo Project, Chile, 28 September  2011",
+      "canonical_name": "Ausenco. Technical Report on the San Domingo Project, Chile, 28 September  2011",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "magmagnetic separation",
+      "canonical_name": "magnetic separation",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "flotation",
+      "canonical_name": "flotation",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "primary crushing",
+      "canonical_name": "primary crushing",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "SAG milling",
+      "canonical_name": "SAG milling",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "ball milling",
+      "canonical_name": "ball milling",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "iron ore",
+      "canonical_name": "iron ore",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "magnetite concentrate",
+      "canonical_name": "magnetite concentrate",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "chalcocite",
+      "canonical_name": "chalcocite",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "pyrite",
+      "canonical_name": "pyrite",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "gold",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "iron",
+      "canonical_name": "iron",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "12",
+      "type": "Equipment",
+      "name": "FLSmidth 54\"Ч74\" cone crusher",
+      "canonical_name": "FLSmidth 54\"Ч74\" cone crusher",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "13",
+      "type": "Equipment",
+      "name": "SAG mill",
+      "canonical_name": "SAG mill",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "14",
+      "type": "Equipment",
+      "name": "ball mill",
+      "canonical_name": "ball mill",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "15",
+      "type": "Expert",
+      "name": "Hatch",
+      "canonical_name": "Hatch",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "16",
+      "type": "Expert",
+      "name": "Vostrikova N.M.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "17",
+      "type": "Facility",
+      "name": "OJSC Institute Gipro nickel",
+      "canonical_name": "OJSC Institute Gipro nickel",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "primary crushing",
+      "canonical_name": "primary crushing",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "2",
+      "type": "Equipment",
+      "name": "IVVD",
+      "canonical_name": "IVVD",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "ore",
+      "canonical_name": "ore",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "pulp",
+      "canonical_name": "pulp",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "magnetic separation",
+      "canonical_name": "magnetic separation",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "7",
+      "type": "Equipment",
+      "name": "Flexowell",
+      "canonical_name": "Flexowell",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "cyclone flocculator",
+      "canonical_name": "cyclone flocculator",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "ball mill",
+      "canonical_name": "ball mill",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "10",
+      "type": "Equipment",
+      "name": "LIMS",
+      "canonical_name": "LIMS",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "11",
+      "type": "Equipment",
+      "name": "Stacksizer",
+      "canonical_name": "Stacksizer",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Otelnuk Lake Iron Ore Project",
+      "canonical_name": "Otelnuk Lake Iron Ore Project",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Roche Bay",
+      "canonical_name": "Roche Bay",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "14",
+      "type": "Expert",
+      "name": "Institute of Hydrometallurgy",
+      "canonical_name": "Institute of Hydrometallurgy",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "15",
+      "type": "Expert",
+      "name": "Roche Bay",
+      "canonical_name": "Roche Bay",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "16",
+      "type": "Expert",
+      "name": "Advanced Explorations",
+      "canonical_name": "Advanced Explorations",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "self-crushing",
+      "canonical_name": "self-crushing",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "ball-milling",
+      "canonical_name": "ball-milling",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "cone-crushing",
+      "canonical_name": "cone-crushing",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "hydrocyclone-classification",
+      "canonical_name": "hydrocyclone-classification",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "chalcopyrite",
+      "canonical_name": "chalcopyrite",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "pyrite",
+      "canonical_name": "pyrite",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "pyrrhotine",
+      "canonical_name": "pyrrhotine",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "gold",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "silver",
+      "canonical_name": "silver",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "molybdenum",
+      "canonical_name": "molybdenum",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "12",
+      "type": "Equipment",
+      "name": "SAG mill",
+      "canonical_name": "SAG mill",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "13",
+      "type": "Equipment",
+      "name": "cone crusher",
+      "canonical_name": "cone crusher",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "14",
+      "type": "Equipment",
+      "name": "AG mill",
+      "canonical_name": "AG mill",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "15",
+      "type": "Equipment",
+      "name": "pebble mill",
+      "canonical_name": "pebble mill",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "16",
+      "type": "Equipment",
+      "name": "classifier",
+      "canonical_name": "classifier",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "17",
+      "type": "Equipment",
+      "name": "hydrocyclone",
+      "canonical_name": "hydrocyclone",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "18",
+      "type": "Facility",
+      "name": "Hannukainen",
+      "canonical_name": "Hannukainen",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "19",
+      "type": "Facility",
+      "name": "Aitik",
+      "canonical_name": "Aitik",
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "3",
+      "relation": "affiliated_with",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "до 12-13 мм",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "до 1,6 мм",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "до 0,07% серы",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "до 7% влаги",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "до 175 мм",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "до 1,6 мм",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "до 1,6 мм",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "affiliated_with",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "LabMag_project",
+      "relation": "described_in",
+      "target_id": "Institute_Gipronikel",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "KeMag_project",
+      "relation": "described_in",
+      "target_id": "NI_43_101_Technical_Report_on_the_Prefeasibility_Study_of_the_KeMag_Iron_Ore_Project",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "Takonit_project",
+      "relation": "described_in",
+      "target_id": "Institute_Gipronikel",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "Santo_Domingo_project",
+      "relation": "described_in",
+      "target_id": "Institute_Gipronikel",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "Capstone_Mining",
+      "relation": "affiliated_with",
+      "target_id": "Santo_Domingo_project",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "Korea_Resources",
+      "relation": "affiliated_with",
+      "target_id": "Santo_Domingo_project",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "Institute_Gipronikel",
+      "relation": "affiliated_with",
+      "target_id": "Takonit_project",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "Institute_Gipronikel",
+      "relation": "affiliated_with",
+      "target_id": "Santo_Domingo_project",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "Institute_Gipronikel",
+      "relation": "affiliated_with",
+      "target_id": "LabMag_project",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "Institute_Gipronikel",
+      "relation": "affiliated_with",
+      "target_id": "KeMag_project",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "LabMag_project",
+      "relation": "produces_output",
+      "target_id": "concentrate",
+      "numeric_value": 14.2,
+      "unit": "млн т/г",
+      "condition": "среднее содержание железа 69,5%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "LabMag_project",
+      "relation": "operates_at_condition",
+      "target_id": "iron_ore",
+      "numeric_value": 51.6,
+      "unit": "млн т/г",
+      "condition": "содержание железа 30,0%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "KeMag_project",
+      "relation": "produces_output",
+      "target_id": "concentrate",
+      "numeric_value": 21.2,
+      "unit": "млн т/г",
+      "condition": "содержание железа 69,5%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "KeMag_project",
+      "relation": "operates_at_condition",
+      "target_id": "iron_ore",
+      "numeric_value": 9098.0,
+      "unit": "т/час",
+      "condition": "содержание железа 30,0%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "LabMag_project",
+      "relation": "uses_material",
+      "target_id": "wet_magnetic_separator",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "мокрая магнитная сепарация",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "KeMag_project",
+      "relation": "uses_material",
+      "target_id": "wet_magnetic_separator",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "мокрая магнитная сепарация",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "KeMag_project",
+      "relation": "uses_material",
+      "target_id": "polycom_20_15_7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "мельница с валками высокого давления Polycom 20/15-7",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "KeMag_project",
+      "relation": "uses_material",
+      "target_id": "sag_mill",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "мельница SAG",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "KeMag_project",
+      "relation": "uses_material",
+      "target_id": "cone_crusher",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "конусная дробилка",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "KeMag_project",
+      "relation": "uses_material",
+      "target_id": "vibrating_screen",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "вибрационный грохот",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "KeMag_project",
+      "relation": "uses_material",
+      "target_id": "sabc",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "схема SABC",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "тонкость помола",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "замкнутой цепи с вибрационными грохотами",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "надрешетный продукт возвращался на загрузку в SAG",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "нижний продукт грохочения объединялся с продуктом из шаровой мельницы и закачивался в первичные г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "вибрационные грохоты работали в замкнутой цепи с мельницей полусамоизмельчения (SAG)",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "affiliated_with",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "affiliated_with",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "described_in",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "crushing product size 250 mm",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "affiliated_with",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "affiliated_with",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "primary crushing",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "primary crushing",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "primary crushing",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "magnetic separation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "magnetic separation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "magnetic separation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "magnetic separation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "magnetic separation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "magnetic separation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "magnetic separation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "magnetic separation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "magnetic separation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "3-6%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "5%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "26%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "32%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "20%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "6%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "37%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "26%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "37%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "26%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "7",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2200 t/h",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "affiliated_with",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "affiliated_with",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "до 12-13 мм",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "до 1,6 мм",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "до 0,07% серы",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "до 7% влаги",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "до 175 мм",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "до 1,6 мм",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "до 1,6 мм",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "affiliated_with",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 10,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "LabMag_project",
+      "relation": "described_in",
+      "target_id": "Institute_Gipronikel",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "KeMag_project",
+      "relation": "described_in",
+      "target_id": "NI_43_101_Technical_Report_on_the_Prefeasibility_Study_of_the_KeMag_Iron_Ore_Project",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "Takonit_project",
+      "relation": "described_in",
+      "target_id": "Institute_Gipronikel",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "Santo_Domingo_project",
+      "relation": "described_in",
+      "target_id": "Institute_Gipronikel",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "Capstone_Mining",
+      "relation": "affiliated_with",
+      "target_id": "Santo_Domingo_project",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "Korea_Resources",
+      "relation": "affiliated_with",
+      "target_id": "Santo_Domingo_project",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "Institute_Gipronikel",
+      "relation": "affiliated_with",
+      "target_id": "Takonit_project",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "Institute_Gipronikel",
+      "relation": "affiliated_with",
+      "target_id": "Santo_Domingo_project",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "Institute_Gipronikel",
+      "relation": "affiliated_with",
+      "target_id": "LabMag_project",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "Institute_Gipronikel",
+      "relation": "affiliated_with",
+      "target_id": "KeMag_project",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "LabMag_project",
+      "relation": "produces_output",
+      "target_id": "concentrate",
+      "numeric_value": 14.2,
+      "unit": "млн т/г",
+      "condition": "среднее содержание железа 69,5%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "LabMag_project",
+      "relation": "operates_at_condition",
+      "target_id": "iron_ore",
+      "numeric_value": 51.6,
+      "unit": "млн т/г",
+      "condition": "содержание железа 30,0%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "KeMag_project",
+      "relation": "produces_output",
+      "target_id": "concentrate",
+      "numeric_value": 21.2,
+      "unit": "млн т/г",
+      "condition": "содержание железа 69,5%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "KeMag_project",
+      "relation": "operates_at_condition",
+      "target_id": "iron_ore",
+      "numeric_value": 9098.0,
+      "unit": "т/час",
+      "condition": "содержание железа 30,0%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "LabMag_project",
+      "relation": "uses_material",
+      "target_id": "wet_magnetic_separator",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "мокрая магнитная сепарация",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "KeMag_project",
+      "relation": "uses_material",
+      "target_id": "wet_magnetic_separator",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "мокрая магнитная сепарация",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "KeMag_project",
+      "relation": "uses_material",
+      "target_id": "polycom_20_15_7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "мельница с валками высокого давления Polycom 20/15-7",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "KeMag_project",
+      "relation": "uses_material",
+      "target_id": "sag_mill",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "мельница SAG",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "KeMag_project",
+      "relation": "uses_material",
+      "target_id": "cone_crusher",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "конусная дробилка",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "KeMag_project",
+      "relation": "uses_material",
+      "target_id": "vibrating_screen",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "вибрационный грохот",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "KeMag_project",
+      "relation": "uses_material",
+      "target_id": "sabc",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "схема SABC",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 11,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "тонкость помола",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "замкнутой цепи с вибрационными грохотами",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "надрешетный продукт возвращался на загрузку в SAG",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "нижний продукт грохочения объединялся с продуктом из шаровой мельницы и закачивался в первичные г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "вибрационные грохоты работали в замкнутой цепи с мельницей полусамоизмельчения (SAG)",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "affiliated_with",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "affiliated_with",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "described_in",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 12,
+        "page_start": 13,
+        "page_end": 13
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "crushing product size 250 mm",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "affiliated_with",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "affiliated_with",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 17,
+        "page_start": 18,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "primary crushing",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "primary crushing",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "primary crushing",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "magnetic separation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "magnetic separation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "magnetic separation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "magnetic separation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "magnetic separation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "magnetic separation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "magnetic separation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "magnetic separation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "magnetic separation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 8,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "3-6%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "5%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "26%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "32%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "20%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "6%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "37%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "26%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "37%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "26%",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "7",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2200 t/h",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "affiliated_with",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Мельницы_июль 12.md",
+        "category": "Обзоры",
+        "chunk_index": 18,
+        "page_start": 19,
+        "page_end": 19
+      }
+    }
+  ]
+}

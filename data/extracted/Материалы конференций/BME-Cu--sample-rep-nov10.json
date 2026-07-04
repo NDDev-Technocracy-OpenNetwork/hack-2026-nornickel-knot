@@ -1,0 +1,3258 @@
+{
+  "filename": "BME-Cu--sample-rep-nov10.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "concentrates",
+      "canonical_name": "concentrates",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "blister grade",
+      "canonical_name": "blister grade",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "electrowinning",
+      "canonical_name": "electrowinning",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "smelting",
+      "canonical_name": "smelting",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "smelter",
+      "canonical_name": "smelter",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Peru",
+      "canonical_name": "Peru",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Chile",
+      "canonical_name": "Chile",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "World",
+      "canonical_name": "World",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Concentrates",
+      "canonical_name": "concentrates",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Blister",
+      "canonical_name": "blister",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Refined Copper",
+      "canonical_name": "refined copper",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Strategic Stocks",
+      "canonical_name": "strategic stocks",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "LME Stocks",
+      "canonical_name": "LME stocks",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Other Exchange Stocks",
+      "canonical_name": "other exchange stocks",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Oth Abl Rfid Stk",
+      "canonical_name": "oth abl rfid stk",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Refined Copper Imports",
+      "canonical_name": "refined copper imports",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "Refined Copper Exports",
+      "canonical_name": "refined copper exports",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "Refined Copper Consumption",
+      "canonical_name": "refined copper consumption",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "Refined Copper Balance",
+      "canonical_name": "refined copper balance",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "Refined Copper Output",
+      "canonical_name": "refined copper output",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "HG Electrowon",
+      "canonical_name": "hg electrowon",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "Normal Blister Stocks - Smelter",
+      "canonical_name": "normal blister stocks - smelter",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "Normal Blister Stocks - Refineries",
+      "canonical_name": "normal blister stocks - refineries",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "Normal Blister Stocks - EL Process",
+      "canonical_name": "normal blister stocks - el process",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "17",
+      "type": "Material",
+      "name": "Normal Blister Stocks - Transit",
+      "canonical_name": "normal blister stocks - transit",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "18",
+      "type": "Material",
+      "name": "Abnormal Country Blister Stocks",
+      "canonical_name": "abnormal country blister stocks",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "19",
+      "type": "Material",
+      "name": "Blister Grade Use",
+      "canonical_name": "blister grade use",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "20",
+      "type": "Material",
+      "name": "Scrap to Refineries",
+      "canonical_name": "scrap to refineries",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "21",
+      "type": "Material",
+      "name": "Refinery Output",
+      "canonical_name": "refinery output",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "22",
+      "type": "Material",
+      "name": "Refinery Capacity",
+      "canonical_name": "refinery capacity",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "23",
+      "type": "Material",
+      "name": "% Capacity Utilisation",
+      "canonical_name": "% capacity utilisation",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "24",
+      "type": "Material",
+      "name": "Refined Copper Stocks - Producer",
+      "canonical_name": "refined copper stocks - producer",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "25",
+      "type": "Material",
+      "name": "Refined Copper Stocks - Consumer",
+      "canonical_name": "refined copper stocks - consumer",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "26",
+      "type": "Material",
+      "name": "Refined Copper Stocks - Transit",
+      "canonical_name": "refined copper stocks - transit",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "27",
+      "type": "Material",
+      "name": "Normal Refined Stocks - Producer",
+      "canonical_name": "normal refined stocks - producer",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "28",
+      "type": "Material",
+      "name": "Normal Refined Stocks - Consumer",
+      "canonical_name": "normal refined stocks - consumer",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "29",
+      "type": "Material",
+      "name": "Normal Refined Stocks - Transit",
+      "canonical_name": "normal refined stocks - transit",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "30",
+      "type": "Material",
+      "name": "Refined Copper Footnotes",
+      "canonical_name": "refined copper footnotes",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "31",
+      "type": "Material",
+      "name": "Mine Capacity",
+      "canonical_name": "mine capacity",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "32",
+      "type": "Material",
+      "name": "Owner",
+      "canonical_name": "owner",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "33",
+      "type": "Material",
+      "name": "Type",
+      "canonical_name": "type",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "34",
+      "type": "Material",
+      "name": "Pe kt cop ru per",
+      "canonical_name": "pe kt cop ru per",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "35",
+      "type": "Material",
+      "name": "2006",
+      "canonical_name": "2006",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "36",
+      "type": "Material",
+      "name": "2007",
+      "canonical_name": "2007",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "37",
+      "type": "Material",
+      "name": "2008",
+      "canonical_name": "2008",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "38",
+      "type": "Material",
+      "name": "2009",
+      "canonical_name": "2009",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "39",
+      "type": "Material",
+      "name": "2010",
+      "canonical_name": "2010",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "40",
+      "type": "Material",
+      "name": "2011",
+      "canonical_name": "2011",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "41",
+      "type": "Material",
+      "name": "2012",
+      "canonical_name": "2012",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "42",
+      "type": "Material",
+      "name": "2013",
+      "canonical_name": "2013",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "43",
+      "type": "Material",
+      "name": "2014",
+      "canonical_name": "2014",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "44",
+      "type": "Material",
+      "name": "2015",
+      "canonical_name": "2015",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Scrap",
+      "canonical_name": "Scrap",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Concentrates",
+      "canonical_name": "Concentrates",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Blister Grade",
+      "canonical_name": "Blister Grade",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "Electrowinning",
+      "canonical_name": "electrowinning",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "Smelting",
+      "canonical_name": "smelting",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "Refining",
+      "canonical_name": "refining",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Equipment",
+      "name": "EL Process",
+      "canonical_name": "EL Process",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "AT EL & FIRE REFINERY",
+      "canonical_name": "AT EL & FIRE REFINERY",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "concentrates",
+      "canonical_name": "concentrates",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "blister grade",
+      "canonical_name": "blister grade",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "electrowinning",
+      "canonical_name": "electrowinning",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "smelting",
+      "canonical_name": "smelting",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "smelter",
+      "canonical_name": "smelter",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Peru",
+      "canonical_name": "Peru",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Chile",
+      "canonical_name": "Chile",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "World",
+      "canonical_name": "World",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Concentrates",
+      "canonical_name": "concentrates",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Blister",
+      "canonical_name": "blister",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Refined Copper",
+      "canonical_name": "refined copper",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "Strategic Stocks",
+      "canonical_name": "strategic stocks",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "LME Stocks",
+      "canonical_name": "LME stocks",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "Other Exchange Stocks",
+      "canonical_name": "other exchange stocks",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "Oth Abl Rfid Stk",
+      "canonical_name": "oth abl rfid stk",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Refined Copper Imports",
+      "canonical_name": "refined copper imports",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "Refined Copper Exports",
+      "canonical_name": "refined copper exports",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "Refined Copper Consumption",
+      "canonical_name": "refined copper consumption",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "Refined Copper Balance",
+      "canonical_name": "refined copper balance",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "Refined Copper Output",
+      "canonical_name": "refined copper output",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "HG Electrowon",
+      "canonical_name": "hg electrowon",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "Normal Blister Stocks - Smelter",
+      "canonical_name": "normal blister stocks - smelter",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "Normal Blister Stocks - Refineries",
+      "canonical_name": "normal blister stocks - refineries",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "Normal Blister Stocks - EL Process",
+      "canonical_name": "normal blister stocks - el process",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "17",
+      "type": "Material",
+      "name": "Normal Blister Stocks - Transit",
+      "canonical_name": "normal blister stocks - transit",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "18",
+      "type": "Material",
+      "name": "Abnormal Country Blister Stocks",
+      "canonical_name": "abnormal country blister stocks",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "19",
+      "type": "Material",
+      "name": "Blister Grade Use",
+      "canonical_name": "blister grade use",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "20",
+      "type": "Material",
+      "name": "Scrap to Refineries",
+      "canonical_name": "scrap to refineries",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "21",
+      "type": "Material",
+      "name": "Refinery Output",
+      "canonical_name": "refinery output",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "22",
+      "type": "Material",
+      "name": "Refinery Capacity",
+      "canonical_name": "refinery capacity",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "23",
+      "type": "Material",
+      "name": "% Capacity Utilisation",
+      "canonical_name": "% capacity utilisation",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "24",
+      "type": "Material",
+      "name": "Refined Copper Stocks - Producer",
+      "canonical_name": "refined copper stocks - producer",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "25",
+      "type": "Material",
+      "name": "Refined Copper Stocks - Consumer",
+      "canonical_name": "refined copper stocks - consumer",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "26",
+      "type": "Material",
+      "name": "Refined Copper Stocks - Transit",
+      "canonical_name": "refined copper stocks - transit",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "27",
+      "type": "Material",
+      "name": "Normal Refined Stocks - Producer",
+      "canonical_name": "normal refined stocks - producer",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "28",
+      "type": "Material",
+      "name": "Normal Refined Stocks - Consumer",
+      "canonical_name": "normal refined stocks - consumer",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "29",
+      "type": "Material",
+      "name": "Normal Refined Stocks - Transit",
+      "canonical_name": "normal refined stocks - transit",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "30",
+      "type": "Material",
+      "name": "Refined Copper Footnotes",
+      "canonical_name": "refined copper footnotes",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "31",
+      "type": "Material",
+      "name": "Mine Capacity",
+      "canonical_name": "mine capacity",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "32",
+      "type": "Material",
+      "name": "Owner",
+      "canonical_name": "owner",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "33",
+      "type": "Material",
+      "name": "Type",
+      "canonical_name": "type",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "34",
+      "type": "Material",
+      "name": "Pe kt cop ru per",
+      "canonical_name": "pe kt cop ru per",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "35",
+      "type": "Material",
+      "name": "2006",
+      "canonical_name": "2006",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "36",
+      "type": "Material",
+      "name": "2007",
+      "canonical_name": "2007",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "37",
+      "type": "Material",
+      "name": "2008",
+      "canonical_name": "2008",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "38",
+      "type": "Material",
+      "name": "2009",
+      "canonical_name": "2009",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "39",
+      "type": "Material",
+      "name": "2010",
+      "canonical_name": "2010",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "40",
+      "type": "Material",
+      "name": "2011",
+      "canonical_name": "2011",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "41",
+      "type": "Material",
+      "name": "2012",
+      "canonical_name": "2012",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "42",
+      "type": "Material",
+      "name": "2013",
+      "canonical_name": "2013",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "43",
+      "type": "Material",
+      "name": "2014",
+      "canonical_name": "2014",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "44",
+      "type": "Material",
+      "name": "2015",
+      "canonical_name": "2015",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Scrap",
+      "canonical_name": "Scrap",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Concentrates",
+      "canonical_name": "Concentrates",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "Blister Grade",
+      "canonical_name": "Blister Grade",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "Electrowinning",
+      "canonical_name": "electrowinning",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "Smelting",
+      "canonical_name": "smelting",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "Refining",
+      "canonical_name": "refining",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Equipment",
+      "name": "EL Process",
+      "canonical_name": "EL Process",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "AT EL & FIRE REFINERY",
+      "canonical_name": "AT EL & FIRE REFINERY",
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "HG",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "LG",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "smelter",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "refinery",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "smelter",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "refinery",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "produces_output",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "produces_output",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "produces_output",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "produces_output",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "operates_at_condition",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "24",
+      "relation": "produces_output",
+      "target_id": "25",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "26",
+      "relation": "produces_output",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "28",
+      "relation": "produces_output",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "30",
+      "relation": "produces_output",
+      "target_id": "31",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "32",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "33",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "34",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "35",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "36",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "37",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "38",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "39",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "40",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "41",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "42",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "44",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "HG",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "LG",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "smelter",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "refinery",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "smelter",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "refinery",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "produces_output",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "produces_output",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "produces_output",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "produces_output",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "operates_at_condition",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "24",
+      "relation": "produces_output",
+      "target_id": "25",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "26",
+      "relation": "produces_output",
+      "target_id": "27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "28",
+      "relation": "produces_output",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "30",
+      "relation": "produces_output",
+      "target_id": "31",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "32",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "33",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "34",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "35",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "36",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "37",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "38",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "39",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "40",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "41",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "42",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "operates_at_condition",
+      "target_id": "44",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "BME-Cu--sample-rep-nov10.md",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    }
+  ]
+}

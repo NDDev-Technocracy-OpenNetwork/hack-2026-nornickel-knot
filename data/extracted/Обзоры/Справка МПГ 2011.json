@@ -1,0 +1,6662 @@
+{
+  "filename": "Справка МПГ 2011.md",
+  "category": "Обзоры",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "платина",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "палладий",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "этанол",
+      "canonical_name": "ethanol",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "бензин",
+      "canonical_name": "gasoline",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "дизельное топливо",
+      "canonical_name": "diesel fuel",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "автокатализаторы",
+      "canonical_name": "catalytic converters",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "МПГ",
+      "canonical_name": "precious metals",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Institute Gipronikel",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "Conroast",
+      "canonical_name": "Conroast",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "platinum group metals (PGM)",
+      "canonical_name": "PGM",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "4",
+      "type": "Equipment",
+      "name": "plating furnace",
+      "canonical_name": "plating furnace",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Anglo Platinum",
+      "canonical_name": "Anglo Platinum",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Impala",
+      "canonical_name": "Impala",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Lonmin",
+      "canonical_name": "Lonmin",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Northam",
+      "canonical_name": "Northam",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Eastplats",
+      "canonical_name": "Eastplats",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Crocodile River",
+      "canonical_name": "Crocodile River",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Mintek/Jubilee",
+      "canonical_name": "Mintek/Jubilee",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "12",
+      "type": "Expert",
+      "name": "Jubilee",
+      "canonical_name": "Jubilee",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "13",
+      "type": "Expert",
+      "name": "China Development Bank",
+      "canonical_name": "China Development Bank",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "14",
+      "type": "Expert",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Pt",
+      "canonical_name": "Pt",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Pd",
+      "canonical_name": "Pd",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "4Е",
+      "canonical_name": "4Е",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "углеродистая руда",
+      "canonical_name": "углеродистая руда",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "хвосты",
+      "canonical_name": "хвосты",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "углеродистая руда с рифа UG2",
+      "canonical_name": "углеродистая руда с рифа UG2",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "7",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Вострикова Н.М.",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "платина",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "палладий",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "автокатализаторы",
+      "canonical_name": "autocatalysts",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "ювелирная отрасль",
+      "canonical_name": "jewelry industry",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "электроника",
+      "canonical_name": "electronics",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "нефтехимия",
+      "canonical_name": "petrochemistry",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "химическая отрасль",
+      "canonical_name": "chemical industry",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "стекольная отрасль",
+      "canonical_name": "glass industry",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "Twickenham_Mine",
+      "type": "Facility",
+      "name": "Twickenham Mine",
+      "canonical_name": "Twickenham Mine",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Amandelbult_#4_Shift",
+      "type": "Facility",
+      "name": "Amandelbult #4 Shaft",
+      "canonical_name": "Amandelbult #4 Shaft",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Stydrift_Project",
+      "type": "Facility",
+      "name": "Stydrift Project",
+      "canonical_name": "Stydrift Project",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Twickenham_Mine_Financing",
+      "type": "Publication",
+      "name": "Twickenham Mine Financing",
+      "canonical_name": "Twickenham Mine Financing",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Amandelbult_#4_Shift_Financing",
+      "type": "Publication",
+      "name": "Amandelbult #4 Shaft Financing",
+      "canonical_name": "Amandelbult #4 Shaft Financing",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Stydrift_Project_Financing",
+      "type": "Publication",
+      "name": "Stydrift Project Financing",
+      "canonical_name": "Stydrift Project Financing",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Anglo_Platinum",
+      "type": "Expert",
+      "name": "Anglo Platinum",
+      "canonical_name": "Anglo Platinum",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Unki_Mine",
+      "type": "Facility",
+      "name": "Unki Mine",
+      "canonical_name": "Unki Mine",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Polokwane_Platemelt_Facility",
+      "type": "Facility",
+      "name": "Polokwane Platemelt Facility",
+      "canonical_name": "Polokwane Platemelt Facility",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Mogalakwena_Rudnik",
+      "type": "Facility",
+      "name": "Mogalakwena Rudnik",
+      "canonical_name": "Mogalakwena Rudnik",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Institut_Gipronikel",
+      "type": "Expert",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "ООО «Институт Гипроникель»",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Twickenham_Mine_Financing_Publication",
+      "type": "Publication",
+      "name": "Twickenham Mine Financing",
+      "canonical_name": "Twickenham Mine Financing",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Amandelbult_#4_Shift_Financing_Publication",
+      "type": "Publication",
+      "name": "Amandelbult #4 Shaft Financing",
+      "canonical_name": "Amandelbult #4 Shaft Financing",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Stydrift_Project_Financing_Publication",
+      "type": "Publication",
+      "name": "Stydrift Project Financing",
+      "canonical_name": "Stydrift Project Financing",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Anglo_Platinum_Publication",
+      "type": "Publication",
+      "name": "Anglo Platinum",
+      "canonical_name": "Anglo Platinum",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Unki_Mine_Publication",
+      "type": "Publication",
+      "name": "Unki Mine",
+      "canonical_name": "Unki Mine",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Polokwane_Platemelt_Facility_Publication",
+      "type": "Publication",
+      "name": "Polokwane Platemelt Facility",
+      "canonical_name": "Polokwane Platemelt Facility",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Mogalakwena_Rudnik_Publication",
+      "type": "Publication",
+      "name": "Mogalakwena Rudnik",
+      "canonical_name": "Mogalakwena Rudnik",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Institut_Gipronikel_Publication",
+      "type": "Publication",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "ООО «Институт Гипроникель»",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "платину",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "палладий",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "автокатализаторы",
+      "canonical_name": "autocatalysts",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "выбросы в атмосферу",
+      "canonical_name": "emissions to the atmosphere",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "сжигание топлива",
+      "canonical_name": "fuel combustion",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "каталитическая очистка выхлопных газов",
+      "canonical_name": "catalytic exhaust gas cleaning",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "выбросы Евро 0",
+      "canonical_name": "Euro 0 emissions",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "выбросы Евро 4",
+      "canonical_name": "Euro 4 emissions",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "выбросы HC",
+      "canonical_name": "HC emissions",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "11",
+      "type": "Process",
+      "name": "выбросы NOx",
+      "canonical_name": "NOx emissions",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "карьер Zwartfontein",
+      "canonical_name": "Zwartfontein Mine",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "карьер North",
+      "canonical_name": "North Mine",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "углеродистая руда",
+      "canonical_name": "carbon-rich ore",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "высокохромистая руда",
+      "canonical_name": "high-chromium ore",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "5",
+      "type": "Equipment",
+      "name": "шаровые мельницы",
+      "canonical_name": "ball mills",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "мельницы IsaMill™",
+      "canonical_name": "IsaMill™",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "7",
+      "type": "Expert",
+      "name": "Neville Nicolau",
+      "canonical_name": "Neville Nicolau",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Impala Rustenburg",
+      "canonical_name": "Impala Rustenburg",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "рудник Marula",
+      "canonical_name": "Marula Mine",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "шахта 11,12 и 14",
+      "canonical_name": "Shafts 11, 12, and 14",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "2007-2009 гг., тыс тр.унц.",
+      "canonical_name": "2007-2009 гг., тыс тр.унц.",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "Johnson Matthey",
+      "canonical_name": "Johnson Matthey",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "ООО «Институт Гипроникель»",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Impala Rustenburg",
+      "canonical_name": "Impala Rustenburg",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Impala Maricana",
+      "canonical_name": "Impala Maricana",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "Impala Limpopo",
+      "canonical_name": "Impala Limpopo",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Limpopo",
+      "canonical_name": "Limpopo",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Messina",
+      "canonical_name": "Messina",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Loskop",
+      "canonical_name": "Loskop",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Akanani",
+      "canonical_name": "Akanani",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Pandora",
+      "canonical_name": "Pandora",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "AfriOre",
+      "canonical_name": "AfriOre",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Boyton Resources",
+      "canonical_name": "Boyton Resources",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Lonmin",
+      "canonical_name": "Lonmin",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Bushveld Complex",
+      "canonical_name": "Bushveld Complex",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "13",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Вострикова Н.М.",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "14",
+      "type": "Publication",
+      "name": "У Lonmin есть 2 основных производственных отделения: Maricana и Limpopo",
+      "canonical_name": "У Lonmin есть 2 основных производственных отделения: Maricana и Limpopo",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Шахта Baobab",
+      "canonical_name": "Baobab Mine",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "рудник Limpopo",
+      "canonical_name": "Limpopo Mine",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "плавильная печь №1",
+      "canonical_name": "Smelting Furnace No.1",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "рудник Zondereinde",
+      "canonical_name": "Zondereinde Mine",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "флотационный концентрат",
+      "canonical_name": "FLOTATION CONCENTRATE",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "мощность продукта геологоразведки (МПГ)",
+      "canonical_name": "ORE GRADE",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "платина (Pt)",
+      "canonical_name": "PLATINUM",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "палладий (Pd)",
+      "canonical_name": "PALLADIUM",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "электроэнергия",
+      "canonical_name": "ELECTRICITY",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "11",
+      "type": "Expert",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Institute of Gipronikel",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "платина",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "палладий",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "никель",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "золото",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "многослойные керамические конденсаторы",
+      "canonical_name": "multilayer ceramic capacitors",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "конденсаторы на базовых металлах",
+      "canonical_name": "base metal capacitors",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "паста",
+      "canonical_name": "paste",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "электроника",
+      "canonical_name": "electronics",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "контакты",
+      "canonical_name": "contacts",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "гибридные интегральные схемы",
+      "canonical_name": "hybrid integrated circuits",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "МКК",
+      "canonical_name": "multilayer ceramic capacitors",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "МКК на базовых металлах",
+      "canonical_name": "base metal capacitors",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "МКК на палладии",
+      "canonical_name": "palladium capacitors",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "МКК на никеле",
+      "canonical_name": "nickel capacitors",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "МПГ",
+      "canonical_name": "multilayer ceramic capacitors",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "16",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "OJSC Institute Gipronikel",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "платина",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "палладий",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "этанол",
+      "canonical_name": "ethanol",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "бензин",
+      "canonical_name": "gasoline",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "дизельное топливо",
+      "canonical_name": "diesel fuel",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "автокатализаторы",
+      "canonical_name": "catalytic converters",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "МПГ",
+      "canonical_name": "precious metals",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Institute Gipronikel",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "Conroast",
+      "canonical_name": "Conroast",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "platinum group metals (PGM)",
+      "canonical_name": "PGM",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "4",
+      "type": "Equipment",
+      "name": "plating furnace",
+      "canonical_name": "plating furnace",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Anglo Platinum",
+      "canonical_name": "Anglo Platinum",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Impala",
+      "canonical_name": "Impala",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Lonmin",
+      "canonical_name": "Lonmin",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Northam",
+      "canonical_name": "Northam",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Eastplats",
+      "canonical_name": "Eastplats",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Crocodile River",
+      "canonical_name": "Crocodile River",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Mintek/Jubilee",
+      "canonical_name": "Mintek/Jubilee",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "12",
+      "type": "Expert",
+      "name": "Jubilee",
+      "canonical_name": "Jubilee",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "13",
+      "type": "Expert",
+      "name": "China Development Bank",
+      "canonical_name": "China Development Bank",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "14",
+      "type": "Expert",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Pt",
+      "canonical_name": "Pt",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Pd",
+      "canonical_name": "Pd",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "4Е",
+      "canonical_name": "4Е",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "углеродистая руда",
+      "canonical_name": "углеродистая руда",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "хвосты",
+      "canonical_name": "хвосты",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "углеродистая руда с рифа UG2",
+      "canonical_name": "углеродистая руда с рифа UG2",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "7",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Вострикова Н.М.",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "платина",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "палладий",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "автокатализаторы",
+      "canonical_name": "autocatalysts",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "ювелирная отрасль",
+      "canonical_name": "jewelry industry",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "электроника",
+      "canonical_name": "electronics",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "нефтехимия",
+      "canonical_name": "petrochemistry",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "химическая отрасль",
+      "canonical_name": "chemical industry",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "стекольная отрасль",
+      "canonical_name": "glass industry",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "Twickenham_Mine",
+      "type": "Facility",
+      "name": "Twickenham Mine",
+      "canonical_name": "Twickenham Mine",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Amandelbult_#4_Shift",
+      "type": "Facility",
+      "name": "Amandelbult #4 Shaft",
+      "canonical_name": "Amandelbult #4 Shaft",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Stydrift_Project",
+      "type": "Facility",
+      "name": "Stydrift Project",
+      "canonical_name": "Stydrift Project",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Twickenham_Mine_Financing",
+      "type": "Publication",
+      "name": "Twickenham Mine Financing",
+      "canonical_name": "Twickenham Mine Financing",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Amandelbult_#4_Shift_Financing",
+      "type": "Publication",
+      "name": "Amandelbult #4 Shaft Financing",
+      "canonical_name": "Amandelbult #4 Shaft Financing",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Stydrift_Project_Financing",
+      "type": "Publication",
+      "name": "Stydrift Project Financing",
+      "canonical_name": "Stydrift Project Financing",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Anglo_Platinum",
+      "type": "Expert",
+      "name": "Anglo Platinum",
+      "canonical_name": "Anglo Platinum",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Unki_Mine",
+      "type": "Facility",
+      "name": "Unki Mine",
+      "canonical_name": "Unki Mine",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Polokwane_Platemelt_Facility",
+      "type": "Facility",
+      "name": "Polokwane Platemelt Facility",
+      "canonical_name": "Polokwane Platemelt Facility",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Mogalakwena_Rudnik",
+      "type": "Facility",
+      "name": "Mogalakwena Rudnik",
+      "canonical_name": "Mogalakwena Rudnik",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Institut_Gipronikel",
+      "type": "Expert",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "ООО «Институт Гипроникель»",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Twickenham_Mine_Financing_Publication",
+      "type": "Publication",
+      "name": "Twickenham Mine Financing",
+      "canonical_name": "Twickenham Mine Financing",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Amandelbult_#4_Shift_Financing_Publication",
+      "type": "Publication",
+      "name": "Amandelbult #4 Shaft Financing",
+      "canonical_name": "Amandelbult #4 Shaft Financing",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Stydrift_Project_Financing_Publication",
+      "type": "Publication",
+      "name": "Stydrift Project Financing",
+      "canonical_name": "Stydrift Project Financing",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Anglo_Platinum_Publication",
+      "type": "Publication",
+      "name": "Anglo Platinum",
+      "canonical_name": "Anglo Platinum",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Unki_Mine_Publication",
+      "type": "Publication",
+      "name": "Unki Mine",
+      "canonical_name": "Unki Mine",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Polokwane_Platemelt_Facility_Publication",
+      "type": "Publication",
+      "name": "Polokwane Platemelt Facility",
+      "canonical_name": "Polokwane Platemelt Facility",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Mogalakwena_Rudnik_Publication",
+      "type": "Publication",
+      "name": "Mogalakwena Rudnik",
+      "canonical_name": "Mogalakwena Rudnik",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "Institut_Gipronikel_Publication",
+      "type": "Publication",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "ООО «Институт Гипроникель»",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "платину",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "палладий",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "автокатализаторы",
+      "canonical_name": "autocatalysts",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "выбросы в атмосферу",
+      "canonical_name": "emissions to the atmosphere",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "сжигание топлива",
+      "canonical_name": "fuel combustion",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "каталитическая очистка выхлопных газов",
+      "canonical_name": "catalytic exhaust gas cleaning",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "выбросы Евро 0",
+      "canonical_name": "Euro 0 emissions",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "выбросы Евро 4",
+      "canonical_name": "Euro 4 emissions",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "выбросы HC",
+      "canonical_name": "HC emissions",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "11",
+      "type": "Process",
+      "name": "выбросы NOx",
+      "canonical_name": "NOx emissions",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "карьер Zwartfontein",
+      "canonical_name": "Zwartfontein Mine",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "карьер North",
+      "canonical_name": "North Mine",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "углеродистая руда",
+      "canonical_name": "carbon-rich ore",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "высокохромистая руда",
+      "canonical_name": "high-chromium ore",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "5",
+      "type": "Equipment",
+      "name": "шаровые мельницы",
+      "canonical_name": "ball mills",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "мельницы IsaMill™",
+      "canonical_name": "IsaMill™",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "7",
+      "type": "Expert",
+      "name": "Neville Nicolau",
+      "canonical_name": "Neville Nicolau",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Impala Rustenburg",
+      "canonical_name": "Impala Rustenburg",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "рудник Marula",
+      "canonical_name": "Marula Mine",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "шахта 11,12 и 14",
+      "canonical_name": "Shafts 11, 12, and 14",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "2007-2009 гг., тыс тр.унц.",
+      "canonical_name": "2007-2009 гг., тыс тр.унц.",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "Johnson Matthey",
+      "canonical_name": "Johnson Matthey",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "ООО «Институт Гипроникель»",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 13,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Impala Rustenburg",
+      "canonical_name": "Impala Rustenburg",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Impala Maricana",
+      "canonical_name": "Impala Maricana",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "Impala Limpopo",
+      "canonical_name": "Impala Limpopo",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Limpopo",
+      "canonical_name": "Limpopo",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Messina",
+      "canonical_name": "Messina",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Loskop",
+      "canonical_name": "Loskop",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Akanani",
+      "canonical_name": "Akanani",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Pandora",
+      "canonical_name": "Pandora",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "AfriOre",
+      "canonical_name": "AfriOre",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Boyton Resources",
+      "canonical_name": "Boyton Resources",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Lonmin",
+      "canonical_name": "Lonmin",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Bushveld Complex",
+      "canonical_name": "Bushveld Complex",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "13",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Вострикова Н.М.",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "14",
+      "type": "Publication",
+      "name": "У Lonmin есть 2 основных производственных отделения: Maricana и Limpopo",
+      "canonical_name": "У Lonmin есть 2 основных производственных отделения: Maricana и Limpopo",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Шахта Baobab",
+      "canonical_name": "Baobab Mine",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "рудник Limpopo",
+      "canonical_name": "Limpopo Mine",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "плавильная печь №1",
+      "canonical_name": "Smelting Furnace No.1",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "рудник Zondereinde",
+      "canonical_name": "Zondereinde Mine",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "флотационный концентрат",
+      "canonical_name": "FLOTATION CONCENTRATE",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "мощность продукта геологоразведки (МПГ)",
+      "canonical_name": "ORE GRADE",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "платина (Pt)",
+      "canonical_name": "PLATINUM",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "палладий (Pd)",
+      "canonical_name": "PALLADIUM",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "электроэнергия",
+      "canonical_name": "ELECTRICITY",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "11",
+      "type": "Expert",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Institute of Gipronikel",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "платина",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "палладий",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "никель",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "золото",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "многослойные керамические конденсаторы",
+      "canonical_name": "multilayer ceramic capacitors",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "конденсаторы на базовых металлах",
+      "canonical_name": "base metal capacitors",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "паста",
+      "canonical_name": "paste",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "электроника",
+      "canonical_name": "electronics",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "контакты",
+      "canonical_name": "contacts",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "гибридные интегральные схемы",
+      "canonical_name": "hybrid integrated circuits",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "МКК",
+      "canonical_name": "multilayer ceramic capacitors",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "МКК на базовых металлах",
+      "canonical_name": "base metal capacitors",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "МКК на палладии",
+      "canonical_name": "palladium capacitors",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "МКК на никеле",
+      "canonical_name": "nickel capacitors",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "МПГ",
+      "canonical_name": "multilayer ceramic capacitors",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "16",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "OJSC Institute Gipronikel",
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "affiliated_with",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Lonmin не берет в переработку сторонние концентраты",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Impala не берет в переработку сторонние концентраты",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Lonmin не берет в переработку сторонние концентраты",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Northam начинает брать в переработку сторонние концентраты",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "вводится в строй долгое время бездействовавший плавильный завод при руднике Crocodile River компании Eastplats",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "вводится в строй долгое время бездействовавший плавильный завод при руднике Crocodile River компании Eastplats",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Mintek/Jubilee планирует построить 2 печи по 10 МВА (8МВт) в течение 5-ти лет",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "affiliated_with",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": 50.0,
+      "unit": "%",
+      "condition": "2006-2007 гг.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": 50.0,
+      "unit": "%",
+      "condition": "2006-2007 гг.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": 50.0,
+      "unit": "%",
+      "condition": "2006-2009 гг.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": 40.0,
+      "unit": "%",
+      "condition": "2006-2009 гг.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": 10.0,
+      "unit": "%",
+      "condition": "2006-2009 гг.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "Twickenham_Mine",
+      "relation": "described_in",
+      "target_id": "Twickenham_Mine_Financing",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Amandelbult_#4_Shift",
+      "relation": "described_in",
+      "target_id": "Amandelbult_#4_Shift_Financing",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Stydrift_Project",
+      "relation": "described_in",
+      "target_id": "Stydrift_Project_Financing",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Anglo_Platinum",
+      "relation": "described_in",
+      "target_id": "Anglo_Platinum_Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Unki_Mine",
+      "relation": "described_in",
+      "target_id": "Unki_Mine_Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Polokwane_Platemelt_Facility",
+      "relation": "described_in",
+      "target_id": "Polokwane_Platemelt_Facility_Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Mogalakwena_Rudnik",
+      "relation": "described_in",
+      "target_id": "Mogalakwena_Rudnik_Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Institut_Gipronikel",
+      "relation": "described_in",
+      "target_id": "Institut_Gipronikel_Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Institut_Gipronikel",
+      "relation": "affiliated_with",
+      "target_id": "Stydrift_Project_Financing",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Institut_Gipronikel",
+      "relation": "affiliated_with",
+      "target_id": "Twickenham_Mine_Financing",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Institut_Gipronikel",
+      "relation": "affiliated_with",
+      "target_id": "Amandelbult_#4_Shift_Financing",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "high-chromium concentrate",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "Anglo Platinum",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "Impala Rustenburg",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "affiliated_with",
+      "target_id": "Impala Rustenburg",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "affiliated_with",
+      "target_id": "Impala Rustenburg",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "affiliated_with",
+      "target_id": "Impala Rustenburg",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "affiliated_with",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Lonmin не берет в переработку сторонние концентраты",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Impala не берет в переработку сторонние концентраты",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Lonmin не берет в переработку сторонние концентраты",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Northam начинает брать в переработку сторонние концентраты",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "вводится в строй долгое время бездействовавший плавильный завод при руднике Crocodile River компании Eastplats",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "вводится в строй долгое время бездействовавший плавильный завод при руднике Crocodile River компании Eastplats",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Mintek/Jubilee планирует построить 2 печи по 10 МВА (8МВт) в течение 5-ти лет",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "affiliated_with",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 39,
+        "page_start": 40,
+        "page_end": 40
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 30,
+        "page_start": 31,
+        "page_end": 31
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": 50.0,
+      "unit": "%",
+      "condition": "2006-2007 гг.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": 50.0,
+      "unit": "%",
+      "condition": "2006-2007 гг.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": 50.0,
+      "unit": "%",
+      "condition": "2006-2009 гг.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": 40.0,
+      "unit": "%",
+      "condition": "2006-2009 гг.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": 10.0,
+      "unit": "%",
+      "condition": "2006-2009 гг.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "Twickenham_Mine",
+      "relation": "described_in",
+      "target_id": "Twickenham_Mine_Financing",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Amandelbult_#4_Shift",
+      "relation": "described_in",
+      "target_id": "Amandelbult_#4_Shift_Financing",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Stydrift_Project",
+      "relation": "described_in",
+      "target_id": "Stydrift_Project_Financing",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Anglo_Platinum",
+      "relation": "described_in",
+      "target_id": "Anglo_Platinum_Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Unki_Mine",
+      "relation": "described_in",
+      "target_id": "Unki_Mine_Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Polokwane_Platemelt_Facility",
+      "relation": "described_in",
+      "target_id": "Polokwane_Platemelt_Facility_Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Mogalakwena_Rudnik",
+      "relation": "described_in",
+      "target_id": "Mogalakwena_Rudnik_Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Institut_Gipronikel",
+      "relation": "described_in",
+      "target_id": "Institut_Gipronikel_Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Institut_Gipronikel",
+      "relation": "affiliated_with",
+      "target_id": "Stydrift_Project_Financing",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Institut_Gipronikel",
+      "relation": "affiliated_with",
+      "target_id": "Twickenham_Mine_Financing",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "Institut_Gipronikel",
+      "relation": "affiliated_with",
+      "target_id": "Amandelbult_#4_Shift_Financing",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 31,
+        "page_start": 32,
+        "page_end": 32
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "high-chromium concentrate",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "Anglo Platinum",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "affiliated_with",
+      "target_id": "Impala Rustenburg",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "affiliated_with",
+      "target_id": "Impala Rustenburg",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "affiliated_with",
+      "target_id": "Impala Rustenburg",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "affiliated_with",
+      "target_id": "Impala Rustenburg",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 32,
+        "page_start": 33,
+        "page_end": 33
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 34,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 35,
+        "page_start": 36,
+        "page_end": 36
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "described_in",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Справка МПГ 2011.md",
+        "category": "Обзоры",
+        "chunk_index": 16,
+        "page_start": 17,
+        "page_end": 17
+      }
+    }
+  ]
+}

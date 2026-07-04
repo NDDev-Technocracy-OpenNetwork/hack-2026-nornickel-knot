@@ -1,0 +1,4206 @@
+{
+  "filename": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "10",
+      "type": "Equipment",
+      "name": "skip",
+      "canonical_name": "skip",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "135",
+      "type": "Property",
+      "name": "overcapacity",
+      "canonical_name": "overcapacity",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "79",
+      "type": "Process",
+      "name": "sulphide leaching",
+      "canonical_name": "sulphide leaching",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "reverberatory furnace",
+      "canonical_name": "reverberatory furnace",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "20",
+      "type": "Material",
+      "name": "concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "133",
+      "type": "Property",
+      "name": "manufacturing efficiency",
+      "canonical_name": "manufacturing efficiency",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "63",
+      "type": "Material",
+      "name": "transformer windings",
+      "canonical_name": "transformer windings",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "32",
+      "type": "Material",
+      "name": "copper military ordnance",
+      "canonical_name": "copper military ordnance",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "17",
+      "type": "Material",
+      "name": "brass",
+      "canonical_name": "brass",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "112",
+      "type": "Facility",
+      "name": "Prominent Hill mine",
+      "canonical_name": "Prominent Hill mine",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "96",
+      "type": "Facility",
+      "name": "homes",
+      "canonical_name": "homes",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "97",
+      "type": "Facility",
+      "name": "hospitals",
+      "canonical_name": "hospitals",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "84",
+      "type": "Facility",
+      "name": "Chambishi smelter",
+      "canonical_name": "Chambishi smelter",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "98",
+      "type": "Facility",
+      "name": "Huludao",
+      "canonical_name": "Huludao",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "92",
+      "type": "Facility",
+      "name": "Escondida Mine",
+      "canonical_name": "Escondida Mine",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "74",
+      "type": "Process",
+      "name": "mining",
+      "canonical_name": "mining",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "129",
+      "type": "Property",
+      "name": "environmental compliance cost",
+      "canonical_name": "environmental compliance cost",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "ACR tube",
+      "canonical_name": "ACR tube",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "108",
+      "type": "Facility",
+      "name": "Los Pelambres mine",
+      "canonical_name": "Los Pelambres mine",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "70",
+      "type": "Process",
+      "name": "fire refining",
+      "canonical_name": "fire refining",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "55",
+      "type": "Material",
+      "name": "power cable",
+      "canonical_name": "power cable",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "134",
+      "type": "Property",
+      "name": "output",
+      "canonical_name": "output",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "68",
+      "type": "Process",
+      "name": "electrowinning",
+      "canonical_name": "electrowinning",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "71",
+      "type": "Process",
+      "name": "haulage",
+      "canonical_name": "haulage",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "69",
+      "type": "Process",
+      "name": "expansion",
+      "canonical_name": "expansion",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "SAG mill",
+      "canonical_name": "SAG mill",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "109",
+      "type": "Facility",
+      "name": "Lumwana Mine",
+      "canonical_name": "Lumwana Mine",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "100",
+      "type": "Facility",
+      "name": "Jiangxi Copper",
+      "canonical_name": "Jiangxi Copper",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "90",
+      "type": "Facility",
+      "name": "Dongying",
+      "canonical_name": "Dongying",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "38",
+      "type": "Material",
+      "name": "copper sheet",
+      "canonical_name": "copper sheet",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "121",
+      "type": "Facility",
+      "name": "Zijin Mining",
+      "canonical_name": "Zijin Mining",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "99",
+      "type": "Facility",
+      "name": "industrial machinery and equipment",
+      "canonical_name": "industrial machinery and equipment",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "113",
+      "type": "Facility",
+      "name": "Shandong Xiangguang",
+      "canonical_name": "Shandong Xiangguang",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "122",
+      "type": "Property",
+      "name": "average life",
+      "canonical_name": "average life",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "128",
+      "type": "Property",
+      "name": "energy efficiency",
+      "canonical_name": "energy efficiency",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "23",
+      "type": "Material",
+      "name": "copper alloy products",
+      "canonical_name": "copper alloy products",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "41",
+      "type": "Material",
+      "name": "copper wire",
+      "canonical_name": "copper wire",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "88",
+      "type": "Facility",
+      "name": "consumer and general products",
+      "canonical_name": "consumer and general products",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "40",
+      "type": "Material",
+      "name": "copper tubing",
+      "canonical_name": "copper tubing",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "82",
+      "type": "Facility",
+      "name": "Batu Hijau mine",
+      "canonical_name": "Batu Hijau mine",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "78",
+      "type": "Process",
+      "name": "smelting",
+      "canonical_name": "smelting",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "aluminium",
+      "canonical_name": "aluminium",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "105",
+      "type": "Facility",
+      "name": "Laguna Seca",
+      "canonical_name": "Laguna Seca",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "67",
+      "type": "Process",
+      "name": "direct use",
+      "canonical_name": "direct use",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "118",
+      "type": "Facility",
+      "name": "Tuticorin smelter",
+      "canonical_name": "Tuticorin smelter",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "49",
+      "type": "Material",
+      "name": "motors for heavy appliances",
+      "canonical_name": "motors for heavy appliances",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "106",
+      "type": "Facility",
+      "name": "Laguna Seca concentrator",
+      "canonical_name": "Laguna Seca concentrator",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "26",
+      "type": "Material",
+      "name": "copper cathode",
+      "canonical_name": "copper cathode",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "117",
+      "type": "Facility",
+      "name": "transportation equipment",
+      "canonical_name": "transportation equipment",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "60",
+      "type": "Material",
+      "name": "SxEw copper",
+      "canonical_name": "SxEw copper",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "91",
+      "type": "Facility",
+      "name": "electric and electronic products",
+      "canonical_name": "electric and electronic products",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "57",
+      "type": "Material",
+      "name": "steel tubing",
+      "canonical_name": "steel tubing",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "33",
+      "type": "Material",
+      "name": "copper-nickel alloy",
+      "canonical_name": "copper-nickel alloy",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "142",
+      "type": "Property",
+      "name": "shortfall",
+      "canonical_name": "shortfall",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "93",
+      "type": "Facility",
+      "name": "Esperanza",
+      "canonical_name": "Esperanza",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "54",
+      "type": "Material",
+      "name": "ore",
+      "canonical_name": "ore",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "73",
+      "type": "Process",
+      "name": "milling",
+      "canonical_name": "milling",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "136",
+      "type": "Property",
+      "name": "power quality",
+      "canonical_name": "power quality",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "42",
+      "type": "Material",
+      "name": "copper wire and cable",
+      "canonical_name": "copper wire and cable",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "116",
+      "type": "Facility",
+      "name": "Tenke-Fungurume SxEw operation",
+      "canonical_name": "Tenke-Fungurume SxEw operation",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "35",
+      "type": "Material",
+      "name": "copper products",
+      "canonical_name": "copper products",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "7",
+      "type": "Equipment",
+      "name": "mill",
+      "canonical_name": "mill",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "36",
+      "type": "Material",
+      "name": "copper rods, bars and sections",
+      "canonical_name": "copper rods, bars and sections",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "126",
+      "type": "Property",
+      "name": "depressed market",
+      "canonical_name": "depressed market",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "24",
+      "type": "Material",
+      "name": "copper automotive components",
+      "canonical_name": "copper automotive components",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "48",
+      "type": "Material",
+      "name": "low grade ore stockpiles",
+      "canonical_name": "low grade ore stockpiles",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "77",
+      "type": "Process",
+      "name": "refining",
+      "canonical_name": "refining",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "120",
+      "type": "Facility",
+      "name": "Yunnan Tin",
+      "canonical_name": "Yunnan Tin",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "22",
+      "type": "Material",
+      "name": "copper alloy",
+      "canonical_name": "copper alloy",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "123",
+      "type": "Property",
+      "name": "capacity",
+      "canonical_name": "capacity",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "37",
+      "type": "Material",
+      "name": "copper scrap",
+      "canonical_name": "copper scrap",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "101",
+      "type": "Facility",
+      "name": "Jinchuan",
+      "canonical_name": "Jinchuan",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "53",
+      "type": "Material",
+      "name": "old scrap",
+      "canonical_name": "old scrap",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "130",
+      "type": "Property",
+      "name": "grade",
+      "canonical_name": "grade",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "62",
+      "type": "Material",
+      "name": "telecommunication cable",
+      "canonical_name": "telecommunication cable",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "51",
+      "type": "Material",
+      "name": "No.1 scrap",
+      "canonical_name": "No.1 scrap",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "31",
+      "type": "Material",
+      "name": "copper electrical components",
+      "canonical_name": "copper electrical components",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "27",
+      "type": "Material",
+      "name": "copper cathodes",
+      "canonical_name": "copper cathodes",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "50",
+      "type": "Material",
+      "name": "new scrap",
+      "canonical_name": "new scrap",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "107",
+      "type": "Facility",
+      "name": "Las Cruces",
+      "canonical_name": "Las Cruces",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "83",
+      "type": "Facility",
+      "name": "Chambishi mine",
+      "canonical_name": "Chambishi mine",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "114",
+      "type": "Facility",
+      "name": "structured wiring system",
+      "canonical_name": "structured wiring system",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "main underground haulage system",
+      "canonical_name": "main underground haulage system",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "34",
+      "type": "Material",
+      "name": "copper plumbing and air conditioning tube",
+      "canonical_name": "copper plumbing and air conditioning tube",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "131",
+      "type": "Property",
+      "name": "high treatment and refining charges",
+      "canonical_name": "high treatment and refining charges",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "2",
+      "type": "Publication",
+      "name": "Copper Long-term Outlook",
+      "canonical_name": "Copper Long-term Outlook",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "ADSL",
+      "canonical_name": "ADSL",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "76",
+      "type": "Process",
+      "name": "production",
+      "canonical_name": "production",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "19",
+      "type": "Material",
+      "name": "building wire",
+      "canonical_name": "building wire",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "132",
+      "type": "Property",
+      "name": "lower demand",
+      "canonical_name": "lower demand",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "95",
+      "type": "Facility",
+      "name": "Flin Flon copper smelter",
+      "canonical_name": "Flin Flon copper smelter",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "81",
+      "type": "Facility",
+      "name": "Antofagasta region",
+      "canonical_name": "Antofagasta region",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "18",
+      "type": "Material",
+      "name": "brass products",
+      "canonical_name": "brass products",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "138",
+      "type": "Property",
+      "name": "rising operating and capital costs",
+      "canonical_name": "rising operating and capital costs",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "137",
+      "type": "Property",
+      "name": "production capability",
+      "canonical_name": "production capability",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "64",
+      "type": "Material",
+      "name": "winding wire",
+      "canonical_name": "winding wire",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "45",
+      "type": "Material",
+      "name": "Euro coin",
+      "canonical_name": "Euro coin",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "3",
+      "type": "Publication",
+      "name": "Metals Market Service Long Term Outlook - December 2009",
+      "canonical_name": "Metals Market Service Long Term Outlook - December 2009",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "89",
+      "type": "Facility",
+      "name": "Daye",
+      "canonical_name": "Daye",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "47",
+      "type": "Material",
+      "name": "high grade ores",
+      "canonical_name": "high grade ores",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "56",
+      "type": "Material",
+      "name": "semiconductors",
+      "canonical_name": "semiconductors",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "5",
+      "type": "Equipment",
+      "name": "IsaSmelt unit",
+      "canonical_name": "IsaSmelt unit",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "21",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "115",
+      "type": "Facility",
+      "name": "telephone company's central office",
+      "canonical_name": "telephone company's central office",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "4",
+      "type": "Equipment",
+      "name": "concentrate pipeline",
+      "canonical_name": "concentrate pipeline",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "119",
+      "type": "Facility",
+      "name": "Xiangguang expansion",
+      "canonical_name": "Xiangguang expansion",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "44",
+      "type": "Material",
+      "name": "Cu",
+      "canonical_name": "Cu",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "125",
+      "type": "Property",
+      "name": "cross contamination reduction",
+      "canonical_name": "cross contamination reduction",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "13",
+      "type": "Expert",
+      "name": "Brook Hunt – A Wood Mackenzie Company",
+      "canonical_name": "Brook Hunt – A Wood Mackenzie Company",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "110",
+      "type": "Facility",
+      "name": "Nchanga smelter",
+      "canonical_name": "Nchanga smelter",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "141",
+      "type": "Property",
+      "name": "shortage",
+      "canonical_name": "shortage",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "80",
+      "type": "Facility",
+      "name": "Andacollo",
+      "canonical_name": "Andacollo",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "111",
+      "type": "Facility",
+      "name": "Olympic Dam complex",
+      "canonical_name": "Olympic Dam complex",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "59",
+      "type": "Material",
+      "name": "sulphuric acid",
+      "canonical_name": "sulphuric acid",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "140",
+      "type": "Property",
+      "name": "scrap recovery rate",
+      "canonical_name": "scrap recovery rate",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "61",
+      "type": "Material",
+      "name": "tailings",
+      "canonical_name": "tailings",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "87",
+      "type": "Facility",
+      "name": "construction industry",
+      "canonical_name": "construction industry",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "46",
+      "type": "Material",
+      "name": "fibre optic cable",
+      "canonical_name": "fibre optic cable",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "28",
+      "type": "Material",
+      "name": "copper coinage",
+      "canonical_name": "copper coinage",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "58",
+      "type": "Material",
+      "name": "sulphide",
+      "canonical_name": "sulphide",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "139",
+      "type": "Property",
+      "name": "scrap generation",
+      "canonical_name": "scrap generation",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Brook Hunt - A Wood Mackenzie Company 2009",
+      "canonical_name": "Brook Hunt - A Wood Mackenzie Company 2009",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "11",
+      "type": "Equipment",
+      "name": "smelter",
+      "canonical_name": "smelter",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "102",
+      "type": "Facility",
+      "name": "Kidd Creek smelter",
+      "canonical_name": "Kidd Creek smelter",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "75",
+      "type": "Process",
+      "name": "open_pit_mining",
+      "canonical_name": "open_pit_mining",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "39",
+      "type": "Material",
+      "name": "copper tube",
+      "canonical_name": "copper tube",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "43",
+      "type": "Material",
+      "name": "copper wire rod",
+      "canonical_name": "copper wire rod",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "85",
+      "type": "Facility",
+      "name": "Chambishi unit",
+      "canonical_name": "Chambishi unit",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "86",
+      "type": "Facility",
+      "name": "Chifeng Fubang",
+      "canonical_name": "Chifeng Fubang",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "66",
+      "type": "Process",
+      "name": "conventional processing",
+      "canonical_name": "conventional processing",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "65",
+      "type": "Process",
+      "name": "commissioning",
+      "canonical_name": "commissioning",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "124",
+      "type": "Property",
+      "name": "copper price",
+      "canonical_name": "copper price",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "52",
+      "type": "Material",
+      "name": "No.2 scrap",
+      "canonical_name": "No.2 scrap",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "25",
+      "type": "Material",
+      "name": "copper-brass",
+      "canonical_name": "copper-brass",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "30",
+      "type": "Material",
+      "name": "copper electrical appliances",
+      "canonical_name": "copper electrical appliances",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "id": "72",
+      "type": "Process",
+      "name": "leaching",
+      "canonical_name": "leaching",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "id": "104",
+      "type": "Facility",
+      "name": "Konkola Deep",
+      "canonical_name": "Konkola Deep",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "103",
+      "type": "Facility",
+      "name": "Kolwezi Tailings project",
+      "canonical_name": "Kolwezi Tailings project",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "127",
+      "type": "Property",
+      "name": "electrical conductivity",
+      "canonical_name": "electrical conductivity",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "id": "94",
+      "type": "Facility",
+      "name": "Feishang",
+      "canonical_name": "Feishang",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "12",
+      "type": "Equipment",
+      "name": "tailings dam",
+      "canonical_name": "tailings dam",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "29",
+      "type": "Material",
+      "name": "copper concentrate",
+      "canonical_name": "copper concentrate",
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "21",
+      "relation": "produces_output",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "produces_output",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "35",
+      "relation": "produces_output",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "125",
+      "relation": "operates_at_condition",
+      "target_id": "55",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "125",
+      "relation": "produces_output",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "125",
+      "relation": "produces_output",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "56",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "103",
+      "relation": "operates_at_condition",
+      "target_id": "49",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "103",
+      "relation": "produces_output",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "103",
+      "relation": "produces_output",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "109",
+      "relation": "produces_output",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "112",
+      "relation": "produces_output",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "112",
+      "relation": "produces_output",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "116",
+      "relation": "produces_output",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "116",
+      "relation": "produces_output",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "107",
+      "relation": "operates_at_condition",
+      "target_id": "62",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "107",
+      "relation": "produces_output",
+      "target_id": "39",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "107",
+      "relation": "produces_output",
+      "target_id": "39",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "104",
+      "relation": "produces_output",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "80",
+      "relation": "produces_output",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "93",
+      "relation": "produces_output",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "108",
+      "relation": "produces_output",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "92",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "92",
+      "relation": "uses_material",
+      "target_id": "34",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "92",
+      "relation": "uses_material",
+      "target_id": "34",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "92",
+      "relation": "uses_material",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "92",
+      "relation": "uses_material",
+      "target_id": "34",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "106",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "105",
+      "relation": "uses_material",
+      "target_id": "88",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "105",
+      "relation": "uses_material",
+      "target_id": "97",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "81",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "produces_output",
+      "target_id": "63",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "produces_output",
+      "target_id": "56",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "produces_output",
+      "target_id": "49",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "43",
+      "relation": "uses_material",
+      "target_id": "49",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "35",
+      "relation": "produces_output",
+      "target_id": "63",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "23",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "23",
+      "relation": "operates_at_condition",
+      "target_id": "36",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "23",
+      "relation": "operates_at_condition",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "23",
+      "relation": "operates_at_condition",
+      "target_id": "55",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "23",
+      "relation": "operates_at_condition",
+      "target_id": "62",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "34",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "63",
+      "relation": "operates_at_condition",
+      "target_id": "39",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "63",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "63",
+      "relation": "operates_at_condition",
+      "target_id": "36",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "63",
+      "relation": "operates_at_condition",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "63",
+      "relation": "operates_at_condition",
+      "target_id": "55",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "63",
+      "relation": "operates_at_condition",
+      "target_id": "62",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "49",
+      "relation": "uses_material",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "49",
+      "relation": "uses_material",
+      "target_id": "46",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "49",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "87",
+      "relation": "described_in",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "91",
+      "relation": "described_in",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "35",
+      "relation": "uses_material",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "23",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "34",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "38",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "39",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "36",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "55",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "62",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "63",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "56",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "49",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "35",
+      "relation": "uses_material",
+      "target_id": "46",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "described_in",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "87",
+      "relation": "described_in",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 20,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "43",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "35",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "23",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "34",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "38",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "39",
+      "relation": "uses_material",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "uses_material",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "36",
+      "relation": "uses_material",
+      "target_id": "34",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "uses_material",
+      "target_id": "34",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "55",
+      "relation": "uses_material",
+      "target_id": "34",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "62",
+      "relation": "uses_material",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "63",
+      "relation": "uses_material",
+      "target_id": "34",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "56",
+      "relation": "operates_at_condition",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "56",
+      "relation": "operates_at_condition",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "56",
+      "relation": "operates_at_condition",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "56",
+      "relation": "operates_at_condition",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "56",
+      "relation": "operates_at_condition",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "56",
+      "relation": "operates_at_condition",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "56",
+      "relation": "operates_at_condition",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "49",
+      "relation": "operates_at_condition",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "46",
+      "relation": "operates_at_condition",
+      "target_id": "34",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "operates_at_condition",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "87",
+      "relation": "operates_at_condition",
+      "target_id": "34",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "91",
+      "relation": "operates_at_condition",
+      "target_id": "34",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "99",
+      "relation": "described_in",
+      "target_id": "117",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 21,
+        "page_end": 22
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "35",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "43",
+      "relation": "uses_material",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "39",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "39",
+      "relation": "uses_material",
+      "target_id": "34",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "39",
+      "relation": "uses_material",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "38",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "36",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "55",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "62",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "63",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "56",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "49",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "46",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "127",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "128",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "125",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "produces_output",
+      "target_id": "87",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "produces_output",
+      "target_id": "91",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "produces_output",
+      "target_id": "99",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "produces_output",
+      "target_id": "117",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "produces_output",
+      "target_id": "88",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "produces_output",
+      "target_id": "97",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "produces_output",
+      "target_id": "96",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "produces_output",
+      "target_id": "115",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "produces_output",
+      "target_id": "114",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 27,
+        "page_end": 28
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "33",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "25",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "57",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "42",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "64",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "41",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "40",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "31",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "45",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "30",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "32",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "uses_material",
+      "target_id": "28",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "BrookHunt-Cu-4Q2009-30dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 29,
+        "page_end": 29
+      }
+    }
+  ]
+}

@@ -1,0 +1,3212 @@
+{
+  "filename": "Barclays-Cu-scrap-16may11.pdf",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "88",
+      "type": "Property",
+      "name": "metallurgical barriers",
+      "canonical_name": "metallurgical barriers",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "46",
+      "type": "Process",
+      "name": "collection",
+      "canonical_name": "collection",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "38",
+      "type": "Material",
+      "name": "secondary",
+      "canonical_name": "secondary",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "34",
+      "type": "Material",
+      "name": "refined_copper",
+      "canonical_name": "refined_copper",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "19",
+      "type": "Material",
+      "name": "concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "25",
+      "type": "Material",
+      "name": "lead",
+      "canonical_name": "lead",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "18",
+      "type": "Material",
+      "name": "clean scrap",
+      "canonical_name": "clean scrap",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "52",
+      "type": "Process",
+      "name": "reclamation",
+      "canonical_name": "reclamation",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "11",
+      "type": "Expert",
+      "name": "Suki Cooper",
+      "canonical_name": "Suki Cooper",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Publication",
+      "name": "EAA report",
+      "canonical_name": "EAA report",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "84",
+      "type": "Property",
+      "name": "impurities",
+      "canonical_name": "impurities",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "37",
+      "type": "Material",
+      "name": "scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "70",
+      "type": "Facility",
+      "name": "refineries",
+      "canonical_name": "refineries",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "63",
+      "type": "Facility",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "23",
+      "type": "Material",
+      "name": "extruded billet",
+      "canonical_name": "extruded billet",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "60",
+      "type": "Process",
+      "name": "semis production",
+      "canonical_name": "semis production",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "39",
+      "type": "Material",
+      "name": "secondary refined copper",
+      "canonical_name": "secondary refined copper",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "61",
+      "type": "Process",
+      "name": "SXEW",
+      "canonical_name": "SXEW",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "aluminium",
+      "canonical_name": "aluminium",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "91",
+      "type": "Property",
+      "name": "proportion of secondary",
+      "canonical_name": "proportion of secondary",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "9",
+      "type": "Expert",
+      "name": "Nicholas Snowdon",
+      "canonical_name": "Nicholas Snowdon",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "72",
+      "type": "Facility",
+      "name": "rolling mills",
+      "canonical_name": "rolling mills",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "35",
+      "type": "Material",
+      "name": "refined output",
+      "canonical_name": "refined output",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "33",
+      "type": "Material",
+      "name": "primary copper",
+      "canonical_name": "primary copper",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "automotive scrap",
+      "canonical_name": "automotive scrap",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "79",
+      "type": "Property",
+      "name": "collection rate",
+      "canonical_name": "collection rate",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "10",
+      "type": "Expert",
+      "name": "Roxana Mohammadian Molina",
+      "canonical_name": "Roxana Mohammadian Molina",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "64",
+      "type": "Facility",
+      "name": "diecasters",
+      "canonical_name": "diecasters",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "66",
+      "type": "Facility",
+      "name": "extruders",
+      "canonical_name": "extruders",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "32",
+      "type": "Material",
+      "name": "primary aluminium",
+      "canonical_name": "primary aluminium",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "50",
+      "type": "Process",
+      "name": "milling",
+      "canonical_name": "milling",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "69",
+      "type": "Facility",
+      "name": "primary smelters",
+      "canonical_name": "primary smelters",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "57",
+      "type": "Process",
+      "name": "scrap processing",
+      "canonical_name": "scrap processing",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "68",
+      "type": "Facility",
+      "name": "global",
+      "canonical_name": "global",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "55",
+      "type": "Process",
+      "name": "refining process",
+      "canonical_name": "refining process",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "48",
+      "type": "Process",
+      "name": "diecasting",
+      "canonical_name": "diecasting",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "41",
+      "type": "Material",
+      "name": "semis",
+      "canonical_name": "semis",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "54",
+      "type": "Process",
+      "name": "refining",
+      "canonical_name": "refining",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "53",
+      "type": "Process",
+      "name": "recycling",
+      "canonical_name": "recycling",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "92",
+      "type": "Property",
+      "name": "quality issues",
+      "canonical_name": "quality issues",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "100",
+      "type": "Property",
+      "name": "VAT rebate",
+      "canonical_name": "VAT rebate",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "65",
+      "type": "Facility",
+      "name": "end of life vehicle collection",
+      "canonical_name": "end of life vehicle collection",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "21",
+      "type": "Material",
+      "name": "copper scrap",
+      "canonical_name": "copper scrap",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "56",
+      "type": "Process",
+      "name": "remelting",
+      "canonical_name": "remelting",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "29",
+      "type": "Material",
+      "name": "old scrap",
+      "canonical_name": "old scrap",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "71",
+      "type": "Facility",
+      "name": "remelters",
+      "canonical_name": "remelters",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "78",
+      "type": "Property",
+      "name": "average lifetime",
+      "canonical_name": "average lifetime",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "26",
+      "type": "Material",
+      "name": "motor vehicle",
+      "canonical_name": "motor vehicle",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "27",
+      "type": "Material",
+      "name": "new scrap",
+      "canonical_name": "new scrap",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "8",
+      "type": "Expert",
+      "name": "Kevin Norrish",
+      "canonical_name": "Kevin Norrish",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "81",
+      "type": "Property",
+      "name": "discounts",
+      "canonical_name": "discounts",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "49",
+      "type": "Process",
+      "name": "extrusion",
+      "canonical_name": "extrusion",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "24",
+      "type": "Material",
+      "name": "gold",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "4",
+      "type": "Publication",
+      "name": "Metals Magnifier",
+      "canonical_name": "Metals Magnifier",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "28",
+      "type": "Material",
+      "name": "nickel",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "99",
+      "type": "Property",
+      "name": "unit costs",
+      "canonical_name": "unit costs",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "40",
+      "type": "Material",
+      "name": "semi-fabricated products",
+      "canonical_name": "semi-fabricated products",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "67",
+      "type": "Facility",
+      "name": "Germany",
+      "canonical_name": "Germany",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "85",
+      "type": "Property",
+      "name": "industrial activity",
+      "canonical_name": "industrial activity",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "22",
+      "type": "Material",
+      "name": "electronic goods",
+      "canonical_name": "electronic goods",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "5",
+      "type": "Publication",
+      "name": "USGS report",
+      "canonical_name": "USGS report",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "17",
+      "type": "Material",
+      "name": "cathode",
+      "canonical_name": "cathode",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "45",
+      "type": "Process",
+      "name": "anodizing",
+      "canonical_name": "anodizing",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "42",
+      "type": "Material",
+      "name": "silver",
+      "canonical_name": "silver",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "93",
+      "type": "Property",
+      "name": "reclamation rate",
+      "canonical_name": "reclamation rate",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "7",
+      "type": "Expert",
+      "name": "Gayle Berry",
+      "canonical_name": "Gayle Berry",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "58",
+      "type": "Process",
+      "name": "secondary refined production",
+      "canonical_name": "secondary refined production",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "20",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "76",
+      "type": "Facility",
+      "name": "semis producers",
+      "canonical_name": "semis producers",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "83",
+      "type": "Property",
+      "name": "global pool of old scrap",
+      "canonical_name": "global pool of old scrap",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "80",
+      "type": "Property",
+      "name": "consumption rates",
+      "canonical_name": "consumption rates",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "36",
+      "type": "Material",
+      "name": "run-around scrap",
+      "canonical_name": "run-around scrap",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "44",
+      "type": "Material",
+      "name": "used beverage can",
+      "canonical_name": "used beverage can",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "94",
+      "type": "Property",
+      "name": "recycling rate",
+      "canonical_name": "recycling rate",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "77",
+      "type": "Property",
+      "name": "availability",
+      "canonical_name": "availability",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "82",
+      "type": "Property",
+      "name": "environmental effects",
+      "canonical_name": "environmental effects",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "98",
+      "type": "Property",
+      "name": "share of secondary",
+      "canonical_name": "share of secondary",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "43",
+      "type": "Material",
+      "name": "SXEW cathode",
+      "canonical_name": "SXEW cathode",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "73",
+      "type": "Facility",
+      "name": "secondary facilities",
+      "canonical_name": "secondary facilities",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Barclays Capital | Metals Magnifier",
+      "canonical_name": "Barclays Capital | Metals Magnifier",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "75",
+      "type": "Facility",
+      "name": "secondary smelters",
+      "canonical_name": "secondary smelters",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "95",
+      "type": "Property",
+      "name": "refractory degradation",
+      "canonical_name": "refractory degradation",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "87",
+      "type": "Property",
+      "name": "latent scrap",
+      "canonical_name": "latent scrap",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "62",
+      "type": "Facility",
+      "name": "Cash for Clunkers",
+      "canonical_name": "Cash for Clunkers",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "90",
+      "type": "Property",
+      "name": "price spreads",
+      "canonical_name": "price spreads",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "30",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "31",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "51",
+      "type": "Process",
+      "name": "production process",
+      "canonical_name": "production process",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "74",
+      "type": "Facility",
+      "name": "secondary refined output",
+      "canonical_name": "secondary refined output",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "96",
+      "type": "Property",
+      "name": "scrap content",
+      "canonical_name": "scrap content",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "air conditioner",
+      "canonical_name": "air conditioner",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "47",
+      "type": "Process",
+      "name": "copper smelting",
+      "canonical_name": "copper smelting",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "alloy ingot",
+      "canonical_name": "alloy ingot",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "59",
+      "type": "Process",
+      "name": "secondary smelting",
+      "canonical_name": "secondary smelting",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "97",
+      "type": "Property",
+      "name": "scrap generation rate",
+      "canonical_name": "scrap generation rate",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "aluminium scrap",
+      "canonical_name": "aluminium scrap",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "reverberating furnace",
+      "canonical_name": "reverberating furnace",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "3",
+      "type": "Publication",
+      "name": "European Commission report",
+      "canonical_name": "European Commission report",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "89",
+      "type": "Property",
+      "name": "price",
+      "canonical_name": "price",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "86",
+      "type": "Property",
+      "name": "labour costs",
+      "canonical_name": "labour costs",
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "46",
+      "relation": "affiliated_with",
+      "target_id": "62",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "52",
+      "relation": "affiliated_with",
+      "target_id": "62",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "71",
+      "relation": "affiliated_with",
+      "target_id": "62",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "75",
+      "relation": "affiliated_with",
+      "target_id": "62",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "65",
+      "relation": "affiliated_with",
+      "target_id": "62",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "53",
+      "relation": "uses_material",
+      "target_id": "32",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "32",
+      "relation": "operates_at_condition",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "37",
+      "relation": "uses_material",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "26",
+      "relation": "uses_material",
+      "target_id": "32",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "uses_material",
+      "target_id": "37",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "63",
+      "relation": "uses_material",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "uses_material",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "53",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "53",
+      "relation": "uses_material",
+      "target_id": "37",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "46",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "53",
+      "relation": "operates_at_condition",
+      "target_id": "52",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "uses_material",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "produces_output",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "63",
+      "relation": "uses_material",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "53",
+      "relation": "produces_output",
+      "target_id": "32",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "46",
+      "relation": "produces_output",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "52",
+      "relation": "operates_at_condition",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "52",
+      "relation": "operates_at_condition",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "52",
+      "relation": "operates_at_condition",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "52",
+      "relation": "operates_at_condition",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "71",
+      "relation": "operates_at_condition",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "71",
+      "relation": "operates_at_condition",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "71",
+      "relation": "operates_at_condition",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "71",
+      "relation": "operates_at_condition",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "71",
+      "relation": "operates_at_condition",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "71",
+      "relation": "operates_at_condition",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "71",
+      "relation": "operates_at_condition",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "71",
+      "relation": "operates_at_condition",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "75",
+      "relation": "described_in",
+      "target_id": "75",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "uses_material",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "93",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "operates_at_condition",
+      "target_id": "79",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "32",
+      "relation": "operates_at_condition",
+      "target_id": "94",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "37",
+      "relation": "operates_at_condition",
+      "target_id": "79",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "52",
+      "relation": "uses_material",
+      "target_id": "37",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "52",
+      "relation": "uses_material",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "71",
+      "relation": "uses_material",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "71",
+      "relation": "operates_at_condition",
+      "target_id": "78",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "65",
+      "relation": "uses_material",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "65",
+      "relation": "uses_material",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "97",
+      "relation": "operates_at_condition",
+      "target_id": "79",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 5,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "uses_material",
+      "target_id": "52",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "operates_at_condition",
+      "target_id": "71",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "operates_at_condition",
+      "target_id": "75",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "operates_at_condition",
+      "target_id": "65",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "operates_at_condition",
+      "target_id": "62",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "operates_at_condition",
+      "target_id": "93",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "uses_material",
+      "target_id": "94",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "uses_material",
+      "target_id": "79",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "operates_at_condition",
+      "target_id": "78",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "32",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "37",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "26",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "63",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "53",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "46",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "52",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "71",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "75",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "65",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "62",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "93",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "94",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "79",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "78",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "97",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "produces_output",
+      "target_id": "32",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "37",
+      "relation": "produces_output",
+      "target_id": "32",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "described_in",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "32",
+      "relation": "described_in",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "37",
+      "relation": "described_in",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 8,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "75",
+      "relation": "uses_material",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "75",
+      "relation": "uses_material",
+      "target_id": "32",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "65",
+      "relation": "produces_output",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "62",
+      "relation": "produces_output",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "94",
+      "relation": "uses_material",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "79",
+      "relation": "uses_material",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "79",
+      "relation": "uses_material",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "78",
+      "relation": "uses_material",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "78",
+      "relation": "uses_material",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "operates_at_condition",
+      "target_id": "71",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "32",
+      "relation": "produces_output",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "37",
+      "relation": "produces_output",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "26",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "78",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "78",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "63",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "operates_at_condition",
+      "target_id": "93",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "operates_at_condition",
+      "target_id": "94",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "operates_at_condition",
+      "target_id": "79",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "operates_at_condition",
+      "target_id": "79",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "operates_at_condition",
+      "target_id": "79",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "operates_at_condition",
+      "target_id": "79",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "29",
+      "relation": "operates_at_condition",
+      "target_id": "97",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "32",
+      "relation": "operates_at_condition",
+      "target_id": "78",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "32",
+      "relation": "operates_at_condition",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "32",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "37",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "32",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "37",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "63",
+      "relation": "uses_material",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "63",
+      "relation": "uses_material",
+      "target_id": "29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "63",
+      "relation": "uses_material",
+      "target_id": "32",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "63",
+      "relation": "uses_material",
+      "target_id": "37",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "63",
+      "relation": "produces_output",
+      "target_id": "26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "63",
+      "relation": "produces_output",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Barclays-Cu-scrap-16may11.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 12,
+        "page_end": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "filename": "Доклад_Новожилова О.С.pdf",
+  "category": "Доклады",
+  "entities": [
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "WDS",
+      "canonical_name": "WDS",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "5",
+      "type": "Equipment",
+      "name": "VEGA",
+      "canonical_name": "VEGA",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "1",
+      "type": "Equipment",
+      "name": "EBSD",
+      "canonical_name": "EBSD",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "4",
+      "type": "Equipment",
+      "name": "MIRA",
+      "canonical_name": "MIRA",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "2",
+      "type": "Equipment",
+      "name": "EDS",
+      "canonical_name": "EDS",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Лаборатория пирометаллургии",
+      "canonical_name": "Лаборатория пирометаллургии",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "3",
+      "type": "Equipment",
+      "name": "LYRA3",
+      "canonical_name": "LYRA3",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "affiliated_with",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.75,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    }
+  ]
+}

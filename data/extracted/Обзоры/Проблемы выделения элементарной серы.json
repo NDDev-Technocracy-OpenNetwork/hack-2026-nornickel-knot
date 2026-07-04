@@ -1,0 +1,3918 @@
+{
+  "filename": "Проблемы выделения элементарной серы.md",
+  "category": "Обзоры",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "флотация",
+      "canonical_name": "flotation",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "лигносульфонат",
+      "canonical_name": "ligroin sulfonate",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "серный концентрат",
+      "canonical_name": "sulfur concentrate",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "кварц",
+      "canonical_name": "quartz",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "силикаты",
+      "canonical_name": "silicates",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "пустая порода",
+      "canonical_name": "empty gangue",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "керосин",
+      "canonical_name": "kerosene",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "халькопиритовый концентрат",
+      "canonical_name": "chalcopyrite concentrate",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "царская вода",
+      "canonical_name": "royal water",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "флотационный концентрат",
+      "canonical_name": "flotation concentrate",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "хвостохранилище",
+      "canonical_name": "tailings dam",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "цинковый завод Flin Flon",
+      "canonical_name": "Flin Flon zinc plant",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "13",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "14",
+      "type": "Publication",
+      "name": "обзор [1]",
+      "canonical_name": "review [1]",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "серные гранулы",
+      "canonical_name": "sernye_granuly",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "природная сульфидная руда",
+      "canonical_name": "prirodnaya_sulfidnaya_ruda",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "остатки выщелачивания",
+      "canonical_name": "ostatki_vyshleachivaniya",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "нейтрализованный остаток выщелачивания",
+      "canonical_name": "neitrailizovannyy_ostatok_vyshleachivaniya",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "нейтрализованный железогидроксидный /гипсовый остаток",
+      "canonical_name": "neitrailizovannyy_zhelezhogidrokсидnyiy_gipsovyiy_ostatok",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "гематит",
+      "canonical_name": "hematit",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "элементарная сера",
+      "canonical_name": "elementarnaya_sera",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Fe-Ni сульфид",
+      "canonical_name": "Fe-Ni_sulfid",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "Fe-Cu сульфид",
+      "canonical_name": "Fe-Cu_sulfid",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "гидроксиды никеля и меди",
+      "canonical_name": "hidroksidy_nikelya_i_medi",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "частично гидратированный оксид Fe<sup>3+</sup>",
+      "canonical_name": "chastichno_gidratirovannyy_oksid_Fe3+",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "оксид железа",
+      "canonical_name": "oksid_zheleza",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "гипс",
+      "canonical_name": "gips",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "никель",
+      "canonical_name": "nikel",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "меди",
+      "canonical_name": "medi",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "16",
+      "type": "Process",
+      "name": "обработка раствором (NH4)2S",
+      "canonical_name": "obrabotka_ravstvorem_NH42S",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "17",
+      "type": "Process",
+      "name": "нейтрализация добавками извести",
+      "canonical_name": "neitrailizatsiya_dobavkami_isveddy",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "18",
+      "type": "Process",
+      "name": "автоклавное окислительное выщелачивание",
+      "canonical_name": "avtoklavnoye_okislitelnoye_vyshleachivaniye",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "19",
+      "type": "Equipment",
+      "name": "завод Long Harbour",
+      "canonical_name": "zavod_Long_Harbour",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "20",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Vostrikova_N_M",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "21",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "OOO_Institut_Gipronikel",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "флотация",
+      "canonical_name": "flotation",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "сернистые микропеллеты",
+      "canonical_name": "serpentine micropellets",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "оксидная фракция",
+      "canonical_name": "oxide fraction",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "элементарная сера",
+      "canonical_name": "elemental sulfur",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "сульфидные частицы",
+      "canonical_name": "sulfide particles",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "сульфидный кек",
+      "canonical_name": "sulfide cake",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "сульфидный фильтрационный кек",
+      "canonical_name": "sulfide filtration cake",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "флотационные камеры",
+      "canonical_name": "flotation cells",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "плавкий конус",
+      "canonical_name": "melting cone",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "10",
+      "type": "Equipment",
+      "name": "вакуумный фильтр-пресс",
+      "canonical_name": "vacuum filter-press",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "OJSC Institute Gipronikel",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "расширительный бак",
+      "canonical_name": "expansion tank",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "контактный чан",
+      "canonical_name": "contact tank",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "флотационные камеры",
+      "canonical_name": "flotation cells",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "флотационный концентрат перечистки",
+      "canonical_name": "clean flotation concentrate",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "флотационный концентрат",
+      "canonical_name": "flotation concentrate",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "плавкий конус",
+      "canonical_name": "melting cone",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "яма с неочищенной серой",
+      "canonical_name": "unrefined sulfur pit",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "яма для очищенной серы",
+      "canonical_name": "refined sulfur pit",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "вакуумный фильтр-пресс из нержавеющей стали",
+      "canonical_name": "vacuum filter-press from stainless steel",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "пульпа",
+      "canonical_name": "pulp",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "сернистые микропеллеты",
+      "canonical_name": "sulfide micropellets",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "оксидная фракция",
+      "canonical_name": "oxide fraction",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "сульфат цинка",
+      "canonical_name": "zinc sulfate",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "сульфидные частицы",
+      "canonical_name": "sulfide particles",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "элементарная сера",
+      "canonical_name": "elementary sulfur",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "пирит",
+      "canonical_name": "pyrite",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "17",
+      "type": "Material",
+      "name": "сульфидный кек",
+      "canonical_name": "sulfide cake",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "флотация",
+      "canonical_name": "flotation",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "лигносульфонат",
+      "canonical_name": "ligroin sulfonate",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "серный концентрат",
+      "canonical_name": "sulfur concentrate",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "кварц",
+      "canonical_name": "quartz",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "силикаты",
+      "canonical_name": "silicates",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "пустая порода",
+      "canonical_name": "empty gangue",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "керосин",
+      "canonical_name": "kerosene",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "халькопиритовый концентрат",
+      "canonical_name": "chalcopyrite concentrate",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "царская вода",
+      "canonical_name": "royal water",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "флотационный концентрат",
+      "canonical_name": "flotation concentrate",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "хвостохранилище",
+      "canonical_name": "tailings dam",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "цинковый завод Flin Flon",
+      "canonical_name": "Flin Flon zinc plant",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "13",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Vostrikova N.M.",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "14",
+      "type": "Publication",
+      "name": "обзор [1]",
+      "canonical_name": "review [1]",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "серные гранулы",
+      "canonical_name": "sernye_granuly",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "природная сульфидная руда",
+      "canonical_name": "prirodnaya_sulfidnaya_ruda",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "остатки выщелачивания",
+      "canonical_name": "ostatki_vyshleachivaniya",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "нейтрализованный остаток выщелачивания",
+      "canonical_name": "neitrailizovannyy_ostatok_vyshleachivaniya",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "нейтрализованный железогидроксидный /гипсовый остаток",
+      "canonical_name": "neitrailizovannyy_zhelezhogidrokсидnyiy_gipsovyiy_ostatok",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "гематит",
+      "canonical_name": "hematit",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "элементарная сера",
+      "canonical_name": "elementarnaya_sera",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Fe-Ni сульфид",
+      "canonical_name": "Fe-Ni_sulfid",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "Fe-Cu сульфид",
+      "canonical_name": "Fe-Cu_sulfid",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "гидроксиды никеля и меди",
+      "canonical_name": "hidroksidy_nikelya_i_medi",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "частично гидратированный оксид Fe<sup>3+</sup>",
+      "canonical_name": "chastichno_gidratirovannyy_oksid_Fe3+",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "оксид железа",
+      "canonical_name": "oksid_zheleza",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "гипс",
+      "canonical_name": "gips",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "никель",
+      "canonical_name": "nikel",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "меди",
+      "canonical_name": "medi",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "16",
+      "type": "Process",
+      "name": "обработка раствором (NH4)2S",
+      "canonical_name": "obrabotka_ravstvorem_NH42S",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "17",
+      "type": "Process",
+      "name": "нейтрализация добавками извести",
+      "canonical_name": "neitrailizatsiya_dobavkami_isveddy",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "18",
+      "type": "Process",
+      "name": "автоклавное окислительное выщелачивание",
+      "canonical_name": "avtoklavnoye_okislitelnoye_vyshleachivaniye",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "19",
+      "type": "Equipment",
+      "name": "завод Long Harbour",
+      "canonical_name": "zavod_Long_Harbour",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "20",
+      "type": "Expert",
+      "name": "Вострикова Н.М.",
+      "canonical_name": "Vostrikova_N_M",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "21",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "OOO_Institut_Gipronikel",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "флотация",
+      "canonical_name": "flotation",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "сернистые микропеллеты",
+      "canonical_name": "serpentine micropellets",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "оксидная фракция",
+      "canonical_name": "oxide fraction",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "элементарная сера",
+      "canonical_name": "elemental sulfur",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "сульфидные частицы",
+      "canonical_name": "sulfide particles",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "сульфидный кек",
+      "canonical_name": "sulfide cake",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "сульфидный фильтрационный кек",
+      "canonical_name": "sulfide filtration cake",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "8",
+      "type": "Equipment",
+      "name": "флотационные камеры",
+      "canonical_name": "flotation cells",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "плавкий конус",
+      "canonical_name": "melting cone",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "10",
+      "type": "Equipment",
+      "name": "вакуумный фильтр-пресс",
+      "canonical_name": "vacuum filter-press",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "OJSC Institute Gipronikel",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "расширительный бак",
+      "canonical_name": "expansion tank",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "контактный чан",
+      "canonical_name": "contact tank",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "флотационные камеры",
+      "canonical_name": "flotation cells",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "флотационный концентрат перечистки",
+      "canonical_name": "clean flotation concentrate",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "флотационный концентрат",
+      "canonical_name": "flotation concentrate",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "плавкий конус",
+      "canonical_name": "melting cone",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "яма с неочищенной серой",
+      "canonical_name": "unrefined sulfur pit",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "яма для очищенной серы",
+      "canonical_name": "refined sulfur pit",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "вакуумный фильтр-пресс из нержавеющей стали",
+      "canonical_name": "vacuum filter-press from stainless steel",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "пульпа",
+      "canonical_name": "pulp",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "сернистые микропеллеты",
+      "canonical_name": "sulfide micropellets",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "оксидная фракция",
+      "canonical_name": "oxide fraction",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "сульфат цинка",
+      "canonical_name": "zinc sulfate",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "сульфидные частицы",
+      "canonical_name": "sulfide particles",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "элементарная сера",
+      "canonical_name": "elementary sulfur",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "пирит",
+      "canonical_name": "pyrite",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "17",
+      "type": "Material",
+      "name": "сульфидный кек",
+      "canonical_name": "sulfide cake",
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "pH ≈10,5",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "operates_at_condition",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "≈269 тыс т/г флотационных концентратов",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "138,4 тыс т/г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "242,6 тыс т/г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "serpentine micropellets are hydrophobic",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "temperature 140˚С",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "temperature 140˚С",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "particle size 44-150-200 μm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "particle size > 44 μm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "particle size < 150-200 μm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "particle size < 44 μm",
+      "confidence": 0.5,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "120°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "80-100°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "80-100°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "200-300°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "200-300°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "200-300°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "200-300°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "uses_material",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "uses_material",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "uses_material",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "120°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "80-100°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "80-100°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "200-300°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "200-300°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "200-300°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "200-300°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 15,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "pH ≈10,5",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "operates_at_condition",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "≈269 тыс т/г флотационных концентратов",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "138,4 тыс т/г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "242,6 тыс т/г",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "affiliated_with",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 7,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "serpentine micropellets are hydrophobic",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "temperature 140˚С",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "temperature 140˚С",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "particle size 44-150-200 μm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "particle size > 44 μm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "particle size < 150-200 μm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "particle size < 44 μm",
+      "confidence": 0.5,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "120°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "80-100°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "80-100°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "200-300°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "200-300°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "200-300°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "200-300°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "uses_material",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "uses_material",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "uses_material",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "14",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "120°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "80-100°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "80-100°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "200-300°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "200-300°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "200-300°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "200-300°C",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Проблемы выделения элементарной серы.md",
+        "category": "Обзоры",
+        "chunk_index": 24,
+        "page_start": 25,
+        "page_end": 25
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "filename": "NN1704.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Crocodile River mine",
+      "canonical_name": "Crocodile River mine",
+      "provenance": {
+        "source_file": "NN1704.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "Ayako Furuno",
+      "canonical_name": "Ayako Furuno",
+      "provenance": {
+        "source_file": "NN1704.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "Cory McPhee",
+      "canonical_name": "Cory McPhee",
+      "provenance": {
+        "source_file": "NN1704.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "4",
+      "type": "Publication",
+      "name": "Mining Weekly",
+      "canonical_name": "Mining Weekly",
+      "provenance": {
+        "source_file": "NN1704.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "5",
+      "type": "Publication",
+      "name": "Mining Mx",
+      "canonical_name": "Mining Mx",
+      "provenance": {
+        "source_file": "NN1704.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": 32969.0,
+      "unit": "PGM",
+      "condition": "Q109",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN1704.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "affiliated_with",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN1704.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN1704.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    }
+  ]
+}

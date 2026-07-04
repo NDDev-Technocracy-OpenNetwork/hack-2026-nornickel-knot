@@ -1,0 +1,956 @@
+{
+  "filename": "Chapter 3-Balance&Prices-Oct08.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Escondida",
+      "canonical_name": "Escondida",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Codelco",
+      "canonical_name": "Codelco",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "Grasberg",
+      "canonical_name": "Grasberg",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Xstrata",
+      "canonical_name": "Xstrata",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Kidd Creek",
+      "canonical_name": "Kidd Creek",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "KGHM",
+      "canonical_name": "KGHM",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "aluminium",
+      "canonical_name": "aluminium",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "tin",
+      "canonical_name": "tin",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "lead",
+      "canonical_name": "lead",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Comex firstposition",
+      "canonical_name": "Comex firstposition",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "LME cash",
+      "canonical_name": "LME cash",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "copper production",
+      "canonical_name": "copper production",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "copper supply",
+      "canonical_name": "copper supply",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "copper demand",
+      "canonical_name": "copper demand",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "copper refining",
+      "canonical_name": "refined copper",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Escondida",
+      "canonical_name": "Escondida",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Codelco",
+      "canonical_name": "Codelco",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "Grasberg",
+      "canonical_name": "Grasberg",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Xstrata",
+      "canonical_name": "Xstrata",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Kidd Creek",
+      "canonical_name": "Kidd Creek",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "KGHM",
+      "canonical_name": "KGHM",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "aluminium",
+      "canonical_name": "aluminium",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "tin",
+      "canonical_name": "tin",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "lead",
+      "canonical_name": "lead",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 14,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "Comex firstposition",
+      "canonical_name": "Comex firstposition",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "LME cash",
+      "canonical_name": "LME cash",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "copper production",
+      "canonical_name": "copper production",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "copper supply",
+      "canonical_name": "copper supply",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "copper demand",
+      "canonical_name": "copper demand",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "copper refining",
+      "canonical_name": "refined copper",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "SAG mill failure in October",
+      "confidence": null,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "reduction to output due to lower head grades this year",
+      "confidence": null,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "delays to Codelco's mill expansions",
+      "confidence": null,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "pit wall failure",
+      "confidence": null,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Kidd Creek operations strike",
+      "confidence": null,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "one day strike on 5th November",
+      "confidence": null,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "SAG mill failure in October",
+      "confidence": null,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "reduction to output due to lower head grades this year",
+      "confidence": null,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "delays to Codelco's mill expansions",
+      "confidence": null,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "pit wall failure",
+      "confidence": null,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Kidd Creek operations strike",
+      "confidence": null,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "one day strike on 5th November",
+      "confidence": null,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 4,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Chapter 3-Balance&Prices-Oct08.md",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 10,
+        "page_end": 10
+      }
+    }
+  ]
+}

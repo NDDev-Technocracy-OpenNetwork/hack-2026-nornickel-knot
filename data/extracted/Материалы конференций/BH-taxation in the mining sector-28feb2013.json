@@ -1,0 +1,108 @@
+{
+  "filename": "BH-taxation in the mining sector-28feb2013.md",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "Wood Mackenzie",
+      "canonical_name": "Wood Mackenzie",
+      "provenance": {
+        "source_file": "BH-taxation in the mining sector-28feb2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Publication",
+      "name": "Growth in Resource Company Profits 2003-2012",
+      "canonical_name": "Growth in Resource Company Profits 2003-2012",
+      "provenance": {
+        "source_file": "BH-taxation in the mining sector-28feb2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "3",
+      "type": "Publication",
+      "name": "Historically mining has faired better with fiscal policies, but could governments now push toward the petroleum model?",
+      "canonical_name": "Historically mining has faired better with fiscal policies, but could governments now push toward the petroleum model?",
+      "provenance": {
+        "source_file": "BH-taxation in the mining sector-28feb2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "4",
+      "type": "Publication",
+      "name": "Petroleum and mining project life cycle characteristics – the differences",
+      "canonical_name": "Petroleum and mining project life cycle characteristics – the differences",
+      "provenance": {
+        "source_file": "BH-taxation in the mining sector-28feb2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-taxation in the mining sector-28feb2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-taxation in the mining sector-28feb2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BH-taxation in the mining sector-28feb2013.md",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    }
+  ]
+}
