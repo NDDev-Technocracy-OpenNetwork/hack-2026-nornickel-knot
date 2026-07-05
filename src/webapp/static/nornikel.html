@@ -91,7 +91,7 @@
   .panel-title small { font-weight: 400; text-transform: none; letter-spacing: 0; color: var(--ink-soft); }
 
   .graph-canvas-wrap { position: relative; width: 100%; }
-  .graph-canvas-wrap canvas { width: 100%; display: block; border-radius: 6px; background: #fbfaf8; cursor: grab; }
+  .graph-canvas-wrap canvas { width: 100%; display: block; border-radius: 6px; background: #fbfaf8; cursor: grab; touch-action: none; }
   .legend { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 12px; }
   .legend-item { display: flex; align-items: center; gap: 6px; font-family: var(--mono); font-size: 10.5px; color: var(--ink-soft); }
   .legend-dot { width: 7px; height: 7px; border-radius: 50%; }
@@ -214,11 +214,15 @@
     <section style="padding-top:48px;">
       <div class="section-label">Норникель AI Hack · трек «Научный клубок»</div>
       <h1 class="section-h2" style="font-size:clamp(30px,4vw,52px);">Живая карта знаний R&amp;D<br>для <em>горной металлургии</em></h1>
-      <p style="font-size:17px; max-width:680px; margin-top:18px; color:var(--ink-mid);">
+      <p style="font-size:17px; max-width:760px; margin-top:18px; color:var(--ink-mid); line-height:1.65;">
         Вопрос на естественном языке — структурированный ответ за 4 секунды, с числами,
-        условиями и ссылкой на страницу первоисточника. Поверх 90-летнего архива компании,
-        обработанного собственным пайплайном извлечения фактов.
+        условиями и ссылкой на страницу первоисточника. Поверх 90-летнего архива компании.
       </p>
+      <div style="margin-top:24px;">
+        <span class="tag">команда Harmonic Labs</span>
+        <span class="tag">собственная нейросеть + граф знаний</span>
+        <span class="tag">HARMONIC LABS 2026</span>
+      </div>
     </section>
 
     <section>
@@ -229,68 +233,136 @@
         дублируются уже проведённые эксперименты.
         <span class="src">— постановка задачи, департамент научно-технического развития «Гипроникеля»</span>
       </div>
+      <div class="grid g3">
+        <div class="stat-box"><div class="num">90+</div><div class="cap">лет наработок: отчёты, регламенты, статьи, доклады, патенты</div></div>
+        <div class="stat-box"><div class="num">4</div><div class="cap">языка: русский, английский, китайский, испанский</div></div>
+        <div class="stat-box"><div class="num">1800+</div><div class="cap">файлов разных форматов: PDF, DOCX, PPTX, XLS — многие без текстового слоя</div></div>
+      </div>
+      <div style="margin-top:18px;"><span class="tag">HARMONIC LABS · ПРОБЛЕМА</span></div>
     </section>
 
     <section>
-      <div class="section-label">Результат</div>
-      <h2 class="section-h2">Что построено <em>за 48 часов</em></h2>
+      <div class="section-label">Решение</div>
+      <h2 class="section-h2">Что мы построили <em>за 48 часов</em></h2>
       <div class="grid g3">
-        <div class="stat-box"><div class="num">96%</div><div class="cap">корпуса обработано — 1070 из 1114 документов прошли полное извлечение фактов</div></div>
-        <div class="stat-box"><div class="num">82 706</div><div class="cap">узлов графа знаний: материалы, процессы, оборудование, эксперименты, эксперты</div></div>
-        <div class="stat-box"><div class="num">159 532</div><div class="cap">связи с числами, единицами измерения, условиями и точной страницей источника</div></div>
-        <div class="stat-box"><div class="num">3.9с</div><div class="cap">полный ответ: ретрив по графу 1.8с + синтез YandexGPT — укладывается в «3-5 секунд»</div></div>
-        <div class="stat-box"><div class="num">8+7</div><div class="cap">типов сущностей и связей единой онтологии, RU/EN-нормализация имён</div></div>
-        <div class="stat-box"><div class="num">~60с</div><div class="cap">живое пополнение: пользователь загружает свой PDF — документ в графе без перезапуска</div></div>
+        <div class="stat-box"><div class="num">96%</div><div class="cap">корпуса обработано: 1070 из 1114 документов прошли полное извлечение фактов</div></div>
+        <div class="stat-box"><div class="num">82 706</div><div class="cap">узлов графа знаний — материалы, процессы, оборудование, эксперименты, эксперты</div></div>
+        <div class="stat-box"><div class="num">159 532</div><div class="cap">связей с числами, единицами, условиями и точной страницей источника</div></div>
+        <div class="stat-box"><div class="num">3.9 с</div><div class="cap">полный ответ: ретрив по графу 1.8 с + синтез YandexGPT — в требовании «3-5 секунд»</div></div>
+        <div class="stat-box"><div class="num">8 + 7</div><div class="cap">типов сущностей и связей единой онтологии, RU/EN-нормализация имён (canonical name)</div></div>
+        <div class="stat-box"><div class="num">~60 с</div><div class="cap">живое пополнение: пользователь загружает свой PDF — документ становится частью графа без перезапуска</div></div>
       </div>
+      <div style="margin-top:18px;"><span class="tag">HARMONIC LABS · РЕЗУЛЬТАТ</span></div>
     </section>
 
     <section>
       <div class="section-label">Архитектура</div>
-      <h2 class="section-h2">Пайплайн: от файлов <em>до ответа</em></h2>
+      <h2 class="section-h2">Пайплайн: от сырых файлов <em>до ответа</em></h2>
       <div class="pitch-flow">
-        <div class="pitch-stage"><b>Парсинг + OCR</b><span>PDF/DOCX/PPTX/XLS. Текстовый слой постранично; сканы — EasyOCR на GPU.</span></div>
-        <div class="pitch-stage"><b>Извлечение фактов</b><span>Qwen2.5-7B на H100 (vLLM). 10 GPU параллельно, 23511 чанков за прогон.</span></div>
-        <div class="pitch-stage"><b>Граф знаний</b><span>Дедупликация по канонич. имени. Связь несёт число, единицу, условие, страницу.</span></div>
-        <div class="pitch-stage"><b>Гибридный ретрив</b><span>Harmonic-эмбеддинги + сущностный поиск. 2-hop, 1.8с, целиком CPU.</span></div>
-        <div class="pitch-stage"><b>Синтез ответа</b><span>YandexGPT (РФ — офиц. стек). Только факты графа, с источником.</span></div>
+        <div class="pitch-stage"><b>Парсинг + OCR</b><span>PDF / DOCX / PPTX / XLS. Текстовый слой постранично; сканы — EasyOCR на GPU. Кириллица чинится, шум помечается.</span></div>
+        <div class="pitch-stage"><b>Извлечение фактов</b><span>Qwen2.5-7B на H100 (vLLM, continuous batching). 10 GPU параллельно: 23 511 чанков за один прогон, ~47 тыс. токенов/с суммарно.</span></div>
+        <div class="pitch-stage"><b>Граф знаний</b><span>Дедупликация узлов по канонич. имени (RU и EN сливаются в один узел). Каждая связь несёт число, единицу, условие, страницу.</span></div>
+        <div class="pitch-stage"><b>Гибридный ретрив</b><span>Harmonic-эмбеддинги документов + сущностный поиск по графу. 2-hop раскрытие окрестности. 1.8 с, целиком на CPU.</span></div>
+        <div class="pitch-stage"><b>Синтез ответа</b><span>YandexGPT (API из РФ — официальный стек). Отвечает только по фактам графа, каждое утверждение — с источником.</span></div>
       </div>
-      <p style="margin-top:22px; color:var(--ink-mid); max-width:760px;">Экспорт в Neo4j — полный контракт данных
+      <p style="margin-top:22px; color:var(--ink-mid); max-width:840px; line-height:1.6;">Экспорт в Neo4j — полный контракт данных
         (documents / chunks / entities / mentions / relations) для промышленной графовой СУБД.</p>
+      <div style="margin-top:18px;"><span class="tag">HARMONIC LABS · АРХИТЕКТУРА</span></div>
+    </section>
+
+    <section>
+      <div class="section-label">Ключевое отличие</div>
+      <h2 class="section-h2">Harmonic — наша <em>собственная нейросеть</em></h2>
+      <div class="quote-block">Может, у вас там свои видеокарты под столом, вы дообучите какую-нибудь свою нейронку... Это будет вообще очень круто.
+        <span class="src">— эксперт трека, Q&amp;A-сессия (в шутку). Мы сделали это всерьёз.</span>
+      </div>
+      <div class="grid g3">
+        <div class="stat-box"><h3 style="font-size:16px; margin-bottom:8px;">Опубликованная архитектура</h3><div class="cap">Иерархическая SSM-модель (state space model) собственной разработки — научная статья опубликована и замечена независимыми исследователями.</div></div>
+        <div class="stat-box"><h3 style="font-size:16px; margin-bottom:8px;">Обучена на корпусе задачи</h3><div class="cap">270 МБ текстов горной металлургии. Перплексия на валидации улучшена с 24.5 до 19.9 за ночь дообучения на H100.</div></div>
+        <div class="stat-box"><h3 style="font-size:16px; margin-bottom:8px;">Читает документ целиком</h3><div class="cap">Один проход — один вектор документа. Ретрив всего корпуса на обычном CPU, без GPU и без тяжёлых embedding-моделей в проде.</div></div>
+      </div>
+      <div style="margin-top:18px;"><span class="tag">HARMONIC LABS · СОБСТВЕННАЯ МОДЕЛЬ</span></div>
     </section>
 
     <section>
       <div class="section-label">Достоверность</div>
       <h2 class="section-h2">Система не выдумывает —<br>и это <em>проверяемо</em></h2>
       <div class="grid g3">
-        <div class="stat-box"><h3 style="font-size:16px;">Факт — со страницей</h3><div class="cap">Ответ собирается только из фактов графа. У каждого — файл-источник и диапазон страниц.</div></div>
-        <div class="stat-box"><h3 style="font-size:16px;">Белые пятна — как фича</h3><div class="cap">«Где мы ещё не копали» — система прямо говорит, каких данных нет, вместо выдумки.</div></div>
-        <div class="stat-box"><h3 style="font-size:16px;">Детектор противоречий</h3><div class="cap">Механическая сверка чисел: одна пара сущностей, одна единица, сопоставимые условия.</div></div>
+        <div class="stat-box"><h3 style="font-size:16px; margin-bottom:8px;">Каждый факт — со страницей</h3><div class="cap">Ответ собирается только из фактов графа. У каждого — файл-источник и диапазон страниц: верифицируемость по первоисточнику, как просили эксперты.</div></div>
+        <div class="stat-box"><h3 style="font-size:16px; margin-bottom:8px;">Белые пятна — как фича</h3><div class="cap">«Где мы ещё не копали» — система прямо говорит, каких данных нет, вместо правдоподобной выдумки. На контрольных вопросах жюри честно разделяет: вот что есть, вот чего не хватает.</div></div>
+        <div class="stat-box"><h3 style="font-size:16px; margin-bottom:8px;">Детектор противоречий</h3><div class="cap">Механическая сверка чисел между источниками: одна пара сущностей, одна единица измерения, сопоставимые условия. Разные условия эксперимента — не противоречие.</div></div>
       </div>
+      <p style="margin-top:22px; color:var(--ink-mid); max-width:900px; line-height:1.6;">Честный результат на текущем корпусе: явных числовых противоречий не найдено — редкие пересечения источников по одной точной паре сущностей. Механизм готов и сработает по мере роста базы.</p>
+      <div style="margin-top:18px;"><span class="tag">HARMONIC LABS · ЧЕСТНОСТЬ</span></div>
+    </section>
+
+    <section>
+      <div class="section-label">Интерфейс</div>
+      <h2 class="section-h2">Живой граф,<br>а не <em>консоль</em></h2>
+      <div class="grid g3">
+        <div class="stat-box"><h3 style="font-size:16px; margin-bottom:8px;">Обзор графа как в Obsidian</h3><div class="cap">Интерактивная карта корпуса: фильтры по 8 типам сущностей, текстовый поиск по узлам, силовая укладка, zoom, pan, перетаскивание узлов. Нейро-режим: Harmonic находит смысловые затравки по запросу — граф собирается вокруг смысла, а не по точному совпадению слов.</div></div>
+        <div class="stat-box"><h3 style="font-size:16px; margin-bottom:8px;">Свой документ — в граф за минуту</h3><div class="cap">Кнопка «Добавить свой PDF»: парсинг, извлечение той же онтологией через YandexGPT, слияние с живым графом без перезапуска, пересчёт Harmonic-эмбеддинга.</div></div>
+        <div class="stat-box"><h3 style="font-size:16px; margin-bottom:8px;">Карта связей под каждым ответом</h3><div class="cap">К каждому ответу рисуется подграф использованных фактов — видно, через какие узлы связаны источники, и почему система ответила именно так.</div></div>
+        <div class="stat-box"><h3 style="font-size:16px; margin-bottom:8px;">Многопараметрические запросы</h3><div class="cap">Материал + процесс + условия + числа в одном вопросе естественным языком — требование задания закрыто гибридным ретривом по типизированному графу.</div></div>
+        <div class="stat-box"><h3 style="font-size:16px; margin-bottom:8px;">Neo4j-подобная навигация</h3><div class="cap">Приближение колесом, перемещение камеры фоном, выделение соседей при наведении, возврат графа в кадр двойным кликом.</div></div>
+        <div class="stat-box"><h3 style="font-size:16px; margin-bottom:8px;">Поиск без подготовки</h3><div class="cap">Исследователь формулирует вопрос обычным языком, а не пишет Cypher-запросы и не ищет вручную по архивным папкам.</div></div>
+      </div>
+      <div style="margin-top:18px;"><span class="tag">HARMONIC LABS · ИНТЕРФЕЙС</span></div>
     </section>
 
     <section>
       <div class="section-label">Ресурсооптимальность</div>
-      <h2 class="section-h2">Считали деньги,<br>не только <em>качество</em></h2>
-      <div style="margin-top:20px;">
-        <span class="tag">7B вместо 32B — в 3.8× больше валидных фактов в единицу времени</span>
-        <span class="tag">ретрив без GPU — Harmonic работает на CPU</span>
-        <span class="tag">официальный стек РФ — YandexGPT</span>
-        <span class="tag">10× H100 параллельно — те же деньги, в 10× быстрее по времени</span>
-        <span class="tag">открытый стек: vLLM, Qwen, networkx, FastAPI, PyTorch</span>
+      <h2 class="section-h2">Считали деньги,<br>а не только <em>качество</em></h2>
+      <div class="grid g3">
+        <div class="stat-box"><h3 style="font-size:16px; margin-bottom:8px;">7B вместо 32B</h3><div class="cap">Замерили на своих данных: Qwen2.5-7B даёт в 3.8 раза больше валидных фактов в единицу времени, чем 32B. Выбор по метрике, не по моде.</div></div>
+        <div class="stat-box"><h3 style="font-size:16px; margin-bottom:8px;">Ретрив без GPU</h3><div class="cap">Harmonic — компактная модель: эмбеддинг документа и поиск по 1114 документам работают на CPU. В проде GPU нужен только на этапе загрузки новых архивов.</div></div>
+        <div class="stat-box"><h3 style="font-size:16px; margin-bottom:8px;">Официальный стек РФ</h3><div class="cap">Синтез ответов — YandexGPT по выданным ключам. Открытый стек: vLLM, Qwen, networkx, FastAPI, PyTorch. Всё воспроизводимо, ни одной проприетарной «чёрной коробки».</div></div>
+        <div class="stat-box"><div class="num">10× H100</div><div class="cap">параллельное извлечение — те же деньги за GPU-часы, в 10 раз быстрее по времени</div></div>
+        <div class="stat-box"><div class="num">1.8 с</div><div class="cap">ретрив по графу из 82.7 тыс. узлов, CPU</div></div>
+        <div class="stat-box"><div class="num">32K</div><div class="cap">токенов контекста хватает: факты графа — сжатое знание, а не сырые страницы</div></div>
       </div>
+      <div style="margin-top:18px;"><span class="tag">HARMONIC LABS · РЕСУРСЫ</span></div>
+    </section>
+
+    <section>
+      <div class="section-label">Соответствие заданию</div>
+      <h2 class="section-h2">Требования и <em>что дальше</em></h2>
+      <div class="grid g3">
+        <div class="stat-box"><div class="cap">✓ Многопараметрические запросы естественным языком</div></div>
+        <div class="stat-box"><div class="cap">✓ Нормализация RU/EN, синонимов, аббревиатур (canonical name)</div></div>
+        <div class="stat-box"><div class="cap">✓ Верификация: источник + страница у каждого факта</div></div>
+        <div class="stat-box"><div class="cap">✓ Ответ 3-5 секунд на графе 82.7 тыс. узлов</div></div>
+        <div class="stat-box"><div class="cap">✓ Не-консольный интерфейс: веб, граф-обзор, фильтры</div></div>
+        <div class="stat-box"><div class="cap">✓ Механизм противоречий между источниками</div></div>
+        <div class="stat-box"><div class="cap">✓ Экспорт в Neo4j (полный контракт данных)</div></div>
+        <div class="stat-box"><div class="cap">✓ Живое пополнение базы своими документами</div></div>
+        <div class="stat-box"><div class="cap">→ Извлечение из схем и рисунков (vision-модель) — таблицы с текстовым слоем уже в графе</div></div>
+        <div class="stat-box"><div class="cap">→ Версионирование фактов при обновлении документов</div></div>
+        <div class="stat-box"><div class="cap">→ Стриминг ответа: первые токены за ~1 с</div></div>
+        <div class="stat-box"><div class="cap">→ Дашборды «белых пятен» по областям знаний</div></div>
+        <div class="stat-box"><div class="cap">→ Семантическая дедупликация экспертов (кириллица/латиница)</div></div>
+        <div class="stat-box"><div class="cap">→ Ролевой доступ — по требованиям заказчика</div></div>
+      </div>
+      <div style="margin-top:18px;"><span class="tag">HARMONIC LABS · ЧЕК-ЛИСТ · ROADMAP</span></div>
     </section>
 
     <section style="padding-bottom:90px;">
       <div class="stat-box" style="text-align:center; padding:52px 30px;">
-        <div class="section-label" style="justify-content:center;">Код и данные</div>
-        <h2 class="section-h2">Полный исходный код <em>на GitHub</em></h2>
-        <p style="margin-top:14px; color:var(--ink-mid);">Пайплайн извлечения, граф, веб-приложение, экспорт для Neo4j, обучение Harmonic — всё в одном репозитории.</p>
+        <div class="section-label" style="justify-content:center;">Harmonic Labs</div>
+        <h2 class="section-h2">Мостик между прошлым опытом<br>и <em>будущими открытиями</em></h2>
+        <p style="margin:18px auto 0; color:var(--ink-mid); max-width:760px; line-height:1.65;">Именно так заказчик сформулировал образ результата. Наша система уже сегодня отвечает на реальные вопросы экспертов по 96% корпуса — честно, со ссылками, за 4 секунды. И растёт с каждым загруженным документом.</p>
         <div style="margin-top:26px;">
-          <a href="https://github.com/Omibranch/nornickel-scientific-knot" target="_blank"
-             style="font-family:var(--display); font-size:12px; font-weight:700; letter-spacing:.06em; text-transform:uppercase; padding:16px 30px; background:var(--ink); color:#fff; text-decoration:none; display:inline-block; border-radius:4px;">
-            Открыть репозиторий →
-          </a>
+          <span class="tag">граф: 82 706 узлов / 159 532 связи</span>
+          <span class="tag">собственная SSM-модель Harmonic</span>
+          <span class="tag">YandexGPT · vLLM · Qwen · Neo4j</span>
         </div>
+        <div style="margin-top:28px; display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+          <a href="/docs/pitch/deck.html" target="_blank"
+             style="font-family:var(--display); font-size:12px; font-weight:700; letter-spacing:.06em; text-transform:uppercase; padding:14px 22px; background:var(--ink); color:#fff; text-decoration:none; display:inline-block; border-radius:4px;">Открыть HTML-презентацию</a>
+          <a href="/docs/pitch/nornickel_harmonic_labs_pitch.pptx" target="_blank"
+             style="font-family:var(--display); font-size:12px; font-weight:700; letter-spacing:.06em; text-transform:uppercase; padding:14px 22px; border:1px solid var(--ink); color:var(--ink); text-decoration:none; display:inline-block; border-radius:4px;">Скачать PPTX</a>
+        </div>
+        <div style="margin-top:30px; font-family:var(--mono); font-size:12px; color:var(--ink-soft); letter-spacing:.08em; text-transform:uppercase;">Harmonic Labs — Норникель AI Hack 2026 · Спасибо</div>
       </div>
     </section>
   </div>
@@ -535,26 +607,69 @@ let gHeight = 360;
 // в принципе, т.к. движения после сходимости просто не происходит.
 function makeGraphController(canvas, ctx, heightGetter) {
   let nodes = [], edges = [], raf = null, dragging = null, hover = null, dpr = 1;
+  let panning = false, panLast = null, listenersAttached = false;
+  let view = { x: 0, y: 0, k: 1 };
   let temperature = 1, tickCount = 0;
-  const COOLING = 0.985;       // темп затухания за тик
-  const MAX_TICKS = 400;       // жёсткий потолок -- не крутится бесконечно
-  const MIN_TEMP = 0.02;       // ниже этого -- считаем сошедшимся, останавливаем rAF
+  const COOLING = 0.985;
+  const MAX_TICKS = 400;
+  const MIN_TEMP = 0.02;
+  const MIN_ZOOM = 0.22, MAX_ZOOM = 5;
+
+  function clamp(v, lo, hi) { return Math.max(lo, Math.min(hi, v)); }
 
   function resize() {
+    const oldW = canvas.width || 0, oldH = canvas.height || 0;
+    const oldCenter = oldW && oldH ? screenToWorld(oldW / 2, oldH / 2) : null;
     dpr = Math.min(window.devicePixelRatio || 1, 2);
     const w = canvas.parentElement.clientWidth || canvas.parentElement.getBoundingClientRect().width || 600;
     const h = heightGetter();
     canvas.width = Math.max(1, Math.ceil(w * dpr));
     canvas.height = Math.max(1, Math.ceil(h * dpr));
     canvas.style.height = h + "px";
+    if (oldCenter && nodes.length) {
+      view.x = canvas.width / 2 - oldCenter.x * view.k;
+      view.y = canvas.height / 2 - oldCenter.y * view.k;
+    }
+  }
+
+  function screenPoint(e) {
+    const rect = canvas.getBoundingClientRect();
+    return { x: (e.clientX - rect.left) * dpr, y: (e.clientY - rect.top) * dpr };
+  }
+
+  function screenToWorld(x, y) { return { x: (x - view.x) / view.k, y: (y - view.y) / view.k }; }
+
+  function hitNode(wx, wy) {
+    let closest = null, bestD = Infinity;
+    for (const n of nodes) {
+      const hitR = Math.max(n.r + 8 * dpr / view.k, 14 * dpr / view.k);
+      const d2 = (n.x - wx) ** 2 + (n.y - wy) ** 2;
+      if (d2 < hitR * hitR && d2 < bestD) { bestD = d2; closest = n; }
+    }
+    return closest;
+  }
+
+  function fitToView(animate = false) {
+    if (!nodes.length) return;
+    let minX = Infinity, minY = Infinity, maxX = -Infinity, maxY = -Infinity;
+    for (const n of nodes) {
+      minX = Math.min(minX, n.x - n.r); minY = Math.min(minY, n.y - n.r);
+      maxX = Math.max(maxX, n.x + n.r); maxY = Math.max(maxY, n.y + n.r);
+    }
+    const W = canvas.width, H = canvas.height, pad = 42 * dpr;
+    const bw = Math.max(1, maxX - minX), bh = Math.max(1, maxY - minY);
+    const k = clamp(Math.min((W - pad * 2) / bw, (H - pad * 2) / bh), MIN_ZOOM, Math.min(1.25, MAX_ZOOM));
+    view.k = k;
+    view.x = W / 2 - ((minX + maxX) / 2) * k;
+    view.y = H / 2 - ((minY + maxY) / 2) * k;
+    if (animate) wake(0.35); else requestRender();
   }
 
   function start(graph, legendEl) {
     resize();
     const W = canvas.width, H = canvas.height;
     const idx = {};
-    // сетка вместо круга -- при 200+ узлах круг даёт вырожденно тонкое
-    // кольцо, из которого разойтись сложнее и дольше
+    view = { x: 0, y: 0, k: 1 };
     const cols = Math.ceil(Math.sqrt(graph.nodes.length * W / H));
     const cellW = W / (cols + 1), cellH = H / (Math.ceil(graph.nodes.length / cols) + 1);
     nodes = graph.nodes.map((n, i) => {
@@ -570,20 +685,19 @@ function makeGraphController(canvas, ctx, heightGetter) {
     });
     edges = graph.edges.map(e => ({ s: idx[e.source], t: idx[e.target], relation: e.relation })).filter(e => e.s !== undefined && e.t !== undefined);
 
-    // степень для нормализации силы пружины -- считаем ПОСЛЕ фильтрации
     const deg = new Array(nodes.length).fill(0);
     for (const e of edges) { deg[e.s]++; deg[e.t]++; }
     nodes.forEach((n, i) => { n._springScale = 1 / Math.sqrt(Math.max(1, deg[i])); });
 
     const usedTypes = [...new Set(graph.nodes.map(n => n.type))];
     legendEl.innerHTML = usedTypes.map(t => `<span class="legend-item"><span class="legend-dot" style="background:${TYPE_COLOR[t]||'#999'}"></span>${t}</span>`).join("");
-    attachDrag(); attachHover();
+    attachInteraction();
     if (raf) cancelAnimationFrame(raf);
-    temperature = 1; tickCount = 0;
+    temperature = 1; tickCount = 0; hover = null; dragging = null; panning = false;
     tick();
   }
 
-  function stop() { if (raf) cancelAnimationFrame(raf); raf = null; }
+  function stop() { if (raf) cancelAnimationFrame(raf); raf = null; dragging = null; panning = false; }
 
   function physicsStep(W, H) {
     const N = nodes.length;
@@ -606,9 +720,6 @@ function makeGraphController(canvas, ctx, heightGetter) {
       const a = nodes[e.s], b = nodes[e.t];
       const dx = b.x - a.x, dy = b.y - a.y;
       const dist = Math.sqrt(dx*dx + dy*dy) || 1;
-      // сила пружины нормализована на степень ОБОИХ концов -- хаб-узел с
-      // 300 связями не тащит каждую с полной силой, иначе весь граф
-      // стягивается в две точки (видно на скриншоте -- диагональная линия)
       const scale = Math.min(a._springScale, b._springScale);
       const f = (dist - 90 * dpr) * 0.03 * scale;
       const fx = dx / dist * f, fy = dy / dist * f;
@@ -620,8 +731,6 @@ function makeGraphController(canvas, ctx, heightGetter) {
       if (n === dragging) continue;
       const speed2 = n.vx*n.vx + n.vy*n.vy;
       maxSpeed2 = Math.max(maxSpeed2, speed2);
-      // потолок скорости за тик -- не даёт узлу телепортироваться через
-      // весь холст за один шаг (главная причина видимой "дрожи")
       const cap = 14 * dpr;
       if (speed2 > cap*cap) { const s = cap / Math.sqrt(speed2); n.vx *= s; n.vy *= s; }
       n.x += n.vx; n.y += n.vy;
@@ -633,24 +742,74 @@ function makeGraphController(canvas, ctx, heightGetter) {
 
   function render(W, H) {
     ctx.clearRect(0, 0, W, H);
-    ctx.strokeStyle = "rgba(18,17,16,0.09)"; ctx.lineWidth = 1 * dpr;
-    for (const e of edges) { const a = nodes[e.s], b = nodes[e.t]; ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.lineTo(b.x, b.y); ctx.stroke(); }
-    for (const n of nodes) {
+    drawGrid(W, H);
+
+    const neighbors = new Set();
+    if (hover) {
+      const hi = nodes.indexOf(hover);
+      neighbors.add(hi);
+      for (const e of edges) {
+        if (e.s === hi) neighbors.add(e.t);
+        if (e.t === hi) neighbors.add(e.s);
+      }
+    }
+
+    ctx.save();
+    ctx.translate(view.x, view.y);
+    ctx.scale(view.k, view.k);
+
+    for (const e of edges) {
+      const a = nodes[e.s], b = nodes[e.t];
+      const active = !hover || neighbors.has(e.s) && neighbors.has(e.t);
+      ctx.strokeStyle = active ? "rgba(18,17,16,0.22)" : "rgba(18,17,16,0.035)";
+      ctx.lineWidth = (active ? 1.25 : 0.8) * dpr / view.k;
+      ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.lineTo(b.x, b.y); ctx.stroke();
+    }
+
+    for (let i = 0; i < nodes.length; i++) {
+      const n = nodes[i];
+      const active = !hover || neighbors.has(i);
+      ctx.globalAlpha = active ? 1 : 0.18;
       ctx.fillStyle = TYPE_COLOR[n.type] || "#999";
       ctx.beginPath(); ctx.arc(n.x, n.y, n.r, 0, 6.2832); ctx.fill();
-      if (n.seed) { ctx.strokeStyle = "rgba(232,93,4,0.9)"; ctx.lineWidth = 1.6 * dpr; ctx.beginPath(); ctx.arc(n.x, n.y, n.r + 2.5 * dpr, 0, 6.2832); ctx.stroke(); }
+      if (n.seed) {
+        ctx.strokeStyle = "rgba(232,93,4,0.9)";
+        ctx.lineWidth = 1.7 * dpr / view.k;
+        ctx.beginPath(); ctx.arc(n.x, n.y, n.r + 2.5 * dpr / view.k, 0, 6.2832); ctx.stroke();
+      }
+      if (n === hover) {
+        ctx.strokeStyle = "rgba(18,17,16,0.92)";
+        ctx.lineWidth = 2 * dpr / view.k;
+        ctx.beginPath(); ctx.arc(n.x, n.y, n.r + 4 * dpr / view.k, 0, 6.2832); ctx.stroke();
+      }
     }
-    ctx.font = `${10 * dpr}px 'JetBrains Mono', monospace`;
-    const topLabeled = [...nodes].sort((a,b) => b.degree - a.degree).slice(0, 6);
+    ctx.globalAlpha = 1;
+
+    const fontSize = 10 * dpr / view.k;
+    ctx.font = `${fontSize}px 'JetBrains Mono', monospace`;
+    const topLabeled = [...nodes].sort((a,b) => b.degree - a.degree).slice(0, Math.max(4, Math.round(7 / view.k)));
     const toDraw = new Set(topLabeled);
     if (hover) toDraw.add(hover);
     for (const n of toDraw) {
-      const label = n.label.slice(0, 26);
+      const label = n.label.slice(0, view.k < 0.55 ? 18 : 30);
       const w = ctx.measureText(label).width;
-      const lx = n.x + n.r + 5, ly = n.y + 3;
-      ctx.fillStyle = "rgba(255,255,255,0.92)"; ctx.fillRect(lx - 3, ly - 10 * dpr, w + 6, 13 * dpr);
-      ctx.fillStyle = n === hover ? "#121110" : "rgba(18,17,16,0.65)"; ctx.fillText(label, lx, ly);
+      const lx = n.x + n.r + 6 * dpr / view.k, ly = n.y + 3 * dpr / view.k;
+      ctx.fillStyle = "rgba(255,255,255,0.94)";
+      ctx.fillRect(lx - 3 * dpr / view.k, ly - 10 * dpr / view.k, w + 6 * dpr / view.k, 13 * dpr / view.k);
+      ctx.fillStyle = n === hover ? "#121110" : "rgba(18,17,16,0.68)";
+      ctx.fillText(label, lx, ly);
     }
+    ctx.restore();
+  }
+
+  function drawGrid(W, H) {
+    const step = Math.max(26 * dpr, 72 * dpr * view.k);
+    const ox = ((view.x % step) + step) % step;
+    const oy = ((view.y % step) + step) % step;
+    ctx.strokeStyle = "rgba(18,17,16,0.035)";
+    ctx.lineWidth = 1 * dpr;
+    for (let x = ox; x < W; x += step) { ctx.beginPath(); ctx.moveTo(x, 0); ctx.lineTo(x, H); ctx.stroke(); }
+    for (let y = oy; y < H; y += step) { ctx.beginPath(); ctx.moveTo(0, y); ctx.lineTo(W, y); ctx.stroke(); }
   }
 
   function tick() {
@@ -659,54 +818,115 @@ function makeGraphController(canvas, ctx, heightGetter) {
     render(W, H);
     temperature *= COOLING;
     tickCount++;
-    // при перетаскивании -- держим тёплым, чтобы граф реагировал вокруг
-    // курсора, а не был заморожен предыдущей сходимостью
     if (dragging) temperature = Math.max(temperature, 0.5);
     if (temperature > MIN_TEMP && tickCount < MAX_TICKS) {
       raf = requestAnimationFrame(tick);
     } else {
-      raf = null;  // сошлось -- статичный кадр, дрожи больше нет
+      raf = null;
     }
   }
 
-  function wake() {
-    // при драге симуляция могла уже остановиться -- нужно перезапустить rAF
-    if (!raf) { temperature = Math.max(temperature, 0.5); tick(); }
+  function wake(heat = 0.5) {
+    temperature = Math.max(temperature, heat);
+    if (!raf) tick();
   }
 
-  function attachDrag() {
-    canvas.onmousedown = e => {
-      const rect = canvas.getBoundingClientRect();
-      const mx = (e.clientX - rect.left) * dpr, my = (e.clientY - rect.top) * dpr;
-      let closest = null, bestD = 400 * dpr * dpr;
-      for (const n of nodes) { const d2 = (n.x-mx)**2 + (n.y-my)**2; if (d2 < bestD) { bestD = d2; closest = n; } }
-      dragging = closest; canvas.style.cursor = closest ? "grabbing" : "grab";
-      if (dragging) wake();
+  function requestRender() {
+    if (!raf) render(canvas.width, canvas.height);
+  }
+
+  function zoomAt(sx, sy, factor) {
+    const before = screenToWorld(sx, sy);
+    const next = clamp(view.k * factor, MIN_ZOOM, MAX_ZOOM);
+    if (Math.abs(next - view.k) < 0.0001) return;
+    view.k = next;
+    view.x = sx - before.x * view.k;
+    view.y = sy - before.y * view.k;
+    requestRender();
+  }
+
+  function attachInteraction() {
+    if (listenersAttached) return;
+    listenersAttached = true;
+
+    canvas.addEventListener("wheel", e => {
+      e.preventDefault();
+      const p = screenPoint(e);
+      zoomAt(p.x, p.y, Math.exp(-e.deltaY * 0.0012));
+    }, { passive: false });
+
+    canvas.addEventListener("pointerdown", e => {
+      if (!nodes.length) return;
+      canvas.setPointerCapture?.(e.pointerId);
+      const p = screenPoint(e), w = screenToWorld(p.x, p.y);
+      const picked = hitNode(w.x, w.y);
+      if (picked) {
+        dragging = picked;
+        hover = picked;
+        dragging.vx = 0; dragging.vy = 0;
+        canvas.style.cursor = "grabbing";
+        wake(0.65);
+      } else {
+        panning = true;
+        panLast = p;
+        canvas.style.cursor = "grabbing";
+      }
+      e.preventDefault();
+    });
+
+    canvas.addEventListener("pointermove", e => {
+      const p = screenPoint(e);
+      if (dragging) {
+        const w = screenToWorld(p.x, p.y);
+        dragging.x = w.x; dragging.y = w.y;
+        dragging.vx = 0; dragging.vy = 0;
+        wake(0.65);
+        return;
+      }
+      if (panning && panLast) {
+        view.x += p.x - panLast.x;
+        view.y += p.y - panLast.y;
+        panLast = p;
+        requestRender();
+        return;
+      }
+      const w = screenToWorld(p.x, p.y);
+      hover = hitNode(w.x, w.y);
+      canvas.style.cursor = hover ? "pointer" : "grab";
+      requestRender();
+    });
+
+    const finishPointer = e => {
+      if (canvas.releasePointerCapture) {
+        try { canvas.releasePointerCapture(e.pointerId); } catch (_) {}
+      }
+      dragging = null;
+      panning = false;
+      panLast = null;
+      canvas.style.cursor = hover ? "pointer" : "grab";
+      requestRender();
     };
-    window.addEventListener("mousemove", e => {
-      if (!dragging) return;
-      const rect = canvas.getBoundingClientRect();
-      dragging.x = (e.clientX - rect.left) * dpr; dragging.y = (e.clientY - rect.top) * dpr;
-      dragging.vx = 0; dragging.vy = 0;
-      wake();
+    canvas.addEventListener("pointerup", finishPointer);
+    canvas.addEventListener("pointercancel", finishPointer);
+    canvas.addEventListener("pointerleave", () => {
+      if (!dragging && !panning) { hover = null; canvas.style.cursor = "grab"; requestRender(); }
     });
-    window.addEventListener("mouseup", () => { dragging = null; canvas.style.cursor = "grab"; });
-  }
-  function attachHover() {
-    canvas.addEventListener("mousemove", e => {
-      if (dragging) { hover = null; return; }
-      const rect = canvas.getBoundingClientRect();
-      const mx = (e.clientX - rect.left) * dpr, my = (e.clientY - rect.top) * dpr;
-      let closest = null, bestD = 900 * dpr * dpr;
-      for (const n of nodes) { const d2 = (n.x-mx)**2 + (n.y-my)**2; if (d2 < bestD) { bestD = d2; closest = n; } }
-      hover = closest;
-      if (!raf) render(canvas.width, canvas.height);  // сошлось -- перерисовать только для hover-подсветки
-    });
-    canvas.addEventListener("mouseleave", () => { hover = null; if (!raf) render(canvas.width, canvas.height); });
-  }
-  return { start, stop, resize };
-}
 
+    canvas.addEventListener("dblclick", e => {
+      const p = screenPoint(e), w = screenToWorld(p.x, p.y);
+      const picked = hitNode(w.x, w.y);
+      if (!picked) fitToView(true);
+    });
+
+    window.addEventListener("resize", () => {
+      if (!nodes.length) return;
+      resize();
+      requestRender();
+    });
+  }
+
+  return { start, stop, resize, fitToView };
+}
 const gcanvas = document.getElementById("graph-canvas");
 const graphCtrl1 = makeGraphController(gcanvas, gcanvas.getContext("2d"), () => gHeight);
 function startGraph(graph) { graphCtrl1.start(graph, document.getElementById("legend")); }

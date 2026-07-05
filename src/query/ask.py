@@ -20,7 +20,7 @@ from openai import OpenAI
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "graph"))
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "harmonic_train"))
 from graph_store import find_nodes, load_graph, neighborhood  # noqa: E402
-from harmonic_embed import embed_text, load_model  # noqa: E402
+from harmonic_embed import CHECKPOINT_PATH, embed_text, load_model  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
 DOC_EMBEDDINGS_PATH = ROOT / "data" / "harmonic_runs" / "doc_embeddings.pt"
@@ -162,6 +162,49 @@ def retrieve_seed_nodes_harmonic(g, question: str, top_k: int = 4) -> tuple[list
     return seeds, scored[:top_k]
 
 
+def _harmonic_missing_reason() -> str | None:
+    if not DOC_EMBEDDINGS_PATH.exists():
+        return f"нет {DOC_EMBEDDINGS_PATH.relative_to(ROOT)}"
+    if not CHECKPOINT_PATH.exists():
+        return f"нет {CHECKPOINT_PATH.relative_to(ROOT)}"
+    return None
+
+
+def retrieve_seed_nodes_auto(
+    g,
+    question: str,
+    preferred: str = "harmonic",
+    top_k: int = 4,
+) -> tuple[list[str], list[tuple[str, float]] | None, str, str | None]:
+    """Retrieval with a safe fallback for demo environments.
+
+    The repository can contain precomputed document embeddings without the
+    trained Harmonic checkpoint. In that case the web app must still show the
+    graph instead of returning HTTP 500.
+    """
+    if preferred == "harmonic":
+        missing = _harmonic_missing_reason()
+        if missing:
+            return (
+                retrieve_seed_nodes(g, question),
+                None,
+                "keyword",
+                f"Harmonic недоступен: {missing}. Использован keyword-ретрив.",
+            )
+        try:
+            seeds, doc_scores = retrieve_seed_nodes_harmonic(g, question, top_k=top_k)
+            return seeds, doc_scores, "harmonic", None
+        except (FileNotFoundError, OSError, RuntimeError) as exc:
+            return (
+                retrieve_seed_nodes(g, question),
+                None,
+                "keyword",
+                f"Harmonic недоступен: {str(exc)[:180]}. Использован keyword-ретрив.",
+            )
+
+    return retrieve_seed_nodes(g, question), None, "keyword", None
+
+
 def subgraph_to_viz(g, sub, max_nodes: int = 36) -> dict:
     """Компактное представление подграфа для отрисовки в браузере (a-la
     Obsidian graph view): top-N узлов по степени внутри подграфа + рёбра
@@ -225,6 +268,20 @@ def facts_to_text(g, sub) -> tuple[str, set[str]]:
         lines.append(f"- упоминается: {data['canonical_name']} ({data['type']}) (source: {src_list})")
 
     return "\n".join(lines), sources
+
+
+def facts_preview(facts_text: str, max_lines: int = 14, max_chars: int = 6000) -> str:
+    lines = [line for line in facts_text.splitlines() if line.strip()]
+    if not lines:
+        return ""
+    preview_lines = lines[:max_lines]
+    preview = "\n".join(preview_lines)
+    if len(preview) > max_chars:
+        preview = preview[:max_chars].rstrip() + "..."
+    rest = len(lines) - len(preview_lines)
+    if rest > 0:
+        preview += f"\n- ... ещё {rest} фактов в найденном подграфе"
+    return preview
 
 
 ANSWER_PROMPT = """Ты отвечаешь на вопрос по карте знаний горно-металлургической
@@ -291,19 +348,25 @@ def answer_question(g, client: OpenAI | None, question: str, hops: int = 2, retr
     Возвращает {seeds, subgraph_nodes, subgraph_edges, sources, answer}
     либо {seeds: [], answer: None, reason: "..."} если графу нечего сказать.
     Используется и CLI (main), и веб-приложением."""
-    doc_scores = None
-    if retrieval == "harmonic":
-        seeds, doc_scores = retrieve_seed_nodes_harmonic(g, question)
-    else:
-        seeds = retrieve_seed_nodes(g, question)
+    seeds, doc_scores, retrieval_used, retrieval_warning = retrieve_seed_nodes_auto(
+        g, question, preferred=retrieval
+    )
     if not seeds:
-        return {"seeds": [], "answer": None, "reason": "Ничего не найдено в графе.", "doc_scores": doc_scores}
+        return {
+            "seeds": [],
+            "answer": None,
+            "reason": "Ничего не найдено в графе.",
+            "doc_scores": doc_scores,
+            "retrieval": retrieval_used,
+            "retrieval_warning": retrieval_warning,
+        }
 
     sub = neighborhood(g, seeds, hops=hops)
     facts_text, sources = facts_to_text(g, sub)
     if not facts_text:
         return {"seeds": [g.nodes[s]["canonical_name"] for s in seeds], "answer": None,
-                "reason": "В окрестности найденных узлов нет связей (изолированные упоминания)."}
+                "reason": "В окрестности найденных узлов нет связей (изолированные упоминания).",
+                "retrieval": retrieval_used, "retrieval_warning": retrieval_warning}
 
     resp = None
     last_err = None
@@ -337,15 +400,34 @@ def answer_question(g, client: OpenAI | None, question: str, hops: int = 2, retr
             resp = None
             continue
     if resp is None:
-        return {"seeds": [g.nodes[s]["canonical_name"] for s in seeds], "answer": None,
-                "reason": f"LLM недоступен: {str(last_err)[:200]}", "doc_scores": doc_scores}
+        if last_err is None:
+            llm_reason = "не задан ни один ключ: YANDEX_API_KEY, OPENROUTER_API_KEY или CEREBRAS_API_KEY"
+        else:
+            llm_reason = str(last_err)[:200]
+        warning = f"LLM-синтез сейчас недоступен: {llm_reason}."
+        if retrieval_warning:
+            warning = f"{retrieval_warning}\n\n{warning}"
+        return {
+            "seeds": [g.nodes[s]["canonical_name"] for s in seeds],
+            "subgraph_nodes": sub.number_of_nodes(),
+            "subgraph_edges": sub.number_of_edges(),
+            "sources": sorted(sources),
+            "answer": f"{warning}\n\nНайденные факты графа:\n{facts_preview(facts_text)}",
+            "retrieval": retrieval_used,
+            "retrieval_warning": retrieval_warning,
+            "doc_scores": doc_scores,
+            "model": None,
+            "llm_error": llm_reason,
+            "graph": subgraph_to_viz(g, sub),
+        }
     return {
         "seeds": [g.nodes[s]["canonical_name"] for s in seeds],
         "subgraph_nodes": sub.number_of_nodes(),
         "subgraph_edges": sub.number_of_edges(),
         "sources": sorted(sources),
         "answer": resp.choices[0].message.content,
-        "retrieval": retrieval,
+        "retrieval": retrieval_used,
+        "retrieval_warning": retrieval_warning,
         "doc_scores": doc_scores,
         "model": used_model,
         "graph": subgraph_to_viz(g, sub),

@@ -186,13 +186,17 @@ def graph_discover(dq: DiscoverQuery):
     затравки, граф раскрывается вокруг них. Никакой LLM -- ~2 сек."""
     import ask as ask_mod
     g = _state["graph"]
-    seeds, _scored = ask_mod.retrieve_seed_nodes_harmonic(g, dq.query)
+    seeds, _scored, retrieval_used, retrieval_warning = ask_mod.retrieve_seed_nodes_auto(g, dq.query)
     if not seeds:
-        return {"nodes": [], "edges": [], "total_matched": 0}
+        return {"nodes": [], "edges": [], "total_matched": 0,
+                "retrieval": retrieval_used, "warning": retrieval_warning}
     seed_keys = seeds[:40]
     sub = ask_mod.neighborhood(g, seed_keys, hops=1, max_nodes=220)
     payload = _graph_payload(g, list(sub.nodes), seed_keys=set(seed_keys))
     payload["total_matched"] = len(seeds)
+    payload["retrieval"] = retrieval_used
+    if retrieval_warning:
+        payload["warning"] = retrieval_warning
     return payload
 
 
@@ -215,3 +219,4 @@ def nornikel_page():
 
 
 app.mount("/static", StaticFiles(directory=str(STATIC_DIR)), name="static")
+app.mount("/docs", StaticFiles(directory=str(ROOT / "docs")), name="docs")

@@ -1,0 +1,39 @@
+<!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Harmonic Labs Pitch — slide 04</title><style>
+* { box-sizing: border-box; margin: 0; padding: 0; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+:root { --bg:#f7f6f3; --ink:#121110; --mid:#3a3733; --soft:#8a8680; --orange:#e85d04; --line:#ded8ce; }
+body { background: var(--bg); color: var(--ink); font-family: Inter, Arial, sans-serif; }
+.deck { width: 100%; }
+.slide { width: 100vw; height: 100vh; min-height: 720px; padding: 6.8vh 7.5vw; position: relative; display: flex; flex-direction: column; justify-content: center; page-break-after: always; overflow: hidden; }
+.slide::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 7px; background: var(--orange); }
+.kicker { font: 600 12px 'JetBrains Mono', ui-monospace, monospace; text-transform: uppercase; letter-spacing: .13em; color: var(--orange); margin-bottom: 18px; display:flex; align-items:center; gap:12px; }
+.kicker::before { content:''; width:24px; height:1px; background:var(--orange); }
+h1 { font: 800 clamp(42px, 5vw, 72px) Unbounded, Inter, sans-serif; line-height: 1.05; letter-spacing: 0; max-width: 980px; }
+h2 { font: 800 clamp(34px, 4vw, 54px) Unbounded, Inter, sans-serif; line-height: 1.08; letter-spacing: 0; margin-bottom: 28px; max-width: 980px; }
+.body { font-size: 22px; line-height: 1.5; color: var(--mid); max-width: 860px; margin-top: 22px; }
+.quote { font: italic 25px Georgia, serif; line-height:1.48; max-width: 920px; border-left: 3px solid var(--orange); padding-left: 24px; color: var(--ink); }
+.quote small { display:block; font: 12px 'JetBrains Mono', ui-monospace, monospace; color: var(--soft); margin-top: 14px; text-transform:uppercase; letter-spacing:.06em; }
+.grid { display:grid; gap:14px; margin-top: 28px; }
+.g2 { grid-template-columns: repeat(2, minmax(0,1fr)); } .g3 { grid-template-columns: repeat(3, minmax(0,1fr)); }
+.card { background:#fff; border:1px solid var(--line); border-radius:8px; padding:22px 22px; min-height:132px; }
+.card h3 { font: 700 17px Unbounded, Inter, sans-serif; margin-bottom:10px; line-height:1.25; }
+.card p, .card .cap { font-size:15px; line-height:1.48; color:var(--mid); }
+.num { font: 800 39px 'JetBrains Mono', ui-monospace, monospace; color:var(--orange); line-height:1; margin-bottom:12px; }
+.tags { margin-top: 34px; display:flex; flex-wrap:wrap; gap:8px; }
+.tag { font: 600 12px 'JetBrains Mono', ui-monospace, monospace; color:var(--mid); border:1px solid var(--line); border-radius:999px; padding:8px 14px; background:#fff; }
+.pipeline { display:grid; grid-template-columns: repeat(5, minmax(0,1fr)); gap:2px; background:var(--line); margin-top:10px; }
+.stage { background:var(--bg); padding:24px 18px; min-height:250px; }
+.stage b { display:block; font:700 16px Unbounded, Inter, sans-serif; margin-bottom:12px; line-height:1.25; }
+.stage span { font-size:13.5px; color:var(--mid); line-height:1.46; }
+.checks { display:grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap:8px 18px; margin-top: 8px; }
+.check { background:#fff; border:1px solid var(--line); border-radius:8px; padding:12px 14px 12px 38px; position:relative; font-size:14.5px; line-height:1.35; color:var(--mid); min-height:54px; }
+.check::before { content:'+'; position:absolute; left:14px; top:11px; color:var(--orange); font:700 16px 'JetBrains Mono', monospace; }
+.check.road::before { content:'>'; color:var(--soft); }
+.footer { position:absolute; left:7.5vw; right:7.5vw; bottom:4.2vh; display:flex; justify-content:space-between; gap:20px; font:600 11px 'JetBrains Mono', ui-monospace, monospace; color:var(--soft); letter-spacing:.08em; text-transform:uppercase; }
+@media print { @page { size: 16in 9in; margin: 0; } .slide { width: 16in; height: 9in; min-height: 9in; } }
+</style></head><body><main class="deck"><section class="slide" id="slide-04">
+<div class="kicker">Архитектура</div>
+<h2>Пайплайн: от сырых файлов до ответа</h2>
+<div class="pipeline"><div class="stage"><b>Парсинг + OCR</b><span>PDF / DOCX / PPTX / XLS. Текстовый слой постранично; сканы — EasyOCR на GPU. Кириллица чинится, шум помечается.</span></div><div class="stage"><b>Извлечение фактов</b><span>Qwen2.5-7B на H100 (vLLM, continuous batching). 10 GPU параллельно: 23 511 чанков за один прогон, ~47 тыс. токенов/с суммарно.</span></div><div class="stage"><b>Граф знаний</b><span>Дедупликация узлов по канонич. имени (RU и EN сливаются в один узел). Каждая связь несёт число, единицу, условие, страницу.</span></div><div class="stage"><b>Гибридный ретрив</b><span>Harmonic-эмбеддинги документов + сущностный поиск по графу. 2-hop раскрытие окрестности. 1.8 с, целиком на CPU.</span></div><div class="stage"><b>Синтез ответа</b><span>YandexGPT (API из РФ — официальный стек). Отвечает только по фактам графа, каждое утверждение — с источником.</span></div></div>
+<div class="body" style="font-size:18px; max-width:920px;">Экспорт в Neo4j — полный контракт данных (documents / chunks / entities / mentions / relations) для промышленной графовой СУБД.</div>
+<div class="footer"><span>HARMONIC LABS</span><span>HARMONIC LABS · АРХИТЕКТУРА</span></div>
+</section></main></body></html>
