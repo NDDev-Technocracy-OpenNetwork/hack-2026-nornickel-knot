@@ -9,7 +9,7 @@ import sys
 from pathlib import Path
 
 from fastapi import FastAPI, File, UploadFile
-from fastapi.responses import FileResponse
+from fastapi.responses import FileResponse, Response
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
@@ -206,6 +206,11 @@ STATIC_DIR = Path(__file__).parent / "static"
 @app.get("/")
 def index():
     return FileResponse(str(STATIC_DIR / "nornikel.html"))
+
+
+@app.head("/")
+def index_head():
+    return Response(status_code=200)
 
 
 @app.get("/harmonic")
