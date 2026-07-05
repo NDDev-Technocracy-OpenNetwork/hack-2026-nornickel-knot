@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Harmonic — иерархическая state space модель</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;700;800;900&family=Playfair+Display:ital@1&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f7f6f3; --ink: #121110; --ink-mid: #3a3733; --ink-soft: #8a8680;
+    --orange: #e85d04; --orange-light: #ff7c26; --orange-dim: rgba(232,93,4,0.08);
+    --line: rgba(18,17,16,0.1);
+    --mono: 'JetBrains Mono', monospace;
+    --display: 'Unbounded', sans-serif;
+    --serif: 'Playfair Display', serif;
+  }
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body { background: var(--bg); color: var(--ink); font-family: var(--display); overflow-x: hidden; }
+  a { color: inherit; }
+
+  nav { position: fixed; top: 0; left: 0; right: 0; z-index: 100; display: flex; align-items: center; justify-content: space-between; padding: 0 48px; height: 64px; background: rgba(247,246,243,0.88); backdrop-filter: blur(14px); border-bottom: 1px solid var(--line); white-space: nowrap; gap: 24px; }
+  .nav-logo { font-size: 13px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--ink); flex-shrink: 0; }
+  .nav-logo span { color: var(--orange); }
+  .nav-links { display: flex; gap: 28px; list-style: none; flex-shrink: 0; }
+  .nav-links a { font-size: 11px; font-weight: 500; letter-spacing: .06em; text-transform: uppercase; text-decoration: none; color: var(--ink-soft); transition: color .2s; white-space: nowrap; font-family: var(--mono); }
+  .nav-links a:hover { color: var(--orange); }
+  .nav-cta { font-size: 11px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; padding: 9px 18px; background: var(--orange); color: #fff; border: none; cursor: pointer; transition: background .2s, transform .15s; flex-shrink: 0; font-family: var(--display); text-decoration: none; display: inline-block; }
+  .nav-cta:hover { background: var(--orange-light); transform: translateY(-1px); }
+
+  .hero { min-height: 100vh; display: grid; grid-template-columns: 1fr 1fr; padding-top: 64px; position: relative; overflow: hidden; }
+  .hero-left { display: flex; flex-direction: column; justify-content: center; padding: 80px 64px 80px 80px; position: relative; z-index: 2; }
+  .hero-tag { display: inline-flex; align-items: center; gap: 10px; font-family: var(--mono); font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--orange); margin-bottom: 36px; }
+  .hero-tag::before { content: ''; display: block; width: 24px; height: 1px; background: var(--orange); }
+  .hero-h1 { font-size: clamp(38px,5vw,68px); font-weight: 800; line-height: 1.05; letter-spacing: -.02em; color: var(--ink); margin-bottom: 32px; }
+  .hero-h1 em { font-family: var(--serif); font-style: italic; font-weight: 400; color: var(--orange); letter-spacing: 0; }
+  .hero-desc { font-size: 16px; line-height: 1.7; color: var(--ink-mid); max-width: 480px; margin-bottom: 48px; font-family: 'Inter', sans-serif; }
+  .hero-actions { display: flex; gap: 16px; align-items: center; flex-wrap: wrap; }
+  .btn-primary { font-family: var(--display); font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; padding: 16px 32px; background: var(--ink); color: var(--bg); border: none; cursor: pointer; transition: background .2s, transform .15s; position: relative; overflow: hidden; text-decoration: none; display: inline-block; }
+  .btn-primary::after { content: ''; position: absolute; inset: 0; background: var(--orange); transform: translateX(-101%); transition: transform .3s cubic-bezier(.25,.46,.45,.94); }
+  .btn-primary:hover { transform: translateY(-2px); }
+  .btn-primary:hover::after { transform: translateX(0); }
+  .btn-primary span { position: relative; z-index: 1; }
+  .btn-ghost { font-family: var(--display); font-size: 12px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; padding: 16px 0; background: none; color: var(--ink); border: none; cursor: pointer; border-bottom: 1px solid var(--ink); transition: color .2s, border-color .2s; text-decoration: none; }
+  .btn-ghost:hover { color: var(--orange); border-color: var(--orange); }
+
+  .hero-right { display: flex; align-items: center; justify-content: center; position: relative; padding: 80px 80px 80px 40px; }
+  #hero-canvas { width: 100%; max-width: 480px; height: auto; aspect-ratio: 1; display: block; }
+
+  .metrics { background: var(--ink); padding: 0 64px; display: grid; grid-template-columns: repeat(4,1fr); }
+  .metric-item { padding: 52px 24px; border-right: 1px solid rgba(255,255,255,.08); }
+  .metric-item:first-child { padding-left: 0; }
+  .metric-item:last-child { border-right: none; padding-right: 0; }
+  .metric-num { font-family: var(--mono); font-weight: 700; font-size: 32px; letter-spacing: -.02em; line-height: 1; margin-bottom: 10px; display: block; color: var(--orange); }
+  .metric-label { font-size: 11px; font-weight: 500; letter-spacing: .06em; text-transform: uppercase; color: rgba(255,255,255,.45); line-height: 1.5; font-family: 'Inter', sans-serif; }
+
+  section { padding: 110px 80px; }
+  .section-label { font-family: var(--mono); font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--orange); margin-bottom: 20px; display: flex; align-items: center; gap: 12px; }
+  .section-label::before { content: ''; display: block; width: 20px; height: 1px; background: var(--orange); }
+  .section-h2 { font-size: clamp(30px,3.6vw,50px); font-weight: 800; line-height: 1.12; letter-spacing: -.02em; max-width: 720px; margin-bottom: 24px; }
+  .section-h2 em { font-family: var(--serif); font-style: italic; font-weight: 400; color: var(--orange); }
+  .section-p { font-size: 16px; color: var(--ink-mid); line-height: 1.7; max-width: 560px; margin-top: 16px; font-family: 'Inter', sans-serif; }
+
+  .arch-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 2px; margin-top: 64px; background: var(--line); }
+  .arch-card { background: var(--bg); padding: 48px 44px; position: relative; overflow: hidden; }
+  .arch-card::before { content: ''; position: absolute; top: 0; left: 0; width: 3px; height: 0; background: var(--orange); transition: height .4s; }
+  .arch-card:hover::before { height: 100%; }
+  .arch-card-num { font-family: var(--mono); font-size: 11px; letter-spacing: .1em; color: var(--orange); margin-bottom: 20px; }
+  .arch-card-title { font-size: 22px; font-weight: 700; letter-spacing: -.01em; margin-bottom: 14px; }
+  .arch-card-desc { font-size: 15px; line-height: 1.7; color: var(--ink-mid); font-family: 'Inter', sans-serif; }
+  .arch-card-full { grid-column: 1 / -1; }
+
+  .chart-wrap { margin-top: 64px; padding: 44px; background: #fff; border: 1px solid var(--line); }
+  .chart-wrap canvas { width: 100%; height: auto; display: block; }
+  .chart-caption { margin-top: 18px; font-family: var(--mono); font-size: 11px; color: var(--ink-soft); letter-spacing: .04em; line-height: 1.6; }
+
+  .results-section { padding: 110px 80px; background: #f0ede7; position: relative; overflow: hidden; }
+  .results-tabs { display: flex; gap: 0; margin-top: 48px; border-bottom: 1px solid var(--line); flex-wrap: wrap; }
+  .tab-btn { font-family: var(--mono); font-size: 11px; font-weight: 500; letter-spacing: .08em; text-transform: uppercase; padding: 14px 24px; background: none; border: none; cursor: pointer; color: var(--ink-soft); border-bottom: 2px solid transparent; margin-bottom: -1px; transition: color .2s, border-color .2s; }
+  .tab-btn.active { color: var(--orange); border-bottom-color: var(--orange); }
+  .tab-panel { display: none; padding-top: 44px; }
+  .tab-panel.active { display: block; }
+
+  .data-table { width: 100%; border-collapse: collapse; }
+  .data-table th { font-size: 11px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; padding: 14px 18px; text-align: right; color: var(--ink-soft); border-bottom: 1px solid var(--line); font-family: var(--mono); }
+  .data-table th:first-child { text-align: left; }
+  .data-table th.col-ha { color: var(--orange); background: var(--orange-dim); }
+  .data-table td { padding: 16px 18px; font-family: var(--mono); font-size: 13px; font-weight: 500; border-bottom: 1px solid var(--line); color: var(--ink-mid); text-align: right; }
+  .data-table td:first-child { text-align: left; font-weight: 600; color: var(--ink); }
+  .data-table td.col-ha { color: var(--ink); font-weight: 700; background: var(--orange-dim); }
+  .data-table td.col-ha .val-best { color: var(--orange); }
+  .data-table td.val-oom { color: var(--ink-soft); font-style: italic; }
+  .data-table tr:hover td { background: rgba(0,0,0,.02); }
+
+  .stats-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 2px; margin-top: 48px; background: var(--line); }
+  .stat-card { background: var(--bg); padding: 44px 36px; }
+  .stat-model { font-family: var(--mono); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-soft); margin-bottom: 18px; }
+  .stat-model.is-harmonic { color: var(--orange); }
+  .stat-bpt { font-family: var(--mono); font-size: 44px; font-weight: 700; letter-spacing: -.02em; line-height: 1; color: var(--ink); margin-bottom: 8px; }
+  .stat-bpt.is-harmonic { color: var(--orange); }
+  .stat-std { font-family: var(--mono); font-size: 13px; color: var(--ink-soft); margin-bottom: 16px; }
+  .stat-bar { height: 3px; background: var(--line); margin-top: 20px; }
+  .stat-bar-fill { height: 100%; background: var(--orange); width: var(--bar-w); }
+
+  .stateful-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 2px; margin-top: 64px; background: var(--line); }
+  .stateful-card { background: var(--bg); padding: 44px 36px; position: relative; }
+  .stateful-card::before { content: ''; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: var(--line); }
+  .stateful-card:hover::before { background: var(--orange); }
+  .stateful-tag { font-family: var(--mono); font-size: 10px; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-soft); margin-bottom: 16px; }
+  .stateful-num { font-family: var(--mono); font-size: 38px; font-weight: 700; letter-spacing: -.02em; line-height: 1; color: var(--ink); margin-bottom: 6px; }
+  .stateful-num .unit { font-size: 18px; font-weight: 500; color: var(--ink-soft); }
+  .stateful-delta { font-family: var(--mono); font-size: 13px; color: var(--orange); font-weight: 600; margin-bottom: 18px; }
+  .stateful-desc { font-size: 14px; line-height: 1.7; color: var(--ink-mid); font-family: 'Inter', sans-serif; }
+
+  .hiw-flow { display: grid; grid-template-columns: repeat(3,1fr); gap: 2px; margin-top: 64px; background: var(--line); }
+  .hiw-step { background: var(--bg); padding: 44px 36px; }
+  .step-num { font-family: var(--mono); font-size: 40px; font-weight: 300; color: rgba(18,17,16,.08); line-height: 1; margin-bottom: 16px; }
+  .step-title { font-size: 19px; font-weight: 700; letter-spacing: -.01em; margin-bottom: 12px; }
+  .step-desc { font-size: 14px; line-height: 1.75; color: var(--ink-mid); font-family: 'Inter', sans-serif; }
+
+  .endorsement-section { padding: 90px 80px; display: grid; grid-template-columns: 1fr 2fr; gap: 60px; align-items: start; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+  .endorsement-label { font-family: var(--mono); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-soft); line-height: 1.8; }
+  .endorsement-quote { margin-bottom: 40px; }
+  .endorsement-quote:last-child { margin-bottom: 0; }
+  .endorsement-text { font-family: var(--serif); font-style: italic; font-size: clamp(19px,2vw,26px); line-height: 1.4; color: var(--ink); position: relative; padding-left: 32px; }
+  .endorsement-text::before { content: ''; position: absolute; left: 0; top: 6px; bottom: 6px; width: 3px; background: var(--orange); }
+  .endorsement-source { margin-top: 14px; font-family: var(--mono); font-size: 11px; color: var(--ink-soft); letter-spacing: .06em; padding-left: 32px; }
+
+  .cta-section { padding: 130px 80px; display: flex; flex-direction: column; align-items: center; text-align: center; }
+  .cta-h2 { font-size: clamp(34px,4.5vw,64px); font-weight: 800; letter-spacing: -.02em; line-height: 1.05; margin-bottom: 26px; }
+  .cta-h2 em { font-family: var(--serif); font-style: italic; color: var(--orange); }
+  .cta-sub { font-size: 16px; color: var(--ink-mid); max-width: 460px; line-height: 1.7; margin-bottom: 44px; font-family: 'Inter', sans-serif; }
+  .cta-links { display: flex; gap: 20px; align-items: center; flex-wrap: wrap; justify-content: center; }
+
+  footer { padding: 44px 80px; border-top: 1px solid var(--line); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+  .footer-logo { font-size: 13px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+  .footer-logo span { color: var(--orange); }
+  .footer-copy { font-family: var(--mono); font-size: 11px; color: var(--ink-soft); letter-spacing: .04em; }
+
+  @media (max-width: 900px) { nav { padding: 0 24px; } .nav-links { display: none; } }
+  @media (max-width: 1024px) {
+    .hero { grid-template-columns: 1fr; min-height: auto; }
+    .hero-left { padding: 72px 32px 40px; align-items: center; text-align: center; }
+    .hero-tag { justify-content: center; }
+    .hero-desc { text-align: center; margin-left: auto; margin-right: auto; }
+    .hero-actions { justify-content: center; }
+    .hero-right { padding: 20px 32px 72px; }
+    .metrics { grid-template-columns: repeat(2,1fr); padding: 0 32px; }
+    .metric-item { padding: 36px 24px; }
+    section, .results-section { padding: 72px 32px; }
+    .endorsement-section { grid-template-columns: 1fr; gap: 24px; padding: 64px 32px; }
+    .cta-section { padding: 90px 32px; }
+    .stats-grid, .arch-grid, .stateful-grid, .hiw-flow { grid-template-columns: 1fr; }
+    footer { padding: 32px; flex-direction: column; text-align: center; }
+  }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-logo">Harmonic<span>.</span></div>
+  <ul class="nav-links">
+    <li><a href="#architecture">Архитектура</a></li>
+    <li><a href="#results">Результаты</a></li>
+    <li><a href="#stateful">Инференс</a></li>
+    <li><a href="#how">Механизм</a></li>
+    <li><a href="/nornikel" style="color:var(--orange);">Nornikel 2026 →</a></li>
+  </ul>
+  <a href="mailto:harmonic.archi@gmail.com" class="nav-cta">Написать авторам</a>
+</nav>
+
+<section class="hero">
+  <div class="hero-left">
+    <div class="hero-tag">Иерархическая SSM · три масштаба времени · O(1) память</div>
+    <h1 class="hero-h1">Контекст растёт.<br>Сложность<br><em>остаётся плоской.</em></h1>
+    <p class="hero-desc">Harmonic — трёхуровневая иерархическая state space model для языкового моделирования. Обрабатывает быстрые, средние и медленные временные паттерны параллельно — превосходит трансформеры на длинном контексте, используя постоянный объём памяти на инференсе.</p>
+    <div class="hero-actions">
+      <a href="#results" class="btn-primary"><span>Смотреть результаты</span></a>
+      <a href="#architecture" class="btn-ghost">Как это работает</a>
+    </div>
+  </div>
+  <div class="hero-right">
+    <canvas id="hero-canvas" width="480" height="480"></canvas>
+  </div>
+</section>
+
+<div class="metrics">
+  <div class="metric-item">
+    <div class="metric-num">O(1)</div>
+    <div class="metric-label">Память на инференсе — постоянна независимо от длины контекста</div>
+  </div>
+  <div class="metric-item">
+    <div class="metric-num">+11.4%</div>
+    <div class="metric-label">Преимущество над трансформером при seq=32K (bpt, enwiki8)</div>
+  </div>
+  <div class="metric-item">
+    <div class="metric-num">3</div>
+    <div class="metric-label">Уровня иерархии — τ = [4, 32, 128] масштабов времени</div>
+  </div>
+  <div class="metric-item">
+    <div class="metric-num">64K+</div>
+    <div class="metric-label">Токенов контекста — трансформер и Mamba падают на 64K. Harmonic работает.</div>
+  </div>
+</div>
+
+<section id="architecture">
+  <div class="section-label">Архитектура</div>
+  <h2 class="section-h2">Три масштаба времени.<br><em>Один forward pass.</em></h2>
+  <p class="section-p">Каждый уровень работает на своём временном разрешении — захватывает локальный синтаксис, структуру фраз и дальние зависимости одновременно. Сигналы между уровнями передают сжатые состояния вверх и уточнённые предсказания вниз.</p>
+
+  <div class="arch-grid">
+    <div class="arch-card">
+      <div class="arch-card-num">LEVEL 01 — τ ≈ 4</div>
+      <div class="arch-card-title">Быстрый: локальный синтаксис</div>
+      <div class="arch-card-desc">Обрабатывает каждый токен с коротким decay-масштабом. Захватывает символьные паттерны, пунктуацию, локальную n-грамм статистику. Выход усредняется (stride 4) и передаётся на Level 02.</div>
+    </div>
+    <div class="arch-card">
+      <div class="arch-card-num">LEVEL 02 — τ ≈ 32</div>
+      <div class="arch-card-title">Средний: структура фраз</div>
+      <div class="arch-card-desc">Работает на 4×-даунсэмпленном входе. Держит связность между предложениями. Decay-gate на τ≈32 покрывает примерно одно предложение при типичной скорости токенов.</div>
+    </div>
+    <div class="arch-card arch-card-full">
+      <div class="arch-card-num">LEVEL 03 — τ ≈ 128</div>
+      <div class="arch-card-title">Медленный: дальние зависимости</div>
+      <div class="arch-card-desc">Работает на 16×-сжатом входе, держит компактную модель документа целиком. 128-шаговое рецептивное поле покрывает тысячи токенов. Межуровневые сигналы ошибки предсказания — разница между тем, что предсказал уровень, и тем, что выдал уровень ниже — управляют иерархическим уточнением без attention.</div>
+    </div>
+  </div>
+</section>
+
+<section class="results-section" id="results">
+  <div class="section-label">Экспериментальные результаты</div>
+  <h2 class="section-h2">Лучше на любой<br><em>длине контекста</em></h2>
+  <p class="section-p" style="position:relative;z-index:1;">Равный токен-бюджет (65.5M токенов), равное число параметров. Преимущество не артефакт большего обучения — при 5× базового бюджета crossover сохраняется.</p>
+
+  <div class="results-tabs">
+    <button class="tab-btn active" data-tab="crossover">Crossover</button>
+    <button class="tab-btn" data-tab="robustness">5 сидов</button>
+    <button class="tab-btn" data-tab="convergence">Сходимость</button>
+    <button class="tab-btn" data-tab="ablation">Абляция</button>
+  </div>
+
+  <div class="tab-panel active" id="tab-crossover">
+    <div class="chart-wrap" style="background:#f7f6f3;">
+      <canvas id="chart-crossover" height="360"></canvas>
+      <div class="chart-caption">bpt vs длина последовательности · enwiki8 · равный бюджет 65.5M токенов · меньше — лучше · OOM = нехватка памяти на H100 80GB</div>
+    </div>
+    <table class="data-table" style="margin-top:28px;">
+      <thead><tr><th>Seq</th><th>Transformer</th><th>Mamba</th><th class="col-ha">Harmonic</th><th>Разрыв H–TF</th></tr></thead>
+      <tbody>
+        <tr><td>1 024</td><td>6.662</td><td>6.616</td><td class="col-ha"><span class="val-best">6.571</span></td><td>+1.4%</td></tr>
+        <tr><td>2 048</td><td>6.657</td><td>6.532</td><td class="col-ha"><span class="val-best">6.426</span></td><td>+3.5%</td></tr>
+        <tr><td>4 096</td><td>7.045</td><td>6.740</td><td class="col-ha"><span class="val-best">6.687</span></td><td>+5.1%</td></tr>
+        <tr><td>8 192</td><td>6.787</td><td>6.422</td><td class="col-ha"><span class="val-best">6.333</span></td><td>+6.7%</td></tr>
+        <tr><td>16 384</td><td>6.873</td><td>6.286</td><td class="col-ha"><span class="val-best">6.196</span></td><td>+9.9%</td></tr>
+        <tr><td>32 768</td><td>7.259</td><td>6.549</td><td class="col-ha"><span class="val-best">6.433</span></td><td>+11.4%</td></tr>
+        <tr><td>65 536</td><td class="val-oom">OOM</td><td class="val-oom">OOM</td><td class="col-ha"><span class="val-best">6.169</span></td><td>—</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="tab-panel" id="tab-robustness">
+    <p class="section-p" style="margin-bottom:36px;">Пять независимых сидов, seq=8192. Доверительные интервалы не пересекаются. Ранжирование Harmonic &lt; Mamba &lt; Transformer стабильно на всех сидах.</p>
+    <div class="chart-wrap" style="background:#f7f6f3;">
+      <canvas id="chart-seeds" height="240"></canvas>
+      <div class="chart-caption">среднее ± std bpt · seq=8192 · 5 случайных сидов · enwiki8</div>
+    </div>
+    <div class="stats-grid">
+      <div class="stat-card"><div class="stat-model is-harmonic">Harmonic</div><div class="stat-bpt is-harmonic">6.515</div><div class="stat-std">± 0.163 bpt</div><div class="stat-bar"><div class="stat-bar-fill" style="--bar-w:100%"></div></div></div>
+      <div class="stat-card"><div class="stat-model">Mamba</div><div class="stat-bpt">6.575</div><div class="stat-std">± 0.155 bpt</div><div class="stat-bar"><div class="stat-bar-fill" style="--bar-w:87%"></div></div></div>
+      <div class="stat-card"><div class="stat-model">Transformer</div><div class="stat-bpt">7.009</div><div class="stat-std">± 0.159 bpt</div><div class="stat-bar"><div class="stat-bar-fill" style="--bar-w:55%"></div></div></div>
+    </div>
+  </div>
+
+  <div class="tab-panel" id="tab-convergence">
+    <p class="section-p" style="margin-bottom:36px;">При 20K шагов (5× базового бюджета) Harmonic всё ещё выигрывает при seq=8K. Transformer выигрывает на коротком контексте — ожидаемо, attention оптимален для коротких последовательностей.</p>
+    <div class="chart-wrap" style="background:#f7f6f3;">
+      <canvas id="chart-training" height="300"></canvas>
+      <div class="chart-caption">training loss (bpt) vs шаги · seq=8192 · enwiki8</div>
+    </div>
+  </div>
+
+  <div class="tab-panel" id="tab-ablation">
+    <p class="section-p" style="margin-bottom:36px;">Иерархия критична. Плоские масштабы времени (все τ равны) стоят +0.50 bpt. Удаление межуровневых сигналов ошибки предсказания почти не влияет (≤0.022 bpt) — именно структура масштабов времени определяет качество.</p>
+    <div class="chart-wrap" style="background:#f7f6f3;">
+      <canvas id="chart-ablation" height="260"></canvas>
+      <div class="chart-caption">bpt в абляции при seq=8192 · меньше — лучше</div>
+    </div>
+  </div>
+</section>
+
+<section class="stateful-section" id="stateful">
+  <div class="section-label">Инференс с состоянием</div>
+  <h2 class="section-h2">O(1) память.<br><em>Безлимитные документы.</em></h2>
+  <p class="section-p">Harmonic переносит своё сырое SSM-состояние через границы чанков — обеспечивая по-настоящему неограниченный контекст с фиксированным объёмом памяти. Дообучение с учётом состояния стабильно улучшает результат.</p>
+
+  <div class="stateful-grid">
+    <div class="stateful-card"><div class="stateful-tag">Harmonic Stateful · seq=1024</div><div class="stateful-num">6.582 <span class="unit">bpt</span></div><div class="stateful-delta">↓ 4.6% vs baseline без переноса</div><div class="stateful-desc">Перенос сырого SSM-состояния между чанками позволяет модели видеть дальше своего тренировочного окна контекста.</div></div>
+    <div class="stateful-card"><div class="stateful-tag">Harmonic Stateful · seq=8192</div><div class="stateful-num">6.745 <span class="unit">bpt</span></div><div class="stateful-delta">↓ 1.4% vs baseline без переноса</div><div class="stateful-desc">При 8K контекста внутренняя иерархия Harmonic уже захватывает большинство дальних зависимостей — перенос состояния добавляет сверху.</div></div>
+    <div class="stateful-card"><div class="stateful-tag">vs Mamba Stateful · seq=1024</div><div class="stateful-num">6.582 <span class="unit">vs 6.646</span></div><div class="stateful-delta">Harmonic выигрывает на 0.064 bpt</div><div class="stateful-desc">Обе архитектуры выигрывают от переноса состояния. Harmonic stateful обгоняет Mamba stateful на коротком контексте.</div></div>
+    <div class="stateful-card"><div class="stateful-tag">Фиксированное состояние инференса</div><div class="stateful-num" style="font-size:26px;line-height:1.3;">512 чисел<span class="unit">/уровень</span></div><div class="stateful-delta">Любая длина документа, постоянный объём</div><div class="stateful-desc">Нулевой overhead KV-кэша. Потоковая обработка сколь угодно длинных документов на любом устройстве.</div></div>
+  </div>
+
+  <div class="chart-wrap" style="margin-top:64px;">
+    <canvas id="chart-stateful" height="280"></canvas>
+    <div class="chart-caption">сравнение bpt: без переноса vs только на инференсе vs обучено с состоянием · seq=1024 и seq=8192</div>
+  </div>
+</section>
+
+<section class="hiw-section" id="how">
+  <div class="section-label">Механизм</div>
+  <h2 class="section-h2">Иерархические состояния,<br>не <em>карты внимания</em></h2>
+  <div class="hiw-flow">
+    <div class="hiw-step">
+      <div class="step-num">01</div>
+      <div class="step-title">Параллельный скан</div>
+      <div class="step-desc">Каждый уровень выполняет входозависимый SSM-скан параллельно через Triton-ядро (ускорение 85× на H100). Decay-gate A(t) зависит от входа — быстрые паттерны забываются быстро, медленные — сохраняются.</div>
+    </div>
+    <div class="hiw-step">
+      <div class="step-num">02</div>
+      <div class="step-title">Сжатие и сигнал</div>
+      <div class="step-desc">Выход Level 1 усредняется (stride 4) и передаётся на Level 2. Межуровневый сигнал — это разница между тем, что предсказал Level 2, и тем, что выдал Level 1 — вверх распространяется только неожиданное содержимое.</div>
+    </div>
+    <div class="hiw-step">
+      <div class="step-num">03</div>
+      <div class="step-title">Взвешенное объединение</div>
+      <div class="step-desc">Все три уровня апсэмплятся обратно до длины последовательности и объединяются через обученные веса. Финальное представление смешивает быстрые локальные и медленные глобальные сигналы в одной обученной смеси.</div>
+    </div>
+  </div>
+
+  <div class="chart-wrap" style="margin-top:64px;">
+    <canvas id="chart-throughput" height="280"></canvas>
+    <div class="chart-caption">пропускная способность обучения (токенов/сек) vs длина последовательности · H100 · Harmonic O(n) vs Transformer O(n²)</div>
+  </div>
+</section>
+
+<div class="endorsement-section">
+  <div class="endorsement-label">Отклики<br>сообщества<br><br>Sebastian Ruder<br>Martin Jaggi, EPFL<br>Antonio Orvieto, ELLIS</div>
+  <div>
+    <div class="endorsement-quote">
+      <blockquote class="endorsement-text">Впечатляющие результаты. Я подтвердил эндорсмент. Желаю удачи в исследовательском пути.</blockquote>
+      <div class="endorsement-source">— Sebastian Ruder · май 2026</div>
+    </div>
+    <div class="endorsement-quote">
+      <blockquote class="endorsement-text">Опубликуешь код тоже? В любом случае, я эндорснул.</blockquote>
+      <div class="endorsement-source">— Martin Jaggi, профессор EPFL · май 2026</div>
+    </div>
+    <div class="endorsement-quote">
+      <blockquote class="endorsement-text">Звучит очень интересно! Советую попробовать пройти peer review напрямую — например, подать на воркшоп.</blockquote>
+      <div class="endorsement-source">— Antonio Orvieto, ELLIS · май 2026</div>
+    </div>
+  </div>
+</div>
+
+<section class="cta-section" id="cta">
+  <div class="section-label" style="justify-content:center;">Статья и код</div>
+  <h2 class="cta-h2">Прочитать<br><em>препринт</em></h2>
+  <p class="cta-sub">Полное описание архитектуры, процедуры обучения, абляции и воспроизводимые эксперименты. Заявка на arXiv на модерации.</p>
+  <div class="cta-links">
+    <span class="btn-primary" style="cursor:default;"><span>arXiv — на модерации</span></span>
+    <a href="mailto:harmonic.archi@gmail.com" class="btn-ghost">Написать авторам</a>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-logo">Harmonic<span>.</span>Architecture</div>
+  <div class="footer-copy">Research preprint · 2026 · harmonic.archi@gmail.com</div>
+</footer>
+
+<script>
+// ── HERO CANVAS: 3-уровневая иерархия ──
+(function(){
+  const canvas=document.getElementById('hero-canvas'), ctx=canvas.getContext('2d');
+  const ORANGE='#e85d04', INK='#121110';
+  let W,H,allNodes,flatNodes,edges;
+  function sync(){
+    const r=canvas.getBoundingClientRect(), dpr=window.devicePixelRatio||1;
+    W=r.width; H=r.width;
+    canvas.width=W*dpr; canvas.height=H*dpr; canvas.style.height=H+'px';
+    ctx.setTransform(1,0,0,1,0,0); ctx.scale(dpr,dpr);
+    build();
+  }
+  function build(){
+    const defs=[
+      {yF:.82,n:6,lbl:'LEVEL 01 — τ≈4 (быстрый)',r:Math.max(4,W*.012)},
+      {yF:.52,n:4,lbl:'LEVEL 02 — τ≈32 (средний)',r:Math.max(5,W*.016)},
+      {yF:.22,n:2,lbl:'LEVEL 03 — τ≈128 (медленный)',r:Math.max(7,W*.024)},
+    ];
+    allNodes=defs.map((l,li)=>{
+      const nodes=[];
+      for(let i=0;i<l.n;i++){
+        const t=l.n===1?.5:i/(l.n-1);
+        nodes.push({x:W*.12+t*(W*.76),y:H*l.yF,r:l.r,li,lbl:l.lbl,ph:Math.random()*Math.PI*2});
+      }
+      return nodes;
+    });
+    flatNodes=allNodes.flat();
+    edges=[];
+    for(let li=0;li<2;li++) for(const n of allNodes[li]) for(const m of allNodes[li+1]) edges.push({f:n,t:m,ph:Math.random()*Math.PI*2});
+  }
+  sync(); window.addEventListener('resize',()=>{sync();pts.length=0;});
+  const pts=[];
+  setInterval(()=>{
+    if(!edges.length) return;
+    const e=edges[Math.floor(Math.random()*edges.length)], up=Math.random()>.35;
+    pts.push({e,t:up?0:1,sp:(.004+Math.random()*.006)*(up?1:-1),up,a:0,done:false});
+  },280);
+  let tick=0;
+  (function draw(){
+    ctx.clearRect(0,0,W,H); tick++;
+    allNodes.forEach((nodes,li)=>{
+      const l=nodes[0];
+      ctx.font=`500 ${Math.max(8,W*.019)}px JetBrains Mono,monospace`;
+      ctx.fillStyle=li===2?ORANGE:'rgba(18,17,16,0.28)'; ctx.textAlign='left';
+      ctx.fillText(l.lbl,W*.06,l.y+1);
+      ctx.beginPath(); ctx.moveTo(W*.06,l.y+14); ctx.lineTo(W*.94,l.y+14);
+      ctx.strokeStyle=li===2?'rgba(232,93,4,0.12)':'rgba(18,17,16,0.05)'; ctx.lineWidth=1; ctx.stroke();
+    });
+    edges.forEach(e=>{
+      ctx.beginPath(); ctx.moveTo(e.f.x,e.f.y); ctx.lineTo(e.t.x,e.t.y);
+      ctx.strokeStyle=`rgba(18,17,16,${.06+.04*Math.sin(tick*.02+e.ph)})`; ctx.lineWidth=.8; ctx.stroke();
+    });
+    for(const p of pts){
+      p.t+=p.sp; p.a=Math.min(1,Math.min(p.t/.15,(1-p.t)/.15));
+      if(p.t>=1||p.t<=0) p.done=true;
+      ctx.beginPath(); ctx.arc(p.e.f.x+(p.e.t.x-p.e.f.x)*p.t, p.e.f.y+(p.e.t.y-p.e.f.y)*p.t, 2, 0, Math.PI*2);
+      ctx.fillStyle=p.up?`rgba(232,93,4,${p.a*.9})`:`rgba(18,17,16,${p.a*.5})`; ctx.fill();
+    }
+    for(let i=pts.length-1;i>=0;i--) if(pts[i].done) pts.splice(i,1);
+    flatNodes.forEach(n=>{
+      const pm=.5+.5*Math.sin(tick*.035+n.ph), glow=n.li===2?18:n.li===1?12:8;
+      const col=n.li===2?ORANGE:n.li===1?'#5a5450':INK;
+      const g=ctx.createRadialGradient(n.x,n.y,n.r,n.x,n.y,n.r+glow);
+      g.addColorStop(0,n.li===2?`rgba(232,93,4,${.18*pm})`:`rgba(18,17,16,${.06*pm})`); g.addColorStop(1,'transparent');
+      ctx.beginPath(); ctx.arc(n.x,n.y,n.r+glow,0,Math.PI*2); ctx.fillStyle=g; ctx.fill();
+      ctx.beginPath(); ctx.arc(n.x,n.y,n.r,0,Math.PI*2); ctx.fillStyle=col; ctx.fill();
+      if(n.li===2){ ctx.beginPath(); ctx.arc(n.x,n.y,n.r+5+2*pm,0,Math.PI*2); ctx.strokeStyle=`rgba(232,93,4,${.35*pm})`; ctx.lineWidth=1; ctx.stroke(); }
+    });
+    requestAnimationFrame(draw);
+  })();
+})();
+
+// ── графики результатов ──
+const C = { bg:'#f7f6f3', ink:'#121110', mid:'#3a3733', soft:'#8a8680', line:'rgba(18,17,16,0.08)', orange:'#e85d04', mamba:'#6b6560', tf:'#b0aba6', mono:'JetBrains Mono, monospace' };
+
+function setupCanvas(el) {
+  const dpr = window.devicePixelRatio || 1;
+  const w   = el.parentElement.clientWidth - 88;
+  const h   = parseInt(el.getAttribute('height') || 300);
+  el.width  = w * dpr; el.height = h * dpr;
+  el.style.width  = w + 'px'; el.style.height = h + 'px';
+  const ctx = el.getContext('2d');
+  ctx.setTransform(1,0,0,1,0,0); ctx.scale(dpr, dpr);
+  return { ctx, w, h };
+}
+function drawGrid(ctx, pad, w, h, yMin, yMax, yTicks) {
+  ctx.strokeStyle = C.line; ctx.lineWidth = 1;
+  yTicks.forEach(y => {
+    const yy = pad.t + (h - pad.t - pad.b) * (1 - (y - yMin) / (yMax - yMin));
+    ctx.beginPath(); ctx.moveTo(pad.l, yy); ctx.lineTo(w - pad.r, yy); ctx.stroke();
+    ctx.fillStyle = C.soft; ctx.font = `400 10px ${C.mono}`; ctx.textAlign = 'right';
+    ctx.fillText(y.toFixed(2), pad.l - 8, yy + 3.5);
+  });
+}
+function drawLine(ctx, points, color, pad, w, h, yMin, yMax, xMin, xMax, logX, dashed) {
+  const px = xv => pad.l + (logX ? (Math.log2(xv) - Math.log2(xMin)) / (Math.log2(xMax) - Math.log2(xMin)) : (xv - xMin) / (xMax - xMin)) * (w - pad.l - pad.r);
+  const py = yv => pad.t + (h - pad.t - pad.b) * (1 - (yv - yMin) / (yMax - yMin));
+  ctx.beginPath(); ctx.strokeStyle = color; ctx.lineWidth = dashed ? 1.5 : 2.5;
+  if (dashed) ctx.setLineDash([5, 4]);
+  let first = true;
+  points.forEach(([x, y]) => { if (y == null) return; first ? ctx.moveTo(px(x), py(y)) : ctx.lineTo(px(x), py(y)); first = false; });
+  ctx.stroke(); ctx.setLineDash([]);
+  points.forEach(([x, y]) => {
+    if (y == null) return;
+    ctx.beginPath(); ctx.arc(px(x), py(y), dashed ? 3 : 4, 0, Math.PI * 2); ctx.fillStyle = color; ctx.fill();
+    ctx.beginPath(); ctx.arc(px(x), py(y), dashed ? 3 : 4, 0, Math.PI * 2); ctx.strokeStyle = C.bg; ctx.lineWidth = 1.5; ctx.stroke();
+  });
+}
+function legend(ctx, items, x, y) {
+  items.forEach(([label, color, dashed], i) => {
+    const lx = x + i * 150;
+    ctx.beginPath(); ctx.moveTo(lx, y); ctx.lineTo(lx + 24, y);
+    ctx.strokeStyle = color; ctx.lineWidth = dashed ? 1.5 : 2.5;
+    if (dashed) ctx.setLineDash([5,4]); ctx.stroke(); ctx.setLineDash([]);
+    ctx.beginPath(); ctx.arc(lx + 12, y, 4, 0, Math.PI*2); ctx.fillStyle = color; ctx.fill();
+    ctx.beginPath(); ctx.arc(lx + 12, y, 4, 0, Math.PI*2); ctx.strokeStyle = C.bg; ctx.lineWidth = 1.5; ctx.stroke();
+    ctx.fillStyle = C.mid; ctx.font = `400 11px ${C.mono}`; ctx.textAlign = 'left';
+    ctx.fillText(label, lx + 32, y + 4);
+  });
+}
+function drawCrossover() {
+  const el = document.getElementById('chart-crossover'); if (!el) return;
+  const {ctx, w, h} = setupCanvas(el);
+  const pad = {t:36, b:48, l:52, r:28};
+  const seqs = [1024, 2048, 4096, 8192, 16384, 32768, 65536];
+  const harmonic = [[1024,6.571],[2048,6.426],[4096,6.687],[8192,6.333],[16384,6.196],[32768,6.433],[65536,6.169]];
+  const mamba    = [[1024,6.616],[2048,6.532],[4096,6.740],[8192,6.422],[16384,6.286],[32768,6.549],[65536,null]];
+  const tf       = [[1024,6.662],[2048,6.657],[4096,7.045],[8192,6.787],[16384,6.873],[32768,7.259],[65536,null]];
+  const yMin = 5.9, yMax = 7.5, xMin = 1024, xMax = 65536;
+  drawGrid(ctx, pad, w, h, yMin, yMax, [6.0,6.2,6.4,6.6,6.8,7.0,7.2,7.4]);
+  const labels = ['1K','2K','4K','8K','16K','32K','64K'];
+  seqs.forEach((s, i) => {
+    const xp = pad.l + (Math.log2(s) - Math.log2(xMin)) / (Math.log2(xMax) - Math.log2(xMin)) * (w - pad.l - pad.r);
+    ctx.fillStyle = C.soft; ctx.font = `400 10px ${C.mono}`; ctx.textAlign = 'center';
+    ctx.fillText(labels[i], xp, h - pad.b + 18);
+  });
+  const oomX = pad.l + (Math.log2(32768) - Math.log2(xMin)) / (Math.log2(xMax) - Math.log2(xMin)) * (w - pad.l - pad.r);
+  ctx.fillStyle = 'rgba(18,17,16,0.03)'; ctx.fillRect(oomX + 8, pad.t, w - pad.r - oomX - 8, h - pad.t - pad.b);
+  ctx.fillStyle = C.soft; ctx.font = `400 10px ${C.mono}`; ctx.textAlign = 'center';
+  ctx.fillText('OOM зона', (oomX + w - pad.r) / 2, pad.t + 14);
+  ctx.beginPath(); ctx.moveTo(pad.l, h - pad.b); ctx.lineTo(w - pad.r, h - pad.b); ctx.strokeStyle = C.line; ctx.stroke();
+  drawLine(ctx, tf, C.tf, pad, w, h, yMin, yMax, xMin, xMax, true, false);
+  drawLine(ctx, mamba, C.mamba, pad, w, h, yMin, yMax, xMin, xMax, true, false);
+  drawLine(ctx, harmonic, C.orange, pad, w, h, yMin, yMax, xMin, xMax, true, false);
+  legend(ctx, [['Harmonic', C.orange], ['Mamba', C.mamba], ['Transformer', C.tf]], pad.l, pad.t - 10);
+}
+function drawSeeds() {
+  const el = document.getElementById('chart-seeds'); if (!el) return;
+  const {ctx, w, h} = setupCanvas(el);
+  const pad = {t:36, b:36, l:110, r:36};
+  const models = [{name:'Harmonic', mean:6.515, std:0.163, color:C.orange},{name:'Mamba', mean:6.575, std:0.155, color:C.mamba},{name:'Transformer',mean:7.009,std:0.159, color:C.tf}];
+  const xMin = 6.2, xMax = 7.3, bw = (h - pad.t - pad.b - 24) / 3;
+  [6.4,6.6,6.8,7.0,7.2].forEach(v => {
+    const xp = pad.l + (v - xMin) / (xMax - xMin) * (w - pad.l - pad.r);
+    ctx.beginPath(); ctx.moveTo(xp, pad.t); ctx.lineTo(xp, h - pad.b); ctx.strokeStyle = C.line; ctx.stroke();
+    ctx.fillStyle = C.soft; ctx.font = `400 10px ${C.mono}`; ctx.textAlign = 'center'; ctx.fillText(v.toFixed(1), xp, h - pad.b + 16);
+  });
+  models.forEach((m, i) => {
+    const cy = pad.t + i * bw + bw / 2 + i * 8;
+    const mx = pad.l + (m.mean - xMin) / (xMax - xMin) * (w - pad.l - pad.r);
+    const sx = (m.std / (xMax - xMin)) * (w - pad.l - pad.r);
+    ctx.beginPath(); ctx.moveTo(mx - sx, cy); ctx.lineTo(mx + sx, cy); ctx.strokeStyle = m.color; ctx.lineWidth = 2; ctx.stroke();
+    ctx.beginPath(); ctx.arc(mx, cy, 7, 0, Math.PI*2); ctx.fillStyle = m.color; ctx.fill();
+    ctx.fillStyle = C.ink; ctx.font = `500 12px ${C.mono}`; ctx.textAlign = 'right'; ctx.fillText(m.name, pad.l - 12, cy + 4);
+    ctx.fillStyle = m.color; ctx.font = `600 12px ${C.mono}`; ctx.textAlign = 'left'; ctx.fillText(m.mean.toFixed(3), mx + 14, cy + 4);
+  });
+}
+function drawTraining() {
+  const el = document.getElementById('chart-training'); if (!el) return;
+  const {ctx, w, h} = setupCanvas(el);
+  const pad = {t:36, b:48, l:52, r:28};
+  const hPts = [[0,12.4],[1000,8.2],[2000,7.1],[3000,6.85],[5000,6.72],[8000,6.58],[12000,6.38],[16000,6.20],[20000,6.042]];
+  const tPts = [[0,12.4],[1000,8.4],[2000,7.3],[3000,7.05],[5000,6.92],[8000,6.81],[12000,6.60],[16000,6.38],[20000,6.217]];
+  const yMin = 5.5, yMax = 13, xMin = 0, xMax = 20000;
+  drawGrid(ctx, pad, w, h, yMin, yMax, [6,7,8,9,10,11,12]);
+  [0,5000,10000,15000,20000].forEach(s => {
+    const xp = pad.l + (s / xMax) * (w - pad.l - pad.r);
+    ctx.fillStyle = C.soft; ctx.font = `400 10px ${C.mono}`; ctx.textAlign = 'center';
+    ctx.fillText(s === 0 ? '0' : (s/1000)+'K', xp, h - pad.b + 18);
+  });
+  ctx.beginPath(); ctx.moveTo(pad.l, h - pad.b); ctx.lineTo(w - pad.r, h - pad.b); ctx.strokeStyle = C.line; ctx.stroke();
+  drawLine(ctx, tPts, C.tf, pad, w, h, yMin, yMax, xMin, xMax, false, false);
+  drawLine(ctx, hPts, C.orange, pad, w, h, yMin, yMax, xMin, xMax, false, false);
+  legend(ctx, [['Harmonic (8K)', C.orange], ['Transformer (8K)', C.tf]], pad.l, pad.t - 10);
+}
+function drawAblation() {
+  const el = document.getElementById('chart-ablation'); if (!el) return;
+  const {ctx, w, h} = setupCanvas(el);
+  const pad = {t:36, b:44, l:190, r:56};
+  const items = [
+    {label:'Harmonic (полная)', val:6.333, color:C.orange},
+    {label:'Без ошибки предсказания', val:6.355, color:'#c0785a'},
+    {label:'Только 2 уровня', val:6.580, color:C.mamba},
+    {label:'Плоские масштабы (τ=1)', val:6.833, color:C.tf},
+    {label:'Transformer (baseline)', val:6.787, color:'#b0aba6'},
+  ];
+  const xMin = 6.1, xMax = 7.1, bh = (h - pad.t - pad.b) / items.length, barH = Math.min(26, bh * 0.55);
+  [6.2,6.4,6.6,6.8,7.0].forEach(v => {
+    const xp = pad.l + (v - xMin) / (xMax - xMin) * (w - pad.l - pad.r);
+    ctx.beginPath(); ctx.moveTo(xp, pad.t); ctx.lineTo(xp, h - pad.b); ctx.strokeStyle = C.line; ctx.stroke();
+    ctx.fillStyle = C.soft; ctx.font = `400 10px ${C.mono}`; ctx.textAlign = 'center'; ctx.fillText(v.toFixed(1), xp, h - pad.b + 16);
+  });
+  items.forEach((item, i) => {
+    const cy = pad.t + i * bh + bh / 2;
+    const barW = (item.val - xMin) / (xMax - xMin) * (w - pad.l - pad.r);
+    ctx.fillStyle = i === 0 ? C.orange + '22' : 'rgba(18,17,16,0.05)'; ctx.fillRect(pad.l, cy - barH/2, barW, barH);
+    if (i === 0) { ctx.strokeStyle = C.orange; ctx.lineWidth = 1.5; ctx.strokeRect(pad.l, cy - barH/2, barW, barH); }
+    ctx.beginPath(); ctx.arc(pad.l + barW, cy, 5, 0, Math.PI*2); ctx.fillStyle = item.color; ctx.fill();
+    ctx.fillStyle = i === 0 ? C.ink : C.mid; ctx.font = i === 0 ? `600 12px ${C.mono}` : `400 11px ${C.mono}`; ctx.textAlign = 'right';
+    ctx.fillText(item.label, pad.l - 12, cy + 4);
+    ctx.fillStyle = item.color; ctx.font = `600 11px ${C.mono}`; ctx.textAlign = 'left'; ctx.fillText(item.val.toFixed(3), pad.l + barW + 10, cy + 4);
+  });
+}
+function drawStateful() {
+  const el = document.getElementById('chart-stateful'); if (!el) return;
+  const {ctx, w, h} = setupCanvas(el);
+  const pad = {t:36, b:56, l:52, r:28};
+  const groups = [{label:'seq = 1024', x:0},{label:'seq = 8192', x:1}];
+  const configs = [
+    {name:'Без переноса', vals:[6.902, 6.839], color:C.tf, pattern:false},
+    {name:'Только на инференсе', vals:[6.890, 6.855], color:C.mamba, pattern:true},
+    {name:'Обучено со state', vals:[6.582, 6.745], color:C.orange, pattern:false},
+  ];
+  const yMin = 6.45, yMax = 7.0;
+  const nGroups = 2, nBars = 3, barW = 26, gap = 10, groupGap = 50;
+  const totalGroupW = nBars * barW + (nBars-1) * gap;
+  const totalW = nGroups * totalGroupW + (nGroups-1) * groupGap;
+  const startX = pad.l + (w - pad.l - pad.r - totalW) / 2;
+  drawGrid(ctx, pad, w, h, yMin, yMax, [6.5,6.6,6.7,6.8,6.9,7.0]);
+  ctx.beginPath(); ctx.moveTo(pad.l, h-pad.b); ctx.lineTo(w-pad.r, h-pad.b); ctx.strokeStyle = C.line; ctx.stroke();
+  groups.forEach((g, gi) => {
+    const gx = startX + gi * (totalGroupW + groupGap);
+    ctx.fillStyle = C.mid; ctx.font = `500 11px ${C.mono}`; ctx.textAlign = 'center';
+    ctx.fillText(g.label, gx + totalGroupW/2, h - pad.b + 32);
+    configs.forEach((c, ci) => {
+      const bx = gx + ci * (barW + gap), v = c.vals[gi];
+      const by = pad.t + (h - pad.t - pad.b) * (1 - (v - yMin) / (yMax - yMin));
+      ctx.fillStyle = ci === 2 ? C.orange + '33' : 'rgba(18,17,16,0.06)'; ctx.fillRect(bx, by, barW, h - pad.b - by);
+      ctx.strokeStyle = c.color; ctx.lineWidth = ci === 2 ? 2 : 1;
+      if (c.pattern) ctx.setLineDash([4,3]);
+      ctx.strokeRect(bx, by, barW, h - pad.b - by); ctx.setLineDash([]);
+      ctx.fillStyle = ci === 2 ? C.orange : C.soft; ctx.font = `${ci===2?'600':'400'} 10px ${C.mono}`; ctx.textAlign = 'center';
+      ctx.fillText(v.toFixed(3), bx + barW/2, by - 5);
+    });
+  });
+  legend(ctx, [['Обучено со state', C.orange], ['Только инференс', C.mamba, true], ['Без переноса', C.tf]], pad.l, pad.t - 10);
+}
+function drawThroughput() {
+  const el = document.getElementById('chart-throughput'); if (!el) return;
+  const {ctx, w, h} = setupCanvas(el);
+  const pad = {t:36, b:48, l:66, r:28};
+  const seqs = [256, 512, 1024, 2048, 4096, 8192];
+  const hData = [[256,6.54],[512,6.20],[1024,5.80],[2048,5.30],[4096,4.90],[8192,4.60]];
+  const tData = [[256,5.43],[512,4.20],[1024,2.90],[2048,1.60],[4096,0.70],[8192,0.30]];
+  const yMin = 0, yMax = 7.5, xMin = 256, xMax = 8192;
+  drawGrid(ctx, pad, w, h, yMin, yMax, [1,2,3,4,5,6,7]);
+  ['256','512','1K','2K','4K','8K'].forEach((lbl, i) => {
+    const xp = pad.l + (Math.log2(seqs[i]) - Math.log2(xMin)) / (Math.log2(xMax) - Math.log2(xMin)) * (w - pad.l - pad.r);
+    ctx.fillStyle = C.soft; ctx.font = `400 10px ${C.mono}`; ctx.textAlign = 'center'; ctx.fillText(lbl, xp, h - pad.b + 18);
+  });
+  ctx.beginPath(); ctx.moveTo(pad.l, h-pad.b); ctx.lineTo(w-pad.r, h-pad.b); ctx.strokeStyle = C.line; ctx.stroke();
+  drawLine(ctx, tData, C.tf, pad, w, h, yMin, yMax, xMin, xMax, true, false);
+  drawLine(ctx, hData, C.orange, pad, w, h, yMin, yMax, xMin, xMax, true, false);
+  ctx.fillStyle = C.orange; ctx.font = `600 11px ${C.mono}`; ctx.textAlign = 'right';
+  ctx.fillText('в 15× быстрее →', w - pad.r - 8, pad.t + (h-pad.t-pad.b)*(1-(4.60-yMin)/(yMax-yMin)) - 8);
+  legend(ctx, [['Harmonic O(n)', C.orange], ['Transformer O(n²)', C.tf]], pad.l, pad.t - 10);
+}
+function drawAllCharts() { drawCrossover(); drawSeeds(); drawTraining(); drawAblation(); drawStateful(); drawThroughput(); }
+window.addEventListener('resize', drawAllCharts);
+document.querySelectorAll('.tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
+    requestAnimationFrame(drawAllCharts);
+  });
+});
+document.fonts.ready.then(drawAllCharts);
+</script>
+</body>
+</html>

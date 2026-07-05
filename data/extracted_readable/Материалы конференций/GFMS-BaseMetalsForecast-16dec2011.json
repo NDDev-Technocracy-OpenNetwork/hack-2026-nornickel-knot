@@ -1,0 +1,1749 @@
+{
+  "filename": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "m1",
+      "type": "Material",
+      "name": "Lead",
+      "canonical_name": "Lead",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 16,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "m2",
+      "type": "Material",
+      "name": "aluminium",
+      "canonical_name": "aluminium",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 16,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "m3",
+      "type": "Material",
+      "name": "nickel",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 16,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "m4",
+      "type": "Material",
+      "name": "tin",
+      "canonical_name": "tin",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 16,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "m5",
+      "type": "Material",
+      "name": "lead-acid battery",
+      "canonical_name": "lead-acid battery",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 16,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "m6",
+      "type": "Material",
+      "name": "refined lead",
+      "canonical_name": "refined lead",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 16,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "m7",
+      "type": "Material",
+      "name": "auto",
+      "canonical_name": "auto",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 16,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "m1",
+      "type": "Material",
+      "name": "refined lead",
+      "canonical_name": "refined lead",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "m2",
+      "type": "Material",
+      "name": "lead concentrate",
+      "canonical_name": "lead concentrate",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "e1",
+      "type": "Equipment",
+      "name": "lead smelting facilities",
+      "canonical_name": "lead smelting facilities",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "e2",
+      "type": "Facility",
+      "name": "Portovesme smelter",
+      "canonical_name": "Portovesme smelter",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "p1",
+      "type": "Process",
+      "name": "refined production",
+      "canonical_name": "refined production",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "p2",
+      "type": "Process",
+      "name": "concentrate production",
+      "canonical_name": "concentrate production",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "p3",
+      "type": "Process",
+      "name": "maintenance programme",
+      "canonical_name": "maintenance programme",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "p4",
+      "type": "Process",
+      "name": "restart",
+      "canonical_name": "restart",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "p5",
+      "type": "Process",
+      "name": "installation of new technology",
+      "canonical_name": "installation of new technology",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "e3",
+      "type": "Expert",
+      "name": "Yunnan Tin",
+      "canonical_name": "Yunnan Tin",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "e4",
+      "type": "Expert",
+      "name": "Glencore",
+      "canonical_name": "Glencore",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 17,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "cobalt",
+      "canonical_name": "cobalt",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 37,
+        "page_end": 37
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "cobalt metal",
+      "canonical_name": "cobalt",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 37,
+        "page_end": 37
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "cobalt salt",
+      "canonical_name": "cobalt salt",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 37,
+        "page_end": 37
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "lithium cobalt oxide",
+      "canonical_name": "lithium cobalt oxide",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 37,
+        "page_end": 37
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "cobalt concentrate",
+      "canonical_name": "cobalt concentrate",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 37,
+        "page_end": 37
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "cobalt ore",
+      "canonical_name": "cobalt ore",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 37,
+        "page_end": 37
+      }
+    },
+    {
+      "id": "7",
+      "type": "Publication",
+      "name": "Nickel & Cobalt - December 2011",
+      "canonical_name": "Nickel & Cobalt - December 2011",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 37,
+        "page_end": 37
+      }
+    },
+    {
+      "id": "8",
+      "type": "Publication",
+      "name": "Thomson Reuters GFMS",
+      "canonical_name": "Thomson Reuters GFMS",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 37,
+        "page_end": 37
+      }
+    },
+    {
+      "id": "9",
+      "type": "Publication",
+      "name": "CDI",
+      "canonical_name": "CDI",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 37,
+        "page_end": 37
+      }
+    },
+    {
+      "id": "10",
+      "type": "Publication",
+      "name": "WBMS",
+      "canonical_name": "WBMS",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 37,
+        "page_end": 37
+      }
+    },
+    {
+      "id": "11",
+      "type": "Publication",
+      "name": "Metal-Pages",
+      "canonical_name": "Metal-Pages",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 37,
+        "page_end": 37
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Jinchuan",
+      "canonical_name": "Jinchuan",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 37,
+        "page_end": 37
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Eurasian Natural Resources Corporation",
+      "canonical_name": "Eurasian Natural Resources Corporation",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 37,
+        "page_end": 37
+      }
+    },
+    {
+      "id": "m1",
+      "type": "Material",
+      "name": "cobalt",
+      "canonical_name": "cobalt",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "m2",
+      "type": "Material",
+      "name": "nickel",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "p1",
+      "type": "Process",
+      "name": "cobalt production",
+      "canonical_name": "cobalt production",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "p2",
+      "type": "Process",
+      "name": "nickel production",
+      "canonical_name": "nickel production",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "f1",
+      "type": "Facility",
+      "name": "Vale’s Goro plant",
+      "canonical_name": "Vale’s Goro plant",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "f2",
+      "type": "Facility",
+      "name": "Ramu Ni-Co project",
+      "canonical_name": "Ramu Ni-Co project",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "f3",
+      "type": "Facility",
+      "name": "Sherritt’s Ambatovy project",
+      "canonical_name": "Sherritt’s Ambatovy project",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "f4",
+      "type": "Facility",
+      "name": "Wingellina project",
+      "canonical_name": "Wingellina project",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "f5",
+      "type": "Facility",
+      "name": "Idaho Cobalt project",
+      "canonical_name": "Idaho Cobalt project",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "p3",
+      "type": "Process",
+      "name": "trial operation",
+      "canonical_name": "trial operation",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "p4",
+      "type": "Process",
+      "name": "construction",
+      "canonical_name": "construction",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "p5",
+      "type": "Process",
+      "name": "power supply",
+      "canonical_name": "power supply",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "p6",
+      "type": "Process",
+      "name": "price inelastic",
+      "canonical_name": "price inelastic",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "p7",
+      "type": "Process",
+      "name": "price prospects",
+      "canonical_name": "price prospects",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 25,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "m1",
+      "type": "Material",
+      "name": "tin",
+      "canonical_name": "tin",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 45,
+        "page_end": 45
+      }
+    },
+    {
+      "id": "e1",
+      "type": "Expert",
+      "name": "T3",
+      "canonical_name": "T3",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 45,
+        "page_end": 45
+      }
+    },
+    {
+      "id": "f1",
+      "type": "Facility",
+      "name": "Yunnan Tin Co",
+      "canonical_name": "Yunnan Tin Co",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 45,
+        "page_end": 45
+      }
+    },
+    {
+      "id": "f2",
+      "type": "Facility",
+      "name": "Gejiu smelter",
+      "canonical_name": "Gejiu smelter",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 45,
+        "page_end": 45
+      }
+    },
+    {
+      "id": "f3",
+      "type": "Facility",
+      "name": "EM Huanuni",
+      "canonical_name": "EM Huanuni",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 45,
+        "page_end": 45
+      }
+    },
+    {
+      "id": "f4",
+      "type": "Facility",
+      "name": "EM Vinto",
+      "canonical_name": "EM Vinto",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 45,
+        "page_end": 45
+      }
+    },
+    {
+      "id": "f5",
+      "type": "Facility",
+      "name": "Renison mine",
+      "canonical_name": "Renison mine",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 45,
+        "page_end": 45
+      }
+    },
+    {
+      "id": "f6",
+      "type": "Facility",
+      "name": "Cookson Group",
+      "canonical_name": "Cookson Group",
+      "provenance": {
+        "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 29,
+        "page_start": 45,
+        "page_end": 45
+      }
+    }
+  ],
+  "relations": [
+    {
+      "fact": "tin --[produces_output]--> lead-acid battery",
+      "source_name": "tin",
+      "source_type": "Material",
+      "relation": "produces_output",
+      "target_name": "lead-acid battery",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 25,
+      "page_end": 25
+    },
+    {
+      "fact": "tin --[uses_material]--> refined lead",
+      "source_name": "tin",
+      "source_type": "Material",
+      "relation": "uses_material",
+      "target_name": "refined lead",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 25,
+      "page_end": 25
+    },
+    {
+      "fact": "tin --[operates_at_condition]--> auto",
+      "source_name": "tin",
+      "source_type": "Material",
+      "relation": "operates_at_condition",
+      "target_name": "auto",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "strong battery demand",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 25,
+      "page_end": 25
+    },
+    {
+      "fact": "cobalt production --[uses_material]--> nickel",
+      "source_name": "cobalt production",
+      "source_type": "Process",
+      "relation": "uses_material",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "cobalt production --[produces_output]--> tin",
+      "source_name": "cobalt production",
+      "source_type": "Process",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "nickel production --[produces_output]--> nickel",
+      "source_name": "nickel production",
+      "source_type": "Process",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Yunnan Tin --[operates_at_condition]--> T3",
+      "source_name": "Yunnan Tin",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "T3",
+      "target_type": "Expert",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "low prices",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Yunnan Tin --[operates_at_condition]--> T3",
+      "source_name": "Yunnan Tin",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "T3",
+      "target_type": "Expert",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "45-day maintenance programme",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Glencore --[operates_at_condition]--> Portovesme smelter",
+      "source_name": "Glencore",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "Portovesme smelter",
+      "target_type": "Facility",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "delayed restart",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Glencore --[operates_at_condition]--> Portovesme smelter",
+      "source_name": "Glencore",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "Portovesme smelter",
+      "target_type": "Facility",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "installation of new technology",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Glencore --[operates_at_condition]--> Portovesme smelter",
+      "source_name": "Glencore",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "Portovesme smelter",
+      "target_type": "Facility",
+      "numeric_value": 80000.0,
+      "unit": "tonnes per year",
+      "condition": "capacity",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "cobalt --[described_in]--> Nickel & Cobalt - December 2011",
+      "source_name": "cobalt",
+      "source_type": "Material",
+      "relation": "described_in",
+      "target_name": "Nickel & Cobalt - December 2011",
+      "target_type": "Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 37,
+      "page_end": 37
+    },
+    {
+      "fact": "cobalt --[described_in]--> Thomson Reuters GFMS",
+      "source_name": "cobalt",
+      "source_type": "Material",
+      "relation": "described_in",
+      "target_name": "Thomson Reuters GFMS",
+      "target_type": "Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 37,
+      "page_end": 37
+    },
+    {
+      "fact": "cobalt --[described_in]--> CDI",
+      "source_name": "cobalt",
+      "source_type": "Material",
+      "relation": "described_in",
+      "target_name": "CDI",
+      "target_type": "Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 37,
+      "page_end": 37
+    },
+    {
+      "fact": "cobalt --[described_in]--> WBMS",
+      "source_name": "cobalt",
+      "source_type": "Material",
+      "relation": "described_in",
+      "target_name": "WBMS",
+      "target_type": "Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 37,
+      "page_end": 37
+    },
+    {
+      "fact": "cobalt --[described_in]--> Metal-Pages",
+      "source_name": "cobalt",
+      "source_type": "Material",
+      "relation": "described_in",
+      "target_name": "Metal-Pages",
+      "target_type": "Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 37,
+      "page_end": 37
+    },
+    {
+      "fact": "Jinchuan --[produces_output]--> cobalt",
+      "source_name": "Jinchuan",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 6000.0,
+      "unit": "tonnes/year",
+      "condition": "current capacity",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 37,
+      "page_end": 37
+    },
+    {
+      "fact": "Jinchuan --[produces_output]--> cobalt",
+      "source_name": "Jinchuan",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 10000.0,
+      "unit": "tonnes/year",
+      "condition": "planned capacity",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 37,
+      "page_end": 37
+    },
+    {
+      "fact": "Eurasian Natural Resources Corporation --[produces_output]--> cobalt",
+      "source_name": "Eurasian Natural Resources Corporation",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 3099.0,
+      "unit": "tonnes",
+      "condition": "Q3 2011",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 37,
+      "page_end": 37
+    },
+    {
+      "fact": "Yunnan Tin Co --[produces_output]--> tin",
+      "source_name": "Yunnan Tin Co",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": 5000.0,
+      "unit": "tpy",
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Gejiu smelter --[produces_output]--> tin",
+      "source_name": "Gejiu smelter",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": 3000.0,
+      "unit": "tpy",
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Gejiu smelter --[produces_output]--> nickel",
+      "source_name": "Gejiu smelter",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": 31000.0,
+      "unit": "tpy",
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "EM Huanuni --[produces_output]--> tin",
+      "source_name": "EM Huanuni",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": 5600.0,
+      "unit": "tpy",
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "EM Vinto --[produces_output]--> tin",
+      "source_name": "EM Vinto",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": 3000.0,
+      "unit": "tpy",
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "EM Vinto --[produces_output]--> nickel",
+      "source_name": "EM Vinto",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": 40000.0,
+      "unit": "tpy",
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Renison mine --[produces_output]--> tin",
+      "source_name": "Renison mine",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": 1525.0,
+      "unit": "tpy",
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Gejiu smelter --[operates_at_condition]--> trial operation",
+      "source_name": "Gejiu smelter",
+      "source_type": "Facility",
+      "relation": "operates_at_condition",
+      "target_name": "trial operation",
+      "target_type": "Process",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "by the beginning of 2012",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Gejiu smelter --[operates_at_condition]--> construction",
+      "source_name": "Gejiu smelter",
+      "source_type": "Facility",
+      "relation": "operates_at_condition",
+      "target_name": "construction",
+      "target_type": "Process",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Large scale construction began in 2008 and by early this year, the construction was substantially completed",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "EM Huanuni --[operates_at_condition]--> power supply",
+      "source_name": "EM Huanuni",
+      "source_type": "Facility",
+      "relation": "operates_at_condition",
+      "target_name": "power supply",
+      "target_type": "Process",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "currently experiencing delays associated with power supply",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "T3 --[affiliated_with]--> Yunnan Tin Co",
+      "source_name": "T3",
+      "source_type": "Expert",
+      "relation": "affiliated_with",
+      "target_name": "Yunnan Tin Co",
+      "target_type": "Facility",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 45,
+      "page_end": 45
+    },
+    {
+      "fact": "Gejiu smelter --[produces_output]--> tin",
+      "source_name": "Gejiu smelter",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": 59160.0,
+      "unit": "tonnes",
+      "condition": "last year",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 45,
+      "page_end": 45
+    },
+    {
+      "fact": "EM Huanuni --[produces_output]--> tin",
+      "source_name": "EM Huanuni",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "year-on-year declines",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 45,
+      "page_end": 45
+    },
+    {
+      "fact": "EM Vinto --[produces_output]--> tin",
+      "source_name": "EM Vinto",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "refined tin production down 1.1%",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 45,
+      "page_end": 45
+    },
+    {
+      "fact": "Renison mine --[produces_output]--> tin",
+      "source_name": "Renison mine",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "tin-in-concentrate output fell by 6%",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 45,
+      "page_end": 45
+    },
+    {
+      "fact": "Cookson Group --[uses_material]--> tin",
+      "source_name": "Cookson Group",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "strong demand over the second half-to-date",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 45,
+      "page_end": 45
+    }
+  ],
+  "facts": [
+    {
+      "fact": "tin --[produces_output]--> lead-acid battery",
+      "source_name": "tin",
+      "source_type": "Material",
+      "relation": "produces_output",
+      "target_name": "lead-acid battery",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 25,
+      "page_end": 25
+    },
+    {
+      "fact": "tin --[uses_material]--> refined lead",
+      "source_name": "tin",
+      "source_type": "Material",
+      "relation": "uses_material",
+      "target_name": "refined lead",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 25,
+      "page_end": 25
+    },
+    {
+      "fact": "tin --[operates_at_condition]--> auto",
+      "source_name": "tin",
+      "source_type": "Material",
+      "relation": "operates_at_condition",
+      "target_name": "auto",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "strong battery demand",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 25,
+      "page_end": 25
+    },
+    {
+      "fact": "cobalt production --[uses_material]--> nickel",
+      "source_name": "cobalt production",
+      "source_type": "Process",
+      "relation": "uses_material",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "cobalt production --[produces_output]--> tin",
+      "source_name": "cobalt production",
+      "source_type": "Process",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "nickel production --[produces_output]--> nickel",
+      "source_name": "nickel production",
+      "source_type": "Process",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Yunnan Tin --[operates_at_condition]--> T3",
+      "source_name": "Yunnan Tin",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "T3",
+      "target_type": "Expert",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "low prices",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Yunnan Tin --[operates_at_condition]--> T3",
+      "source_name": "Yunnan Tin",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "T3",
+      "target_type": "Expert",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "45-day maintenance programme",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Glencore --[operates_at_condition]--> Portovesme smelter",
+      "source_name": "Glencore",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "Portovesme smelter",
+      "target_type": "Facility",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "delayed restart",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Glencore --[operates_at_condition]--> Portovesme smelter",
+      "source_name": "Glencore",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "Portovesme smelter",
+      "target_type": "Facility",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "installation of new technology",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Glencore --[operates_at_condition]--> Portovesme smelter",
+      "source_name": "Glencore",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "Portovesme smelter",
+      "target_type": "Facility",
+      "numeric_value": 80000.0,
+      "unit": "tonnes per year",
+      "condition": "capacity",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "cobalt --[described_in]--> Nickel & Cobalt - December 2011",
+      "source_name": "cobalt",
+      "source_type": "Material",
+      "relation": "described_in",
+      "target_name": "Nickel & Cobalt - December 2011",
+      "target_type": "Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 37,
+      "page_end": 37
+    },
+    {
+      "fact": "cobalt --[described_in]--> Thomson Reuters GFMS",
+      "source_name": "cobalt",
+      "source_type": "Material",
+      "relation": "described_in",
+      "target_name": "Thomson Reuters GFMS",
+      "target_type": "Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 37,
+      "page_end": 37
+    },
+    {
+      "fact": "cobalt --[described_in]--> CDI",
+      "source_name": "cobalt",
+      "source_type": "Material",
+      "relation": "described_in",
+      "target_name": "CDI",
+      "target_type": "Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 37,
+      "page_end": 37
+    },
+    {
+      "fact": "cobalt --[described_in]--> WBMS",
+      "source_name": "cobalt",
+      "source_type": "Material",
+      "relation": "described_in",
+      "target_name": "WBMS",
+      "target_type": "Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 37,
+      "page_end": 37
+    },
+    {
+      "fact": "cobalt --[described_in]--> Metal-Pages",
+      "source_name": "cobalt",
+      "source_type": "Material",
+      "relation": "described_in",
+      "target_name": "Metal-Pages",
+      "target_type": "Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 37,
+      "page_end": 37
+    },
+    {
+      "fact": "Jinchuan --[produces_output]--> cobalt",
+      "source_name": "Jinchuan",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 6000.0,
+      "unit": "tonnes/year",
+      "condition": "current capacity",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 37,
+      "page_end": 37
+    },
+    {
+      "fact": "Jinchuan --[produces_output]--> cobalt",
+      "source_name": "Jinchuan",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 10000.0,
+      "unit": "tonnes/year",
+      "condition": "planned capacity",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 37,
+      "page_end": 37
+    },
+    {
+      "fact": "Eurasian Natural Resources Corporation --[produces_output]--> cobalt",
+      "source_name": "Eurasian Natural Resources Corporation",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 3099.0,
+      "unit": "tonnes",
+      "condition": "Q3 2011",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 37,
+      "page_end": 37
+    },
+    {
+      "fact": "Yunnan Tin Co --[produces_output]--> tin",
+      "source_name": "Yunnan Tin Co",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": 5000.0,
+      "unit": "tpy",
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Gejiu smelter --[produces_output]--> tin",
+      "source_name": "Gejiu smelter",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": 3000.0,
+      "unit": "tpy",
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Gejiu smelter --[produces_output]--> nickel",
+      "source_name": "Gejiu smelter",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": 31000.0,
+      "unit": "tpy",
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "EM Huanuni --[produces_output]--> tin",
+      "source_name": "EM Huanuni",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": 5600.0,
+      "unit": "tpy",
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "EM Vinto --[produces_output]--> tin",
+      "source_name": "EM Vinto",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": 3000.0,
+      "unit": "tpy",
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "EM Vinto --[produces_output]--> nickel",
+      "source_name": "EM Vinto",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": 40000.0,
+      "unit": "tpy",
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Renison mine --[produces_output]--> tin",
+      "source_name": "Renison mine",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": 1525.0,
+      "unit": "tpy",
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Gejiu smelter --[operates_at_condition]--> trial operation",
+      "source_name": "Gejiu smelter",
+      "source_type": "Facility",
+      "relation": "operates_at_condition",
+      "target_name": "trial operation",
+      "target_type": "Process",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "by the beginning of 2012",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Gejiu smelter --[operates_at_condition]--> construction",
+      "source_name": "Gejiu smelter",
+      "source_type": "Facility",
+      "relation": "operates_at_condition",
+      "target_name": "construction",
+      "target_type": "Process",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "Large scale construction began in 2008 and by early this year, the construction was substantially completed",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "EM Huanuni --[operates_at_condition]--> power supply",
+      "source_name": "EM Huanuni",
+      "source_type": "Facility",
+      "relation": "operates_at_condition",
+      "target_name": "power supply",
+      "target_type": "Process",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "currently experiencing delays associated with power supply",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "T3 --[affiliated_with]--> Yunnan Tin Co",
+      "source_name": "T3",
+      "source_type": "Expert",
+      "relation": "affiliated_with",
+      "target_name": "Yunnan Tin Co",
+      "target_type": "Facility",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 45,
+      "page_end": 45
+    },
+    {
+      "fact": "Gejiu smelter --[produces_output]--> tin",
+      "source_name": "Gejiu smelter",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": 59160.0,
+      "unit": "tonnes",
+      "condition": "last year",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 45,
+      "page_end": 45
+    },
+    {
+      "fact": "EM Huanuni --[produces_output]--> tin",
+      "source_name": "EM Huanuni",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "year-on-year declines",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 45,
+      "page_end": 45
+    },
+    {
+      "fact": "EM Vinto --[produces_output]--> tin",
+      "source_name": "EM Vinto",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "refined tin production down 1.1%",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 45,
+      "page_end": 45
+    },
+    {
+      "fact": "Renison mine --[produces_output]--> tin",
+      "source_name": "Renison mine",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "tin-in-concentrate output fell by 6%",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 45,
+      "page_end": 45
+    },
+    {
+      "fact": "Cookson Group --[uses_material]--> tin",
+      "source_name": "Cookson Group",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "tin",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "strong demand over the second half-to-date",
+      "confidence": null,
+      "source_file": "GFMS-BaseMetalsForecast-16dec2011.pdf",
+      "page_start": 45,
+      "page_end": 45
+    }
+  ]
+}

@@ -1,0 +1,684 @@
+{
+  "filename": "05-06_2005_cm.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "фильтрованный остаток твердого после 1й стадии выщелачивания",
+      "canonical_name": "filtered solid residue after first leaching stage",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "цинковые концентраты",
+      "canonical_name": "zinc concentrates",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "огарок",
+      "canonical_name": "slag",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "циклонная пыль",
+      "canonical_name": "cyclone dust",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "продукты обжига",
+      "canonical_name": "roasted products",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "твердый от нейтрального выщелачивания продуктов обжига",
+      "canonical_name": "solid residue from neutral leaching of roasted products",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "фракция -0,2 мм",
+      "canonical_name": "-0.2 mm fraction",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "фракция +0,2-0,3 мм",
+      "canonical_name": "+0.2-0.3 mm fraction",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "выщелачивание",
+      "canonical_name": "leaching",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "двухстадийное выщелачивание",
+      "canonical_name": "two-stage leaching",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "11",
+      "type": "Process",
+      "name": "одностадийное выщелачивание",
+      "canonical_name": "one-stage leaching",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "12",
+      "type": "Process",
+      "name": "нейтральное выщелачивание",
+      "canonical_name": "neutral leaching",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "13",
+      "type": "Property",
+      "name": "извлечение",
+      "canonical_name": "extraction",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "14",
+      "type": "Property",
+      "name": "температура",
+      "canonical_name": "temperature",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "15",
+      "type": "Property",
+      "name": "рН",
+      "canonical_name": "pH",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "16",
+      "type": "Property",
+      "name": "кислотность",
+      "canonical_name": "acidity",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "17",
+      "type": "Property",
+      "name": "содержание",
+      "canonical_name": "content",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "18",
+      "type": "Experiment",
+      "name": "лабораторные исследования",
+      "canonical_name": "laboratory studies",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "19",
+      "type": "Publication",
+      "name": "«Цветные металлы». 2005. № 5–6.",
+      "canonical_name": "Cvetnye Metally. 2005. № 5-6.",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "20",
+      "type": "Publication",
+      "name": "[1]",
+      "canonical_name": "[1]",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": 60.0,
+      "unit": "°C",
+      "condition": "60 оС",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": 3.5,
+      "unit": null,
+      "condition": "конечном рН = 3,5",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "16",
+      "numeric_value": 55.0,
+      "unit": "g/l",
+      "condition": "кислотность 55–60 г/л",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "16",
+      "numeric_value": 60.0,
+      "unit": "g/l",
+      "condition": "кислотность 55–60 г/л",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": 90.0,
+      "unit": "°C",
+      "condition": "температура 90–95 оС",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": 95.0,
+      "unit": "°C",
+      "condition": "температура 90–95 оС",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "16",
+      "numeric_value": 95.0,
+      "unit": "g/l",
+      "condition": "кислотность 95–105 г/л",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "16",
+      "numeric_value": 105.0,
+      "unit": "g/l",
+      "condition": "кислотность 95–105 г/л",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": 3.5,
+      "unit": null,
+      "condition": "конечный рН = 3,5 на 2й кислой стадии",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": 4.5,
+      "unit": null,
+      "condition": "рН1 = 4,5",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "16",
+      "numeric_value": 55.0,
+      "unit": "g/l",
+      "condition": "конечная кислотность 55–60 г/л",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "operates_at_condition",
+      "target_id": "16",
+      "numeric_value": 60.0,
+      "unit": "g/l",
+      "condition": "конечная кислотность 55–60 г/л",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": 4.0,
+      "unit": null,
+      "condition": "рН 4,0–4,5",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": 4.5,
+      "unit": null,
+      "condition": "рН 4,0–4,5",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": 3.5,
+      "unit": null,
+      "condition": "конечный рН = 3,5 на 2й кислой стадии",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": 4.5,
+      "unit": null,
+      "condition": "рН1 = 4,5",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "16",
+      "numeric_value": 55.0,
+      "unit": "g/l",
+      "condition": "конечная кислотность 55–60 г/л",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "16",
+      "numeric_value": 60.0,
+      "unit": "g/l",
+      "condition": "конечная кислотность 55–60 г/л",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": 90.0,
+      "unit": "°C",
+      "condition": "температура 90–95 оС",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": 95.0,
+      "unit": "°C",
+      "condition": "температура 90–95 оС",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "16",
+      "numeric_value": 95.0,
+      "unit": "g/l",
+      "condition": "кислотность 95–105 г/л",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "16",
+      "numeric_value": 105.0,
+      "unit": "g/l",
+      "condition": "кислотность 95–105 г/л",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": 4.0,
+      "unit": null,
+      "condition": "рН 4,0–4,5",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": 4.5,
+      "unit": null,
+      "condition": "рН 4,0–4,5",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "described_in",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "described_in",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 20,
+        "page_start": 27,
+        "page_end": 27
+      }
+    }
+  ]
+}

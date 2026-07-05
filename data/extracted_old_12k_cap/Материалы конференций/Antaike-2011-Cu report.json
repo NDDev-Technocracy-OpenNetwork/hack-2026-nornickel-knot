@@ -1,0 +1,639 @@
+{
+  "filename": "Antaike-2011-Cu report.pdf",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "E1",
+      "type": "Publication",
+      "name": "Copper Market Review 2011 and Outlook 2012",
+      "canonical_name": "Copper Market Review 2011 and Outlook 2012",
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "E2",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "E3",
+      "type": "Material",
+      "name": "copper-in-concentrate",
+      "canonical_name": "copper-in-concentrate",
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "E4",
+      "type": "Process",
+      "name": "smelting",
+      "canonical_name": "smelting",
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "E5",
+      "type": "Process",
+      "name": "refining",
+      "canonical_name": "refining",
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "E6",
+      "type": "Property",
+      "name": "copper price",
+      "canonical_name": "copper price",
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "M1",
+      "type": "Material",
+      "name": "copper concentrate",
+      "canonical_name": "copper concentrate",
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "M2",
+      "type": "Material",
+      "name": "secondary copper",
+      "canonical_name": "secondary copper",
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "M3",
+      "type": "Material",
+      "name": "refined copper",
+      "canonical_name": "refined copper",
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "M4",
+      "type": "Material",
+      "name": "copper scraps",
+      "canonical_name": "copper scraps",
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "M5",
+      "type": "Material",
+      "name": "copper semis",
+      "canonical_name": "copper semis",
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "P1",
+      "type": "Process",
+      "name": "secondary copper production",
+      "canonical_name": "secondary copper production",
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "P2",
+      "type": "Process",
+      "name": "refined copper production",
+      "canonical_name": "refined copper production",
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "P3",
+      "type": "Process",
+      "name": "copper semis production",
+      "canonical_name": "copper semis production",
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "Pub1",
+      "type": "Publication",
+      "name": "CNIA data",
+      "canonical_name": "cnia data",
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "Pub2",
+      "type": "Publication",
+      "name": "Antaike data",
+      "canonical_name": "antaike data",
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "Pub3",
+      "type": "Publication",
+      "name": "State Statistics Bureau data",
+      "canonical_name": "state statistics bureau data",
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "Pub4",
+      "type": "Publication",
+      "name": "NBS data",
+      "canonical_name": "nbs data",
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "Pub5",
+      "type": "Publication",
+      "name": "China Electricity Council data",
+      "canonical_name": "china electricity council data",
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "E4",
+      "relation": "described_in",
+      "target_id": "E1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "E5",
+      "relation": "described_in",
+      "target_id": "E1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "E6",
+      "relation": "described_in",
+      "target_id": "E1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "E4",
+      "relation": "produces_output",
+      "target_id": "E2",
+      "numeric_value": 600.0,
+      "unit": "kt/y",
+      "condition": "newly added 2011",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "E5",
+      "relation": "produces_output",
+      "target_id": "E2",
+      "numeric_value": 1150.0,
+      "unit": "kt/y",
+      "condition": "newly added 2011",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "E4",
+      "relation": "produces_output",
+      "target_id": "E2",
+      "numeric_value": 4070.0,
+      "unit": "kt/y",
+      "condition": "total capacity 2011",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "E5",
+      "relation": "produces_output",
+      "target_id": "E2",
+      "numeric_value": 7130.0,
+      "unit": "kt/y",
+      "condition": "total capacity 2011",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "E4",
+      "relation": "uses_material",
+      "target_id": "E3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "E6",
+      "relation": "produces_output",
+      "target_id": "E2",
+      "numeric_value": 7488.0,
+      "unit": "USD/t",
+      "condition": "Q4 2011 cash month average",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "E6",
+      "relation": "produces_output",
+      "target_id": "E2",
+      "numeric_value": 7510.0,
+      "unit": "USD/t",
+      "condition": "Q4 2011 3‑month average",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "P1",
+      "relation": "uses_material",
+      "target_id": "M4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P1",
+      "relation": "produces_output",
+      "target_id": "M2",
+      "numeric_value": 1.73,
+      "unit": "Mt",
+      "condition": "2010",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P1",
+      "relation": "produces_output",
+      "target_id": "M2",
+      "numeric_value": 1.67,
+      "unit": "Mt",
+      "condition": "Jan-Nov 2011",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P1",
+      "relation": "described_in",
+      "target_id": "Pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P2",
+      "relation": "produces_output",
+      "target_id": "M3",
+      "numeric_value": 4.78,
+      "unit": "Mt",
+      "condition": "Jan-Nov 2011 (State Statistics)",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P2",
+      "relation": "produces_output",
+      "target_id": "M3",
+      "numeric_value": 4.75,
+      "unit": "Mt",
+      "condition": "2011 (CNIA)",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P2",
+      "relation": "produces_output",
+      "target_id": "M3",
+      "numeric_value": 5.2,
+      "unit": "Mt",
+      "condition": "forecast 2011",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P2",
+      "relation": "produces_output",
+      "target_id": "M3",
+      "numeric_value": 5.18,
+      "unit": "Mt",
+      "condition": "Antaike estimate 2011",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P2",
+      "relation": "described_in",
+      "target_id": "Pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P2",
+      "relation": "described_in",
+      "target_id": "Pub3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P2",
+      "relation": "described_in",
+      "target_id": "Pub2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P3",
+      "relation": "produces_output",
+      "target_id": "M5",
+      "numeric_value": 981.0,
+      "unit": "kt",
+      "condition": "Nov 2011",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P3",
+      "relation": "described_in",
+      "target_id": "Pub4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P3",
+      "relation": "uses_material",
+      "target_id": "M4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Antaike-2011-Cu report.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 4
+      }
+    }
+  ]
+}

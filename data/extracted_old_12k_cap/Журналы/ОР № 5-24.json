@@ -1,0 +1,1439 @@
+{
+  "filename": "ОР № 5-24.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "pub1",
+      "type": "Publication",
+      "name": "Обогащение руд",
+      "canonical_name": "Obogashchenie rud",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "m1",
+      "type": "Material",
+      "name": "дробленая руда",
+      "canonical_name": "crushed ore",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "m2",
+      "type": "Material",
+      "name": "калийные руды",
+      "canonical_name": "potassium ores",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "m3",
+      "type": "Material",
+      "name": "графитовая руда Курейского месторождения",
+      "canonical_name": "graphite ore (Kureyskoye deposit)",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "m4",
+      "type": "Material",
+      "name": "труднообогатимые окисленные медные руды",
+      "canonical_name": "difficult-to-enrich oxidized copper ores",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "m5",
+      "type": "Material",
+      "name": "окисленная руда медно-никелевого месторождения Шануч",
+      "canonical_name": "oxidized ore (copper-nickel deposit Shanuch)",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "m6",
+      "type": "Material",
+      "name": "упорная золотосодержащая руда",
+      "canonical_name": "hard gold-containing ore",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "m7",
+      "type": "Material",
+      "name": "железистые кварциты",
+      "canonical_name": "iron quartzites",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "p2",
+      "type": "Process",
+      "name": "флотационное обогащение",
+      "canonical_name": "flotation",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "p3",
+      "type": "Process",
+      "name": "термоизмельчение",
+      "canonical_name": "thermomilling",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "p4",
+      "type": "Process",
+      "name": "электрохимическая сульфидизация",
+      "canonical_name": "electrochemical sulfidization",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "p5",
+      "type": "Process",
+      "name": "оптимизация среды",
+      "canonical_name": "medium optimization",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "p6",
+      "type": "Process",
+      "name": "газодинамическая сепарация",
+      "canonical_name": "gas-dynamic separation",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "p7",
+      "type": "Process",
+      "name": "окомкование",
+      "canonical_name": "agglomeration",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "e1",
+      "type": "Equipment",
+      "name": "колонная флотация",
+      "canonical_name": "column flotation",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "e2",
+      "type": "Equipment",
+      "name": "добавки из красного шлама",
+      "canonical_name": "red slag additives",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "e3",
+      "type": "Equipment",
+      "name": "обожженный кокс",
+      "canonical_name": "calcined coke",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "prop1",
+      "type": "Property",
+      "name": "физико-механические характеристики",
+      "canonical_name": "physicomechanical characteristics",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "prop2",
+      "type": "Property",
+      "name": "гранулометрические характеристики",
+      "canonical_name": "granulometric characteristics",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "prop3",
+      "type": "Property",
+      "name": "вещественный состав",
+      "canonical_name": "material composition",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E1",
+      "type": "Expert",
+      "name": "Аксенова Г. Я.",
+      "canonical_name": "Аксенова Г. Я.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E2",
+      "type": "Expert",
+      "name": "Александрова Т. Н.",
+      "canonical_name": "Александрова Т. Н.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E3",
+      "type": "Expert",
+      "name": "Арсентьев В. А.",
+      "canonical_name": "Арсентьев В. А.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E4",
+      "type": "Expert",
+      "name": "Бажин В. Ю.",
+      "canonical_name": "Бажин В. Ю.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E5",
+      "type": "Expert",
+      "name": "Баранов В. Ф.",
+      "canonical_name": "Баранов В. Ф.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E6",
+      "type": "Expert",
+      "name": "Блехман Л. И.",
+      "canonical_name": "Блехман Л. И.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E7",
+      "type": "Expert",
+      "name": "Бричкин В. Н.",
+      "canonical_name": "Бричкин В. Н.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E8",
+      "type": "Expert",
+      "name": "Воробьев А. Г.",
+      "canonical_name": "Воробьев А. Г.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E9",
+      "type": "Expert",
+      "name": "Газалеева Г. И.",
+      "canonical_name": "Газалеева Г. И.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E10",
+      "type": "Expert",
+      "name": "Герасимов А. М.",
+      "canonical_name": "Герасимов А. М.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E11",
+      "type": "Expert",
+      "name": "Карапетян К. Г.",
+      "canonical_name": "Карапетян К. Г.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E12",
+      "type": "Expert",
+      "name": "Кибирев В. И.",
+      "canonical_name": "Кибирев В. И.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E13",
+      "type": "Expert",
+      "name": "Котова О. Б.",
+      "canonical_name": "Котова О. Б.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E14",
+      "type": "Expert",
+      "name": "Максимов И. И.",
+      "canonical_name": "Максимов И. И.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E15",
+      "type": "Expert",
+      "name": "Маякова Е. А.",
+      "canonical_name": "Маякова Е. А.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E16",
+      "type": "Expert",
+      "name": "Михайлова Н. В.",
+      "canonical_name": "Михайлова Н. В.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E17",
+      "type": "Expert",
+      "name": "Петров С. В.",
+      "canonical_name": "Петров С. В.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E18",
+      "type": "Expert",
+      "name": "Пелевин А. Е.",
+      "canonical_name": "Пелевин А. Е.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E19",
+      "type": "Expert",
+      "name": "Рябой В. И.",
+      "canonical_name": "Рябой В. И.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E20",
+      "type": "Expert",
+      "name": "Сазонов К. Г.",
+      "canonical_name": "Сазонов К. Г.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E21",
+      "type": "Expert",
+      "name": "Таранов В. А.",
+      "canonical_name": "Таранов В. А.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E22",
+      "type": "Expert",
+      "name": "Титков С. Н.",
+      "canonical_name": "Титков С. Н.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E23",
+      "type": "Expert",
+      "name": "Устинов И. Д.",
+      "canonical_name": "Устинов И. Д.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E24",
+      "type": "Expert",
+      "name": "Чантурия В. А.",
+      "canonical_name": "Чантурия В. А.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E25",
+      "type": "Expert",
+      "name": "Чантурия Е. Л.",
+      "canonical_name": "Чантурия Е. Л.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E26",
+      "type": "Expert",
+      "name": "Шендерович Е. М.",
+      "canonical_name": "Шендерович Е. М.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E27",
+      "type": "Expert",
+      "name": "Шехирев Д. В.",
+      "canonical_name": "Шехирев Д. В.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E28",
+      "type": "Expert",
+      "name": "Юнгмейстер Д. А.",
+      "canonical_name": "Юнгмейстер Д. А.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E29",
+      "type": "Expert",
+      "name": "Юшина Т. И.",
+      "canonical_name": "Юшина Т. И.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E30",
+      "type": "Expert",
+      "name": "Вутов Ц.",
+      "canonical_name": "Вутов Ц.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E31",
+      "type": "Expert",
+      "name": "Довнорович С.",
+      "canonical_name": "Довнорович С.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E32",
+      "type": "Expert",
+      "name": "Ёнал Г.",
+      "canonical_name": "Ёнал Г.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E33",
+      "type": "Expert",
+      "name": "Пилов П. И.",
+      "canonical_name": "Пилов П. И.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E34",
+      "type": "Expert",
+      "name": "И. Н. Сапрыкина",
+      "canonical_name": "И. Н. Сапрыкина",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "M1",
+      "type": "Material",
+      "name": "crushed ore",
+      "canonical_name": "crushed ore",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "M2",
+      "type": "Material",
+      "name": "potash ores",
+      "canonical_name": "potash ores",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "M3",
+      "type": "Material",
+      "name": "graphite ore",
+      "canonical_name": "graphite ore",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "M4",
+      "type": "Material",
+      "name": "refractory oxidized copper ores",
+      "canonical_name": "refractory oxidized copper ores",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "M5",
+      "type": "Material",
+      "name": "acidophilic bacteria",
+      "canonical_name": "acidophilic bacteria",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "M6",
+      "type": "Material",
+      "name": "ferruginous quartzites",
+      "canonical_name": "ferruginous quartzites",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "M7",
+      "type": "Material",
+      "name": "red mud",
+      "canonical_name": "red mud",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "M8",
+      "type": "Material",
+      "name": "calcined petroleum coke",
+      "canonical_name": "calcined petroleum coke",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "M9",
+      "type": "Material",
+      "name": "refractory gold-bearing ore",
+      "canonical_name": "refractory gold-bearing ore",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "P1",
+      "type": "Process",
+      "name": "column flotation technology",
+      "canonical_name": "column flotation technology",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "P2",
+      "type": "Process",
+      "name": "thermal grinding technology",
+      "canonical_name": "thermal grinding technology",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "P3",
+      "type": "Process",
+      "name": "combined electrochemical sulfidization",
+      "canonical_name": "combined electrochemical sulfidization",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "P4",
+      "type": "Process",
+      "name": "gas-dynamic separation",
+      "canonical_name": "gas-dynamic separation",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "P5",
+      "type": "Process",
+      "name": "pelletizing",
+      "canonical_name": "pelletizing",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "P6",
+      "type": "Process",
+      "name": "mixed culture growth",
+      "canonical_name": "mixed culture growth",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "P7",
+      "type": "Process",
+      "name": "material composition analysis",
+      "canonical_name": "material composition analysis",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "Pub1",
+      "type": "Publication",
+      "name": "Mineral Processing Journal",
+      "canonical_name": "Mineral Processing Journal",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "Pub2",
+      "type": "Publication",
+      "name": "The influence of temperature on physical, mechanical, and grain size distribution characteristics of crushed ore",
+      "canonical_name": "The influence of temperature on physical, mechanical, and grain size distribution characteristics of crushed ore",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "Pub3",
+      "type": "Publication",
+      "name": "Development of a column flotation technology for potash ores",
+      "canonical_name": "Development of a column flotation technology for potash ores",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "Pub4",
+      "type": "Publication",
+      "name": "Processing of graphite ore from the Kureiskoye deposit using thermal grinding technology",
+      "canonical_name": "Processing of graphite ore from the Kureiskoye deposit using thermal grinding technology",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "Pub5",
+      "type": "Publication",
+      "name": "Combined electrochemical sulfidization of refractory oxidized copper ores",
+      "canonical_name": "Combined electrochemical sulfidization of refractory oxidized copper ores",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "Pub6",
+      "type": "Publication",
+      "name": "Optimization of growth conditions for an autochthonous mixed culture of acidophilic bacteria isolated from oxidized ore of the Shanuch copper-nickel deposit",
+      "canonical_name": "Optimization of growth conditions for an autochthonous mixed culture of acidophilic bacteria isolated from oxidized ore of the Shanuch copper-nickel deposit",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "Pub7",
+      "type": "Publication",
+      "name": "Calibration and validation of a mathematical model for gas-dynamic separation",
+      "canonical_name": "Calibration and validation of a mathematical model for gas-dynamic separation",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "Pub8",
+      "type": "Publication",
+      "name": "Study of the material composition of refractory gold-bearing ore",
+      "canonical_name": "Study of the material composition of refractory gold-bearing ore",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "Pub9",
+      "type": "Publication",
+      "name": "Optimization of pelletizing conditions for ferruginous quartzites using red mud and calcined petroleum coke additives",
+      "canonical_name": "Optimization of pelletizing conditions for ferruginous quartzites using red mud and calcined petroleum coke additives",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E1",
+      "type": "Equipment",
+      "name": "климатическая камера",
+      "canonical_name": "climate chamber",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "E2",
+      "type": "Process",
+      "name": "выдерживание в климатической камере",
+      "canonical_name": "climate conditioning",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "E3",
+      "type": "Experiment",
+      "name": "определение предела прочности при одноосном сжатии и растяжении",
+      "canonical_name": "strength limit determination",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "E4",
+      "type": "Property",
+      "name": "предел прочности при одноосном сжатии и растяжении",
+      "canonical_name": "strength limit",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "p2",
+      "relation": "uses_material",
+      "target_id": "m2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "p2",
+      "relation": "described_in",
+      "target_id": "pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "p3",
+      "relation": "uses_material",
+      "target_id": "m3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "p3",
+      "relation": "described_in",
+      "target_id": "pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "p4",
+      "relation": "uses_material",
+      "target_id": "m4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "p4",
+      "relation": "described_in",
+      "target_id": "pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "p5",
+      "relation": "uses_material",
+      "target_id": "m5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "p5",
+      "relation": "described_in",
+      "target_id": "pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "p6",
+      "relation": "described_in",
+      "target_id": "pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "p7",
+      "relation": "uses_material",
+      "target_id": "m7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "p7",
+      "relation": "described_in",
+      "target_id": "pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "P1",
+      "relation": "uses_material",
+      "target_id": "M2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P2",
+      "relation": "uses_material",
+      "target_id": "M3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P3",
+      "relation": "uses_material",
+      "target_id": "M4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P5",
+      "relation": "uses_material",
+      "target_id": "M6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P5",
+      "relation": "uses_material",
+      "target_id": "M7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P5",
+      "relation": "uses_material",
+      "target_id": "M8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P6",
+      "relation": "uses_material",
+      "target_id": "M5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P7",
+      "relation": "uses_material",
+      "target_id": "M9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P4",
+      "relation": "uses_material",
+      "target_id": "M1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E2",
+      "relation": "operates_at_condition",
+      "target_id": "E1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "24 hours",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "E3",
+      "relation": "produces_output",
+      "target_id": "E4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    }
+  ]
+}

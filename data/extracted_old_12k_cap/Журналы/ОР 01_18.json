@@ -1,0 +1,325 @@
+{
+  "filename": "ОР 01_18.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "E1",
+      "type": "Facility",
+      "name": "Институт «Механобр»",
+      "canonical_name": "Mechanobr Institute",
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E2",
+      "type": "Process",
+      "name": "вибрационный способ дезинтеграции",
+      "canonical_name": "vibrational disintegration",
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E3",
+      "type": "Equipment",
+      "name": "вибрационная дробильно-измельчительная машина",
+      "canonical_name": "vibrational crusher",
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E6",
+      "type": "Process",
+      "name": "механическое измельчение",
+      "canonical_name": "mechanical grinding",
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E7",
+      "type": "Equipment",
+      "name": "вибрационная шаровая мельница",
+      "canonical_name": "vibrational ball mill",
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E8",
+      "type": "Equipment",
+      "name": "вращающаяся шаровая мельница",
+      "canonical_name": "rotating ball mill",
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E9",
+      "type": "Process",
+      "name": "вибрационный метод получения порошков",
+      "canonical_name": "vibrational powder production",
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E10",
+      "type": "Material",
+      "name": "стружка быстрорежущей стали",
+      "canonical_name": "high-speed steel chips",
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E11",
+      "type": "Material",
+      "name": "гранулы быстрорежущей стали",
+      "canonical_name": "high-speed steel granules",
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E12",
+      "type": "Equipment",
+      "name": "конусная инерционная дробилка КИД-300",
+      "canonical_name": "KID-300 cone inertial crusher",
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E13",
+      "type": "Equipment",
+      "name": "многодечный вибрационный грохот",
+      "canonical_name": "vibrational screen",
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E14",
+      "type": "Equipment",
+      "name": "виброэлеватор",
+      "canonical_name": "vibratory elevator",
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E15",
+      "type": "Equipment",
+      "name": "вибрационная моечная машина",
+      "canonical_name": "vibrational washing machine",
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E16",
+      "type": "Experiment",
+      "name": "измельчение стружки быстрорежущей стали в замкнутом цикле",
+      "canonical_name": "chip grinding experiment",
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E17",
+      "type": "Property",
+      "name": "размер частиц <250 мкм",
+      "canonical_name": "particle size",
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E18",
+      "type": "Expert",
+      "name": "Вайсберг Леонид Абрамович",
+      "canonical_name": "Leonid Weissberg",
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E19",
+      "type": "Material",
+      "name": "порошок быстрорежущей стали",
+      "canonical_name": "high-speed steel powder",
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "E9",
+      "relation": "uses_material",
+      "target_id": "E10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E9",
+      "relation": "uses_material",
+      "target_id": "E11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E16",
+      "relation": "uses_material",
+      "target_id": "E10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E16",
+      "relation": "uses_material",
+      "target_id": "E11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E16",
+      "relation": "produces_output",
+      "target_id": "E19",
+      "numeric_value": 100.0,
+      "unit": "kg/h",
+      "condition": "particle size <250 µm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E16",
+      "relation": "validated_by",
+      "target_id": "E18",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР 01_18.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    }
+  ]
+}

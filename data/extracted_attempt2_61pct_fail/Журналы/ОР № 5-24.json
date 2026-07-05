@@ -1,0 +1,1148 @@
+{
+  "filename": "ОР № 5-24.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "скрытокристаллический графит",
+      "canonical_name": "скрытокристаллический графит",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "термоизмельчение",
+      "canonical_name": "термоизмельчение",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "3",
+      "type": "Property",
+      "name": "зольность",
+      "canonical_name": "зольность",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "4",
+      "type": "Property",
+      "name": "содержание летучих веществ",
+      "canonical_name": "содержание летучих веществ",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "содержание серы",
+      "canonical_name": "содержание серы",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "температура",
+      "canonical_name": "температура",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "7",
+      "type": "Property",
+      "name": "влажность",
+      "canonical_name": "влажность",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "время выдержки",
+      "canonical_name": "время выдержки",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "9",
+      "type": "Property",
+      "name": "давление",
+      "canonical_name": "давление",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "10",
+      "type": "Experiment",
+      "name": "испытания по термоизмельчению",
+      "canonical_name": "испытания по термоизмельчению",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "11",
+      "type": "Publication",
+      "name": "«Обогащение руд». 2024. № 5.",
+      "canonical_name": "«Обогащение руд». 2024. № 5.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "скрытокристаллический графит",
+      "canonical_name": "cryptocrystalline graphite",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "фракция термизмельченного графита –0,63+0,2 мм",
+      "canonical_name": "thermally milled cryptocrystalline graphite fraction -0.63+0.2 mm",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "фракция термоизмельченного графита –0,2+0,16 мм",
+      "canonical_name": "thermally milled cryptocrystalline graphite fraction -0.2+0.16 mm",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "ГТ-2",
+      "canonical_name": "GT-2",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "термоизмельчение",
+      "canonical_name": "thermocomminution",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "массовая доля углерода",
+      "canonical_name": "carbon content",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "7",
+      "type": "Property",
+      "name": "степень кристалличности",
+      "canonical_name": "degree of crystallinity",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "зольность",
+      "canonical_name": "ash content",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "9",
+      "type": "Property",
+      "name": "массовая доля влаги",
+      "canonical_name": "moisture content",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "10",
+      "type": "Property",
+      "name": "массовая доля серы",
+      "canonical_name": "sulfur content",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "11",
+      "type": "Property",
+      "name": "массовая доля железа",
+      "canonical_name": "iron content",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "массовая доля летучих веществ",
+      "canonical_name": "volatile matter content",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "ЦКП «Наукоемкие методы исследования и анализа новых материалов, наноматериалов и минерального сырья» Сибирского федерального университета",
+      "canonical_name": "Advanced Research Center for New Materials, Nanomaterials and Mineral Raw Materials, Siberian Federal University",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "14",
+      "type": "Publication",
+      "name": "«Обогащение руд». 2024. № 5.",
+      "canonical_name": "Mineral Processing. 2024. No. 5.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "меди",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "сульфидизатора сульфита натрия",
+      "canonical_name": "sodium sulfite",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "электрохимическая сульфидизация",
+      "canonical_name": "electrochemical sulfidation",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "флотация",
+      "canonical_name": "flotation",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    },
+    {
+      "id": "5",
+      "type": "Property",
+      "name": "извлечение меди",
+      "canonical_name": "copper recovery",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "плотность тока",
+      "canonical_name": "current density",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    },
+    {
+      "id": "7",
+      "type": "Property",
+      "name": "концентрация сульфидизатора",
+      "canonical_name": "sulfidizer concentration",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "продолжительность процесса",
+      "canonical_name": "process duration",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    },
+    {
+      "id": "9",
+      "type": "Experiment",
+      "name": "эксперименты по электрохимической подготовке Удоканской окисленной медной руды",
+      "canonical_name": "experiments on electrochemical preparation of oxidized copper ore from Udokan",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    },
+    {
+      "id": "10",
+      "type": "Publication",
+      "name": "«Обогащение руд». 2024. № 5.",
+      "canonical_name": "Enrichment of Ores. 2024. № 5.",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Химико-металлургический институт им. Ж. Абишева",
+      "canonical_name": "Chemical and Metallurgical Institute named after Zh. Abishev",
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": 800.0,
+      "unit": "°С",
+      "condition": "нижняя граница температуры",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": 850.0,
+      "unit": "°С",
+      "condition": "верхняя граница температуры",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": 5.0,
+      "unit": "%",
+      "condition": "оптимальная влажность",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": 20.0,
+      "unit": "мин",
+      "condition": "оптимальное время выдержки",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "давление перегретого пара",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": 800.0,
+      "unit": "°С",
+      "condition": "нижняя граница температуры",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": 850.0,
+      "unit": "°С",
+      "condition": "верхняя граница температуры",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": 5.0,
+      "unit": "%",
+      "condition": "оптимальная влажность",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": 20.0,
+      "unit": "мин",
+      "condition": "оптимальное время выдержки",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 14,
+        "page_start": 17,
+        "page_end": 17
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": 800.0,
+      "unit": "°C",
+      "condition": "temperature",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": 850.0,
+      "unit": "°C",
+      "condition": "temperature",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": 5.0,
+      "unit": "%",
+      "condition": "moisture content",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": 20.0,
+      "unit": "min",
+      "condition": "duration",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 91.0,
+      "unit": "%",
+      "condition": "carbon content",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 95.0,
+      "unit": "%",
+      "condition": "carbon content",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 39.5,
+      "unit": "%",
+      "condition": "degree of crystallinity",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 8.2,
+      "unit": "%",
+      "condition": "ash content",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 0.58,
+      "unit": "%",
+      "condition": "moisture content",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 0.06,
+      "unit": "%",
+      "condition": "sulfur content",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 0.78,
+      "unit": "%",
+      "condition": "iron content",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 0.0,
+      "unit": "%",
+      "condition": "volatile matter content",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "validated_by",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "validated_by",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "validated_by",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "described_in",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "affiliated_with",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 16,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": 50.0,
+      "unit": "A/m2",
+      "condition": "maximum copper recovery",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": 75.0,
+      "unit": "A/m2",
+      "condition": "maximum copper recovery",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": 2.0,
+      "unit": "g/l",
+      "condition": "optimal sulfidizer concentration",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": 3.0,
+      "unit": "g/l",
+      "condition": "optimal sulfidizer concentration",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": 60.0,
+      "unit": "min",
+      "condition": "optimal process duration",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 95.42,
+      "unit": "%",
+      "condition": "optimal conditions",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "validated_by",
+      "target_id": "5",
+      "numeric_value": 94.37,
+      "unit": "%",
+      "condition": "experimental copper recovery",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "described_in",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "affiliated_with",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 5-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 24,
+        "page_end": 24
+      }
+    }
+  ]
+}

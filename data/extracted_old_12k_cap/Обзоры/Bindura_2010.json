@@ -1,0 +1,766 @@
+{
+  "filename": "Bindura_2010.pdf",
+  "category": "Обзоры",
+  "entities": [
+    {
+      "id": "F1",
+      "type": "Facility",
+      "name": "Trojan mine",
+      "canonical_name": "trojan mine",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "F2",
+      "type": "Facility",
+      "name": "Shangani mine",
+      "canonical_name": "shangani mine",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "F3",
+      "type": "Facility",
+      "name": "Bindura smelting‑refining complex",
+      "canonical_name": "bindura smelting‑refining complex",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "M1",
+      "type": "Material",
+      "name": "Nickel",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "M2",
+      "type": "Material",
+      "name": "Refined nickel",
+      "canonical_name": "refined nickel",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E1",
+      "type": "Equipment",
+      "name": "Oxygen injection unit",
+      "canonical_name": "oxygen injection unit",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "M3",
+      "type": "Material",
+      "name": "Oxygen",
+      "canonical_name": "oxygen",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "X1",
+      "type": "Expert",
+      "name": "K. Mpinga",
+      "canonical_name": "k. mpinga",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "X2",
+      "type": "Expert",
+      "name": "Oliver Baring",
+      "canonical_name": "oliver baring",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "P1",
+      "type": "Property",
+      "name": "Throughput",
+      "canonical_name": "throughput",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "e1",
+      "type": "Facility",
+      "name": "Trojan mine",
+      "canonical_name": "trojan mine",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e2",
+      "type": "Facility",
+      "name": "Shangani mine",
+      "canonical_name": "shangani mine",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e3",
+      "type": "Facility",
+      "name": "Hunter’s Road mine",
+      "canonical_name": "hunter’s road mine",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e4",
+      "type": "Publication",
+      "name": "SRK Consulting. An Independent Technical Report on Bindura Nickel Corporation, Freda Rebecca Mine and Semkhat. July 2007",
+      "canonical_name": "srk consulting report 2007",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e5",
+      "type": "Process",
+      "name": "concentration",
+      "canonical_name": "concentration",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e6",
+      "type": "Equipment",
+      "name": "conveyor",
+      "canonical_name": "conveyor",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e7",
+      "type": "Material",
+      "name": "nickel",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e1",
+      "type": "Material",
+      "name": "руда Trojan",
+      "canonical_name": "trojan ore",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "e2",
+      "type": "Material",
+      "name": "концентрат никеля",
+      "canonical_name": "nickel concentrate",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "e3",
+      "type": "Process",
+      "name": "дробление",
+      "canonical_name": "crushing",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "e4",
+      "type": "Process",
+      "name": "сушка концентратов",
+      "canonical_name": "drying",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "e5",
+      "type": "Equipment",
+      "name": "щёковая дробилка",
+      "canonical_name": "jaw crusher",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "e6",
+      "type": "Equipment",
+      "name": "конусная дробилка",
+      "canonical_name": "cone crusher",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "e7",
+      "type": "Equipment",
+      "name": "вращающаяся сушильная печь",
+      "canonical_name": "rotary dryer",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "e8",
+      "type": "Property",
+      "name": "содержание MgO",
+      "canonical_name": "MgO content",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "e9",
+      "type": "Property",
+      "name": "влажность",
+      "canonical_name": "moisture",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "e10",
+      "type": "Facility",
+      "name": "плавильный завод",
+      "canonical_name": "smelting plant",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "e11",
+      "type": "Equipment",
+      "name": "электропечь",
+      "canonical_name": "electric furnace",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "e12",
+      "type": "Publication",
+      "name": "Dzingayi 2006",
+      "canonical_name": "Dzingayi 2006",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "e13",
+      "type": "Expert",
+      "name": "E. Dzingayi",
+      "canonical_name": "E. Dzingayi",
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "F1",
+      "relation": "operates_at_condition",
+      "target_id": "P1",
+      "numeric_value": 1.1,
+      "unit": "Mt/yr",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "F2",
+      "relation": "operates_at_condition",
+      "target_id": "P1",
+      "numeric_value": 1.0,
+      "unit": "Mt/yr",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "F3",
+      "relation": "produces_output",
+      "target_id": "M1",
+      "numeric_value": 17000.0,
+      "unit": "t/yr",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "F3",
+      "relation": "produces_output",
+      "target_id": "M2",
+      "numeric_value": 14500.0,
+      "unit": "t/yr",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "E1",
+      "relation": "uses_material",
+      "target_id": "M3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "described_in",
+      "target_id": "e4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "e2",
+      "relation": "described_in",
+      "target_id": "e4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "e3",
+      "relation": "described_in",
+      "target_id": "e4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "e5",
+      "relation": "described_in",
+      "target_id": "e4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "e6",
+      "relation": "described_in",
+      "target_id": "e4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "e5",
+      "relation": "produces_output",
+      "target_id": "e7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "e3",
+      "relation": "uses_material",
+      "target_id": "e1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "e4",
+      "relation": "uses_material",
+      "target_id": "e2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "e3",
+      "relation": "produces_output",
+      "target_id": "e2",
+      "numeric_value": 70.0,
+      "unit": "%",
+      "condition": "average",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "e2",
+      "relation": "described_in",
+      "target_id": "e12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "described_in",
+      "target_id": "e12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "e8",
+      "relation": "described_in",
+      "target_id": "e12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "e9",
+      "relation": "described_in",
+      "target_id": "e12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "e13",
+      "relation": "described_in",
+      "target_id": "e12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "e5",
+      "relation": "described_in",
+      "target_id": "e12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "e6",
+      "relation": "described_in",
+      "target_id": "e12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "e7",
+      "relation": "described_in",
+      "target_id": "e12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "e11",
+      "relation": "described_in",
+      "target_id": "e12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Bindura_2010.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 6,
+        "page_end": 7
+      }
+    }
+  ]
+}

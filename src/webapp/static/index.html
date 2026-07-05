@@ -162,6 +162,37 @@
     text-align: center; color: var(--muted); font-family: 'Space Mono', monospace;
     font-size: 10px; letter-spacing: 0.04em; padding-top: 10px;
   }
+
+  .upload-row {
+    display: flex; align-items: center; gap: 12px; margin: 4px 0 12px;
+    flex-wrap: wrap;
+  }
+  .explorer-controls { display: flex; gap: 8px; margin-bottom: 10px; }
+  .explorer-controls input {
+    flex: 1; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 8px; color: var(--ink); padding: 9px 12px; font-size: 13px; outline: none;
+  }
+  .explorer-controls input:focus { border-color: var(--accent); }
+  .explorer-controls button {
+    background: var(--accent-soft); color: var(--accent); border: 1px solid var(--accent);
+    border-radius: 8px; padding: 8px 14px; font-size: 13px; cursor: pointer; white-space: nowrap;
+  }
+  .explorer-controls button:disabled { opacity: .5; cursor: wait; }
+  .type-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .type-chip {
+    font-family: 'Space Mono', monospace; font-size: 11px; padding: 4px 10px;
+    border-radius: 20px; border: 1px solid rgba(255,255,255,0.14); color: var(--muted);
+    cursor: pointer; user-select: none;
+  }
+  .type-chip.on { color: #fff; border-color: currentColor; }
+  .upload-btn {
+    background: transparent; color: var(--muted); border: 1px dashed var(--muted);
+    border-radius: 8px; padding: 8px 14px; font-size: 13px; cursor: pointer;
+    transition: color .15s, border-color .15s;
+  }
+  .upload-btn:hover { color: var(--fg, #fff); border-color: var(--fg, #fff); }
+  .upload-btn:disabled { opacity: .5; cursor: wait; }
+  .upload-status { font-size: 11px; color: var(--muted); }
 </style>
 </head>
 <body>
@@ -180,6 +211,23 @@
   </div>
 
   <div class="examples" id="examples"></div>
+
+  <div class="upload-row">
+    <input id="pdf-file" type="file" accept=".pdf" style="display:none" />
+    <button id="upload-btn" class="upload-btn">+ Добавить свой PDF в граф</button>
+    <button id="explorer-btn" class="upload-btn">◉ Обзор графа</button>
+    <span id="upload-status" class="upload-status mono"></span>
+  </div>
+
+  <div class="card" id="explorer-card" style="display:none">
+    <div class="panel-title">Обзор графа знаний<small id="explorer-count"></small></div>
+    <div class="explorer-controls">
+      <input id="gq" type="text" placeholder="фильтр по названию узла… (пусто = топ по упоминаемости)" />
+      <button id="browse-btn">Показать</button>
+      <button id="discover-btn" title="Harmonic находит смысловые затравки по запросу и раскрывает связи вокруг них">Найти связи (Harmonic)</button>
+    </div>
+    <div class="type-chips" id="type-chips"></div>
+  </div>
 
   <div class="loading" id="loading">
     <span class="dot"></span><span class="dot"></span><span class="dot"></span>
@@ -242,6 +290,37 @@ const sourcesBlock = document.getElementById("sources-block");
 input.addEventListener("keydown", e => { if (e.key === "Enter") ask(); });
 btn.addEventListener("click", ask);
 
+const uploadBtn = document.getElementById("upload-btn");
+const pdfFile = document.getElementById("pdf-file");
+const uploadStatus = document.getElementById("upload-status");
+
+uploadBtn.addEventListener("click", () => pdfFile.click());
+pdfFile.addEventListener("change", async () => {
+  const f = pdfFile.files[0];
+  if (!f) return;
+  uploadBtn.disabled = true;
+  uploadStatus.textContent = `«${f.name}»: извлекаем факты (обычно до минуты)…`;
+  try {
+    const fd = new FormData();
+    fd.append("file", f);
+    const r = await fetch("/api/upload", { method: "POST", body: fd });
+    const d = await r.json();
+    if (d.ok) {
+      uploadStatus.textContent =
+        `«${d.filename}»: +${d.entities} сущностей, +${d.relations} связей, ` +
+        `+${d.new_graph_nodes} новых узлов графа. Документ уже доступен в поиске.`;
+      loadStats();
+    } else {
+      uploadStatus.textContent = `Ошибка: ${d.error || "неизвестная"}`;
+    }
+  } catch (e) {
+    uploadStatus.textContent = `Ошибка загрузки: ${e}`;
+  } finally {
+    uploadBtn.disabled = false;
+    pdfFile.value = "";
+  }
+});
+
 async function ask() {
   const question = input.value.trim();
   if (!question) return;
@@ -249,6 +328,9 @@ async function ask() {
   loading.classList.add("show");
   result.classList.remove("show");
   stopGraph();
+  // возврат из режима обзора графа к обычному виду ответа
+  gHeight = 340;
+  answerCard.style.display = "";
 
   try {
     const r = await fetch("/api/ask", {
@@ -389,11 +471,13 @@ const gcanvas = document.getElementById("graph-canvas");
 const gctx = gcanvas.getContext("2d");
 let gNodes = [], gEdges = [], gRAF = null, gDragging = null, gHover = null, gDPR = 1;
 
+let gHeight = 340;  // режим ответа: 340, режим обзора графа: выше
 function resizeGraphCanvas() {
   gDPR = Math.min(window.devicePixelRatio || 1, 2);
   const r = gcanvas.getBoundingClientRect();
   gcanvas.width = Math.ceil(r.width * gDPR);
-  gcanvas.height = Math.ceil(340 * gDPR);
+  gcanvas.height = Math.ceil(gHeight * gDPR);
+  gcanvas.style.height = gHeight + "px";
 }
 
 function startGraph(graph) {
@@ -477,6 +561,11 @@ function simTick() {
   for (const n of gNodes) {
     gctx.fillStyle = TYPE_COLOR[n.type] || "#999";
     gctx.beginPath(); gctx.arc(n.x, n.y, n.r, 0, 6.2832); gctx.fill();
+    if (n.seed) {  // затравки Harmonic -- белое кольцо
+      gctx.strokeStyle = "rgba(255,255,255,0.85)";
+      gctx.lineWidth = 1.4 * gDPR;
+      gctx.beginPath(); gctx.arc(n.x, n.y, n.r + 2.5 * gDPR, 0, 6.2832); gctx.stroke();
+    }
   }
   gctx.font = `${10 * gDPR}px 'Space Mono', monospace`;
   const topLabeled = [...gNodes].sort((a,b) => b.degree - a.degree).slice(0, 6);
@@ -601,6 +690,82 @@ function bgTick(ts) {
   requestAnimationFrame(bgTick);
 }
 requestAnimationFrame(bgTick);
+
+// ══════════════ обзор графа (a-la Obsidian, весь корпус) ══════════════
+const explorerCard = document.getElementById("explorer-card");
+const explorerBtn = document.getElementById("explorer-btn");
+const browseBtn = document.getElementById("browse-btn");
+const discoverBtn = document.getElementById("discover-btn");
+const gqInput = document.getElementById("gq");
+const typeChipsEl = document.getElementById("type-chips");
+const explorerCount = document.getElementById("explorer-count");
+const activeTypes = new Set(Object.keys(TYPE_COLOR));  // все включены
+
+Object.keys(TYPE_COLOR).forEach(t => {
+  const chip = document.createElement("span");
+  chip.className = "type-chip on";
+  chip.textContent = t;
+  chip.style.color = TYPE_COLOR[t];
+  chip.onclick = () => {
+    if (activeTypes.has(t)) { activeTypes.delete(t); chip.classList.remove("on"); }
+    else { activeTypes.add(t); chip.classList.add("on"); }
+  };
+  typeChipsEl.appendChild(chip);
+});
+
+explorerBtn.addEventListener("click", () => {
+  const showing = explorerCard.style.display !== "none";
+  explorerCard.style.display = showing ? "none" : "block";
+  if (!showing) browseGraph();
+});
+browseBtn.addEventListener("click", browseGraph);
+discoverBtn.addEventListener("click", discoverGraph);
+gqInput.addEventListener("keydown", e => { if (e.key === "Enter") browseGraph(); });
+
+function showExplorerGraph(d, note) {
+  // показываем только карточку графа, ответ/источники прячем
+  answerCard.style.display = "none";
+  sourcesBlock.innerHTML = "";
+  document.getElementById("graph-card").style.display = "block";
+  result.classList.add("show");
+  gHeight = 560;
+  document.getElementById("graph-count").textContent = note;
+  stopGraph();
+  startGraph(d);
+}
+
+async function browseGraph() {
+  browseBtn.disabled = discoverBtn.disabled = true;
+  try {
+    const params = new URLSearchParams({
+      q: gqInput.value.trim(), types: [...activeTypes].join(","), limit: "250",
+    });
+    const r = await fetch(`/api/graph/browse?${params}`);
+    const d = await r.json();
+    explorerCount.textContent = ` совпадений: ${d.total_matched}, показано: ${d.nodes.length}`;
+    showExplorerGraph(d, ` обзор: ${d.nodes.length} узлов / ${d.edges.length} связей`);
+  } finally {
+    browseBtn.disabled = discoverBtn.disabled = false;
+  }
+}
+
+async function discoverGraph() {
+  const query = gqInput.value.trim();
+  if (!query) { gqInput.placeholder = "для нейро-поиска связей введи запрос…"; return; }
+  browseBtn.disabled = discoverBtn.disabled = true;
+  explorerCount.textContent = " Harmonic ищет смысловые затравки…";
+  try {
+    const r = await fetch("/api/graph/discover", {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ query }),
+    });
+    const d = await r.json();
+    explorerCount.textContent = ` найдено затравок: ${d.total_matched}, показано: ${d.nodes.length}`;
+    showExplorerGraph(d, ` связи вокруг запроса (◉ = затравки Harmonic)`);
+  } finally {
+    browseBtn.disabled = discoverBtn.disabled = false;
+  }
+}
 </script>
 </body>
 </html>

@@ -1,0 +1,773 @@
+{
+  "filename": "Доклад_Румянцев А.Е.pdf",
+  "category": "Доклады",
+  "entities": [
+    {
+      "id": "e1",
+      "type": "Facility",
+      "name": "Лаборатория геотехники ООО «Институт Гипроникель»",
+      "canonical_name": "Laboratory of Geotechnics Institute Gipro Nickel",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e2",
+      "type": "Expert",
+      "name": "Александр Евгеньевич Румянцев",
+      "canonical_name": "Alexander Evgenievich Rumyantsev",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e3",
+      "type": "Process",
+      "name": "Блочное геомеханическое моделирование",
+      "canonical_name": "block geomechanical modeling",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e4",
+      "type": "Process",
+      "name": "Численное моделирование",
+      "canonical_name": "numerical modeling",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e5",
+      "type": "Process",
+      "name": "Метод полной разгрузки керна",
+      "canonical_name": "full core unloading method",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e6",
+      "type": "Equipment",
+      "name": "буровое оборудование",
+      "canonical_name": "drilling equipment",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e7",
+      "type": "Experiment",
+      "name": "Механические испытания горных пород",
+      "canonical_name": "mechanical testing of rock",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e8",
+      "type": "Experiment",
+      "name": "Механические испытания щебня",
+      "canonical_name": "mechanical testing of aggregate",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e9",
+      "type": "Process",
+      "name": "Разработка закладочных смесей",
+      "canonical_name": "backfill mix development",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e10",
+      "type": "Process",
+      "name": "Полевой геотехнический мониторинг",
+      "canonical_name": "field geotechnical monitoring",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e11",
+      "type": "Process",
+      "name": "Оптимизация буровзрывных работ",
+      "canonical_name": "drilling and blasting optimization",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e12",
+      "type": "Process",
+      "name": "Оценка рисков деформаций",
+      "canonical_name": "risk assessment of deformations",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e13",
+      "type": "Process",
+      "name": "Геомеханическое обоснование отработки месторождений",
+      "canonical_name": "geomechanical justification of orebody depletion",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e14",
+      "type": "Property",
+      "name": "Напряженно‑деформированное состояние массива",
+      "canonical_name": "stress‑deformation state of rock mass",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "E1",
+      "type": "Equipment",
+      "name": "акустический сканер скважин (ATV)",
+      "canonical_name": "acoustic well scanning (ATV)",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "E2",
+      "type": "Process",
+      "name": "обработка данных акустического сканирования скважин",
+      "canonical_name": "acoustic data processing",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "E3",
+      "type": "Process",
+      "name": "разбуривание керна методом оверкоринг",
+      "canonical_name": "overcoring",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "E4",
+      "type": "Equipment",
+      "name": "радиальный экстензометр",
+      "canonical_name": "radial extensometer",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "E5",
+      "type": "Equipment",
+      "name": "осевой экстензометр",
+      "canonical_name": "axial extensometer",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "E6",
+      "type": "Equipment",
+      "name": "проводной 4-х компонентный скважинный экстензометр",
+      "canonical_name": "wired 4-component well extensometer",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "E7",
+      "type": "Equipment",
+      "name": "беспроводной 6-и компонентный скважинный экстензометр",
+      "canonical_name": "wireless 6-component well extensometer",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "E8",
+      "type": "Process",
+      "name": "численное моделирование CAE Fidesys",
+      "canonical_name": "numerical modeling CAE Fidesys",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "E9",
+      "type": "Process",
+      "name": "блочное геомеханическое моделирование",
+      "canonical_name": "block geomechanical modeling",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "E10",
+      "type": "Facility",
+      "name": "геомеханическая блочная модель (ГБМ)",
+      "canonical_name": "geomechanical block model",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "E11",
+      "type": "Material",
+      "name": "жесткие породы",
+      "canonical_name": "hard rock",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "E12",
+      "type": "Process",
+      "name": "тарировка радиального экстензометра",
+      "canonical_name": "calibration of radial extensometer",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 6,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "e1",
+      "type": "Process",
+      "name": "Gathering geotechnical information",
+      "canonical_name": "gathering_geotechnical_information",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "e2",
+      "type": "Process",
+      "name": "Block geomechanical modeling",
+      "canonical_name": "block_geomechanical_modeling",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "e3",
+      "type": "Experiment",
+      "name": "Physical‑mechanical testing of core from geotechnical wells",
+      "canonical_name": "physical_mechanical_testing",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "e4",
+      "type": "Property",
+      "name": "Stress",
+      "canonical_name": "stress",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "e5",
+      "type": "Property",
+      "name": "Seismic activity forecast",
+      "canonical_name": "seismic_activity_forecast",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "e6",
+      "type": "Property",
+      "name": "Geological domains",
+      "canonical_name": "geological_domains",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "e7",
+      "type": "Facility",
+      "name": "Database for block geomechanical modeling",
+      "canonical_name": "block_geomechanical_database",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "e8",
+      "type": "Equipment",
+      "name": "Cleaning chamber",
+      "canonical_name": "cleaning_chamber",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "e9",
+      "type": "Property",
+      "name": "ELOS parameter",
+      "canonical_name": "elios",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "e10",
+      "type": "Property",
+      "name": "Height of cleaning chamber H (m)",
+      "canonical_name": "cleaning_chamber_height",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "e11",
+      "type": "Property",
+      "name": "Width of cleaning chamber B (m)",
+      "canonical_name": "cleaning_chamber_width",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "e12",
+      "type": "Property",
+      "name": "Length of cleaning chamber l (m)",
+      "canonical_name": "cleaning_chamber_length",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "e13",
+      "type": "Property",
+      "name": "HR Dilution <0.5 m (ELOS 0.5 m)",
+      "canonical_name": "hr_dilution_lt_0_5m",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "e14",
+      "type": "Property",
+      "name": "HR Dilution 0.5‑1 m (ELOS 1 m)",
+      "canonical_name": "hr_dilution_0_5_1m",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "e15",
+      "type": "Property",
+      "name": "HR Dilution 1‑2 m (ELOS 2 m)",
+      "canonical_name": "hr_dilution_1_2m",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "e16",
+      "type": "Property",
+      "name": "HR Dilution >2 m (ELOS >2 m)",
+      "canonical_name": "hr_dilution_gt_2m",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "E1",
+      "type": "Process",
+      "name": "БЛОЧНОЕ ГЕОМЕХАНИЧЕСКОЕ МОДЕЛИРОВАНИЕ",
+      "canonical_name": "block geomechanical modeling",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 12,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "E2",
+      "type": "Process",
+      "name": "ЧИСЛЕННОЕ ГЕОМЕХАНИЧЕСКОЕ МОДЕЛИРОВАНИЕ",
+      "canonical_name": "numerical geomechanical modeling",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 12,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "E3",
+      "type": "Equipment",
+      "name": "CAD среда",
+      "canonical_name": "CAD environment",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 12,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "E4",
+      "type": "Equipment",
+      "name": "CAE Fidesys",
+      "canonical_name": "CAE Fidesys",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 12,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "E5",
+      "type": "Equipment",
+      "name": "конечно‑элементная программа",
+      "canonical_name": "finite element program",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 12,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "E6",
+      "type": "Property",
+      "name": "Размер модели (коэффициент 3‑5)",
+      "canonical_name": "model size factor",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 12,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "E7",
+      "type": "Property",
+      "name": "Тектонические нарушения",
+      "canonical_name": "tectonic disturbances",
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 12,
+        "page_end": 14
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "e5",
+      "relation": "uses_material",
+      "target_id": "e6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "e5",
+      "relation": "produces_output",
+      "target_id": "e14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "e3",
+      "relation": "produces_output",
+      "target_id": "e4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "e13",
+      "relation": "produces_output",
+      "target_id": "e10",
+      "numeric_value": 7.04,
+      "unit": "m",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "e14",
+      "relation": "produces_output",
+      "target_id": "e10",
+      "numeric_value": 9.8,
+      "unit": "m",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "e15",
+      "relation": "produces_output",
+      "target_id": "e10",
+      "numeric_value": 12.54,
+      "unit": "m",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "E2",
+      "relation": "operates_at_condition",
+      "target_id": "E6",
+      "numeric_value": 4.0,
+      "unit": "times",
+      "condition": "model size must exceed analysis area size",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 12,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "E2",
+      "relation": "produces_output",
+      "target_id": "E5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Румянцев А.Е.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 12,
+        "page_end": 14
+      }
+    }
+  ]
+}

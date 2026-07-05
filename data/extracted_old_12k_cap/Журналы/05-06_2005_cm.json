@@ -1,0 +1,137 @@
+{
+  "filename": "05-06_2005_cm.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "f1",
+      "type": "Facility",
+      "name": "Угловский известковый комбинат",
+      "canonical_name": "Uglovsky lime plant",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "m1",
+      "type": "Material",
+      "name": "известняк",
+      "canonical_name": "limestone",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "m2",
+      "type": "Material",
+      "name": "известь",
+      "canonical_name": "lime",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "p1",
+      "type": "Process",
+      "name": "обжиг известняка",
+      "canonical_name": "lime calcination",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "e1",
+      "type": "Expert",
+      "name": "А. В. Сысоев",
+      "canonical_name": "A. V. Sysoev",
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "f1",
+      "relation": "produces_output",
+      "target_id": "m2",
+      "numeric_value": 320000.0,
+      "unit": "t/year",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "produces_output",
+      "target_id": "m2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "uses_material",
+      "target_id": "m1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "high quality raw material with unique chemical composition",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "f1",
+      "relation": "uses_material",
+      "target_id": "m1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "high quality raw material with unique chemical composition",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "05-06_2005_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    }
+  ]
+}

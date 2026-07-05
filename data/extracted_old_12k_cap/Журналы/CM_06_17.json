@@ -1,0 +1,398 @@
+{
+  "filename": "CM_06_17.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "pub1",
+      "type": "Publication",
+      "name": "Цветные металлы",
+      "canonical_name": "Цветные металлы",
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "fac1",
+      "type": "Facility",
+      "name": "АО «Издательский дом «Руда и Металлы»",
+      "canonical_name": "АО «Издательский дом «Руда и Металлы»",
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "fac2",
+      "type": "Facility",
+      "name": "НИТУ «МИСиС»",
+      "canonical_name": "НИТУ «МИСиС»",
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "fac3",
+      "type": "Facility",
+      "name": "ПАО «ГМК «Норильский никель»",
+      "canonical_name": "ПАО «ГМК «Норильский никель»",
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "fac4",
+      "type": "Facility",
+      "name": "ФГАОУ ВО «Национальный исследовательский Томский политехнический университет»",
+      "canonical_name": "ФГАОУ ВО «Национальный исследовательский Томский политехнический университет»",
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "fac5",
+      "type": "Facility",
+      "name": "ФГАОУ ВО «Национальный исследовательский ядерный университет «МИФИ»",
+      "canonical_name": "ФГАОУ ВО «Национальный исследовательский ядерный университет «МИФИ»",
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "fac6",
+      "type": "Facility",
+      "name": "ФГБУК «Государственный Эрмитаж»",
+      "canonical_name": "ФГБУК «Государственный Эрмитаж»",
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "fac7",
+      "type": "Facility",
+      "name": "ГП «Навоийский горно-металлургический комбинат»",
+      "canonical_name": "ГП «Навоийский горно-металлургический комбинат»",
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "fac8",
+      "type": "Facility",
+      "name": "АО «Научно-проектное объединение «РИВС»",
+      "canonical_name": "АО «Научно-проектное объединение «РИВС»",
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "fac9",
+      "type": "Facility",
+      "name": "Научно-технический союз по горному делу, геологии и металлургии (Республика Болгария)",
+      "canonical_name": "Научно-технический союз по горному делу, геологии и металлургии (Республика Болгария)",
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "exp1",
+      "type": "Expert",
+      "name": "А. В. Сысоев",
+      "canonical_name": "A. V. Sysoev",
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "exp2",
+      "type": "Expert",
+      "name": "А. В. Путилов",
+      "canonical_name": "A. V. Putilov",
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "exp3",
+      "type": "Expert",
+      "name": "А. Г. Воробьев",
+      "canonical_name": "A. G. Vorobyov",
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "exp4",
+      "type": "Expert",
+      "name": "Н. В. Шаркина",
+      "canonical_name": "N. V. Sharkina",
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "fac1",
+      "relation": "produces_output",
+      "target_id": "pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "pub1",
+      "relation": "described_in",
+      "target_id": "fac2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "pub1",
+      "relation": "described_in",
+      "target_id": "fac3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "pub1",
+      "relation": "described_in",
+      "target_id": "fac4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "pub1",
+      "relation": "described_in",
+      "target_id": "fac5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "pub1",
+      "relation": "described_in",
+      "target_id": "fac6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "pub1",
+      "relation": "described_in",
+      "target_id": "fac7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "pub1",
+      "relation": "described_in",
+      "target_id": "fac8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "pub1",
+      "relation": "described_in",
+      "target_id": "fac9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "exp1",
+      "relation": "described_in",
+      "target_id": "pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "exp2",
+      "relation": "described_in",
+      "target_id": "pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "exp3",
+      "relation": "described_in",
+      "target_id": "pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "exp4",
+      "relation": "described_in",
+      "target_id": "pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_06_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    }
+  ]
+}

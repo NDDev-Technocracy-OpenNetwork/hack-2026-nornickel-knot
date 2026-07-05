@@ -1,0 +1,489 @@
+{
+  "filename": "CM_10_17.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "цинк",
+      "canonical_name": "zinc",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "свинец",
+      "canonical_name": "lead",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "меди",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "цинковый концентрат",
+      "canonical_name": "zinc concentrate",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "свинцовый концентрат",
+      "canonical_name": "lead concentrate",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "олово",
+      "canonical_name": "tin",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "кобальт",
+      "canonical_name": "cobalt",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Kazzinc",
+      "canonical_name": "Kazzinc",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Geominera",
+      "canonical_name": "Geominera",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Trafigura",
+      "canonical_name": "Trafigura",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Vale",
+      "canonical_name": "Vale",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Glencore/Xstrata",
+      "canonical_name": "Glencore/Xstrata",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Sherritt International",
+      "canonical_name": "Sherritt International",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "14",
+      "type": "Facility",
+      "name": "Nikkelverk",
+      "canonical_name": "Nikkelverk",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "15",
+      "type": "Facility",
+      "name": "Murrin Murrin",
+      "canonical_name": "Murrin Murrin",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "16",
+      "type": "Facility",
+      "name": "НИТУ «МИСиС»",
+      "canonical_name": "MIPT",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "17",
+      "type": "Expert",
+      "name": "С. И. Корнеев",
+      "canonical_name": "S. I. Korneev",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "18",
+      "type": "Publication",
+      "name": "ЭКОНОМИКА И УПРАВЛЕНИЕ ПРОИЗВОДСТВОМ",
+      "canonical_name": "ECONOMICS AND PRODUCTION MANAGEMENT",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "19",
+      "type": "Publication",
+      "name": "World Bureau of Metal Statistics",
+      "canonical_name": "World Bureau of Metal Statistics",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "20",
+      "type": "Publication",
+      "name": "BMI Research",
+      "canonical_name": "BMI Research",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "21",
+      "type": "Publication",
+      "name": "Про мышленные инвестиционные проекты: теория и практика инжиниринга",
+      "canonical_name": "Industrial Investment Projects: Theory and Practice of Engineering",
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": 152500.0,
+      "unit": "tonnes",
+      "condition": "I полугодие 2017 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": 73400.0,
+      "unit": "tonnes",
+      "condition": "I полугодие 2017 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": 34100.0,
+      "unit": "tonnes",
+      "condition": "I полугодие 2017 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": 100000.0,
+      "unit": "tonnes/year",
+      "condition": "Castellanos (Куба)",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "operates_at_condition",
+      "target_id": "5",
+      "numeric_value": 50000.0,
+      "unit": "tonnes/year",
+      "condition": "Castellanos (Куба)",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": 1412.0,
+      "unit": "tonnes",
+      "condition": "II квартал 2017 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": 1800.0,
+      "unit": "tonnes",
+      "condition": "I полугодие 2017 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": 1300.0,
+      "unit": "tonnes",
+      "condition": "I полугодие 2017 г. на комбинате Murrin Murrin",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": 872.0,
+      "unit": "tonnes",
+      "condition": "II квартал 2017 г. в Канаде",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": 675.0,
+      "unit": "tonnes",
+      "condition": "II квартал 2017 г. на Мадагаскаре",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "affiliated_with",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "described_in",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "described_in",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_10_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    }
+  ]
+}

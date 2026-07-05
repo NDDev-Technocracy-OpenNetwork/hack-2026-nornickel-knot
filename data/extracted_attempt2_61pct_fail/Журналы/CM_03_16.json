@@ -1,0 +1,695 @@
+{
+  "filename": "CM_03_16.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "m1",
+      "type": "Material",
+      "name": "серная кислота",
+      "canonical_name": "sulfuric_acid",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "m2",
+      "type": "Material",
+      "name": "элементная сера",
+      "canonical_name": "elemental_sulfur",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "m3",
+      "type": "Material",
+      "name": "никель",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "m4",
+      "type": "Material",
+      "name": "кобальт",
+      "canonical_name": "cobalt",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "m5",
+      "type": "Material",
+      "name": "железогипсовый осадок",
+      "canonical_name": "ferric_gypsum_precipitate",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "m6",
+      "type": "Material",
+      "name": "руды Белининского месторождения",
+      "canonical_name": "Belinin_rud",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "m7",
+      "type": "Material",
+      "name": "руды Кемпирсайской группы",
+      "canonical_name": "Kempirsay_rud",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "m8",
+      "type": "Material",
+      "name": "руды Гумешевского месторождения",
+      "canonical_name": "Gumishev_rud",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "m9",
+      "type": "Material",
+      "name": "руды Куликовской группы месторождений",
+      "canonical_name": "Kulikov_rud",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "p1",
+      "type": "Process",
+      "name": "автоклавное выщелачивание",
+      "canonical_name": "autoclave_leaching",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "p2",
+      "type": "Process",
+      "name": "кучное выщелачивание",
+      "canonical_name": "heap_leaching",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "p3",
+      "type": "Process",
+      "name": "подземное выщелачивание",
+      "canonical_name": "in_situ_leaching",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "p4",
+      "type": "Process",
+      "name": "гидролитическая очистка",
+      "canonical_name": "hydrolytic_purification",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "p5",
+      "type": "Process",
+      "name": "осаждение никеля гидроксидом магния",
+      "canonical_name": "nickel_precipitation_magnesium_hydroxide",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "p6",
+      "type": "Process",
+      "name": "агитационное выщелачивание",
+      "canonical_name": "agitated_leaching",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "p7",
+      "type": "Process",
+      "name": "обжиг руды",
+      "canonical_name": "roasting",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "e1",
+      "type": "Equipment",
+      "name": "автоклав",
+      "canonical_name": "autoclave",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "e2",
+      "type": "Equipment",
+      "name": "установка",
+      "canonical_name": "installation",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "f1",
+      "type": "Facility",
+      "name": "Среднеуральский медеплавильный завод",
+      "canonical_name": "Sredneural_silver_smelter",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "f2",
+      "type": "Facility",
+      "name": "ООО «Святогор»",
+      "canonical_name": "Svyatogor",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "f3",
+      "type": "Facility",
+      "name": "Челябинский цинковый завод",
+      "canonical_name": "Chelyabinsk_zinc_plant",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "f4",
+      "type": "Facility",
+      "name": "ЗАО «Карабашмедь»",
+      "canonical_name": "Karabashmed",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "f5",
+      "type": "Facility",
+      "name": "кафедра металлургии тяжелых цветных металлов Уральского федерального университета",
+      "canonical_name": "Ural_Federal_University_heavy_nonferrous_metallurgy",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "p10",
+      "type": "Publication",
+      "name": "[12]",
+      "canonical_name": "pub12",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "p11",
+      "type": "Publication",
+      "name": "[15]",
+      "canonical_name": "pub15",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "p12",
+      "type": "Publication",
+      "name": "[16]",
+      "canonical_name": "pub16",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "p13",
+      "type": "Publication",
+      "name": "[18]",
+      "canonical_name": "pub18",
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "p1",
+      "relation": "operates_at_condition",
+      "target_id": "m1",
+      "numeric_value": 300.0,
+      "unit": "kg/t",
+      "condition": "225 оС, 100 % класса –850 мкм",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "produces_output",
+      "target_id": "m3",
+      "numeric_value": 87.3,
+      "unit": "%",
+      "condition": "за один час",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "produces_output",
+      "target_id": "m4",
+      "numeric_value": 88.8,
+      "unit": "%",
+      "condition": "за один час",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p2",
+      "relation": "uses_material",
+      "target_id": "m1",
+      "numeric_value": 200.0,
+      "unit": "kg/t",
+      "condition": "за 190 сут",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p2",
+      "relation": "produces_output",
+      "target_id": "m3",
+      "numeric_value": 85.0,
+      "unit": "%",
+      "condition": "за 190 сут",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p2",
+      "relation": "produces_output",
+      "target_id": "m3",
+      "numeric_value": 74.0,
+      "unit": "%",
+      "condition": "сквозное извлечение",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p3",
+      "relation": "uses_material",
+      "target_id": "m1",
+      "numeric_value": 10.0,
+      "unit": "g/dm3",
+      "condition": "плотность орошения 100–300 дм3/т руды с паузами между орошениями от 3 до 4 сут",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p7",
+      "relation": "operates_at_condition",
+      "target_id": "m1",
+      "numeric_value": 200.0,
+      "unit": "g/dm3",
+      "condition": "500 оС, 30 мин",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p7",
+      "relation": "produces_output",
+      "target_id": "m3",
+      "numeric_value": 78.0,
+      "unit": "%",
+      "condition": "извлечение никеля",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p7",
+      "relation": "produces_output",
+      "target_id": "m4",
+      "numeric_value": 85.0,
+      "unit": "%",
+      "condition": "извлечение кобальта",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "uses_material",
+      "target_id": "m2",
+      "numeric_value": 18.0,
+      "unit": "%",
+      "condition": "210 оС",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "produces_output",
+      "target_id": "m3",
+      "numeric_value": 91.0,
+      "unit": "%",
+      "condition": "извлечение никеля",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "produces_output",
+      "target_id": "m4",
+      "numeric_value": 92.1,
+      "unit": "%",
+      "condition": "извлечение кобальта",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p6",
+      "relation": "uses_material",
+      "target_id": "m1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "без ограничения расхода кислоты",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p6",
+      "relation": "described_in",
+      "target_id": "p10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p6",
+      "relation": "described_in",
+      "target_id": "p11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p6",
+      "relation": "described_in",
+      "target_id": "p12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p6",
+      "relation": "described_in",
+      "target_id": "p13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p6",
+      "relation": "uses_material",
+      "target_id": "m6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p6",
+      "relation": "operates_at_condition",
+      "target_id": "m1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "без ограничения расхода кислоты",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "source_id": "p6",
+      "relation": "described_in",
+      "target_id": "f5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 21,
+        "page_start": 26,
+        "page_end": 26
+      }
+    }
+  ]
+}

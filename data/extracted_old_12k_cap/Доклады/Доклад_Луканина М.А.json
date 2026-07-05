@@ -1,0 +1,1112 @@
+{
+  "filename": "Доклад_Луканина М.А.pdf",
+  "category": "Доклады",
+  "entities": [
+    {
+      "id": "e1",
+      "type": "Process",
+      "name": "МАТЕМАТИЧЕСКОЕ МОДЕЛИРОВАНИЕ",
+      "canonical_name": "mathematical modeling",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e2",
+      "type": "Process",
+      "name": "CFD – Вычислительная гидродинамика",
+      "canonical_name": "computational fluid dynamics",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e3",
+      "type": "Process",
+      "name": "Проведение расчетов и обработка результатов",
+      "canonical_name": "calculation and result processing",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e4",
+      "type": "Process",
+      "name": "Создание расчетной модели",
+      "canonical_name": "creation of calculation model",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e5",
+      "type": "Process",
+      "name": "Создание геометрической модели",
+      "canonical_name": "creation of geometric model",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e6",
+      "type": "Process",
+      "name": "Описание задачи",
+      "canonical_name": "problem description",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e7",
+      "type": "Process",
+      "name": "моделирование течения газового пространства печи",
+      "canonical_name": "modeling of furnace gas flow",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e8",
+      "type": "Process",
+      "name": "Определены застойные зоны",
+      "canonical_name": "determination of stagnant zones",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e9",
+      "type": "Process",
+      "name": "Выявлены условия, исключающие работу печи под давлением",
+      "canonical_name": "identification of conditions precluding furnace operation under pressure",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e10",
+      "type": "Process",
+      "name": "МОДЕЛИРОВАНИЕ ПЫЛЕГАЗОВОГО ПОТОКА В ПЕЧИ ВАНЮКОВА",
+      "canonical_name": "modeling of dust and gas flow in Vanyukov furnace",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e11",
+      "type": "Process",
+      "name": "МОДЕЛИРОВАНИЕ ТЕЧЕНИЯ РАСПЛАВА В ПЕЧИ ВАНЮКОВА",
+      "canonical_name": "modeling of melt flow in Vanyukov furnace",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e12",
+      "type": "Process",
+      "name": "моделирование течения расплава и кислородно-воздушной смеси, подаваемой через фурмы",
+      "canonical_name": "modeling of melt and oxygen-air mixture flow supplied through tuyeres",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e13",
+      "type": "Process",
+      "name": "ТЕЧЕНИЕ РАСПЛАВА В ШЛАКОВОМ И ШТЕЙНОВОМ СИФОНАХ ПВ",
+      "canonical_name": "melt flow in PV slag and matte siphons",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e14",
+      "type": "Process",
+      "name": "Исследована зависимость толщины настыли на своде перетока и стенках сифона от теплопотерь стенок с охлаждающими кессонами",
+      "canonical_name": "investigation of crust thickness dependence on transfer roof and siphon walls on heat loss of walls with cooling boxes",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e15",
+      "type": "Process",
+      "name": "Получены картины течения в сифонах и перетоках к ним для различных вариантов геометрии",
+      "canonical_name": "obtained flow patterns in siphons and transfers to them for various geometry options",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e16",
+      "type": "Process",
+      "name": "МОДЕЛИРОВАНИЕ УЗЛА ВЫДАЧИ РАСПЛАВА БАЗАЛЬТА",
+      "canonical_name": "modeling of basalt melt discharge unit",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e17",
+      "type": "Process",
+      "name": "моделирование течения двухфазной среды расплав-газ",
+      "canonical_name": "modeling of two-phase melt-gas medium flow",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e18",
+      "type": "Process",
+      "name": "Оценена работоспособность предложенной конструкции фидера",
+      "canonical_name": "assessment of the operability of the proposed feeder design",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e19",
+      "type": "Process",
+      "name": "Предложены варианты оптимизации",
+      "canonical_name": "optimization options proposed",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e20",
+      "type": "Process",
+      "name": "МОДЕЛИРОВАНИЕ ПЕРЕМЕШИВАНИЯ ПУЛЬПЫ В РЕАКТОРЕ",
+      "canonical_name": "modeling of pulp mixing in a reactor",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e21",
+      "type": "Process",
+      "name": "Моделирование течения в гидрометаллургических реакторах",
+      "canonical_name": "modeling of flow in hydrometallurgical reactors",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e22",
+      "type": "Process",
+      "name": "МОДЕЛИРОВАНИЕ ТЕЧЕНИЯ ПУЛЬПЫ В РЕАКТОРЕ 10л В ДВУХФАЗНОЙ ПОСТАНОВКЕ",
+      "canonical_name": "modeling of pulp flow in a 10l reactor in a two-phase setup",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e23",
+      "type": "Process",
+      "name": "Изменение геометрии реактора",
+      "canonical_name": "change of reactor geometry",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e24",
+      "type": "Process",
+      "name": "Изменение количества лопаток мешалки",
+      "canonical_name": "change in the number of agitator blades",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e25",
+      "type": "Process",
+      "name": "Выявлен режим, при котором происходит засасывание азота в раствор",
+      "canonical_name": "identified mode in which nitrogen is sucked into the solution",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e26",
+      "type": "Process",
+      "name": "МОДЕЛИРОВАНИЕ ТЕЧЕНИЯ НАГРЕТОГО ГАЗА В ДЫМОВОЙ ТРУБЕ",
+      "canonical_name": "modeling of heated gas flow in a flue",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e27",
+      "type": "Process",
+      "name": "Получена детальная 3D картина распределения скоростей, температуры и давления газа в дымовой трубе КГМК",
+      "canonical_name": "detailed 3D picture of gas velocity, temperature, and pressure distribution in the KGMK flue obtained",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e28",
+      "type": "Process",
+      "name": "упрощенное моделирование течения горячего газа в печи взвешенной плавки от реакционной шахты до аптейка",
+      "canonical_name": "simplified modeling of hot gas flow in a fluidized melting furnace from the reaction shaft to the uptake",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e29",
+      "type": "Process",
+      "name": "Получено распределение температуры в толще свода ПВП",
+      "canonical_name": "temperature distribution in the bulk of the PVP vault obtained",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e30",
+      "type": "Process",
+      "name": "Рассчитано тепловое расширение материалов свода",
+      "canonical_name": "calculated thermal expansion of vault materials",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e31",
+      "type": "Process",
+      "name": "РАСПРЕДЕЛЕНИЕ ТЕМПЕРАТУРЫ И РАСЧЁТ ТЕПЛОВОГО РАСШИРЕНИЯ ПРИ НАГРЕВАНИИ СВОДА ПВП",
+      "canonical_name": "temperature distribution and thermal expansion calculation during heating of PVP vault",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e32",
+      "type": "Expert",
+      "name": "Мария Луканина",
+      "canonical_name": "Maria Lukanina",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e33",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Gipronickel Institute",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e34",
+      "type": "Experiment",
+      "name": "тепловизионным исследованиям",
+      "canonical_name": "thermographic studies",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e35",
+      "type": "Material",
+      "name": "жидкостях",
+      "canonical_name": "liquids",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e36",
+      "type": "Material",
+      "name": "газах",
+      "canonical_name": "gases",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e37",
+      "type": "Material",
+      "name": "твёрдых телах",
+      "canonical_name": "solids",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e38",
+      "type": "Material",
+      "name": "расплава",
+      "canonical_name": "melt",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e39",
+      "type": "Material",
+      "name": "кислородно-воздушной смеси",
+      "canonical_name": "oxygen-air mixture",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e40",
+      "type": "Material",
+      "name": "шлаковом",
+      "canonical_name": "slag",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e41",
+      "type": "Material",
+      "name": "штейновом",
+      "canonical_name": "matte",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e42",
+      "type": "Material",
+      "name": "двухфазной среды расплав-газ",
+      "canonical_name": "two-phase melt-gas medium",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e43",
+      "type": "Material",
+      "name": "пулъпы",
+      "canonical_name": "pulp",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e44",
+      "type": "Material",
+      "name": "двухфазной постановке раствор-азот",
+      "canonical_name": "two-phase solution-nitrogen setup",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e45",
+      "type": "Material",
+      "name": "нагретого газа",
+      "canonical_name": "heated gas",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e46",
+      "type": "Material",
+      "name": "газа",
+      "canonical_name": "gas",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e47",
+      "type": "Material",
+      "name": "горячего газа",
+      "canonical_name": "hot gas",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e48",
+      "type": "Material",
+      "name": "материалов свода",
+      "canonical_name": "vault materials",
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "e1",
+      "relation": "uses_material",
+      "target_id": "e35",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "uses_material",
+      "target_id": "e36",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "uses_material",
+      "target_id": "e37",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e2",
+      "relation": "uses_material",
+      "target_id": "e35",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e2",
+      "relation": "uses_material",
+      "target_id": "e36",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e2",
+      "relation": "uses_material",
+      "target_id": "e37",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e32",
+      "relation": "described_in",
+      "target_id": "e1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e32",
+      "relation": "operates_at_condition",
+      "target_id": "e33",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e7",
+      "relation": "produces_output",
+      "target_id": "e8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e7",
+      "relation": "produces_output",
+      "target_id": "e9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e10",
+      "relation": "uses_material",
+      "target_id": "e36",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e11",
+      "relation": "uses_material",
+      "target_id": "e38",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e11",
+      "relation": "uses_material",
+      "target_id": "e39",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e12",
+      "relation": "uses_material",
+      "target_id": "e38",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e12",
+      "relation": "uses_material",
+      "target_id": "e39",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e13",
+      "relation": "uses_material",
+      "target_id": "e40",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e13",
+      "relation": "uses_material",
+      "target_id": "e41",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e14",
+      "relation": "uses_material",
+      "target_id": "e48",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e17",
+      "relation": "uses_material",
+      "target_id": "e42",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e18",
+      "relation": "produces_output",
+      "target_id": "e19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e20",
+      "relation": "uses_material",
+      "target_id": "e43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e21",
+      "relation": "uses_material",
+      "target_id": "e43",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e22",
+      "relation": "uses_material",
+      "target_id": "e44",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e22",
+      "relation": "produces_output",
+      "target_id": "e25",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e26",
+      "relation": "uses_material",
+      "target_id": "e45",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e27",
+      "relation": "uses_material",
+      "target_id": "e46",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e28",
+      "relation": "uses_material",
+      "target_id": "e47",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e30",
+      "relation": "uses_material",
+      "target_id": "e48",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e31",
+      "relation": "uses_material",
+      "target_id": "e48",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e34",
+      "relation": "validated_by",
+      "target_id": "e33",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "Доклад_Луканина М.А.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 12
+      }
+    }
+  ]
+}

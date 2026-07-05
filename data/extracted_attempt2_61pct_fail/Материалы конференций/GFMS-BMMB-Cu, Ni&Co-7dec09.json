@@ -1,0 +1,160 @@
+{
+  "filename": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "refined copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Chuquimata mine",
+      "canonical_name": "Chuquimata mine",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Radomiro Tomic mine",
+      "canonical_name": "Radomiro Tomic mine",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "conveyor belt",
+      "canonical_name": "conveyor belt",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Kansanshi operation",
+      "canonical_name": "Kansanshi operation",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Japan's Copper and Brass Association",
+      "canonical_name": "Japan's Copper and Brass Association",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": 160000.0,
+      "unit": "tonnes",
+      "condition": "per year",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": 61300.0,
+      "unit": "tonnes",
+      "condition": "year-on-year increase",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": 67927.0,
+      "unit": "tonnes",
+      "condition": "year-on-year decrease",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    }
+  ]
+}

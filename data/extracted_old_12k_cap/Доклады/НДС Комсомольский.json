@@ -1,0 +1,1094 @@
+{
+  "filename": "НДС Комсомольский.pdf",
+  "category": "Доклады",
+  "entities": [
+    {
+      "id": "e1",
+      "type": "Process",
+      "name": "полная разгрузка керна",
+      "canonical_name": "full core unloading",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "e2",
+      "type": "Material",
+      "name": "горные породы",
+      "canonical_name": "rock",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "e3",
+      "type": "Property",
+      "name": "напряженно‑деформированное состояние",
+      "canonical_name": "stress_deformed_state",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "e4",
+      "type": "Equipment",
+      "name": "экстензометр",
+      "canonical_name": "extensometer",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "e5",
+      "type": "Equipment",
+      "name": "измерительный шпур",
+      "canonical_name": "measurement_probe",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "e6",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Institute GiproNikel",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "e7",
+      "type": "Expert",
+      "name": "К.Т.Н. Трофимов А.В.",
+      "canonical_name": "K.T.N. Trofimov A.V.",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "e8",
+      "type": "Process",
+      "name": "численное моделирование в CAE Fidesys",
+      "canonical_name": "numerical modeling in CAE Fidesys",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "e9",
+      "type": "Equipment",
+      "name": "CAE Fidesys",
+      "canonical_name": "CAE Fidesys",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E1",
+      "type": "Process",
+      "name": "Deformation Rate Analysis (DRA)",
+      "canonical_name": "deformation_rate_analysis",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "E2",
+      "type": "Process",
+      "name": "Hydrofracturing",
+      "canonical_name": "hydrofracturing",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "E3",
+      "type": "Process",
+      "name": "Overcoring",
+      "canonical_name": "overcoring",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "E4",
+      "type": "Property",
+      "name": "UCS – прочность на одноосное сжатие горной породы",
+      "canonical_name": "ucs",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "E5",
+      "type": "Property",
+      "name": "P – поровое давление",
+      "canonical_name": "pore_pressure",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "E6",
+      "type": "Equipment",
+      "name": "USBM Cell – Three-component borehole deformation gauge",
+      "canonical_name": "usbm_cell",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "E7",
+      "type": "Equipment",
+      "name": "IST tool – 8-channel wireless borehole deformation gauge",
+      "canonical_name": "ist_tool",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "E8",
+      "type": "Equipment",
+      "name": "CSIRO HI Cell",
+      "canonical_name": "csiro_hi_cell",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "E9",
+      "type": "Equipment",
+      "name": "Borre Probe",
+      "canonical_name": "borre_probe",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "E10",
+      "type": "Equipment",
+      "name": "Zetlab ZET-017-T8",
+      "canonical_name": "zetlab_zet017_t8",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "E11",
+      "type": "Equipment",
+      "name": "Zetlab ZET-901",
+      "canonical_name": "zetlab_zet901",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "E12",
+      "type": "Publication",
+      "name": "ASTM D4623-2016 Standard Test Method for Determination of In Situ Stress in Rock Mass by Overcoring Method—Three Component Borehole Deformation Gauge",
+      "canonical_name": "astm_d4623_2016",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "E13",
+      "type": "Expert",
+      "name": "Mr. Ian Gray",
+      "canonical_name": "ian_gray",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "E14",
+      "type": "Facility",
+      "name": "Institute Гипроникель",
+      "canonical_name": "gipronikel_institute",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "E15",
+      "type": "Facility",
+      "name": "Company Sygra Pty",
+      "canonical_name": "sygra_pty",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "E16",
+      "type": "Process",
+      "name": "Measurement in underground conditions",
+      "canonical_name": "underground_measurement",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "E17",
+      "type": "Process",
+      "name": "Overcoring measurement cycle",
+      "canonical_name": "overcoring_measurement_cycle",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "e1",
+      "type": "Equipment",
+      "name": "геологоразведочный станок",
+      "canonical_name": "geological_exploration_rig",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "e2",
+      "type": "Process",
+      "name": "field_work",
+      "canonical_name": "field_work",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "e3",
+      "type": "Equipment",
+      "name": "датчик",
+      "canonical_name": "sensor",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "e4",
+      "type": "Process",
+      "name": "installation_of_sensor",
+      "canonical_name": "installation_of_sensor",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "e5",
+      "type": "Experiment",
+      "name": "numerical_modeling_of_unloading_process",
+      "canonical_name": "numerical_modeling_of_unloading_process",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "e6",
+      "type": "Equipment",
+      "name": "CAE Fidesys",
+      "canonical_name": "cae_fidesys",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "e7",
+      "type": "Process",
+      "name": "drilling_of_HQ_borehole",
+      "canonical_name": "drilling_of_HQ_borehole",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "e9",
+      "type": "Equipment",
+      "name": "extensometer",
+      "canonical_name": "extensometer",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "e10",
+      "type": "Equipment",
+      "name": "radial_extensometer",
+      "canonical_name": "radial_extensometer",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "e11",
+      "type": "Equipment",
+      "name": "axial_extensometer",
+      "canonical_name": "axial_extensometer",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "e12",
+      "type": "Process",
+      "name": "installation_of_extensometers",
+      "canonical_name": "installation_of_extensometers",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "e13",
+      "type": "Facility",
+      "name": "pilot_borehole",
+      "canonical_name": "pilot_borehole",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "e14",
+      "type": "Process",
+      "name": "unloading_with_central_borehole",
+      "canonical_name": "unloading_with_central_borehole",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "e15",
+      "type": "Experiment",
+      "name": "physical_modeling_of_fracture_formation",
+      "canonical_name": "physical_modeling_of_fracture_formation",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "P1",
+      "type": "Process",
+      "name": "Численное моделирование процесса разгрузки",
+      "canonical_name": "numerical modeling",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "P2",
+      "type": "Process",
+      "name": "моделирование процесса обуривания",
+      "canonical_name": "drilling modeling",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "PR1",
+      "type": "Property",
+      "name": "step size",
+      "canonical_name": "step size",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "PR2",
+      "type": "Property",
+      "name": "core stress minimal value",
+      "canonical_name": "stress",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "PR3",
+      "type": "Property",
+      "name": "matrix stress value",
+      "canonical_name": "stress",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "EQ1",
+      "type": "Equipment",
+      "name": "axial extensometer",
+      "canonical_name": "axial extensometer",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "EQ2",
+      "type": "Equipment",
+      "name": "radial extensometer",
+      "canonical_name": "radial extensometer",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "PUB1",
+      "type": "Publication",
+      "name": "ASTM standard for measuring NDS",
+      "canonical_name": "ASTM standard for measuring NDS",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "EXP1",
+      "type": "Experiment",
+      "name": "video of stepwise deformation changes by Mohr",
+      "canonical_name": "video of stepwise deformation changes by Mohr",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "PR4",
+      "type": "Property",
+      "name": "plastic deformation zone",
+      "canonical_name": "plastic deformation zone",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "PR5",
+      "type": "Property",
+      "name": "shear deformation zone",
+      "canonical_name": "shear deformation zone",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "PR6",
+      "type": "Property",
+      "name": "deformation change zone radius",
+      "canonical_name": "deformation change zone radius",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "PR7",
+      "type": "Property",
+      "name": "principal stress directions",
+      "canonical_name": "principal stress directions",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "P3",
+      "type": "Process",
+      "name": "использование результатов в численной модели НДС",
+      "canonical_name": "using results in numerical model",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "e1",
+      "relation": "uses_material",
+      "target_id": "e2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "produces_output",
+      "target_id": "e3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "e8",
+      "relation": "uses_material",
+      "target_id": "e2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "e8",
+      "relation": "produces_output",
+      "target_id": "e3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "e8",
+      "relation": "described_in",
+      "target_id": "e9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E3",
+      "relation": "described_in",
+      "target_id": "E12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "E3",
+      "relation": "validated_by",
+      "target_id": "E12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "E6",
+      "relation": "described_in",
+      "target_id": "E12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "e2",
+      "relation": "uses_material",
+      "target_id": "e1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "e4",
+      "relation": "uses_material",
+      "target_id": "e3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "e5",
+      "relation": "uses_material",
+      "target_id": "e6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "e12",
+      "relation": "uses_material",
+      "target_id": "e10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "e12",
+      "relation": "uses_material",
+      "target_id": "e11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "e12",
+      "relation": "operates_at_condition",
+      "target_id": "e13",
+      "numeric_value": 10.0,
+      "unit": "cm",
+      "condition": "distance from borehole mouth",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "source_id": "P1",
+      "relation": "operates_at_condition",
+      "target_id": "PR1",
+      "numeric_value": 5.0,
+      "unit": "cm",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "P2",
+      "relation": "operates_at_condition",
+      "target_id": "PR1",
+      "numeric_value": 5.0,
+      "unit": "cm",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "P1",
+      "relation": "produces_output",
+      "target_id": "PR2",
+      "numeric_value": 400.0,
+      "unit": "Pa",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "P1",
+      "relation": "produces_output",
+      "target_id": "PR3",
+      "numeric_value": 15.0,
+      "unit": "MPa",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "P1",
+      "relation": "produces_output",
+      "target_id": "PR4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "P1",
+      "relation": "produces_output",
+      "target_id": "PR5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "P1",
+      "relation": "produces_output",
+      "target_id": "PR6",
+      "numeric_value": 3.0,
+      "unit": "well radii",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "P1",
+      "relation": "produces_output",
+      "target_id": "PR7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "EQ1",
+      "relation": "described_in",
+      "target_id": "PUB1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "EQ2",
+      "relation": "described_in",
+      "target_id": "PUB1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 21,
+        "page_end": 27
+      }
+    }
+  ]
+}

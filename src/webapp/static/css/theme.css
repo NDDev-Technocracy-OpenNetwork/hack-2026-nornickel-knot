@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800;900&family=Space+Mono:wght@400;700&display=swap');
+
+:root {
+  --bg: #f5f3ee;
+  --ink: #14140f;
+  --muted: #6b6a63;
+  --line: rgba(20,20,15,0.1);
+  --accent: #ff5e1a;
+  --accent-ink: #ffffff;
+  --card: #ffffff;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  background: var(--bg); color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-size: 16px; line-height: 1.5;
+}
+a { color: inherit; text-decoration: none; }
+
+.eyebrow {
+  font-family: 'Space Mono', monospace; font-size: 12px; letter-spacing: .1em;
+  text-transform: uppercase; color: var(--accent); display: flex; align-items: center; gap: 10px;
+  margin-bottom: 16px;
+}
+.eyebrow::before { content: ''; width: 24px; height: 1px; background: var(--accent); }
+
+h1 { font-size: clamp(40px, 6vw, 68px); font-weight: 900; line-height: 1.04; letter-spacing: -0.02em; }
+h2 { font-size: clamp(28px, 3.6vw, 42px); font-weight: 800; line-height: 1.1; letter-spacing: -0.02em; }
+h3 { font-size: 18px; font-weight: 700; }
+p { color: var(--muted); }
+
+/* ── header ── */
+.site-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 22px 5vw; border-bottom: 1px solid var(--line);
+  background: var(--bg); position: sticky; top: 0; z-index: 100;
+}
+.brand { font-weight: 900; font-size: 19px; letter-spacing: -0.01em; }
+.brand .dot { color: var(--accent); }
+.projects-nav { display: flex; gap: 6px; }
+.projects-nav a {
+  font-family: 'Space Mono', monospace; font-size: 12.5px; letter-spacing: .06em;
+  text-transform: uppercase; padding: 9px 16px; border-radius: 20px; color: var(--muted);
+  transition: color .15s, background .15s;
+}
+.projects-nav a:hover { color: var(--ink); }
+.projects-nav a.active { color: var(--ink); background: rgba(20,20,15,0.06); font-weight: 700; }
+
+.btn {
+  display: inline-flex; align-items: center; gap: 8px; font-size: 14px; font-weight: 700;
+  padding: 12px 22px; border-radius: 8px; cursor: pointer; border: none;
+  font-family: 'Inter', sans-serif;
+}
+.btn-primary { background: var(--ink); color: #fff; }
+.btn-accent { background: var(--accent); color: #fff; }
+.btn-ghost { background: transparent; color: var(--ink); border: 1px solid var(--line); }
+.btn:hover { opacity: .88; }
+
+.wrap { max-width: 1180px; margin: 0 auto; padding: 0 5vw; }
+section.pad { padding: 80px 0; }
+.card {
+  background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 26px 28px;
+}
+.grid { display: grid; gap: 18px; }
+.g2 { grid-template-columns: 1fr 1fr; }
+.g3 { grid-template-columns: repeat(3, 1fr); }
+.g4 { grid-template-columns: repeat(4, 1fr); }
+@media (max-width: 860px) { .g2, .g3, .g4 { grid-template-columns: 1fr; } }
+
+.stat { font-family: 'Space Mono', monospace; font-weight: 700; font-size: 38px; color: var(--accent); }
+.stat small { display: block; font-family: 'Inter', sans-serif; font-size: 14px; font-weight: 400; color: var(--muted); margin-top: 8px; }
+
+.tag {
+  display: inline-block; font-family: 'Space Mono', monospace; font-size: 12px;
+  border: 1px solid var(--line); border-radius: 20px; padding: 6px 14px; margin: 0 8px 8px 0; color: var(--muted);
+}
+
+.avatar-row { display: flex; gap: 26px; flex-wrap: wrap; margin-top: 36px; }
+.avatar-item { text-align: center; width: 130px; }
+.avatar-item img {
+  width: 104px; height: 104px; border-radius: 50%; object-fit: cover;
+  border: 2px solid var(--line); display: block; margin: 0 auto 12px;
+}
+.avatar-item b { display: block; font-size: 14.5px; }
+.avatar-item span { font-size: 12px; color: var(--muted); }
+
+footer.site-footer {
+  padding: 40px 5vw; border-top: 1px solid var(--line); display: flex; justify-content: space-between;
+  font-family: 'Space Mono', monospace; font-size: 11px; color: var(--muted); letter-spacing: .05em;
+}
+
+/* ── sub-tabs (внутри проекта) ── */
+.subtabs {
+  display: flex; gap: 4px; border-bottom: 1px solid var(--line); margin-bottom: 0;
+  padding: 0 5vw; background: var(--bg); position: sticky; top: 65px; z-index: 90;
+}
+.subtabs button {
+  font-family: 'Space Mono', monospace; font-size: 13px; letter-spacing: .04em; text-transform: uppercase;
+  background: none; border: none; padding: 16px 18px; color: var(--muted); cursor: pointer;
+  border-bottom: 2px solid transparent; margin-bottom: -1px;
+}
+.subtabs button.active { color: var(--ink); border-color: var(--accent); font-weight: 700; }
+.subtabs button:hover { color: var(--ink); }
+
+::selection { background: var(--accent); color: #fff; }

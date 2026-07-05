@@ -1,0 +1,318 @@
+{
+  "filename": "CM_04_16.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "M1",
+      "type": "Material",
+      "name": "вольфрамат натрия",
+      "canonical_name": "sodium tungstate",
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "M2",
+      "type": "Material",
+      "name": "вольфрамат аммония",
+      "canonical_name": "ammonium tungstate",
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "M3",
+      "type": "Material",
+      "name": "сильноосновные аниониты",
+      "canonical_name": "strongly basic anionites",
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "M4",
+      "type": "Material",
+      "name": "никелевые сплавы",
+      "canonical_name": "nickel alloys",
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "M5",
+      "type": "Material",
+      "name": "легкие сплавы",
+      "canonical_name": "light alloys",
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "P1",
+      "type": "Process",
+      "name": "Конверсия вольфрамата натрия в вольфрамат аммония с помощью сильноосновных анионитов",
+      "canonical_name": "conversion of sodium tungstate to ammonium tungstate using strongly basic anionites",
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "P2",
+      "type": "Process",
+      "name": "Метод оценки сульфидной коррозии",
+      "canonical_name": "sulfide corrosion assessment method",
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "P3",
+      "type": "Process",
+      "name": "Принцип достаточности и достижение оптимальной структуры в легких сплавах",
+      "canonical_name": "principle of sufficiency and optimization of structure in light alloys",
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "Pub1",
+      "type": "Publication",
+      "name": "Журнал «Цветные металлы»",
+      "canonical_name": "Non-Ferrous Metals Journal",
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "Pub2",
+      "type": "Publication",
+      "name": "Журнал «Non-ferrous Metals»",
+      "canonical_name": "Non-Ferrous Metals Journal",
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E1",
+      "type": "Expert",
+      "name": "А. В. Путилов",
+      "canonical_name": "A.V. Putilov",
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E2",
+      "type": "Expert",
+      "name": "А. В. Сысоев",
+      "canonical_name": "A.V. Sysoev",
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "F1",
+      "type": "Facility",
+      "name": "НИТУ «МИСиС»",
+      "canonical_name": "Moscow Institute of Steel and Alloys",
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "F2",
+      "type": "Facility",
+      "name": "Национальный исследовательский ядерный университет «МИФИ»",
+      "canonical_name": "Moscow Institute of Physics and Technology",
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "P1",
+      "relation": "uses_material",
+      "target_id": "M1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "P1",
+      "relation": "uses_material",
+      "target_id": "M3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "P1",
+      "relation": "produces_output",
+      "target_id": "M2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "P2",
+      "relation": "uses_material",
+      "target_id": "M4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "P3",
+      "relation": "uses_material",
+      "target_id": "M5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "P1",
+      "relation": "described_in",
+      "target_id": "Pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "P2",
+      "relation": "described_in",
+      "target_id": "Pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "P3",
+      "relation": "described_in",
+      "target_id": "Pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_04_16.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    }
+  ]
+}

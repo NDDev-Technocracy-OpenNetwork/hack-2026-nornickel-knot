@@ -1,0 +1,556 @@
+{
+  "filename": "12_2003_cm.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "выщелачивание",
+      "canonical_name": "leaching",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "никель",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "кобальт",
+      "canonical_name": "cobalt",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "железо",
+      "canonical_name": "iron",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "алюминий",
+      "canonical_name": "aluminum",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "магний",
+      "canonical_name": "magnesium",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "мнезий",
+      "canonical_name": "manganese",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "извлечение",
+      "canonical_name": "extraction",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "9",
+      "type": "Property",
+      "name": "температура",
+      "canonical_name": "temperature",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "10",
+      "type": "Property",
+      "name": "расход серной кислоты",
+      "canonical_name": "sulfuric_acid_consumption",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "11",
+      "type": "Property",
+      "name": "жидкость:твердое вещество в пульпе",
+      "canonical_name": "liquid_solid_ratio",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "12",
+      "type": "Property",
+      "name": "крупность руды",
+      "canonical_name": "ore_grain_size",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "13",
+      "type": "Property",
+      "name": "продолжительность",
+      "canonical_name": "duration",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "14",
+      "type": "Property",
+      "name": "скорость перемешивания",
+      "canonical_name": "mixing_speed",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "15",
+      "type": "Experiment",
+      "name": "опыт 18Б",
+      "canonical_name": "experiment_18B",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "16",
+      "type": "Experiment",
+      "name": "опыт 19Б",
+      "canonical_name": "experiment_19B",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "17",
+      "type": "Experiment",
+      "name": "опыт 28Б",
+      "canonical_name": "experiment_28B",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "18",
+      "type": "Experiment",
+      "name": "опыт 29Б",
+      "canonical_name": "experiment_29B",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "19",
+      "type": "Experiment",
+      "name": "опыт 30Б",
+      "canonical_name": "experiment_30B",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "20",
+      "type": "Equipment",
+      "name": "автоклав",
+      "canonical_name": "autoclave",
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 250.0,
+      "unit": "°C",
+      "condition": "250–255 °C",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 300.0,
+      "unit": "kg/t",
+      "condition": "300–400 кг/т руды",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": 1.85,
+      "unit": "",
+      "condition": "1,85–2,0",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": 0.8,
+      "unit": "mm",
+      "condition": "100 % класса –0,8 мм",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": 1.0,
+      "unit": "ч",
+      "condition": "1 ч",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": 90.0,
+      "unit": "%",
+      "condition": "90–93 %",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": 94.0,
+      "unit": "%",
+      "condition": "94–95 %",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": 800.0,
+      "unit": "min–1",
+      "condition": "800 мин–1",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": 1500.0,
+      "unit": "min–1",
+      "condition": "1500 мин–1",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": 2800.0,
+      "unit": "min–1",
+      "condition": "2800 мин–1",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": -0.9,
+      "unit": "%",
+      "condition": "снижается на 0,9–1,0 %",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": -4.5,
+      "unit": "%",
+      "condition": "снижается на 4,5 %",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": 90.35,
+      "unit": "%",
+      "condition": "90,35 %",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": 90.4,
+      "unit": "%",
+      "condition": "90,4 %",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": 92.5,
+      "unit": "%",
+      "condition": "92,5 %",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": 93.9,
+      "unit": "%",
+      "condition": "93,9 %",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": 92.5,
+      "unit": "%",
+      "condition": "92,5 %",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": 93.9,
+      "unit": "%",
+      "condition": "93,9 %",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "12_2003_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 22,
+        "page_start": 27,
+        "page_end": 27
+      }
+    }
+  ]
+}

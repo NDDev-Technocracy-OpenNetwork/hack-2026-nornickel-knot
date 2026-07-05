@@ -1,0 +1,608 @@
+{
+  "filename": "Доклад_Новожилова О.С.pdf",
+  "category": "Доклады",
+  "entities": [
+    {
+      "id": "f1",
+      "type": "Facility",
+      "name": "Лаборатория пирометаллургии",
+      "canonical_name": "pyrometallurgy laboratory",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "f2",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "gipro nickel institute",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "e1",
+      "type": "Equipment",
+      "name": "SEM TESCAN LYRA3",
+      "canonical_name": "SEM TESCAN LYRA3",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "e2",
+      "type": "Equipment",
+      "name": "SEM TESCAN VEGA",
+      "canonical_name": "SEM TESCAN VEGA",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "e3",
+      "type": "Equipment",
+      "name": "SEM TESCAN MIRA",
+      "canonical_name": "SEM TESCAN MIRA",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "e4",
+      "type": "Equipment",
+      "name": "WDS detector",
+      "canonical_name": "WDS detector",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "e5",
+      "type": "Equipment",
+      "name": "EDS detector",
+      "canonical_name": "EDS detector",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "e6",
+      "type": "Equipment",
+      "name": "EBSD detector",
+      "canonical_name": "EBSD detector",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "m1",
+      "type": "Material",
+      "name": "Mg",
+      "canonical_name": "magnesium",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "m2",
+      "type": "Material",
+      "name": "Cr",
+      "canonical_name": "chromium",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "m3",
+      "type": "Material",
+      "name": "Si",
+      "canonical_name": "silicon",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "m4",
+      "type": "Material",
+      "name": "Fe",
+      "canonical_name": "iron",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "m5",
+      "type": "Material",
+      "name": "Al",
+      "canonical_name": "aluminum",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "m6",
+      "type": "Material",
+      "name": "огнеупор",
+      "canonical_name": "refractory",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "m7",
+      "type": "Material",
+      "name": "шлак",
+      "canonical_name": "slag",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "m8",
+      "type": "Material",
+      "name": "цветные металлы",
+      "canonical_name": "non-ferrous metals",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "m9",
+      "type": "Material",
+      "name": "пыль",
+      "canonical_name": "dust",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "m10",
+      "type": "Material",
+      "name": "силикатная основа шлака",
+      "canonical_name": "silicate slag basis",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "exp1",
+      "type": "Experiment",
+      "name": "Qualitative elemental analysis of refractory mass",
+      "canonical_name": "qualitative elemental analysis of refractory",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "exp2",
+      "type": "Experiment",
+      "name": "Quantitative analysis of metal losses in slags",
+      "canonical_name": "quantitative analysis of metal losses in slags",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "exp3",
+      "type": "Experiment",
+      "name": "Comparison of spectra of center and periphery",
+      "canonical_name": "spectral comparison of center and periphery",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "p1",
+      "type": "Process",
+      "name": "Локальное ионное травление",
+      "canonical_name": "local ion etching",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "p2",
+      "type": "Process",
+      "name": "Химическое взаимодействие компонентов огнеупора в расплаве",
+      "canonical_name": "chemical interaction in melt",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "p3",
+      "type": "Process",
+      "name": "Пропитка массы огнеупора шлаковым расплавом",
+      "canonical_name": "impregnation with slag melt",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "f1",
+      "relation": "uses_material",
+      "target_id": "e1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "f1",
+      "relation": "uses_material",
+      "target_id": "e2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "f1",
+      "relation": "uses_material",
+      "target_id": "e3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "uses_material",
+      "target_id": "e4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "uses_material",
+      "target_id": "e5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "e2",
+      "relation": "uses_material",
+      "target_id": "e5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "e3",
+      "relation": "uses_material",
+      "target_id": "e6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "e3",
+      "relation": "uses_material",
+      "target_id": "e5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "exp1",
+      "relation": "uses_material",
+      "target_id": "e1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "exp2",
+      "relation": "uses_material",
+      "target_id": "e1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "exp3",
+      "relation": "uses_material",
+      "target_id": "e1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "exp1",
+      "relation": "produces_output",
+      "target_id": "m6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "exp2",
+      "relation": "produces_output",
+      "target_id": "m8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "described_in",
+      "target_id": "exp1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "p2",
+      "relation": "described_in",
+      "target_id": "exp1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "p3",
+      "relation": "described_in",
+      "target_id": "exp1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "exp2",
+      "relation": "described_in",
+      "target_id": "exp2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "exp3",
+      "relation": "described_in",
+      "target_id": "exp3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "filename": "ОР № 3-24.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "апатит",
+      "canonical_name": "apatite",
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "магнетит",
+      "canonical_name": "magnetite",
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "грохочение",
+      "canonical_name": "screening",
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "измельчение",
+      "canonical_name": "grinding",
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "5",
+      "type": "Equipment",
+      "name": "стержневая мельница",
+      "canonical_name": "rod mill",
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "6",
+      "type": "Property",
+      "name": "крупность",
+      "canonical_name": "grain size",
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "7",
+      "type": "Property",
+      "name": "раскрытие свободных зерен",
+      "canonical_name": "freely liberated grain recovery",
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "8",
+      "type": "Property",
+      "name": "распределение полезных компонентов",
+      "canonical_name": "distribution of valuable components",
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "9",
+      "type": "Property",
+      "name": "осламовость",
+      "canonical_name": "sludging tendency",
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "10",
+      "type": "Experiment",
+      "name": "исследования кинетики измельчения",
+      "canonical_name": "grinding kinetics studies",
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "11",
+      "type": "Publication",
+      "name": "«Обогащение руд». 2024. № 3.",
+      "canonical_name": "«Обогащение руд». 2024. № 3.",
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": 1.0,
+      "unit": "mm",
+      "condition": "grain size of screening",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": 60.0,
+      "unit": "%",
+      "condition": "concentrates in undersize product",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": 70.0,
+      "unit": "%",
+      "condition": "concentrates in oversize product",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": 1.0,
+      "unit": "mm",
+      "condition": "d95",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": 80.0,
+      "unit": "%",
+      "condition": "magnetite",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": 55.0,
+      "unit": "%",
+      "condition": "apatite",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "magnetite is less prone to sludging",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "apatite is more prone to sludging",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "10",
+      "relation": "described_in",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 3-24.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 7,
+        "page_end": 7
+      }
+    }
+  ]
+}

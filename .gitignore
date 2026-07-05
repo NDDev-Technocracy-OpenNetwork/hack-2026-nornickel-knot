@@ -1,5 +1,7 @@
 yandex/
-data/
+.xls
+.xlsx
+.pdf
 .venv/
 __pycache__/
 *.pyc
@@ -7,3 +9,11 @@ __pycache__/
 *.egg-info/
 .DS_Store
 .claude/
+sample/
+parsed/
+contract/
+unpacked_archives/
+chunks.json
+chunks.jsonl
+harmonic_corpus_v2.txt
+harmonic_corpus_final.pt

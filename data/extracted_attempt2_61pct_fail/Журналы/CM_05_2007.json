@@ -1,0 +1,50 @@
+{
+  "filename": "CM_05_2007.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "Борис Александрович Котляр",
+      "canonical_name": "Борис Александрович Котляр",
+      "provenance": {
+        "source_file": "CM_05_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 16,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "2",
+      "type": "Publication",
+      "name": "Цветные металлы",
+      "canonical_name": "Цветные металлы",
+      "provenance": {
+        "source_file": "CM_05_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 16,
+        "page_end": 16
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_05_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 13,
+        "page_start": 16,
+        "page_end": 16
+      }
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "filename": "07_2005_Cm.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "e1",
+      "type": "Expert",
+      "name": "Борис Николаевич Ласкорин",
+      "canonical_name": "Boris N. Laskorin",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "f1",
+      "type": "Facility",
+      "name": "Всесоюзный научно-исследовательский институт химической технологии (ВНИИХТ)",
+      "canonical_name": "VNIIT",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "f2",
+      "type": "Facility",
+      "name": "Институт проблем комплексного освоения недр (ИПКОН РАН)",
+      "canonical_name": "IPKON RAN",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "f3",
+      "type": "Facility",
+      "name": "Мурнтау",
+      "canonical_name": "Murntau Gold Mine",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "f4",
+      "type": "Facility",
+      "name": "Комитет по защите окружающей среды Всесоюзного научно-технического общества",
+      "canonical_name": "Committee for Environmental Protection of the All-Union Scientific and Technical Society",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "f5",
+      "type": "Facility",
+      "name": "Комиссия по охране природных вод при президиуме Российской Академии наук",
+      "canonical_name": "Commission for Protection of Natural Waters of the RAS Presidium",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "p1",
+      "type": "Process",
+      "name": "сорбция из пульп",
+      "canonical_name": "sorption from pulp",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "p2",
+      "type": "Process",
+      "name": "сорбционно-экстракционные процессы",
+      "canonical_name": "sorption-extraction process",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "p3",
+      "type": "Process",
+      "name": "мембранные методы извлечения металлов",
+      "canonical_name": "membrane metal extraction",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "p4",
+      "type": "Process",
+      "name": "подземное выщелачивание урана",
+      "canonical_name": "underground uranium leaching",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "p5",
+      "type": "Process",
+      "name": "синтез селективных сорбентов, экстрагентов и мембран",
+      "canonical_name": "synthesis of selective sorbents, extractants and membranes",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "p6",
+      "type": "Process",
+      "name": "малоотходная и безотходная экологически чистая технология",
+      "canonical_name": "low-waste eco-friendly technology",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "p7",
+      "type": "Process",
+      "name": "замкнутые водооборотные схемы",
+      "canonical_name": "closed water cycle schemes",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "eq1",
+      "type": "Equipment",
+      "name": "высокоэффективные аппараты непрерывного действия",
+      "canonical_name": "high-efficiency continuous equipment",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "m1",
+      "type": "Material",
+      "name": "уран",
+      "canonical_name": "uranium",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "m2",
+      "type": "Material",
+      "name": "плутоний",
+      "canonical_name": "plutonium",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "m3",
+      "type": "Material",
+      "name": "цветные металлы",
+      "canonical_name": "base metals",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "m4",
+      "type": "Material",
+      "name": "благородные металлы",
+      "canonical_name": "noble metals",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "m5",
+      "type": "Material",
+      "name": "редкие металлы",
+      "canonical_name": "rare metals",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "m6",
+      "type": "Material",
+      "name": "радиоактивные металлы",
+      "canonical_name": "radioactive metals",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "m7",
+      "type": "Material",
+      "name": "золото",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "p4",
+      "relation": "produces_output",
+      "target_id": "m1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "produces_output",
+      "target_id": "m7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "produces_output",
+      "target_id": "m6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "f3",
+      "relation": "produces_output",
+      "target_id": "m7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "07_2005_Cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    }
+  ]
+}

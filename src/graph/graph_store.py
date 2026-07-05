@@ -49,6 +49,12 @@ def build_graph() -> nx.MultiDiGraph:
             tgt = local_to_key.get(r["target_id"])
             if src is None or tgt is None or not g.has_node(src) or not g.has_node(tgt):
                 continue
+            # 7B-модель (слабее 32B) массово путает affiliated_with -- задумано
+            # строго для "эксперт/команда работает в организации", по факту
+            # ~75% таких связей в выборке шли от НЕ-Expert источника (материал,
+            # процесс и т.д.). Остальные типы связей здоровы, фильтруем точечно.
+            if r["relation"] == "affiliated_with" and g.nodes[src].get("type") != "Expert":
+                continue
             g.add_edge(
                 src, tgt,
                 relation=r["relation"],

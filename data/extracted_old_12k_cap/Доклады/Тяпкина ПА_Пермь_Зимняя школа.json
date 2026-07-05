@@ -1,0 +1,436 @@
+{
+  "filename": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+  "category": "Доклады",
+  "entities": [
+    {
+      "id": "e1",
+      "type": "Expert",
+      "name": "Яваров А.В.",
+      "canonical_name": "Yavarov A.V.",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "e2",
+      "type": "Expert",
+      "name": "Тяпкина П.А.",
+      "canonical_name": "Tyapkina P.A.",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "e3",
+      "type": "Expert",
+      "name": "Федосеев А.В.",
+      "canonical_name": "Fedorseev A.V.",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "e4",
+      "type": "Expert",
+      "name": "Лалин В.В.",
+      "canonical_name": "Lalin V.V.",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "f1",
+      "type": "Facility",
+      "name": "Санкт-Петербургский политехнический университет Петра Великого",
+      "canonical_name": "St. Petersburg Polytechnic University",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "f2",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "Institute Gipro Nickel",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "f3",
+      "type": "Facility",
+      "name": "Российский университет дружбы народов",
+      "canonical_name": "Russian University of Friendship of Nations",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "p1",
+      "type": "Process",
+      "name": "seismic monitoring of buildings and structures",
+      "canonical_name": "seismic monitoring",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "p2",
+      "type": "Process",
+      "name": "processing instrumental vibration records",
+      "canonical_name": "instrumental record processing",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "p3",
+      "type": "Process",
+      "name": "cutting fragment of record containing explosion",
+      "canonical_name": "record fragment cutting",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "p4",
+      "type": "Process",
+      "name": "fast Fourier transform",
+      "canonical_name": "fast Fourier transform",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "p5",
+      "type": "Process",
+      "name": "building amplitude‑frequency characteristic",
+      "canonical_name": "amplitude-frequency characteristic construction",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "p6",
+      "type": "Process",
+      "name": "band‑pass filtering in frequency domain",
+      "canonical_name": "band-pass filtering",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "p7",
+      "type": "Process",
+      "name": "inverse Fourier transform",
+      "canonical_name": "inverse Fourier transform",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "p8",
+      "type": "Process",
+      "name": "trend extraction (0‑th to 3‑rd order)",
+      "canonical_name": "trend extraction",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "p9",
+      "type": "Process",
+      "name": "numerical integration and exclusion of trends",
+      "canonical_name": "numerical integration",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "p10",
+      "type": "Process",
+      "name": "direct dynamic calculation",
+      "canonical_name": "direct dynamic calculation",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "eq1",
+      "type": "Equipment",
+      "name": "accelerometer",
+      "canonical_name": "accelerometer",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "eq2",
+      "type": "Equipment",
+      "name": "velosimeter",
+      "canonical_name": "velosimeter",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "eq3",
+      "type": "Equipment",
+      "name": "seismic recording equipment",
+      "canonical_name": "seismic recorder",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "eq4",
+      "type": "Equipment",
+      "name": "PC SCAD Office",
+      "canonical_name": "SCAD Office",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "eq5",
+      "type": "Equipment",
+      "name": "PC LIRA 10",
+      "canonical_name": "LIRA 10",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "prop1",
+      "type": "Property",
+      "name": "high‑frequency vibrations",
+      "canonical_name": "high-frequency vibrations",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "prop2",
+      "type": "Property",
+      "name": "short duration of explosion",
+      "canonical_name": "short explosion duration",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "prop3",
+      "type": "Property",
+      "name": "noise component in records",
+      "canonical_name": "record noise",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "prop4",
+      "type": "Property",
+      "name": "seismic records",
+      "canonical_name": "seismic records",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "prop5",
+      "type": "Property",
+      "name": "corrected seismograms",
+      "canonical_name": "corrected seismograms",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "exp1",
+      "type": "Experiment",
+      "name": "aprobation of methodology for processing instrumental records of vibrations from explosive works",
+      "canonical_name": "methodology validation for instrumental record processing",
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "p1",
+      "relation": "produces_output",
+      "target_id": "prop4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "p2",
+      "relation": "produces_output",
+      "target_id": "prop5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "p10",
+      "relation": "uses_material",
+      "target_id": "prop5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "exp1",
+      "relation": "described_in",
+      "target_id": "p2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Тяпкина ПА_Пермь_Зимняя школа.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    }
+  ]
+}

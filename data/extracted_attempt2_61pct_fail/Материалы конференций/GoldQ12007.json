@@ -1,0 +1,95 @@
+{
+  "filename": "GoldQ12007.pdf",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Gold",
+      "canonical_name": "Gold",
+      "provenance": {
+        "source_file": "GoldQ12007.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "m1",
+      "type": "Material",
+      "name": "gold",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "GoldQ12007.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "Gold",
+      "canonical_name": "Gold",
+      "provenance": {
+        "source_file": "GoldQ12007.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 9,
+        "page_start": 14,
+        "page_end": 15
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "m1",
+      "relation": "operates_at_condition",
+      "target_id": "m1",
+      "numeric_value": 600.0,
+      "unit": "USD/oz",
+      "condition": "floor",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GoldQ12007.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "m1",
+      "relation": "operates_at_condition",
+      "target_id": "m1",
+      "numeric_value": 620.0,
+      "unit": "USD/oz",
+      "condition": "comfortable floor range",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GoldQ12007.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "m1",
+      "relation": "operates_at_condition",
+      "target_id": "m1",
+      "numeric_value": 640.0,
+      "unit": "USD/oz",
+      "condition": "comfortable floor range",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "GoldQ12007.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 9,
+        "page_end": 9
+      }
+    }
+  ]
+}

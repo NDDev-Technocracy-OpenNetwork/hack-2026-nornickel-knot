@@ -1,0 +1,79 @@
+{
+  "filename": "ГЖ_03_25.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Горный журнал",
+      "canonical_name": "Горный журнал",
+      "provenance": {
+        "source_file": "ГЖ_03_25.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Санкт-Петербургский горный университет императрицы Екатерины II",
+      "canonical_name": "Санкт-Петербургский горный университет императрицы Екатерины II",
+      "provenance": {
+        "source_file": "ГЖ_03_25.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "О. М. Прищепа",
+      "canonical_name": "О. М. Прищепа",
+      "provenance": {
+        "source_file": "ГЖ_03_25.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "3",
+      "relation": "affiliated_with",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ГЖ_03_25.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ГЖ_03_25.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    }
+  ]
+}

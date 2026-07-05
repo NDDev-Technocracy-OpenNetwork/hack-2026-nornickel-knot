@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Harmonic Labs</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;700;800;900&family=Playfair+Display:ital@1&family=JetBrains+Mono:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f7f6f3; --ink: #121110; --ink-mid: #3a3733; --ink-soft: #8a8680;
+    --orange: #e85d04; --orange-light: #ff7c26; --orange-dim: rgba(232,93,4,0.08);
+    --line: rgba(18,17,16,0.1);
+    --mono: 'JetBrains Mono', monospace; --display: 'Unbounded', sans-serif; --serif: 'Playfair Display', serif;
+  }
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--ink); font-family: var(--display); overflow-x: hidden; }
+  a { color: inherit; }
+
+  nav { position: fixed; top: 0; left: 0; right: 0; z-index: 100; display: flex; align-items: center; justify-content: space-between; padding: 0 48px; height: 64px; background: rgba(247,246,243,0.88); backdrop-filter: blur(14px); border-bottom: 1px solid var(--line); }
+  .nav-logo { font-size: 13px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--ink); }
+  .nav-logo span { color: var(--orange); }
+  .nav-links { display: flex; gap: 28px; list-style: none; }
+  .nav-links a { font-size: 11px; font-weight: 500; letter-spacing: .06em; text-transform: uppercase; text-decoration: none; color: var(--ink-soft); transition: color .2s; font-family: var(--mono); }
+  .nav-links a:hover, .nav-links a.active { color: var(--orange); }
+
+  .hero { min-height: 92vh; display: flex; flex-direction: column; justify-content: center; padding: 140px 80px 80px; position: relative; }
+  .hero-tag { display: inline-flex; align-items: center; gap: 10px; font-family: var(--mono); font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--orange); margin-bottom: 32px; }
+  .hero-tag::before { content: ''; width: 24px; height: 1px; background: var(--orange); }
+  .hero h1 { font-size: clamp(34px,5.2vw,66px); font-weight: 800; line-height: 1.08; letter-spacing: -.02em; max-width: 920px; }
+  .hero h1 em { font-family: var(--serif); font-style: italic; font-weight: 400; color: var(--orange); }
+  .hero p { font-size: 18px; color: var(--ink-mid); max-width: 620px; margin-top: 24px; line-height: 1.7; font-family: 'Inter', sans-serif; }
+  .hero-actions { display: flex; gap: 16px; margin-top: 40px; flex-wrap: wrap; }
+  .btn-primary { font-family: var(--display); font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; padding: 16px 30px; background: var(--ink); color: var(--bg); border: none; cursor: pointer; text-decoration: none; display: inline-block; transition: transform .15s, background .2s; }
+  .btn-primary:hover { transform: translateY(-2px); background: var(--orange); }
+  .btn-accent { font-family: var(--display); font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; padding: 16px 30px; background: var(--orange); color: #fff; border: none; cursor: pointer; text-decoration: none; display: inline-block; transition: transform .15s, background .2s; }
+  .btn-accent:hover { transform: translateY(-2px); background: var(--orange-light); }
+
+  section.team { padding: 90px 80px 120px; border-top: 1px solid var(--line); }
+  .section-label { font-family: var(--mono); font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--orange); margin-bottom: 20px; display: flex; align-items: center; gap: 12px; }
+  .section-label::before { content: ''; width: 20px; height: 1px; background: var(--orange); }
+  .team h2 { font-size: clamp(26px,3vw,38px); font-weight: 800; letter-spacing: -.02em; margin-bottom: 48px; }
+
+  .avatar-row { display: flex; gap: 40px; flex-wrap: wrap; }
+  .avatar-item { text-align: left; width: 160px; }
+  .avatar-item img { width: 120px; height: 120px; border-radius: 4px; object-fit: cover; filter: grayscale(45%); transition: filter .3s; display: block; margin-bottom: 16px; }
+  .avatar-item:hover img { filter: grayscale(0%); }
+  .avatar-item b { display: block; font-size: 15px; font-weight: 700; letter-spacing: -.01em; }
+  .avatar-item span { font-size: 12px; color: var(--ink-soft); font-family: 'Inter', sans-serif; }
+
+  footer { padding: 44px 80px; border-top: 1px solid var(--line); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+  .footer-logo { font-size: 13px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+  .footer-logo span { color: var(--orange); }
+  .footer-copy { font-family: var(--mono); font-size: 11px; color: var(--ink-soft); letter-spacing: .04em; }
+
+  @media (max-width: 900px) { nav { padding: 0 24px; } .nav-links { display: none; } .hero, section.team, footer { padding-left: 24px; padding-right: 24px; } }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-logo">Harmonic<span>.</span>Labs</div>
+  <ul class="nav-links">
+    <li><a href="/harmonic">Harmonic</a></li>
+    <li><a href="/nornikel">Nornikel 2026</a></li>
+  </ul>
+</nav>
+
+<section class="hero">
+  <div class="hero-tag">Независимая исследовательская группа</div>
+  <h1>Мы делаем модели и системы,<br>которые <em>реально работают.</em></h1>
+  <p>Harmonic Labs — небольшая команда, которая занимается архитектурами нейросетей
+    и прикладными R&amp;D-системами. Harmonic — собственная published-архитектура
+    иерархической state space model. Nornikel 2026 — живая карта знаний для
+    горно-металлургической отрасли, сделанная для Норникель AI Hack.</p>
+  <div class="hero-actions">
+    <a href="/harmonic" class="btn-primary">Harmonic — архитектура →</a>
+    <a href="/nornikel" class="btn-accent">Nornikel 2026 — проект →</a>
+  </div>
+</section>
+
+<section class="team">
+  <div class="section-label">Команда</div>
+  <h2>Кто делает Harmonic Labs</h2>
+  <div class="avatar-row">
+    <div class="avatar-item"><img src="/static/avatars/Petr.jpg" alt="Пётр"><b>Пётр</b><span>архитектура, инфраструктура</span></div>
+    <div class="avatar-item"><img src="/static/avatars/Aital.jpg" alt="Айтал"><b>Айтал</b><span>данные, обработка документов</span></div>
+    <div class="avatar-item"><img src="/static/avatars/Danila.jpg" alt="Данила"><b>Данила</b><span>Neo4j, граф данных</span></div>
+    <div class="avatar-item"><img src="/static/avatars/Grigoriy.jpg" alt="Григорий"><b>Григорий</b><span>команда</span></div>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-logo">Harmonic<span>.</span>Labs</div>
+  <div class="footer-copy">2026</div>
+</footer>
+
+</body>
+</html>

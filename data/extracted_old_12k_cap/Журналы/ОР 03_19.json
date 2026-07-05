@@ -1,0 +1,231 @@
+{
+  "filename": "ОР 03_19.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "M1",
+      "type": "Material",
+      "name": "polymetallic ore",
+      "canonical_name": "polymetallic ore",
+      "provenance": {
+        "source_file": "ОР 03_19.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "M2",
+      "type": "Material",
+      "name": "gold",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "ОР 03_19.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "M3",
+      "type": "Material",
+      "name": "silver",
+      "canonical_name": "silver",
+      "provenance": {
+        "source_file": "ОР 03_19.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "M4",
+      "type": "Material",
+      "name": "lead",
+      "canonical_name": "lead",
+      "provenance": {
+        "source_file": "ОР 03_19.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "M5",
+      "type": "Material",
+      "name": "zinc",
+      "canonical_name": "zinc",
+      "provenance": {
+        "source_file": "ОР 03_19.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "M6",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "ОР 03_19.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "P1",
+      "type": "Process",
+      "name": "gravity separation",
+      "canonical_name": "gravity separation",
+      "provenance": {
+        "source_file": "ОР 03_19.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "P2",
+      "type": "Process",
+      "name": "flotation",
+      "canonical_name": "flotation",
+      "provenance": {
+        "source_file": "ОР 03_19.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "P3",
+      "type": "Process",
+      "name": "combined gravity-flotation scheme",
+      "canonical_name": "combined gravity-flotation scheme",
+      "provenance": {
+        "source_file": "ОР 03_19.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "P4",
+      "type": "Process",
+      "name": "SAG method",
+      "canonical_name": "SAG method",
+      "provenance": {
+        "source_file": "ОР 03_19.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "Pub1",
+      "type": "Publication",
+      "name": "ТЕХНОЛОГИЯ ОБОГАЩЕНИЯ, 2019, №3",
+      "canonical_name": "technology of enrichment 2019",
+      "provenance": {
+        "source_file": "ОР 03_19.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "P1",
+      "relation": "uses_material",
+      "target_id": "M1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР 03_19.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "P2",
+      "relation": "uses_material",
+      "target_id": "M1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР 03_19.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "P3",
+      "relation": "uses_material",
+      "target_id": "M1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР 03_19.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "P3",
+      "relation": "described_in",
+      "target_id": "Pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР 03_19.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "P4",
+      "relation": "described_in",
+      "target_id": "Pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР 03_19.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    }
+  ]
+}

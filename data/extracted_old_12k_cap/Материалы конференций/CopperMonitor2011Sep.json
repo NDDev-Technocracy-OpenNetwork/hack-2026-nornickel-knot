@@ -1,0 +1,782 @@
+{
+  "filename": "CopperMonitor2011Sep.pdf",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "M1",
+      "type": "Material",
+      "name": "Copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "M2",
+      "type": "Material",
+      "name": "Tin",
+      "canonical_name": "tin",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "F1",
+      "type": "Facility",
+      "name": "Grasberg",
+      "canonical_name": "grasberg",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "F2",
+      "type": "Facility",
+      "name": "Escondida",
+      "canonical_name": "escondida",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "P1",
+      "type": "Property",
+      "name": "LME copper price",
+      "canonical_name": "copper price",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "P2",
+      "type": "Property",
+      "name": "SHFE copper price",
+      "canonical_name": "copper price",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "P3",
+      "type": "Property",
+      "name": "Cancelled warrants",
+      "canonical_name": "cancelled warrants",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "Pub1",
+      "type": "Publication",
+      "name": "CRU Copper Monitor September 2011",
+      "canonical_name": "cru copper monitor september 2011",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "e1",
+      "type": "Material",
+      "name": "Copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "e2",
+      "type": "Material",
+      "name": "Cathode",
+      "canonical_name": "cathode",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "e3",
+      "type": "Material",
+      "name": "Scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "e4",
+      "type": "Facility",
+      "name": "Shanghai bonded warehouse",
+      "canonical_name": "shanghai bonded warehouse",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "e5",
+      "type": "Facility",
+      "name": "SHFE",
+      "canonical_name": "shfe",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "e6",
+      "type": "Facility",
+      "name": "LME",
+      "canonical_name": "lme",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "e7",
+      "type": "Property",
+      "name": "stock level",
+      "canonical_name": "stock level",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "e8",
+      "type": "Property",
+      "name": "price",
+      "canonical_name": "price",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "e9",
+      "type": "Property",
+      "name": "import premium",
+      "canonical_name": "import premium",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "e10",
+      "type": "Publication",
+      "name": "Copper Monitor",
+      "canonical_name": "copper monitor",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "e11",
+      "type": "Expert",
+      "name": "CRU analysts in China",
+      "canonical_name": "cru analysts",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "e12",
+      "type": "Process",
+      "name": "Import",
+      "canonical_name": "import",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "e13",
+      "type": "Process",
+      "name": "Arbitrage",
+      "canonical_name": "arbitrage",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "M1",
+      "type": "Material",
+      "name": "Copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "M2",
+      "type": "Material",
+      "name": "Cathode",
+      "canonical_name": "cathode",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "M3",
+      "type": "Material",
+      "name": "Scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "P1",
+      "type": "Property",
+      "name": "Premia (USA)",
+      "canonical_name": "premia",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "P2",
+      "type": "Property",
+      "name": "Premia (Europe)",
+      "canonical_name": "premia",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "P3",
+      "type": "Property",
+      "name": "Ore grade",
+      "canonical_name": "ore grade",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "PR1",
+      "type": "Process",
+      "name": "Mine output",
+      "canonical_name": "mine output",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "F1",
+      "type": "Facility",
+      "name": "Mines in Chile",
+      "canonical_name": "mines in Chile",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "Pub1",
+      "type": "Publication",
+      "name": "September 2011 Copper Monitor",
+      "canonical_name": "copper monitor september 2011",
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "F1",
+      "relation": "produces_output",
+      "target_id": "M1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "F2",
+      "relation": "produces_output",
+      "target_id": "M1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "M1",
+      "relation": "described_in",
+      "target_id": "Pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "M2",
+      "relation": "described_in",
+      "target_id": "Pub1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "M1",
+      "relation": "produces_output",
+      "target_id": "P1",
+      "numeric_value": 9860.0,
+      "unit": "$/t",
+      "condition": "1 Aug 2011 intra‑day high",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "M1",
+      "relation": "produces_output",
+      "target_id": "P1",
+      "numeric_value": 8580.0,
+      "unit": "$/t",
+      "condition": "10 Aug 2011 intra‑day low",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "M1",
+      "relation": "produces_output",
+      "target_id": "P2",
+      "numeric_value": 9000.0,
+      "unit": "$/t",
+      "condition": "mid August 2011",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "M1",
+      "relation": "produces_output",
+      "target_id": "P3",
+      "numeric_value": 5175.0,
+      "unit": "t",
+      "condition": "through 31 Aug 2011",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "e4",
+      "relation": "operates_at_condition",
+      "target_id": "e7",
+      "numeric_value": 325000.0,
+      "unit": "t",
+      "condition": "since June",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "e5",
+      "relation": "operates_at_condition",
+      "target_id": "e7",
+      "numeric_value": 102258.0,
+      "unit": "t",
+      "condition": "by end of August",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "e6",
+      "relation": "operates_at_condition",
+      "target_id": "e8",
+      "numeric_value": 9275.0,
+      "unit": "$/t",
+      "condition": "31 Aug 2011",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "e6",
+      "relation": "operates_at_condition",
+      "target_id": "e9",
+      "numeric_value": 100.0,
+      "unit": "$/t",
+      "condition": "open arbitrage window",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "e12",
+      "relation": "produces_output",
+      "target_id": "e2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "e12",
+      "relation": "produces_output",
+      "target_id": "e3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "e13",
+      "relation": "described_in",
+      "target_id": "e10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "e11",
+      "relation": "described_in",
+      "target_id": "e10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "e4",
+      "relation": "described_in",
+      "target_id": "e10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "e5",
+      "relation": "described_in",
+      "target_id": "e10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "e6",
+      "relation": "described_in",
+      "target_id": "e10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "PR1",
+      "relation": "operates_at_condition",
+      "target_id": "P3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "declining ore grades",
+      "confidence": 0.95,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P1",
+      "relation": "described_in",
+      "target_id": "Pub1",
+      "numeric_value": 5.0,
+      "unit": "¢/lb",
+      "condition": "USA",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P1",
+      "relation": "described_in",
+      "target_id": "Pub1",
+      "numeric_value": 6.0,
+      "unit": "¢/lb",
+      "condition": "USA",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P2",
+      "relation": "described_in",
+      "target_id": "Pub1",
+      "numeric_value": 60.0,
+      "unit": "$/t",
+      "condition": "Europe",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P2",
+      "relation": "described_in",
+      "target_id": "Pub1",
+      "numeric_value": 90.0,
+      "unit": "$/t",
+      "condition": "Europe",
+      "confidence": 0.9,
+      "provenance": {
+        "source_file": "CopperMonitor2011Sep.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 4
+      }
+    }
+  ]
+}

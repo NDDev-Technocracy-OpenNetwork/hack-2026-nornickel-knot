@@ -1,0 +1,544 @@
+{
+  "filename": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "refined copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Chuquimata mine",
+      "canonical_name": "Chuquimata mine",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Radomiro Tomic mine",
+      "canonical_name": "Radomiro Tomic mine",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "conveyor belt",
+      "canonical_name": "conveyor belt",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Kansanshi operation",
+      "canonical_name": "Kansanshi operation",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Japan's Copper and Brass Association",
+      "canonical_name": "Japan's Copper and Brass Association",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 11,
+        "page_end": 11
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "nickel",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "nickel pig iron",
+      "canonical_name": "nickel pig iron",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "nickel ore and concentrates",
+      "canonical_name": "nickel ore and concentrates",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "type 304 austenitic material",
+      "canonical_name": "type 304 austenitic material",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "austenitic 316",
+      "canonical_name": "austenitic 316",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "ferritic 430 coil",
+      "canonical_name": "ferritic 430 coil",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Goro project",
+      "canonical_name": "Goro project",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Munali mine",
+      "canonical_name": "Munali mine",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Ramu nickel mine",
+      "canonical_name": "Ramu nickel mine",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 19,
+        "page_end": 19
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Jinchuan",
+      "canonical_name": "Jinchuan",
+      "provenance": {
+        "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 10,
+        "page_start": 19,
+        "page_end": 19
+      }
+    }
+  ],
+  "relations": [
+    {
+      "fact": "type 304 austenitic material --[produces_output]--> nickel",
+      "source_name": "type 304 austenitic material",
+      "source_type": "Material",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": 160000.0,
+      "unit": "tonnes",
+      "condition": "per year",
+      "confidence": 1.0,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 11,
+      "page_end": 11
+    },
+    {
+      "fact": "Goro project --[produces_output]--> nickel",
+      "source_name": "Goro project",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": 61300.0,
+      "unit": "tonnes",
+      "condition": "year-on-year increase",
+      "confidence": 1.0,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 11,
+      "page_end": 11
+    },
+    {
+      "fact": "Munali mine --[produces_output]--> nickel",
+      "source_name": "Munali mine",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": 67927.0,
+      "unit": "tonnes",
+      "condition": "year-on-year decrease",
+      "confidence": 1.0,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 11,
+      "page_end": 11
+    },
+    {
+      "fact": "nickel --[produces_output]--> Jinchuan",
+      "source_name": "nickel",
+      "source_type": "Material",
+      "relation": "produces_output",
+      "target_name": "Jinchuan",
+      "target_type": "Facility",
+      "numeric_value": 10000.0,
+      "unit": "tonnes",
+      "condition": "per month",
+      "confidence": null,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 19,
+      "page_end": 19
+    },
+    {
+      "fact": "nickel --[produces_output]--> Jinchuan",
+      "source_name": "nickel",
+      "source_type": "Material",
+      "relation": "produces_output",
+      "target_name": "Jinchuan",
+      "target_type": "Facility",
+      "numeric_value": 12000.0,
+      "unit": "tonnes",
+      "condition": "per month",
+      "confidence": null,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 19,
+      "page_end": 19
+    },
+    {
+      "fact": "Goro project --[produces_output]--> nickel",
+      "source_name": "Goro project",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": 60000.0,
+      "unit": "tonnes",
+      "condition": "per year",
+      "confidence": null,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 19,
+      "page_end": 19
+    },
+    {
+      "fact": "Munali mine --[produces_output]--> nickel",
+      "source_name": "Munali mine",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": 10000.0,
+      "unit": "tonnes",
+      "condition": "per year",
+      "confidence": null,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 19,
+      "page_end": 19
+    },
+    {
+      "fact": "Ramu nickel mine --[produces_output]--> nickel",
+      "source_name": "Ramu nickel mine",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": 31000.0,
+      "unit": "tonnes",
+      "condition": "per year",
+      "confidence": null,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 19,
+      "page_end": 19
+    },
+    {
+      "fact": "Munali mine --[uses_material]--> nickel",
+      "source_name": "Munali mine",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "concentrate supplied to Jinchuan",
+      "confidence": null,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 19,
+      "page_end": 19
+    },
+    {
+      "fact": "Ramu nickel mine --[uses_material]--> nickel",
+      "source_name": "Ramu nickel mine",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "supplies stainless steel mills in China",
+      "confidence": null,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 19,
+      "page_end": 19
+    }
+  ],
+  "facts": [
+    {
+      "fact": "type 304 austenitic material --[produces_output]--> nickel",
+      "source_name": "type 304 austenitic material",
+      "source_type": "Material",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": 160000.0,
+      "unit": "tonnes",
+      "condition": "per year",
+      "confidence": 1.0,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 11,
+      "page_end": 11
+    },
+    {
+      "fact": "Goro project --[produces_output]--> nickel",
+      "source_name": "Goro project",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": 61300.0,
+      "unit": "tonnes",
+      "condition": "year-on-year increase",
+      "confidence": 1.0,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 11,
+      "page_end": 11
+    },
+    {
+      "fact": "Munali mine --[produces_output]--> nickel",
+      "source_name": "Munali mine",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": 67927.0,
+      "unit": "tonnes",
+      "condition": "year-on-year decrease",
+      "confidence": 1.0,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 11,
+      "page_end": 11
+    },
+    {
+      "fact": "nickel --[produces_output]--> Jinchuan",
+      "source_name": "nickel",
+      "source_type": "Material",
+      "relation": "produces_output",
+      "target_name": "Jinchuan",
+      "target_type": "Facility",
+      "numeric_value": 10000.0,
+      "unit": "tonnes",
+      "condition": "per month",
+      "confidence": null,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 19,
+      "page_end": 19
+    },
+    {
+      "fact": "nickel --[produces_output]--> Jinchuan",
+      "source_name": "nickel",
+      "source_type": "Material",
+      "relation": "produces_output",
+      "target_name": "Jinchuan",
+      "target_type": "Facility",
+      "numeric_value": 12000.0,
+      "unit": "tonnes",
+      "condition": "per month",
+      "confidence": null,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 19,
+      "page_end": 19
+    },
+    {
+      "fact": "Goro project --[produces_output]--> nickel",
+      "source_name": "Goro project",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": 60000.0,
+      "unit": "tonnes",
+      "condition": "per year",
+      "confidence": null,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 19,
+      "page_end": 19
+    },
+    {
+      "fact": "Munali mine --[produces_output]--> nickel",
+      "source_name": "Munali mine",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": 10000.0,
+      "unit": "tonnes",
+      "condition": "per year",
+      "confidence": null,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 19,
+      "page_end": 19
+    },
+    {
+      "fact": "Ramu nickel mine --[produces_output]--> nickel",
+      "source_name": "Ramu nickel mine",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": 31000.0,
+      "unit": "tonnes",
+      "condition": "per year",
+      "confidence": null,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 19,
+      "page_end": 19
+    },
+    {
+      "fact": "Munali mine --[uses_material]--> nickel",
+      "source_name": "Munali mine",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "concentrate supplied to Jinchuan",
+      "confidence": null,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 19,
+      "page_end": 19
+    },
+    {
+      "fact": "Ramu nickel mine --[uses_material]--> nickel",
+      "source_name": "Ramu nickel mine",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "supplies stainless steel mills in China",
+      "confidence": null,
+      "source_file": "GFMS-BMMB-Cu, Ni&Co-7dec09.pdf",
+      "page_start": 19,
+      "page_end": 19
+    }
+  ]
+}

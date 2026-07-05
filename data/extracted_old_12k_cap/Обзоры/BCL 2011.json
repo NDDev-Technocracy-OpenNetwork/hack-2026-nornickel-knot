@@ -1,0 +1,395 @@
+{
+  "filename": "BCL 2011.pdf",
+  "category": "Обзоры",
+  "entities": [
+    {
+      "id": "e1",
+      "type": "Facility",
+      "name": "BCL",
+      "canonical_name": "BCL",
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "e2",
+      "type": "Facility",
+      "name": "Tati Nickel Mining",
+      "canonical_name": "Tati Nickel Mining",
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "e3",
+      "type": "Facility",
+      "name": "Nkomati",
+      "canonical_name": "Nkomati",
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "e4",
+      "type": "Material",
+      "name": "concentrate",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "e5",
+      "type": "Material",
+      "name": "sulfide ore",
+      "canonical_name": "sulfide ore",
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "e6",
+      "type": "Material",
+      "name": "fine steel",
+      "canonical_name": "fine steel",
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "e7",
+      "type": "Equipment",
+      "name": "oxygen station (late 1990s)",
+      "canonical_name": "oxygen station",
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "e8",
+      "type": "Equipment",
+      "name": "oxygen station (2002)",
+      "canonical_name": "oxygen station",
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "e9",
+      "type": "Equipment",
+      "name": "Pierce Smith converter",
+      "canonical_name": "Pierce Smith converter",
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "e10",
+      "type": "Equipment",
+      "name": "Kvaerner steam dryer",
+      "canonical_name": "steam dryer",
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "e11",
+      "type": "Property",
+      "name": "drying capacity",
+      "canonical_name": "drying capacity",
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "e12",
+      "type": "Property",
+      "name": "smelting capacity",
+      "canonical_name": "smelting capacity",
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "e13",
+      "type": "Property",
+      "name": "oxygen enrichment degree",
+      "canonical_name": "oxygen enrichment degree",
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "e14",
+      "type": "Property",
+      "name": "capacity",
+      "canonical_name": "capacity",
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "e15",
+      "type": "Property",
+      "name": "nickel content",
+      "canonical_name": "nickel content",
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "e1",
+      "relation": "uses_material",
+      "target_id": "e4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "uses_material",
+      "target_id": "e5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "e7",
+      "relation": "operates_at_condition",
+      "target_id": "e14",
+      "numeric_value": 190.0,
+      "unit": "t/h",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "e8",
+      "relation": "operates_at_condition",
+      "target_id": "e14",
+      "numeric_value": 190.0,
+      "unit": "t/h",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "e10",
+      "relation": "operates_at_condition",
+      "target_id": "e14",
+      "numeric_value": 50.0,
+      "unit": "t/h",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "operates_at_condition",
+      "target_id": "e11",
+      "numeric_value": 150.0,
+      "unit": "t/h",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "operates_at_condition",
+      "target_id": "e12",
+      "numeric_value": 130.0,
+      "unit": "t/h",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "e7",
+      "relation": "produces_output",
+      "target_id": "e13",
+      "numeric_value": 28.0,
+      "unit": "%",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "e8",
+      "relation": "produces_output",
+      "target_id": "e13",
+      "numeric_value": 32.0,
+      "unit": "%",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "e5",
+      "relation": "operates_at_condition",
+      "target_id": "e15",
+      "numeric_value": 5.0,
+      "unit": "%",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "produces_output",
+      "target_id": "e6",
+      "numeric_value": 65.0,
+      "unit": "t/г",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    },
+    {
+      "source_id": "e9",
+      "relation": "operates_at_condition",
+      "target_id": "e14",
+      "numeric_value": 200.0,
+      "unit": "t/г",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "BCL 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 7,
+        "page_end": 9
+      }
+    }
+  ]
+}

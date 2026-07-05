@@ -1,0 +1,537 @@
+{
+  "filename": "Австралия_никель_2011.pdf",
+  "category": "Обзоры",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "BHP Billiton",
+      "canonical_name": "BHP Billiton",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Nickel West",
+      "canonical_name": "Nickel West",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "Mt.Keith",
+      "canonical_name": "Mt.Keith",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Leinster",
+      "canonical_name": "Leinster",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Kambalda",
+      "canonical_name": "Kambalda",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "плавильный завод Калгурли",
+      "canonical_name": "плавильный завод Калгурли",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "рафинировочный завод Квинана",
+      "canonical_name": "рафинировочный завод Квинана",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Ravensthorpe",
+      "canonical_name": "Ravensthorpe",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "Cerro Matoso",
+      "canonical_name": "Cerro Matoso",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "никель",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "концентрат",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "файнштейн",
+      "canonical_name": "fine",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "ферроникель",
+      "canonical_name": "ferro-nickel",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "смешанный Ni/Co гидроксид",
+      "canonical_name": "mixed Ni/Co hydroxide",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "латеритовая руда",
+      "canonical_name": "laterite ore",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "сульфидная руда",
+      "canonical_name": "sulfide ore",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "17",
+      "type": "Facility",
+      "name": "Kwinana",
+      "canonical_name": "Kwinana",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "18",
+      "type": "Facility",
+      "name": "Murrin Murrin",
+      "canonical_name": "Murrin Murrin",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "19",
+      "type": "Facility",
+      "name": "Yabulu",
+      "canonical_name": "Yabulu",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "20",
+      "type": "Facility",
+      "name": "Queensland Nickel",
+      "canonical_name": "Queensland Nickel",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "21",
+      "type": "Facility",
+      "name": "First Quantum Minerals",
+      "canonical_name": "First Quantum Minerals",
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": 121000.0,
+      "unit": "tons",
+      "condition": "2008",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": 131500.0,
+      "unit": "tons",
+      "condition": "2009",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": 121100.0,
+      "unit": "tons",
+      "condition": "2010",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "8",
+      "relation": "produces_output",
+      "target_id": "14",
+      "numeric_value": 50000.0,
+      "unit": "tons",
+      "condition": "projected capacity",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "9",
+      "relation": "produces_output",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": 111000.0,
+      "unit": "tons",
+      "condition": "2008/09",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": 120000.0,
+      "unit": "tons",
+      "condition": "2009/10",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": 124000.0,
+      "unit": "tons",
+      "condition": "2010/11",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "acquired in late 2009",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Австралия_никель_2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 6
+      }
+    }
+  ]
+}

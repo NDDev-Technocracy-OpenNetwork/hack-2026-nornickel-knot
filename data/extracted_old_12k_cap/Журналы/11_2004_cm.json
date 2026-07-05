@@ -1,0 +1,179 @@
+{
+  "filename": "11_2004_cm.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "E1",
+      "type": "Facility",
+      "name": "Talnakh concentrating plant",
+      "canonical_name": "Talnakh concentrating plant",
+      "provenance": {
+        "source_file": "11_2004_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E2",
+      "type": "Equipment",
+      "name": "crushing shop",
+      "canonical_name": "crushing shop",
+      "provenance": {
+        "source_file": "11_2004_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E3",
+      "type": "Process",
+      "name": "comminution",
+      "canonical_name": "comminution",
+      "provenance": {
+        "source_file": "11_2004_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E4",
+      "type": "Material",
+      "name": "depressor of rocks",
+      "canonical_name": "depressor of rocks",
+      "provenance": {
+        "source_file": "11_2004_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E5",
+      "type": "Material",
+      "name": "norilsk ores",
+      "canonical_name": "norilsk ores",
+      "provenance": {
+        "source_file": "11_2004_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E6",
+      "type": "Publication",
+      "name": "The principally new route of material flows for finishing products of the crushing shop at Talnakh concentrating plant, providing optimization of comminution technological stage",
+      "canonical_name": "The principally new route of material flows for finishing products of the crushing shop at Talnakh concentrating plant, providing optimization of comminution technological stage",
+      "provenance": {
+        "source_file": "11_2004_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E7",
+      "type": "Publication",
+      "name": "Choice of optimal reactant conditions using depressor of rocks for norilsk ores",
+      "canonical_name": "Choice of optimal reactant conditions using depressor of rocks for norilsk ores",
+      "provenance": {
+        "source_file": "11_2004_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "E1",
+      "relation": "described_in",
+      "target_id": "E6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "11_2004_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E2",
+      "relation": "described_in",
+      "target_id": "E6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "11_2004_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E3",
+      "relation": "described_in",
+      "target_id": "E6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "11_2004_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E4",
+      "relation": "uses_material",
+      "target_id": "E7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "11_2004_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E5",
+      "relation": "uses_material",
+      "target_id": "E7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "11_2004_cm.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    }
+  ]
+}

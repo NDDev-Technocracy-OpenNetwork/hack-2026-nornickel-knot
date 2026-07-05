@@ -1,0 +1,79 @@
+{
+  "filename": "CM_07_15.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "Б. Г. Киселев",
+      "canonical_name": "Б. Г. Киселев",
+      "provenance": {
+        "source_file": "CM_07_15.pdf",
+        "category": "Журналы",
+        "chunk_index": 23,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "П. А. Завяльский",
+      "canonical_name": "П. А. Завяльский",
+      "provenance": {
+        "source_file": "CM_07_15.pdf",
+        "category": "Журналы",
+        "chunk_index": 23,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "ЗАО «СПОНК»",
+      "canonical_name": "ЗАО «СПОНК»",
+      "provenance": {
+        "source_file": "CM_07_15.pdf",
+        "category": "Журналы",
+        "chunk_index": 23,
+        "page_start": 25,
+        "page_end": 25
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_07_15.pdf",
+        "category": "Журналы",
+        "chunk_index": 23,
+        "page_start": 25,
+        "page_end": 25
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "affiliated_with",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_07_15.pdf",
+        "category": "Журналы",
+        "chunk_index": 23,
+        "page_start": 25,
+        "page_end": 25
+      }
+    }
+  ]
+}

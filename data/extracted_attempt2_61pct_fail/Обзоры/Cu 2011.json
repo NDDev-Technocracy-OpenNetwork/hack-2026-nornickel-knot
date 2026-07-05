@@ -1,0 +1,224 @@
+{
+  "filename": "Cu 2011.pdf",
+  "category": "Обзоры",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "медь",
+      "canonical_name": "медь",
+      "provenance": {
+        "source_file": "Cu 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "алюминий",
+      "canonical_name": "алюминий",
+      "provenance": {
+        "source_file": "Cu 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "оптоволокно",
+      "canonical_name": "оптоволокно",
+      "provenance": {
+        "source_file": "Cu 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "CCA",
+      "canonical_name": "CCA",
+      "provenance": {
+        "source_file": "Cu 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "ООО «Институт Гипроникель»",
+      "canonical_name": "ООО «Институт Гипроникель»",
+      "provenance": {
+        "source_file": "Cu 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "6",
+      "type": "Publication",
+      "name": "Brook Hunt",
+      "canonical_name": "Brook Hunt",
+      "provenance": {
+        "source_file": "Cu 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "7",
+      "type": "Publication",
+      "name": "презентация Rio Tinto, Mongolia Investment Summit, ноябрь 2010 г",
+      "canonical_name": "презентация Rio Tinto, Mongolia Investment Summit, ноябрь 2010 г",
+      "provenance": {
+        "source_file": "Cu 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "8",
+      "type": "Publication",
+      "name": "International Copper Association «Threats and New Application for Copper», сентябрь 2010",
+      "canonical_name": "International Copper Association «Threats and New Application for Copper», сентябрь 2010",
+      "provenance": {
+        "source_file": "Cu 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 12
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "в секторе электроники/электротехники",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cu 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "в секторе электроники/электротехники",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cu 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "в секторе электроники/электротехники",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cu 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cu 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cu 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cu 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "affiliated_with",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cu 2011.pdf",
+        "category": "Обзоры",
+        "chunk_index": 2,
+        "page_start": 10,
+        "page_end": 12
+      }
+    }
+  ]
+}

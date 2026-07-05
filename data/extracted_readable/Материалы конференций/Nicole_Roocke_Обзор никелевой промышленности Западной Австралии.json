@@ -1,0 +1,66 @@
+{
+  "filename": "Nicole_Roocke_Обзор никелевой промышленности Западной Австралии.pdf",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "Nicole Roocke",
+      "canonical_name": "Nicole Roocke",
+      "provenance": {
+        "source_file": "Nicole_Roocke_Обзор никелевой промышленности Западной Австралии.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "The Chamber of Minerals and Energy of Western Australia (CME)",
+      "canonical_name": "The Chamber of Minerals and Energy of Western Australia (CME)",
+      "provenance": {
+        "source_file": "Nicole_Roocke_Обзор никелевой промышленности Западной Австралии.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 10
+      }
+    }
+  ],
+  "relations": [
+    {
+      "fact": "Nicole Roocke --[affiliated_with]--> The Chamber of Minerals and Energy of Western Australia (CME)",
+      "source_name": "Nicole Roocke",
+      "source_type": "Expert",
+      "relation": "affiliated_with",
+      "target_name": "The Chamber of Minerals and Energy of Western Australia (CME)",
+      "target_type": "Facility",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Nicole_Roocke_Обзор никелевой промышленности Западной Австралии.pdf",
+      "page_start": 1,
+      "page_end": 10
+    }
+  ],
+  "facts": [
+    {
+      "fact": "Nicole Roocke --[affiliated_with]--> The Chamber of Minerals and Energy of Western Australia (CME)",
+      "source_name": "Nicole Roocke",
+      "source_type": "Expert",
+      "relation": "affiliated_with",
+      "target_name": "The Chamber of Minerals and Energy of Western Australia (CME)",
+      "target_type": "Facility",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Nicole_Roocke_Обзор никелевой промышленности Западной Австралии.pdf",
+      "page_start": 1,
+      "page_end": 10
+    }
+  ]
+}

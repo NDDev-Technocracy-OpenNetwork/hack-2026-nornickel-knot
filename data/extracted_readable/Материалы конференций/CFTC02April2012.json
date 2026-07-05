@@ -1,0 +1,152 @@
+{
+  "filename": "CFTC02April2012.pdf",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "CFTC02April2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "gold",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "CFTC02April2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "CFTC02April2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "4",
+      "type": "Publication",
+      "name": "Mitsui Global Precious Metals | CFTC and ETF Weekly Report",
+      "canonical_name": "Mitsui Global Precious Metals | CFTC and ETF Weekly Report",
+      "provenance": {
+        "source_file": "CFTC02April2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 2,
+        "page_start": 4,
+        "page_end": 5
+      }
+    }
+  ],
+  "relations": [
+    {
+      "fact": "platinum --[described_in]--> Mitsui Global Precious Metals | CFTC and ETF Weekly Report",
+      "source_name": "platinum",
+      "source_type": "Material",
+      "relation": "described_in",
+      "target_name": "Mitsui Global Precious Metals | CFTC and ETF Weekly Report",
+      "target_type": "Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "CFTC02April2012.pdf",
+      "page_start": 4,
+      "page_end": 5
+    },
+    {
+      "fact": "gold --[described_in]--> Mitsui Global Precious Metals | CFTC and ETF Weekly Report",
+      "source_name": "gold",
+      "source_type": "Material",
+      "relation": "described_in",
+      "target_name": "Mitsui Global Precious Metals | CFTC and ETF Weekly Report",
+      "target_type": "Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "CFTC02April2012.pdf",
+      "page_start": 4,
+      "page_end": 5
+    },
+    {
+      "fact": "palladium --[described_in]--> Mitsui Global Precious Metals | CFTC and ETF Weekly Report",
+      "source_name": "palladium",
+      "source_type": "Material",
+      "relation": "described_in",
+      "target_name": "Mitsui Global Precious Metals | CFTC and ETF Weekly Report",
+      "target_type": "Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "CFTC02April2012.pdf",
+      "page_start": 4,
+      "page_end": 5
+    }
+  ],
+  "facts": [
+    {
+      "fact": "platinum --[described_in]--> Mitsui Global Precious Metals | CFTC and ETF Weekly Report",
+      "source_name": "platinum",
+      "source_type": "Material",
+      "relation": "described_in",
+      "target_name": "Mitsui Global Precious Metals | CFTC and ETF Weekly Report",
+      "target_type": "Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "CFTC02April2012.pdf",
+      "page_start": 4,
+      "page_end": 5
+    },
+    {
+      "fact": "gold --[described_in]--> Mitsui Global Precious Metals | CFTC and ETF Weekly Report",
+      "source_name": "gold",
+      "source_type": "Material",
+      "relation": "described_in",
+      "target_name": "Mitsui Global Precious Metals | CFTC and ETF Weekly Report",
+      "target_type": "Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "CFTC02April2012.pdf",
+      "page_start": 4,
+      "page_end": 5
+    },
+    {
+      "fact": "palladium --[described_in]--> Mitsui Global Precious Metals | CFTC and ETF Weekly Report",
+      "source_name": "palladium",
+      "source_type": "Material",
+      "relation": "described_in",
+      "target_name": "Mitsui Global Precious Metals | CFTC and ETF Weekly Report",
+      "target_type": "Publication",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "CFTC02April2012.pdf",
+      "page_start": 4,
+      "page_end": 5
+    }
+  ]
+}

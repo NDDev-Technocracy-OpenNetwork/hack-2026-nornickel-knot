@@ -1,0 +1,829 @@
+{
+  "filename": "ЦМ № 10-23.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "медно-порфировые руды",
+      "canonical_name": "copper porphyry ores",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "меди",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "молибдена",
+      "canonical_name": "molybdenum",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "золота",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "серебра",
+      "canonical_name": "silver",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "БК",
+      "canonical_name": "collector",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "веретенное масло",
+      "canonical_name": "pine oil",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "Т-92",
+      "canonical_name": "T-92",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "карбамид",
+      "canonical_name": "urea",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "AERO 442",
+      "canonical_name": "AERO 442",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "ССМ",
+      "canonical_name": "SSM",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "ДП-4",
+      "canonical_name": "DP-4",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "АФИ-4Г10К",
+      "canonical_name": "AFI-4G10K",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "М-ТФ-421",
+      "canonical_name": "M-TF-421",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "15",
+      "type": "Process",
+      "name": "флотация",
+      "canonical_name": "flotation",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "16",
+      "type": "Process",
+      "name": "извлечение металлов",
+      "canonical_name": "metal extraction",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "17",
+      "type": "Equipment",
+      "name": "флотомашина",
+      "canonical_name": "flotation machine",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "18",
+      "type": "Property",
+      "name": "извлечение",
+      "canonical_name": "extraction",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "19",
+      "type": "Property",
+      "name": "содержание",
+      "canonical_name": "concentration",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "20",
+      "type": "Experiment",
+      "name": "лабораторные испытания реагентов компании «Квалитет»",
+      "canonical_name": "laboratory tests of Qualitet reagents",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "21",
+      "type": "Publication",
+      "name": "Таблица 3",
+      "canonical_name": "Table 3",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "22",
+      "type": "Expert",
+      "name": "компания «Квалитет»",
+      "canonical_name": "Qualitet",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "23",
+      "type": "Facility",
+      "name": "месторождение Олий Зиё",
+      "canonical_name": "Oliy Ziy Deposit",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "24",
+      "type": "Facility",
+      "name": "участок Кальмакыр",
+      "canonical_name": "Kalmakyr Site",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "id": "25",
+      "type": "Facility",
+      "name": "участок Ёшлик-I",
+      "canonical_name": "Yoshlik-I Site",
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "22",
+      "relation": "affiliated_with",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "validated_by",
+      "target_id": "20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "described_in",
+      "target_id": "21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "operates_at_condition",
+      "target_id": "17",
+      "numeric_value": 8.0,
+      "unit": "dm3",
+      "condition": "flotation machine volume",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": 10.0,
+      "unit": "g/t",
+      "condition": "pine oil dosage",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "operates_at_condition",
+      "target_id": "6",
+      "numeric_value": 25.0,
+      "unit": "g/t",
+      "condition": "collector dosage",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "operates_at_condition",
+      "target_id": "10",
+      "numeric_value": 20.0,
+      "unit": "g/t",
+      "condition": "AERO 442 dosage",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "operates_at_condition",
+      "target_id": "8",
+      "numeric_value": 45.0,
+      "unit": "g/t",
+      "condition": "T-92 dosage",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "operates_at_condition",
+      "target_id": "9",
+      "numeric_value": 18.0,
+      "unit": "g/t",
+      "condition": "urea dosage",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "operates_at_condition",
+      "target_id": "11",
+      "numeric_value": 20.0,
+      "unit": "g/t",
+      "condition": "SSM dosage",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "operates_at_condition",
+      "target_id": "12",
+      "numeric_value": 10.0,
+      "unit": "g/t",
+      "condition": "DP-4 dosage",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "operates_at_condition",
+      "target_id": "13",
+      "numeric_value": 30.0,
+      "unit": "g/t",
+      "condition": "AFI-4G10K dosage",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "operates_at_condition",
+      "target_id": "14",
+      "numeric_value": 20.0,
+      "unit": "g/t",
+      "condition": "M-TF-421 dosage",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "operates_at_condition",
+      "target_id": "23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "deposit location",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "operates_at_condition",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "site location",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "operates_at_condition",
+      "target_id": "25",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "site location",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": 0.39,
+      "unit": "%",
+      "condition": "copper concentration",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": 0.0019,
+      "unit": "%",
+      "condition": "molybdenum concentration",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": 0.37,
+      "unit": "g/t",
+      "condition": "gold concentration",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": 1.78,
+      "unit": "g/t",
+      "condition": "silver concentration",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "uses_material",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "produces_output",
+      "target_id": "3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-23.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 14,
+        "page_end": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "filename": "PPS10 Press Release.pdf",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Publication",
+      "name": "Platinum & Palladium Survey 2010",
+      "canonical_name": "Platinum & Palladium Survey 2010",
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "South Africa",
+      "canonical_name": "South Africa",
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Russia",
+      "canonical_name": "Russia",
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Canada",
+      "canonical_name": "Canada",
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Zimbabwe",
+      "canonical_name": "Zimbabwe",
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Japan",
+      "canonical_name": "Japan",
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "China",
+      "canonical_name": "China",
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "Europe",
+      "canonical_name": "Europe",
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "North America",
+      "canonical_name": "North America",
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Lac des Iles mine",
+      "canonical_name": "Lac des Iles mine",
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": 4600000.0,
+      "unit": "ounces",
+      "condition": "2009",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2009",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2009",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2009",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2009",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": 2260000.0,
+      "unit": "ounces",
+      "condition": "2009",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": 2600000.0,
+      "unit": "ounces",
+      "condition": "2009",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "4",
+      "numeric_value": 2480000.0,
+      "unit": "ounces",
+      "condition": "2009",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2009",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": 3910000.0,
+      "unit": "ounces",
+      "condition": "2009",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2009",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2009",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "produces_output",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2009",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "PPS10 Press Release.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 2,
+        "page_end": 2
+      }
+    }
+  ]
+}

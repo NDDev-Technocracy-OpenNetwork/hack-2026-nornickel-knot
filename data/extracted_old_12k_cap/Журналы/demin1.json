@@ -1,0 +1,1071 @@
+{
+  "filename": "demin1.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "E1",
+      "type": "Equipment",
+      "name": "Лопастный смеситель",
+      "canonical_name": "blade mixer",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E2",
+      "type": "Equipment",
+      "name": "Одновальный лопастный смеситель",
+      "canonical_name": "single-blade mixer",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E3",
+      "type": "Material",
+      "name": "Сыпучие материалы",
+      "canonical_name": "bulk material",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E4",
+      "type": "Material",
+      "name": "Порошкообразные и мелкозернистые сыпучие материалы",
+      "canonical_name": "powdery bulk material",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E5",
+      "type": "Process",
+      "name": "Смесение",
+      "canonical_name": "mixing",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E6",
+      "type": "Property",
+      "name": "Эффект смешения",
+      "canonical_name": "mixing effect",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E7",
+      "type": "Property",
+      "name": "Качество смеси",
+      "canonical_name": "mixture quality",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E8",
+      "type": "Property",
+      "name": "Время процесса",
+      "canonical_name": "process time",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E9",
+      "type": "Experiment",
+      "name": "Экспериментальные исследования",
+      "canonical_name": "experimental study",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E10",
+      "type": "Expert",
+      "name": "Олег Владимирович Демин",
+      "canonical_name": "Oleg V. Demin",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E11",
+      "type": "Expert",
+      "name": "Владимир Федорович Першин",
+      "canonical_name": "Vladimir F. Pershin",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E12",
+      "type": "Expert",
+      "name": "Иван Михайлович Курочкин",
+      "canonical_name": "Ivan M. Kurochkin",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E13",
+      "type": "Facility",
+      "name": "Тамбовский государственный технический университет",
+      "canonical_name": "Tambov State Technical University",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E14",
+      "type": "Equipment",
+      "name": "Устройство для смешения порошкообразных и мелкозернистых сыпучих материалов",
+      "canonical_name": "mixing device for powdery bulk materials",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "M1",
+      "type": "Material",
+      "name": "семена люцерны",
+      "canonical_name": "lucerne seeds",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "M2",
+      "type": "Material",
+      "name": "пшено",
+      "canonical_name": "millet",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "M3",
+      "type": "Material",
+      "name": "песок",
+      "canonical_name": "sand",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E1",
+      "type": "Equipment",
+      "name": "одновальный лопастный смеситель",
+      "canonical_name": "single-shaft impeller mixer",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E2",
+      "type": "Equipment",
+      "name": "барабанный смеситель",
+      "canonical_name": "drum mixer",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E3",
+      "type": "Equipment",
+      "name": "V-образный смеситель",
+      "canonical_name": "V-shaped mixer",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E4",
+      "type": "Equipment",
+      "name": "биконический смеситель",
+      "canonical_name": "biconical mixer",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E5",
+      "type": "Equipment",
+      "name": "смеситель \"Пьяная бочка\"",
+      "canonical_name": "drunken barrel mixer",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E6",
+      "type": "Equipment",
+      "name": "ленточный смеситель",
+      "canonical_name": "belt mixer",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "P1",
+      "type": "Process",
+      "name": "перемещение частиц",
+      "canonical_name": "particle movement",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "P2",
+      "type": "Process",
+      "name": "смешивание сыпучих материалов",
+      "canonical_name": "bulk material mixing",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "P3",
+      "type": "Process",
+      "name": "приготовление многокомпонентной смеси",
+      "canonical_name": "preparation of multi-component mixture",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "X1",
+      "type": "Experiment",
+      "name": "Эксперимент на шести лабораторных смесителях",
+      "canonical_name": "experiment on six lab mixers",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "PUB1",
+      "type": "Publication",
+      "name": "диссертация",
+      "canonical_name": "dissertation",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "e1",
+      "type": "Equipment",
+      "name": "одновальный лопастной смеситель",
+      "canonical_name": "single-blade impeller mixer",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e2",
+      "type": "Equipment",
+      "name": "ленточный смеситель",
+      "canonical_name": "ribbon mixer",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "e3",
+      "type": "Equipment",
+      "name": "лопастный смеситель",
+      "canonical_name": "blade mixer",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "p1",
+      "type": "Process",
+      "name": "процесс смешения",
+      "canonical_name": "mixing",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "m1",
+      "type": "Material",
+      "name": "сыпучий материал",
+      "canonical_name": "bulk material",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "ex1",
+      "type": "Experiment",
+      "name": "теоретическое исследование с использованием метода последовательных приближений",
+      "canonical_name": "theoretical study using sequential approximation method",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "ex2",
+      "type": "Experiment",
+      "name": "исследование с использованием метода обращенного движения",
+      "canonical_name": "study using reversed flow method",
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "E1",
+      "relation": "uses_material",
+      "target_id": "E3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "E2",
+      "relation": "uses_material",
+      "target_id": "E3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "E2",
+      "relation": "uses_material",
+      "target_id": "E4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "E14",
+      "relation": "uses_material",
+      "target_id": "E4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "E1",
+      "relation": "produces_output",
+      "target_id": "E6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "E2",
+      "relation": "produces_output",
+      "target_id": "E6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "E1",
+      "relation": "produces_output",
+      "target_id": "E7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "E2",
+      "relation": "produces_output",
+      "target_id": "E7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "E5",
+      "relation": "validated_by",
+      "target_id": "E9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "E2",
+      "relation": "produces_output",
+      "target_id": "E8",
+      "numeric_value": 15.0,
+      "unit": "%",
+      "condition": "time reduction",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "X1",
+      "relation": "described_in",
+      "target_id": "PUB1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "X1",
+      "relation": "uses_material",
+      "target_id": "M1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "X1",
+      "relation": "uses_material",
+      "target_id": "M2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "X1",
+      "relation": "uses_material",
+      "target_id": "M3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E1",
+      "relation": "uses_material",
+      "target_id": "M1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E1",
+      "relation": "uses_material",
+      "target_id": "M2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E1",
+      "relation": "uses_material",
+      "target_id": "M3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E2",
+      "relation": "uses_material",
+      "target_id": "M1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E2",
+      "relation": "uses_material",
+      "target_id": "M2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E2",
+      "relation": "uses_material",
+      "target_id": "M3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E3",
+      "relation": "uses_material",
+      "target_id": "M1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E3",
+      "relation": "uses_material",
+      "target_id": "M2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E3",
+      "relation": "uses_material",
+      "target_id": "M3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E4",
+      "relation": "uses_material",
+      "target_id": "M1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E4",
+      "relation": "uses_material",
+      "target_id": "M2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E4",
+      "relation": "uses_material",
+      "target_id": "M3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E5",
+      "relation": "uses_material",
+      "target_id": "M1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E5",
+      "relation": "uses_material",
+      "target_id": "M2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E5",
+      "relation": "uses_material",
+      "target_id": "M3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E6",
+      "relation": "uses_material",
+      "target_id": "M1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E6",
+      "relation": "uses_material",
+      "target_id": "M2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E6",
+      "relation": "uses_material",
+      "target_id": "M3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P2",
+      "relation": "uses_material",
+      "target_id": "M1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P2",
+      "relation": "uses_material",
+      "target_id": "M2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P2",
+      "relation": "uses_material",
+      "target_id": "M3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "P3",
+      "relation": "produces_output",
+      "target_id": "PUB1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 1,
+        "page_start": 4,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "ex1",
+      "relation": "uses_material",
+      "target_id": "m1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "ex2",
+      "relation": "uses_material",
+      "target_id": "m1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "demin1.pdf",
+        "category": "Журналы",
+        "chunk_index": 2,
+        "page_start": 5,
+        "page_end": 5
+      }
+    }
+  ]
+}

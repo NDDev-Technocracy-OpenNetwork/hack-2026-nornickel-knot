@@ -1,0 +1,195 @@
+{
+  "filename": "NPI_2013.pdf",
+  "category": "Обзоры",
+  "entities": [
+    {
+      "id": "m1",
+      "type": "Material",
+      "name": "никелистый чугун",
+      "canonical_name": "nickel pig iron",
+      "provenance": {
+        "source_file": "NPI_2013.pdf",
+        "category": "Обзоры",
+        "chunk_index": 3,
+        "page_start": 11,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "p1",
+      "type": "Process",
+      "name": "электропечь",
+      "canonical_name": "electric furnace",
+      "provenance": {
+        "source_file": "NPI_2013.pdf",
+        "category": "Обзоры",
+        "chunk_index": 3,
+        "page_start": 11,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "p2",
+      "type": "Process",
+      "name": "доменная печь",
+      "canonical_name": "blast furnace",
+      "provenance": {
+        "source_file": "NPI_2013.pdf",
+        "category": "Обзоры",
+        "chunk_index": 3,
+        "page_start": 11,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "p3",
+      "type": "Process",
+      "name": "RKEF",
+      "canonical_name": "RKEF",
+      "provenance": {
+        "source_file": "NPI_2013.pdf",
+        "category": "Обзоры",
+        "chunk_index": 3,
+        "page_start": 11,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "p4",
+      "type": "Publication",
+      "name": "SMM [3]",
+      "canonical_name": "SMM [3]",
+      "provenance": {
+        "source_file": "NPI_2013.pdf",
+        "category": "Обзоры",
+        "chunk_index": 3,
+        "page_start": 11,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "p5",
+      "type": "Publication",
+      "name": "SMM [6]",
+      "canonical_name": "SMM [6]",
+      "provenance": {
+        "source_file": "NPI_2013.pdf",
+        "category": "Обзоры",
+        "chunk_index": 3,
+        "page_start": 11,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "p6",
+      "type": "Publication",
+      "name": "[5]",
+      "canonical_name": "[5]",
+      "provenance": {
+        "source_file": "NPI_2013.pdf",
+        "category": "Обзоры",
+        "chunk_index": 3,
+        "page_start": 11,
+        "page_end": 12
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "p3",
+      "relation": "produces_output",
+      "target_id": "m1",
+      "numeric_value": 108000.0,
+      "unit": "tons",
+      "condition": "Ni in NPI",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NPI_2013.pdf",
+        "category": "Обзоры",
+        "chunk_index": 3,
+        "page_start": 11,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "p3",
+      "relation": "produces_output",
+      "target_id": "m1",
+      "numeric_value": 53200.0,
+      "unit": "tons",
+      "condition": "high-grade NPI",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NPI_2013.pdf",
+        "category": "Обзоры",
+        "chunk_index": 3,
+        "page_start": 11,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "p3",
+      "relation": "produces_output",
+      "target_id": "m1",
+      "numeric_value": 14900.0,
+      "unit": "tons",
+      "condition": "low-grade NPI",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NPI_2013.pdf",
+        "category": "Обзоры",
+        "chunk_index": 3,
+        "page_start": 11,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "m1",
+      "relation": "described_in",
+      "target_id": "p4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NPI_2013.pdf",
+        "category": "Обзоры",
+        "chunk_index": 3,
+        "page_start": 11,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "m1",
+      "relation": "described_in",
+      "target_id": "p5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NPI_2013.pdf",
+        "category": "Обзоры",
+        "chunk_index": 3,
+        "page_start": 11,
+        "page_end": 12
+      }
+    },
+    {
+      "source_id": "m1",
+      "relation": "described_in",
+      "target_id": "p6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NPI_2013.pdf",
+        "category": "Обзоры",
+        "chunk_index": 3,
+        "page_start": 11,
+        "page_end": 12
+      }
+    }
+  ]
+}

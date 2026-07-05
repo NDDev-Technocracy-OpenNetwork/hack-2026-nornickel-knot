@@ -1,0 +1,1287 @@
+{
+  "filename": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+  "category": "Доклады",
+  "entities": [
+    {
+      "id": "e1",
+      "type": "Expert",
+      "name": "К.Т.Н. Трофимов А.В.",
+      "canonical_name": "K.T.N. Trofimov A.V.",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "f1",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Institute GIPRONIKEL",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "f2",
+      "type": "Facility",
+      "name": "Лаборатория геотехники",
+      "canonical_name": "Geotechnical Laboratory",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "f3",
+      "type": "Facility",
+      "name": "ГГИС",
+      "canonical_name": "GIS",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "p1",
+      "type": "Process",
+      "name": "Создание геомеханической блочной модели",
+      "canonical_name": "geomechanical block model creation",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "p2",
+      "type": "Process",
+      "name": "Интерполяция данных",
+      "canonical_name": "interpolation",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "p3",
+      "type": "Process",
+      "name": "Верификация модели",
+      "canonical_name": "model verification",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "pr1",
+      "type": "Property",
+      "name": "геотехническая база данных",
+      "canonical_name": "geotechnical database",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "pr2",
+      "type": "Property",
+      "name": "динамический эллипсоид поиска",
+      "canonical_name": "dynamic search ellipsoid",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "pr3",
+      "type": "Property",
+      "name": "высокопроизводительные расчетные мощности",
+      "canonical_name": "high-performance computing resources",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "eq1",
+      "type": "Equipment",
+      "name": "очистные камеры",
+      "canonical_name": "cleaning chambers",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "eq2",
+      "type": "Equipment",
+      "name": "крепление горных выработок",
+      "canonical_name": "support of mine workings",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "E1",
+      "type": "Process",
+      "name": "Физико‑механические испытания",
+      "canonical_name": "physical-mechanical testing",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "E2",
+      "type": "Material",
+      "name": "Керн геотехнической скважины",
+      "canonical_name": "core (geotechnical well)",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "E3",
+      "type": "Property",
+      "name": "Физико‑механические свойства горных пород",
+      "canonical_name": "physical-mechanical properties of rock",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "E4",
+      "type": "Process",
+      "name": "Геомеханическое описание керна",
+      "canonical_name": "geomechanical description of core",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "E5",
+      "type": "Property",
+      "name": "Геомеханические параметры",
+      "canonical_name": "geomechanical parameters",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "E6",
+      "type": "Facility",
+      "name": "Геотехническая база данных",
+      "canonical_name": "geotechnical database",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "E7",
+      "type": "Process",
+      "name": "Классификация массива горных пород",
+      "canonical_name": "rock mass classification",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "E8",
+      "type": "Property",
+      "name": "Q Бартона",
+      "canonical_name": "Q Barrow rating system",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "E9",
+      "type": "Property",
+      "name": "RMR Бенявского",
+      "canonical_name": "RMR Benyash rating system",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "E10",
+      "type": "Process",
+      "name": "Блоковое моделирование",
+      "canonical_name": "block modeling",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "E11",
+      "type": "Process",
+      "name": "Анализ результатов и верификация модели",
+      "canonical_name": "analysis and verification of model",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "E12",
+      "type": "Process",
+      "name": "Литологическая модель",
+      "canonical_name": "lithological modeling",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "E13",
+      "type": "Facility",
+      "name": "База геотехнических и геомеханических данных",
+      "canonical_name": "geotechnical and geomechanical data base",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "E14",
+      "type": "Process",
+      "name": "Визуализация данных",
+      "canonical_name": "data visualization",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "E15",
+      "type": "Property",
+      "name": "Массив физико‑механических свойств",
+      "canonical_name": "physical-mechanical properties dataset",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "E16",
+      "type": "Process",
+      "name": "Ориентация структур",
+      "canonical_name": "structural orientation",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "E17",
+      "type": "Property",
+      "name": "Паспорта крепления горных выработок",
+      "canonical_name": "support passports",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e1",
+      "type": "Process",
+      "name": "Методика геомеханического описания керна",
+      "canonical_name": "geomechanical description of core",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "e2",
+      "type": "Publication",
+      "name": "Детальное геотехническое описание керна",
+      "canonical_name": "detailed geotechnical description of core",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "e3",
+      "type": "Equipment",
+      "name": "Электронный керноориентатор Reflex",
+      "canonical_name": "reflex electronic core orientator",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "e4",
+      "type": "Equipment",
+      "name": "Ориентатор керна Verti Ori",
+      "canonical_name": "verti ori core orientator",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "e5",
+      "type": "Equipment",
+      "name": "Acoustic Televiever (ATV)",
+      "canonical_name": "acoustic televiever",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "e6",
+      "type": "Equipment",
+      "name": "Каротажный регистратор ALT Scout",
+      "canonical_name": "alt scout logging recorder",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "e7",
+      "type": "Equipment",
+      "name": "Каротажная лебедка Mount Sopris MXC-1000",
+      "canonical_name": "mount sopris mxc-1000 winch",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "e8",
+      "type": "Equipment",
+      "name": "Зонд телеакустического каротажа ALT ABI40GR (2G)",
+      "canonical_name": "alt abi40gr acoustic logging probe",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "e9",
+      "type": "Process",
+      "name": "Процедура геомеханического документирования керна",
+      "canonical_name": "geomechanical documentation of core",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "e10",
+      "type": "Process",
+      "name": "Процедура исследований прибором Acoustic Televiever (ATV)",
+      "canonical_name": "acoustic televiever investigation procedure",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "e11",
+      "type": "Property",
+      "name": "Точность ориентировки (зенитный угол)",
+      "canonical_name": "orientation accuracy zenith",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "e12",
+      "type": "Property",
+      "name": "Точность ориентировки (азимутальный угол)",
+      "canonical_name": "orientation accuracy azimuth",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "e13",
+      "type": "Property",
+      "name": "Шаг записи",
+      "canonical_name": "recording step",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "e14",
+      "type": "Property",
+      "name": "Скорость записи",
+      "canonical_name": "recording speed",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "e15",
+      "type": "Property",
+      "name": "Горизонтальный шаг",
+      "canonical_name": "horizontal step",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "e16",
+      "type": "Facility",
+      "name": "Норникель",
+      "canonical_name": "nornickel",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "e17",
+      "type": "Expert",
+      "name": "Геолог (геомеханик)",
+      "canonical_name": "geologist",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "id": "e1",
+      "type": "Equipment",
+      "name": "Acoustic Televiewer (ATV)",
+      "canonical_name": "acoustic televiewer",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "m1",
+      "type": "Material",
+      "name": "drilling fluid",
+      "canonical_name": "drilling fluid",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "m2",
+      "type": "Material",
+      "name": "technical water",
+      "canonical_name": "technical water",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "p1",
+      "type": "Process",
+      "name": "Acoustic Televiewer research procedure",
+      "canonical_name": "acoustic televiewer research",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "p2",
+      "type": "Process",
+      "name": "core orientation procedure (Method AT)",
+      "canonical_name": "core orientation",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "pr1",
+      "type": "Property",
+      "name": "well filled with liquid",
+      "canonical_name": "well filled with liquid",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "pr2",
+      "type": "Property",
+      "name": "optical opacity of drilling fluid allowed",
+      "canonical_name": "optical opacity allowed",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "pr3",
+      "type": "Property",
+      "name": "absence of solid or gas impurities in drilling fluid",
+      "canonical_name": "no solid or gas impurities",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "pr4",
+      "type": "Property",
+      "name": "well freezing due to permafrost",
+      "canonical_name": "well freezing",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "pr5",
+      "type": "Property",
+      "name": "salting of well to prevent freezing of drill string and instrument",
+      "canonical_name": "well salting",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "pr6",
+      "type": "Property",
+      "name": "low recording speed (<=250 m/h)",
+      "canonical_name": "low recording speed",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "pr7",
+      "type": "Property",
+      "name": "stable well walls",
+      "canonical_name": "stable well walls",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    },
+    {
+      "id": "pr8",
+      "type": "Property",
+      "name": "clean technical water flushing before logging",
+      "canonical_name": "clean water flushing",
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "p1",
+      "relation": "uses_material",
+      "target_id": "f3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "uses_material",
+      "target_id": "pr1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "produces_output",
+      "target_id": "eq1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "produces_output",
+      "target_id": "eq2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "validated_by",
+      "target_id": "p3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "source_id": "E1",
+      "relation": "uses_material",
+      "target_id": "E2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "E1",
+      "relation": "produces_output",
+      "target_id": "E3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "E4",
+      "relation": "uses_material",
+      "target_id": "E2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "E4",
+      "relation": "produces_output",
+      "target_id": "E5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "E4",
+      "relation": "described_in",
+      "target_id": "E6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "E7",
+      "relation": "uses_material",
+      "target_id": "E2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "E7",
+      "relation": "produces_output",
+      "target_id": "E8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "E7",
+      "relation": "produces_output",
+      "target_id": "E9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "E10",
+      "relation": "uses_material",
+      "target_id": "E6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "E11",
+      "relation": "uses_material",
+      "target_id": "E10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "E12",
+      "relation": "uses_material",
+      "target_id": "E6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "E14",
+      "relation": "uses_material",
+      "target_id": "E6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "E16",
+      "relation": "uses_material",
+      "target_id": "E2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "E17",
+      "relation": "uses_material",
+      "target_id": "E6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "described_in",
+      "target_id": "e2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "e9",
+      "relation": "described_in",
+      "target_id": "e2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "e10",
+      "relation": "uses_material",
+      "target_id": "e5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "e10",
+      "relation": "uses_material",
+      "target_id": "e6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "e10",
+      "relation": "uses_material",
+      "target_id": "e7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "e10",
+      "relation": "uses_material",
+      "target_id": "e8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 11,
+        "page_end": 16
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "uses_material",
+      "target_id": "m1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "optical opacity allowed, no solid or gas impurities",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "operates_at_condition",
+      "target_id": "pr1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "operates_at_condition",
+      "target_id": "pr6",
+      "numeric_value": 250.0,
+      "unit": "m/h",
+      "condition": "recording speed <=250 m/h",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "operates_at_condition",
+      "target_id": "pr7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "operates_at_condition",
+      "target_id": "pr5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "if well freezing",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "uses_material",
+      "target_id": "m2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "well flushed with clean technical water before logging",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    },
+    {
+      "source_id": "p1",
+      "relation": "uses_material",
+      "target_id": "e1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Трофимов А.В. Опыт создания блочных геомеханических моделей в ГГИС.pdf",
+        "category": "Доклады",
+        "chunk_index": 3,
+        "page_start": 17,
+        "page_end": 18
+      }
+    }
+  ]
+}

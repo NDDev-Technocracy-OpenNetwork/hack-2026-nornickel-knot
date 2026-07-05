@@ -1,0 +1,137 @@
+{
+  "filename": "MitsuiMonthlyAug2011.pdf",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "m1",
+      "type": "Material",
+      "name": "gold",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "MitsuiMonthlyAug2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "m2",
+      "type": "Material",
+      "name": "silver",
+      "canonical_name": "silver",
+      "provenance": {
+        "source_file": "MitsuiMonthlyAug2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "m3",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "MitsuiMonthlyAug2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "m4",
+      "type": "Material",
+      "name": "palladium",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "MitsuiMonthlyAug2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "m5",
+      "type": "Material",
+      "name": "rhodium",
+      "canonical_name": "rhodium",
+      "provenance": {
+        "source_file": "MitsuiMonthlyAug2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "m1",
+      "relation": "produces_output",
+      "target_id": "m2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "August",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "MitsuiMonthlyAug2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "m1",
+      "relation": "produces_output",
+      "target_id": "m3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "August",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "MitsuiMonthlyAug2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "m1",
+      "relation": "operates_at_condition",
+      "target_id": "m4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "August",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "MitsuiMonthlyAug2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    },
+    {
+      "source_id": "m1",
+      "relation": "operates_at_condition",
+      "target_id": "m5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "August",
+      "confidence": 0.8,
+      "provenance": {
+        "source_file": "MitsuiMonthlyAug2011.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 1,
+        "page_start": 3,
+        "page_end": 3
+      }
+    }
+  ]
+}

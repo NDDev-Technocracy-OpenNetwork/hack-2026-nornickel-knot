@@ -1,0 +1,199 @@
+{
+  "filename": "CM_05_2007.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "m1",
+      "type": "Material",
+      "name": "алюминий",
+      "canonical_name": "aluminum",
+      "provenance": {
+        "source_file": "CM_05_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "m2",
+      "type": "Material",
+      "name": "глинозем",
+      "canonical_name": "alumina",
+      "provenance": {
+        "source_file": "CM_05_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "f1",
+      "type": "Facility",
+      "name": "Волховский алюминиевый завод",
+      "canonical_name": "Volkhov Aluminum Plant",
+      "provenance": {
+        "source_file": "CM_05_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "f2",
+      "type": "Facility",
+      "name": "алюминиеперерабатывающие заводы",
+      "canonical_name": "aluminum processing plants",
+      "provenance": {
+        "source_file": "CM_05_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "p1",
+      "type": "Process",
+      "name": "приватизация",
+      "canonical_name": "privatization",
+      "provenance": {
+        "source_file": "CM_05_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "p2",
+      "type": "Process",
+      "name": "консолидация",
+      "canonical_name": "consolidation",
+      "provenance": {
+        "source_file": "CM_05_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "p3",
+      "type": "Process",
+      "name": "модернизация",
+      "canonical_name": "modernization",
+      "provenance": {
+        "source_file": "CM_05_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "p4",
+      "type": "Process",
+      "name": "производство алюминия",
+      "canonical_name": "aluminum production",
+      "provenance": {
+        "source_file": "CM_05_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "pr1",
+      "type": "Property",
+      "name": "сертифицирован по международным стандартам",
+      "canonical_name": "certified by international standards",
+      "provenance": {
+        "source_file": "CM_05_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "e1",
+      "type": "Expert",
+      "name": "И. Прокопов",
+      "canonical_name": "I. Prokopov",
+      "provenance": {
+        "source_file": "CM_05_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "id": "e2",
+      "type": "Expert",
+      "name": "В. Кальченко",
+      "canonical_name": "V. Kalchenko",
+      "provenance": {
+        "source_file": "CM_05_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "f1",
+      "relation": "produces_output",
+      "target_id": "m1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "first ingots produced in 1932",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_05_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "p4",
+      "relation": "produces_output",
+      "target_id": "m1",
+      "numeric_value": 628000.0,
+      "unit": "ton",
+      "condition": "pre‑war and WWII period",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_05_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    },
+    {
+      "source_id": "m1",
+      "relation": "validated_by",
+      "target_id": "pr1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_05_2007.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 2
+      }
+    }
+  ]
+}

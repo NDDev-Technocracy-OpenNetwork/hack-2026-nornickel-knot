@@ -1,0 +1,1327 @@
+{
+  "filename": "Base Metals One Year Forecast - Dec2012.pdf",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "lead",
+      "canonical_name": "lead",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 16,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "zinc",
+      "canonical_name": "zinc",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 16,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "La Oroya polymetallic complex",
+      "canonical_name": "La Oroya polymetallic complex",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 16,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Portovesme smelter",
+      "canonical_name": "Portovesme smelter",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 16,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Penasquito mine",
+      "canonical_name": "Penasquito mine",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 16,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Paroo Station mine",
+      "canonical_name": "Paroo Station mine",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 16,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "lead-acid battery",
+      "canonical_name": "lead-acid battery",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 16,
+        "page_start": 26,
+        "page_end": 26
+      }
+    },
+    {
+      "id": "m1",
+      "type": "Material",
+      "name": "nickel",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "m2",
+      "type": "Material",
+      "name": "cobalt",
+      "canonical_name": "cobalt",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "p1",
+      "type": "Process",
+      "name": "HPAL operation",
+      "canonical_name": "HPAL operation",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "p2",
+      "type": "Process",
+      "name": "nickel and cobalt mine project",
+      "canonical_name": "mining",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "e1",
+      "type": "Equipment",
+      "name": "processing plant",
+      "canonical_name": "processing plant",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "e2",
+      "type": "Equipment",
+      "name": "mine",
+      "canonical_name": "mine",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "pr1",
+      "type": "Property",
+      "name": "cost",
+      "canonical_name": "cost",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "pr2",
+      "type": "Property",
+      "name": "schedule",
+      "canonical_name": "schedule",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "pr3",
+      "type": "Property",
+      "name": "cash flow",
+      "canonical_name": "cash flow",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "pr4",
+      "type": "Property",
+      "name": "operating profit",
+      "canonical_name": "operating profit",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "pr5",
+      "type": "Property",
+      "name": "price",
+      "canonical_name": "price",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "pr6",
+      "type": "Property",
+      "name": "surplus",
+      "canonical_name": "surplus",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "pr7",
+      "type": "Property",
+      "name": "demand",
+      "canonical_name": "demand",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "pr8",
+      "type": "Property",
+      "name": "supply",
+      "canonical_name": "supply",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "pr9",
+      "type": "Property",
+      "name": "production",
+      "canonical_name": "production",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "pr10",
+      "type": "Property",
+      "name": "consumption",
+      "canonical_name": "consumption",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "pr11",
+      "type": "Property",
+      "name": "reported stocks",
+      "canonical_name": "reported stocks",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "pr12",
+      "type": "Property",
+      "name": "weeks' consumption",
+      "canonical_name": "weeks' consumption",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "pr13",
+      "type": "Property",
+      "name": "LME Cash $/tonne",
+      "canonical_name": "LME Cash $/tonne",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "pr14",
+      "type": "Property",
+      "name": "trading range",
+      "canonical_name": "trading range",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "e3",
+      "type": "Expert",
+      "name": "Thomson Reuters GFMS",
+      "canonical_name": "Thomson Reuters GFMS",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "e4",
+      "type": "Expert",
+      "name": "Nickel Asia",
+      "canonical_name": "Nickel Asia",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "e5",
+      "type": "Expert",
+      "name": "Sumitomo & Mitsui",
+      "canonical_name": "Sumitomo & Mitsui",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "e6",
+      "type": "Expert",
+      "name": "Vale",
+      "canonical_name": "Vale",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "f1",
+      "type": "Facility",
+      "name": "Taganito HPAL operation",
+      "canonical_name": "Taganito HPAL operation",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "f2",
+      "type": "Facility",
+      "name": "Long Harbour nickel and cobalt mine project",
+      "canonical_name": "Long Harbour nickel and cobalt mine project",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "f3",
+      "type": "Facility",
+      "name": "Goro project",
+      "canonical_name": "Goro project",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 22,
+        "page_start": 35,
+        "page_end": 35
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "cobalt",
+      "canonical_name": "cobalt",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "nickel",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "Ramu nickel-cobalt project",
+      "canonical_name": "Ramu nickel-cobalt project",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Ambatovy",
+      "canonical_name": "Ambatovy",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 38,
+        "page_end": 38
+      }
+    },
+    {
+      "id": "5",
+      "type": "Publication",
+      "name": "Thomson Reuters GFMS",
+      "canonical_name": "Thomson Reuters GFMS",
+      "provenance": {
+        "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 24,
+        "page_start": 38,
+        "page_end": 38
+      }
+    }
+  ],
+  "relations": [
+    {
+      "fact": "Ramu nickel-cobalt project --[produces_output]--> cobalt",
+      "source_name": "Ramu nickel-cobalt project",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Ramu nickel-cobalt project --[produces_output]--> nickel",
+      "source_name": "Ramu nickel-cobalt project",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Ambatovy --[produces_output]--> cobalt",
+      "source_name": "Ambatovy",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 80000.0,
+      "unit": "tonnes per year",
+      "condition": null,
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[produces_output]--> cobalt",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Publication",
+      "relation": "produces_output",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Paroo Station mine --[produces_output]--> cobalt",
+      "source_name": "Paroo Station mine",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 85000.0,
+      "unit": "tonnes per year",
+      "condition": null,
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Nickel Asia --[operates_at_condition]--> cost",
+      "source_name": "Nickel Asia",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "cost",
+      "target_type": "Property",
+      "numeric_value": 1.59,
+      "unit": "billion USD",
+      "condition": "after project review by Sumitomo & Mitsui",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Nickel Asia --[operates_at_condition]--> schedule",
+      "source_name": "Nickel Asia",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "schedule",
+      "target_type": "Property",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "on schedule for completion by Q4 2013",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Vale --[operates_at_condition]--> cost",
+      "source_name": "Vale",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "cost",
+      "target_type": "Property",
+      "numeric_value": 4.25,
+      "unit": "billion USD",
+      "condition": "due to rising labour and engineering service costs",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Vale --[operates_at_condition]--> cash flow",
+      "source_name": "Vale",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "cash flow",
+      "target_type": "Property",
+      "numeric_value": 400.0,
+      "unit": "million USD",
+      "condition": "after a $700 million drain on cash this year",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Vale --[operates_at_condition]--> operating profit",
+      "source_name": "Vale",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "operating profit",
+      "target_type": "Property",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "can make an operating profit",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> price",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "price",
+      "target_type": "Property",
+      "numeric_value": 16975.0,
+      "unit": "USD/tonne",
+      "condition": "average price in the final quarter of 2012",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> price",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "price",
+      "target_type": "Property",
+      "numeric_value": 17522.0,
+      "unit": "USD/tonne",
+      "condition": "average price for 2012",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> surplus",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "surplus",
+      "target_type": "Property",
+      "numeric_value": 34.0,
+      "unit": "thousand tonnes",
+      "condition": "forecast surplus for 2012",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> demand",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "demand",
+      "target_type": "Property",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "waning demand in Europe and weakening demand in Japan",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> supply",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "supply",
+      "target_type": "Property",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "oversupplied market through next year",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> production",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "production",
+      "target_type": "Property",
+      "numeric_value": 440.0,
+      "unit": "thousand tonnes",
+      "condition": "global production in Q4 2012",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> consumption",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "consumption",
+      "target_type": "Property",
+      "numeric_value": 435.0,
+      "unit": "thousand tonnes",
+      "condition": "global consumption in Q4 2012",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> reported stocks",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "reported stocks",
+      "target_type": "Property",
+      "numeric_value": 220.0,
+      "unit": "thousand tonnes",
+      "condition": "reported stocks in Q4 2012",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> weeks' consumption",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "weeks' consumption",
+      "target_type": "Property",
+      "numeric_value": 6.6,
+      "unit": "weeks",
+      "condition": "weeks' consumption in Q4 2012",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> LME Cash $/tonne",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "LME Cash $/tonne",
+      "target_type": "Property",
+      "numeric_value": 16975.0,
+      "unit": "USD/tonne",
+      "condition": "LME Cash $/tonne in Q4 2012",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> trading range",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "trading range",
+      "target_type": "Property",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "forecast trading range for 2013",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Ramu nickel-cobalt project --[produces_output]--> cobalt",
+      "source_name": "Ramu nickel-cobalt project",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 418.0,
+      "unit": "tonnes",
+      "condition": "by the end of November",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Ramu nickel-cobalt project --[produces_output]--> nickel",
+      "source_name": "Ramu nickel-cobalt project",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": 4526.0,
+      "unit": "tonnes",
+      "condition": "by the end of November",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Ramu nickel-cobalt project --[operates_at_condition]--> cobalt",
+      "source_name": "Ramu nickel-cobalt project",
+      "source_type": "Facility",
+      "relation": "operates_at_condition",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 3300.0,
+      "unit": "tonnes",
+      "condition": "full capacity in the next one to two years",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[described_in]--> cobalt",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Publication",
+      "relation": "described_in",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 1253.0,
+      "unit": "tonnes",
+      "condition": "oversupply in the cobalt market to continue in 2013",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[described_in]--> cobalt",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Publication",
+      "relation": "described_in",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 14.2,
+      "unit": "USD/lb",
+      "condition": "average price in 2012",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[described_in]--> cobalt",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Publication",
+      "relation": "described_in",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 15.25,
+      "unit": "USD/lb",
+      "condition": "average price in 2013",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 38,
+      "page_end": 38
+    }
+  ],
+  "facts": [
+    {
+      "fact": "Ramu nickel-cobalt project --[produces_output]--> cobalt",
+      "source_name": "Ramu nickel-cobalt project",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Ramu nickel-cobalt project --[produces_output]--> nickel",
+      "source_name": "Ramu nickel-cobalt project",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Ambatovy --[produces_output]--> cobalt",
+      "source_name": "Ambatovy",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 80000.0,
+      "unit": "tonnes per year",
+      "condition": null,
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[produces_output]--> cobalt",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Publication",
+      "relation": "produces_output",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Paroo Station mine --[produces_output]--> cobalt",
+      "source_name": "Paroo Station mine",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 85000.0,
+      "unit": "tonnes per year",
+      "condition": null,
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 26,
+      "page_end": 26
+    },
+    {
+      "fact": "Nickel Asia --[operates_at_condition]--> cost",
+      "source_name": "Nickel Asia",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "cost",
+      "target_type": "Property",
+      "numeric_value": 1.59,
+      "unit": "billion USD",
+      "condition": "after project review by Sumitomo & Mitsui",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Nickel Asia --[operates_at_condition]--> schedule",
+      "source_name": "Nickel Asia",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "schedule",
+      "target_type": "Property",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "on schedule for completion by Q4 2013",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Vale --[operates_at_condition]--> cost",
+      "source_name": "Vale",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "cost",
+      "target_type": "Property",
+      "numeric_value": 4.25,
+      "unit": "billion USD",
+      "condition": "due to rising labour and engineering service costs",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Vale --[operates_at_condition]--> cash flow",
+      "source_name": "Vale",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "cash flow",
+      "target_type": "Property",
+      "numeric_value": 400.0,
+      "unit": "million USD",
+      "condition": "after a $700 million drain on cash this year",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Vale --[operates_at_condition]--> operating profit",
+      "source_name": "Vale",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "operating profit",
+      "target_type": "Property",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "can make an operating profit",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> price",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "price",
+      "target_type": "Property",
+      "numeric_value": 16975.0,
+      "unit": "USD/tonne",
+      "condition": "average price in the final quarter of 2012",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> price",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "price",
+      "target_type": "Property",
+      "numeric_value": 17522.0,
+      "unit": "USD/tonne",
+      "condition": "average price for 2012",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> surplus",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "surplus",
+      "target_type": "Property",
+      "numeric_value": 34.0,
+      "unit": "thousand tonnes",
+      "condition": "forecast surplus for 2012",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> demand",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "demand",
+      "target_type": "Property",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "waning demand in Europe and weakening demand in Japan",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> supply",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "supply",
+      "target_type": "Property",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "oversupplied market through next year",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> production",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "production",
+      "target_type": "Property",
+      "numeric_value": 440.0,
+      "unit": "thousand tonnes",
+      "condition": "global production in Q4 2012",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> consumption",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "consumption",
+      "target_type": "Property",
+      "numeric_value": 435.0,
+      "unit": "thousand tonnes",
+      "condition": "global consumption in Q4 2012",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> reported stocks",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "reported stocks",
+      "target_type": "Property",
+      "numeric_value": 220.0,
+      "unit": "thousand tonnes",
+      "condition": "reported stocks in Q4 2012",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> weeks' consumption",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "weeks' consumption",
+      "target_type": "Property",
+      "numeric_value": 6.6,
+      "unit": "weeks",
+      "condition": "weeks' consumption in Q4 2012",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> LME Cash $/tonne",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "LME Cash $/tonne",
+      "target_type": "Property",
+      "numeric_value": 16975.0,
+      "unit": "USD/tonne",
+      "condition": "LME Cash $/tonne in Q4 2012",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[operates_at_condition]--> trading range",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Expert",
+      "relation": "operates_at_condition",
+      "target_name": "trading range",
+      "target_type": "Property",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "forecast trading range for 2013",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 35,
+      "page_end": 35
+    },
+    {
+      "fact": "Ramu nickel-cobalt project --[produces_output]--> cobalt",
+      "source_name": "Ramu nickel-cobalt project",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 418.0,
+      "unit": "tonnes",
+      "condition": "by the end of November",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Ramu nickel-cobalt project --[produces_output]--> nickel",
+      "source_name": "Ramu nickel-cobalt project",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "nickel",
+      "target_type": "Material",
+      "numeric_value": 4526.0,
+      "unit": "tonnes",
+      "condition": "by the end of November",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Ramu nickel-cobalt project --[operates_at_condition]--> cobalt",
+      "source_name": "Ramu nickel-cobalt project",
+      "source_type": "Facility",
+      "relation": "operates_at_condition",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 3300.0,
+      "unit": "tonnes",
+      "condition": "full capacity in the next one to two years",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[described_in]--> cobalt",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Publication",
+      "relation": "described_in",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 1253.0,
+      "unit": "tonnes",
+      "condition": "oversupply in the cobalt market to continue in 2013",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[described_in]--> cobalt",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Publication",
+      "relation": "described_in",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 14.2,
+      "unit": "USD/lb",
+      "condition": "average price in 2012",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 38,
+      "page_end": 38
+    },
+    {
+      "fact": "Thomson Reuters GFMS --[described_in]--> cobalt",
+      "source_name": "Thomson Reuters GFMS",
+      "source_type": "Publication",
+      "relation": "described_in",
+      "target_name": "cobalt",
+      "target_type": "Material",
+      "numeric_value": 15.25,
+      "unit": "USD/lb",
+      "condition": "average price in 2013",
+      "confidence": null,
+      "source_file": "Base Metals One Year Forecast - Dec2012.pdf",
+      "page_start": 38,
+      "page_end": 38
+    }
+  ]
+}

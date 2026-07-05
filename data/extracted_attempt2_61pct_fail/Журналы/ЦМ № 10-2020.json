@@ -1,0 +1,950 @@
+{
+  "filename": "ЦМ № 10-2020.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "В. Н. Бричкин",
+      "canonical_name": "В. Н. Бричкин",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "2",
+      "type": "Expert",
+      "name": "В. Ю. Бажин",
+      "canonical_name": "В. Ю. Бажин",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "А. Г. Воробьев",
+      "canonical_name": "А. Г. Воробьев",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Санкт-Петербургский горный университет",
+      "canonical_name": "Санкт-Петербургский горный университет",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "e1",
+      "type": "Facility",
+      "name": "Горный институт",
+      "canonical_name": "Горный институт",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e2",
+      "type": "Facility",
+      "name": "Гипроалюминий",
+      "canonical_name": "Гипроалюминий",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e3",
+      "type": "Facility",
+      "name": "Гипроникель",
+      "canonical_name": "Гипроникель",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e4",
+      "type": "Facility",
+      "name": "Ленинградский институт металлов",
+      "canonical_name": "Ленинградский институт металлов",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e5",
+      "type": "Facility",
+      "name": "Ленгинцветмет",
+      "canonical_name": "Ленгинцветмет",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e6",
+      "type": "Facility",
+      "name": "Союзникельоловопроект",
+      "canonical_name": "Союзникельоловопроект",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e7",
+      "type": "Facility",
+      "name": "Североникель",
+      "canonical_name": "Североникель",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e8",
+      "type": "Facility",
+      "name": "Норильский горнорудный комбинат",
+      "canonical_name": "Норильский горнорудный комбинат",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e9",
+      "type": "Facility",
+      "name": "Челябинский электролитный цинковый завод",
+      "canonical_name": "Челябинский электролитный цинковый завод",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e10",
+      "type": "Facility",
+      "name": "Южуралникель",
+      "canonical_name": "Южуралникель",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e11",
+      "type": "Expert",
+      "name": "Н. П. Асеев",
+      "canonical_name": "Н. П. Асеев",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e12",
+      "type": "Expert",
+      "name": "Константин Федорович Белоглазов",
+      "canonical_name": "Константин Федорович Белоглазов",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e13",
+      "type": "Expert",
+      "name": "Н. С. Грейвер",
+      "canonical_name": "Н. С. Грейвер",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e14",
+      "type": "Expert",
+      "name": "И. Н. Масленицкий",
+      "canonical_name": "И. Н. Масленицкий",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e15",
+      "type": "Expert",
+      "name": "Д. А. Диомидовский",
+      "canonical_name": "Д. А. Диомидовский",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e16",
+      "type": "Expert",
+      "name": "Л. М. Шалыгин",
+      "canonical_name": "Л. М. Шалыгин",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e17",
+      "type": "Expert",
+      "name": "Т. Н. Грейвер",
+      "canonical_name": "Т. Н. Грейвер",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e18",
+      "type": "Expert",
+      "name": "Иван Никонович Пискунов",
+      "canonical_name": "Иван Никонович Пискунов",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e19",
+      "type": "Process",
+      "name": "Орфорд-процесс",
+      "canonical_name": "Орфорд-процесс",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e20",
+      "type": "Process",
+      "name": "флотационное разделение медно-никелевого файнштейна",
+      "canonical_name": "флотационное разделение медно-никелевого файнштейна",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e21",
+      "type": "Process",
+      "name": "автоклавное выщелачивание цветных и благородных металлов",
+      "canonical_name": "автоклавное выщелачивание цветных и благородных металлов",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e22",
+      "type": "Process",
+      "name": "конвертирование медных и медно-никелевых штейнов",
+      "canonical_name": "конвертирование медных и медно-никелевых штейнов",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e23",
+      "type": "Process",
+      "name": "извлечение редких и благородных металлов",
+      "canonical_name": "извлечение редких и благородных металлов",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e24",
+      "type": "Material",
+      "name": "сульфидные медно-никелевые руды",
+      "canonical_name": "сульфидные медно-никелевые руды",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e25",
+      "type": "Material",
+      "name": "никель",
+      "canonical_name": "никель",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e26",
+      "type": "Material",
+      "name": "меди",
+      "canonical_name": "меди",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e27",
+      "type": "Material",
+      "name": "кобальта",
+      "canonical_name": "кобальта",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e28",
+      "type": "Material",
+      "name": "концентрат платиновых металлов",
+      "canonical_name": "концентрат платиновых металлов",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e29",
+      "type": "Material",
+      "name": "медно-никелевый файнштейн",
+      "canonical_name": "медно-никелевый файнштейн",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e30",
+      "type": "Material",
+      "name": "цветные металлы",
+      "canonical_name": "цветные металлы",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e31",
+      "type": "Material",
+      "name": "благородные металлы",
+      "canonical_name": "благородные металлы",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e32",
+      "type": "Material",
+      "name": "редкие металлы",
+      "canonical_name": "редкие металлы",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e33",
+      "type": "Material",
+      "name": "легкие металлы",
+      "canonical_name": "легкие металлы",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "id": "e34",
+      "type": "Publication",
+      "name": "рукопись Н. П. Асеева",
+      "canonical_name": "рукопись Н. П. Асеева",
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "affiliated_with",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 4,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "e11",
+      "relation": "affiliated_with",
+      "target_id": "e1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e12",
+      "relation": "affiliated_with",
+      "target_id": "e1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e13",
+      "relation": "affiliated_with",
+      "target_id": "e1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e14",
+      "relation": "affiliated_with",
+      "target_id": "e1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e15",
+      "relation": "affiliated_with",
+      "target_id": "e1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e16",
+      "relation": "affiliated_with",
+      "target_id": "e1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e17",
+      "relation": "affiliated_with",
+      "target_id": "e1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e18",
+      "relation": "affiliated_with",
+      "target_id": "e1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e18",
+      "relation": "affiliated_with",
+      "target_id": "e3",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "uses_material",
+      "target_id": "e24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "operates_at_condition",
+      "target_id": "e19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "1935 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "produces_output",
+      "target_id": "e25",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "produces_output",
+      "target_id": "e26",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "produces_output",
+      "target_id": "e27",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "produces_output",
+      "target_id": "e28",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "operates_at_condition",
+      "target_id": "e20",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "1960-е гг.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "operates_at_condition",
+      "target_id": "e21",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "1960-е гг.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "operates_at_condition",
+      "target_id": "e22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "1960-е гг.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "operates_at_condition",
+      "target_id": "e23",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "1960-е гг.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "uses_material",
+      "target_id": "e29",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "uses_material",
+      "target_id": "e30",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "uses_material",
+      "target_id": "e31",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "uses_material",
+      "target_id": "e32",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "uses_material",
+      "target_id": "e33",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    },
+    {
+      "source_id": "e1",
+      "relation": "described_in",
+      "target_id": "e34",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ № 10-2020.pdf",
+        "category": "Журналы",
+        "chunk_index": 8,
+        "page_start": 10,
+        "page_end": 10
+      }
+    }
+  ]
+}

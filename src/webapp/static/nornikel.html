@@ -1,0 +1,772 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nornikel 2026 — живая карта знаний R&amp;D</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;700;800;900&family=Playfair+Display:ital@1&family=JetBrains+Mono:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f7f6f3; --ink: #121110; --ink-mid: #3a3733; --ink-soft: #8a8680;
+    --orange: #e85d04; --orange-light: #ff7c26; --orange-dim: rgba(232,93,4,0.08);
+    --line: rgba(18,17,16,0.1);
+    --mono: 'JetBrains Mono', monospace; --display: 'Unbounded', sans-serif; --serif: 'Playfair Display', serif;
+  }
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--ink); font-family: 'Inter', sans-serif; overflow-x: hidden; padding-top: 64px; }
+  a { color: inherit; }
+  h1, h2, h3, .display { font-family: var(--display); }
+
+  nav { position: fixed; top: 0; left: 0; right: 0; z-index: 100; display: flex; align-items: center; justify-content: space-between; padding: 0 48px; height: 64px; background: rgba(247,246,243,0.92); backdrop-filter: blur(14px); border-bottom: 1px solid var(--line); }
+  .nav-logo { font-family: var(--display); font-size: 13px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--ink); }
+  .nav-logo span { color: var(--orange); }
+  .nav-links { display: flex; gap: 28px; list-style: none; }
+  .nav-links a { font-size: 11px; font-weight: 500; letter-spacing: .06em; text-transform: uppercase; text-decoration: none; color: var(--ink-soft); transition: color .2s; font-family: var(--mono); }
+  .nav-links a:hover, .nav-links a.active { color: var(--orange); }
+
+  .subtabs { position: sticky; top: 64px; z-index: 90; display: flex; gap: 0; padding: 0 48px; background: var(--bg); border-bottom: 1px solid var(--line); }
+  .subtabs button { font-family: var(--mono); font-size: 12px; font-weight: 500; letter-spacing: .08em; text-transform: uppercase; padding: 18px 26px; background: none; border: none; cursor: pointer; color: var(--ink-soft); border-bottom: 2px solid transparent; margin-bottom: -1px; transition: color .2s, border-color .2s; }
+  .subtabs button.active { color: var(--orange); border-bottom-color: var(--orange); }
+  .subtabs button:hover { color: var(--ink); }
+
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 0 48px; }
+  section { padding: 64px 0; }
+  .section-label { font-family: var(--mono); font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--orange); margin-bottom: 18px; display: flex; align-items: center; gap: 12px; }
+  .section-label::before { content: ''; width: 20px; height: 1px; background: var(--orange); }
+  h2.section-h2 { font-size: clamp(26px,3.2vw,42px); font-weight: 800; letter-spacing: -.02em; line-height: 1.12; }
+  h2.section-h2 em { font-family: var(--serif); font-style: italic; font-weight: 400; color: var(--orange); }
+
+  /* ── интерактивная панель (вопрос/ответ) ── */
+  .ask-hero { padding: 56px 0 40px; text-align: center; }
+  .ask-stats { display: flex; gap: 8px; margin-top: 18px; flex-wrap: wrap; justify-content: center; }
+  .stat-chip { font-family: var(--mono); font-size: 11px; color: var(--ink-soft); border: 1px solid var(--line); border-radius: 999px; padding: 6px 14px; background: #fff; }
+  .stat-chip b { color: var(--ink); font-weight: 700; }
+
+  .search-card { background: #fff; border: 1px solid var(--line); border-radius: 6px; padding: 5px; display: flex; gap: 5px; box-shadow: 0 16px 40px -22px rgba(18,17,16,0.25); max-width: 780px; margin: 32px auto 0; }
+  .search-card:focus-within { border-color: var(--orange); }
+  #q { flex: 1; background: transparent; border: none; outline: none; color: var(--ink); font-size: 15px; padding: 15px 16px; font-family: 'Inter', sans-serif; }
+  #q::placeholder { color: var(--ink-soft); }
+  #ask-btn { background: var(--ink); color: #fff; border: none; border-radius: 4px; padding: 0 28px; font-size: 11px; text-transform: uppercase; letter-spacing: .08em; font-family: var(--display); font-weight: 700; cursor: pointer; transition: background .2s; }
+  #ask-btn:hover { background: var(--orange); }
+  #ask-btn:disabled { opacity: .4; cursor: default; }
+
+  .examples { display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; margin-top: 20px; }
+  .example-chip { font-family: var(--mono); font-size: 11.5px; color: var(--ink-soft); background: #fff; border: 1px solid var(--line); border-radius: 999px; padding: 8px 14px; cursor: pointer; transition: all .15s; }
+  .example-chip:hover { color: var(--orange); border-color: var(--orange); }
+
+  .upload-row { display: flex; align-items: center; gap: 12px; margin-top: 22px; flex-wrap: wrap; justify-content: center; }
+  .upload-btn { font-family: var(--mono); background: transparent; color: var(--ink-soft); border: 1px dashed var(--ink-soft); border-radius: 999px; padding: 9px 16px; font-size: 12px; cursor: pointer; transition: color .15s, border-color .15s; }
+  .upload-btn:hover { color: var(--orange); border-color: var(--orange); }
+  .upload-btn:disabled { opacity: .5; cursor: wait; }
+  .upload-status { font-family: var(--mono); font-size: 11px; color: var(--ink-soft); }
+
+  .loading { display: none; align-items: center; gap: 10px; color: var(--ink-soft); font-family: var(--mono); font-size: 12px; padding: 20px 0; justify-content: center; }
+  .loading.show { display: flex; }
+  .dot { width: 5px; height: 5px; border-radius: 50%; background: var(--orange); animation: pulse 1.1s ease-in-out infinite; }
+  .dot:nth-child(2) { animation-delay: .15s; } .dot:nth-child(3) { animation-delay: .3s; }
+  @keyframes pulse { 0%,80%,100% { opacity: .2; } 40% { opacity: 1; } }
+
+  #result { display: none; flex-direction: column; gap: 20px; padding-bottom: 60px; }
+  #result.show { display: flex; }
+  .card { background: #fff; border: 1px solid var(--line); border-radius: 10px; padding: 30px 32px; }
+  .answer-meta { display: flex; gap: 18px; flex-wrap: wrap; font-family: var(--mono); font-size: 11px; color: var(--ink-soft); margin-bottom: 20px; padding-bottom: 18px; border-bottom: 1px dashed var(--line); }
+  .answer-meta span b { color: var(--orange); }
+  .answer-text { font-size: 15.5px; line-height: 1.75; color: var(--ink-mid); }
+  .answer-text p { margin: 0 0 12px; }
+  .answer-text ul, .answer-text ol { margin: 0 0 12px; padding-left: 22px; }
+  .answer-text li { margin: 4px 0; }
+  .answer-text strong { color: var(--ink); font-weight: 700; }
+  .answer-text code { background: var(--orange-dim); padding: 1px 6px; border-radius: 3px; font-family: var(--mono); font-size: .9em; color: var(--ink); }
+  .answer-text hr { border: none; border-top: 1px dashed var(--line); margin: 16px 0; }
+  .answer-text h1, .answer-text h2, .answer-text h3 { font-family: var(--display); margin: 18px 0 8px; color: var(--ink); }
+  .answer-text .table-wrap { overflow-x: auto; margin: 0 0 14px; border: 1px solid var(--line); border-radius: 8px; }
+  .answer-text table { border-collapse: collapse; width: 100%; font-size: 13.5px; }
+  .answer-text th, .answer-text td { padding: 10px 14px; text-align: left; border-bottom: 1px solid var(--line); vertical-align: top; }
+  .answer-text th { font-family: var(--mono); font-size: 11px; text-transform: uppercase; letter-spacing: .04em; color: var(--ink-soft); background: #faf9f6; }
+  .answer-text tr:last-child td { border-bottom: none; }
+
+  .panel-title { font-family: var(--mono); font-size: 10px; text-transform: uppercase; letter-spacing: .12em; color: var(--ink-soft); margin: 0 0 14px; display: flex; align-items: center; justify-content: space-between; }
+  .panel-title small { font-weight: 400; text-transform: none; letter-spacing: 0; color: var(--ink-soft); }
+
+  .graph-canvas-wrap { position: relative; width: 100%; }
+  .graph-canvas-wrap canvas { width: 100%; display: block; border-radius: 6px; background: #fbfaf8; cursor: grab; }
+  .legend { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 12px; }
+  .legend-item { display: flex; align-items: center; gap: 6px; font-family: var(--mono); font-size: 10.5px; color: var(--ink-soft); }
+  .legend-dot { width: 7px; height: 7px; border-radius: 50%; }
+
+  .sources { display: flex; flex-direction: column; gap: 8px; }
+  .source-pill { display: inline-flex; align-items: center; gap: 6px; font-family: var(--mono); font-size: 11.5px; color: var(--ink-soft); background: #fff; border: 1px solid var(--line); border-radius: 4px; padding: 7px 11px; margin: 2px 5px 2px 0; }
+  .source-pill::before { content: ''; width: 5px; height: 5px; border-radius: 50%; background: var(--orange); flex: none; }
+  .empty-note { color: var(--ink-soft); font-size: 14px; padding: 30px 4px; text-align: center; font-family: var(--mono); }
+
+  /* ── обзор графа ── */
+  .explorer-controls { display: flex; gap: 8px; margin-bottom: 14px; }
+  .explorer-controls input { flex: 1; background: #fff; border: 1px solid var(--line); border-radius: 6px; color: var(--ink); padding: 11px 14px; font-size: 14px; outline: none; font-family: 'Inter', sans-serif; }
+  .explorer-controls input:focus { border-color: var(--orange); }
+  .explorer-controls button { font-family: var(--mono); background: var(--orange-dim); color: var(--orange); border: 1px solid var(--orange); border-radius: 6px; padding: 0 18px; font-size: 12px; cursor: pointer; white-space: nowrap; }
+  .explorer-controls button:disabled { opacity: .5; cursor: wait; }
+  .type-chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 22px; }
+  .type-chip { font-family: var(--mono); font-size: 11px; padding: 5px 12px; border-radius: 20px; border: 1px solid var(--line); background: #fff; cursor: pointer; user-select: none; opacity: .4; transition: opacity .15s; }
+  .type-chip.on { opacity: 1; }
+
+  /* ── питч ── */
+  .pitch-flow { display: grid; grid-template-columns: repeat(5,1fr); gap: 2px; margin-top: 40px; background: var(--line); }
+  .pitch-stage { background: var(--bg); padding: 30px 22px; }
+  .pitch-stage b { display: block; font-size: 14px; margin-bottom: 8px; }
+  .pitch-stage span { font-size: 12.5px; color: var(--ink-mid); line-height: 1.5; display: block; }
+  .grid { display: grid; gap: 2px; background: var(--line); margin-top: 22px; }
+  .g3 { grid-template-columns: repeat(3,1fr); }
+  .stat-box { background: var(--bg); padding: 32px 28px; }
+  .stat-box .num { font-family: var(--mono); font-weight: 700; font-size: 34px; color: var(--orange); line-height: 1; }
+  .stat-box .cap { font-size: 13px; color: var(--ink-mid); margin-top: 10px; line-height: 1.5; }
+  .tag { display: inline-block; font-family: var(--mono); font-size: 12px; border: 1px solid var(--line); border-radius: 20px; padding: 7px 15px; margin: 0 8px 8px 0; color: var(--ink-mid); }
+  .quote-block { font-family: var(--serif); font-style: italic; font-size: 19px; line-height: 1.5; max-width: 760px; padding-left: 22px; border-left: 3px solid var(--orange); margin-top: 16px; }
+  .quote-block .src { display: block; font-family: var(--mono); font-style: normal; font-size: 12px; color: var(--ink-soft); margin-top: 10px; }
+
+  footer { padding: 44px 48px; border-top: 1px solid var(--line); display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+  .footer-logo { font-family: var(--display); font-size: 13px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+  .footer-logo span { color: var(--orange); }
+  .footer-copy { font-family: var(--mono); font-size: 11px; color: var(--ink-soft); letter-spacing: .04em; }
+
+  @media (max-width: 900px) {
+    nav, .subtabs, .wrap, footer { padding-left: 20px; padding-right: 20px; }
+    .nav-links { display: none; }
+    .pitch-flow, .g3 { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-logo">Harmonic<span>.</span>Labs — Nornikel 2026</div>
+</nav>
+
+<div class="subtabs">
+  <button class="active" data-tab="chat">Интерактивность</button>
+  <button data-tab="graph">Граф</button>
+  <button data-tab="pitch">Питч</button>
+  <button data-tab="harmonic">Harmonic</button>
+</div>
+
+<!-- ═══ TAB: интерактивность ═══ -->
+<div id="tab-chat" class="tab-panel">
+  <div class="wrap">
+    <div class="ask-hero">
+      <div class="section-label" style="justify-content:center;">Harmonic Labs · Норникель AI Hack</div>
+      <h1 class="section-h2">Карта знаний <em>R&amp;D</em></h1>
+      <div class="ask-stats" id="stats"><span class="stat-chip">загрузка графа…</span></div>
+
+      <div class="search-card">
+        <input id="q" type="text" placeholder="Спроси про материалы, процессы, оборудование…" autofocus />
+        <button id="ask-btn">Спросить</button>
+      </div>
+      <div class="examples" id="examples"></div>
+      <div class="upload-row">
+        <input id="pdf-file" type="file" accept=".pdf" style="display:none" />
+        <button id="upload-btn" class="upload-btn">+ Добавить свой PDF в граф</button>
+        <span id="upload-status" class="upload-status"></span>
+      </div>
+    </div>
+
+    <div class="loading" id="loading">
+      <span class="dot"></span><span class="dot"></span><span class="dot"></span>
+      <span>Harmonic ищет по графу, модель собирает ответ…</span>
+    </div>
+
+    <div id="result">
+      <div class="card" id="answer-card"></div>
+      <div class="card" id="graph-card">
+        <div class="panel-title">Карта связей<small id="graph-count"></small></div>
+        <div class="graph-canvas-wrap"><canvas id="graph-canvas"></canvas></div>
+        <div class="legend" id="legend"></div>
+      </div>
+      <div class="sources" id="sources-block"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ TAB: граф ═══ -->
+<div id="tab-graph" class="tab-panel" style="display:none">
+  <div class="wrap" style="padding-top:40px;">
+    <div class="section-label">Обзор графа знаний</div>
+    <h2 class="section-h2">82 706 узлов · 159 532 <em>связи</em></h2>
+    <div style="margin-top:28px;">
+      <div class="explorer-controls">
+        <input id="gq" type="text" placeholder="фильтр по названию узла… (пусто = топ по упоминаемости)" />
+        <button id="browse-btn">Показать</button>
+        <button id="discover-btn" title="Harmonic находит смысловые затравки по запросу и раскрывает связи вокруг них">Найти связи (Harmonic)</button>
+      </div>
+      <div class="type-chips" id="type-chips"></div>
+      <div class="card" id="graph2-card" style="padding:24px;">
+        <div class="panel-title">Карта связей<small id="graph2-count"></small></div>
+        <div class="graph-canvas-wrap"><canvas id="graph2-canvas"></canvas></div>
+        <div class="legend" id="legend2"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ TAB: питч ═══ -->
+<div id="tab-pitch" class="tab-panel" style="display:none">
+  <div class="wrap">
+    <section style="padding-top:48px;">
+      <div class="section-label">Норникель AI Hack · трек «Научный клубок»</div>
+      <h1 class="section-h2" style="font-size:clamp(30px,4vw,52px);">Живая карта знаний R&amp;D<br>для <em>горной металлургии</em></h1>
+      <p style="font-size:17px; max-width:680px; margin-top:18px; color:var(--ink-mid);">
+        Вопрос на естественном языке — структурированный ответ за 4 секунды, с числами,
+        условиями и ссылкой на страницу первоисточника. Поверх 90-летнего архива компании,
+        обработанного собственным пайплайном извлечения фактов.
+      </p>
+    </section>
+
+    <section>
+      <div class="section-label">Проблема</div>
+      <h2 class="section-h2">«Мы тонем<br>в <em>горе информации»</em></h2>
+      <div class="quote-block">Когда инженер приходит и спрашивает, какие способы очистки воды подходят
+        для конкретного предприятия — начинается ручной квест по архивам. Теряется память компании,
+        дублируются уже проведённые эксперименты.
+        <span class="src">— постановка задачи, департамент научно-технического развития «Гипроникеля»</span>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-label">Результат</div>
+      <h2 class="section-h2">Что построено <em>за 48 часов</em></h2>
+      <div class="grid g3">
+        <div class="stat-box"><div class="num">96%</div><div class="cap">корпуса обработано — 1070 из 1114 документов прошли полное извлечение фактов</div></div>
+        <div class="stat-box"><div class="num">82 706</div><div class="cap">узлов графа знаний: материалы, процессы, оборудование, эксперименты, эксперты</div></div>
+        <div class="stat-box"><div class="num">159 532</div><div class="cap">связи с числами, единицами измерения, условиями и точной страницей источника</div></div>
+        <div class="stat-box"><div class="num">3.9с</div><div class="cap">полный ответ: ретрив по графу 1.8с + синтез YandexGPT — укладывается в «3-5 секунд»</div></div>
+        <div class="stat-box"><div class="num">8+7</div><div class="cap">типов сущностей и связей единой онтологии, RU/EN-нормализация имён</div></div>
+        <div class="stat-box"><div class="num">~60с</div><div class="cap">живое пополнение: пользователь загружает свой PDF — документ в графе без перезапуска</div></div>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-label">Архитектура</div>
+      <h2 class="section-h2">Пайплайн: от файлов <em>до ответа</em></h2>
+      <div class="pitch-flow">
+        <div class="pitch-stage"><b>Парсинг + OCR</b><span>PDF/DOCX/PPTX/XLS. Текстовый слой постранично; сканы — EasyOCR на GPU.</span></div>
+        <div class="pitch-stage"><b>Извлечение фактов</b><span>Qwen2.5-7B на H100 (vLLM). 10 GPU параллельно, 23511 чанков за прогон.</span></div>
+        <div class="pitch-stage"><b>Граф знаний</b><span>Дедупликация по канонич. имени. Связь несёт число, единицу, условие, страницу.</span></div>
+        <div class="pitch-stage"><b>Гибридный ретрив</b><span>Harmonic-эмбеддинги + сущностный поиск. 2-hop, 1.8с, целиком CPU.</span></div>
+        <div class="pitch-stage"><b>Синтез ответа</b><span>YandexGPT (РФ — офиц. стек). Только факты графа, с источником.</span></div>
+      </div>
+      <p style="margin-top:22px; color:var(--ink-mid); max-width:760px;">Экспорт в Neo4j — полный контракт данных
+        (documents / chunks / entities / mentions / relations) для промышленной графовой СУБД.</p>
+    </section>
+
+    <section>
+      <div class="section-label">Достоверность</div>
+      <h2 class="section-h2">Система не выдумывает —<br>и это <em>проверяемо</em></h2>
+      <div class="grid g3">
+        <div class="stat-box"><h3 style="font-size:16px;">Факт — со страницей</h3><div class="cap">Ответ собирается только из фактов графа. У каждого — файл-источник и диапазон страниц.</div></div>
+        <div class="stat-box"><h3 style="font-size:16px;">Белые пятна — как фича</h3><div class="cap">«Где мы ещё не копали» — система прямо говорит, каких данных нет, вместо выдумки.</div></div>
+        <div class="stat-box"><h3 style="font-size:16px;">Детектор противоречий</h3><div class="cap">Механическая сверка чисел: одна пара сущностей, одна единица, сопоставимые условия.</div></div>
+      </div>
+    </section>
+
+    <section>
+      <div class="section-label">Ресурсооптимальность</div>
+      <h2 class="section-h2">Считали деньги,<br>не только <em>качество</em></h2>
+      <div style="margin-top:20px;">
+        <span class="tag">7B вместо 32B — в 3.8× больше валидных фактов в единицу времени</span>
+        <span class="tag">ретрив без GPU — Harmonic работает на CPU</span>
+        <span class="tag">официальный стек РФ — YandexGPT</span>
+        <span class="tag">10× H100 параллельно — те же деньги, в 10× быстрее по времени</span>
+        <span class="tag">открытый стек: vLLM, Qwen, networkx, FastAPI, PyTorch</span>
+      </div>
+    </section>
+
+    <section style="padding-bottom:90px;">
+      <div class="stat-box" style="text-align:center; padding:52px 30px;">
+        <div class="section-label" style="justify-content:center;">Код и данные</div>
+        <h2 class="section-h2">Полный исходный код <em>на GitHub</em></h2>
+        <p style="margin-top:14px; color:var(--ink-mid);">Пайплайн извлечения, граф, веб-приложение, экспорт для Neo4j, обучение Harmonic — всё в одном репозитории.</p>
+        <div style="margin-top:26px;">
+          <a href="https://github.com/Omibranch/nornickel-scientific-knot" target="_blank"
+             style="font-family:var(--display); font-size:12px; font-weight:700; letter-spacing:.06em; text-transform:uppercase; padding:16px 30px; background:var(--ink); color:#fff; text-decoration:none; display:inline-block; border-radius:4px;">
+            Открыть репозиторий →
+          </a>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+
+<!-- ═══ TAB: Harmonic (питч архитектуры, отдельная страница во фрейме) ═══ -->
+<div id="tab-harmonic" class="tab-panel" style="display:none">
+  <iframe src="/harmonic" title="Harmonic — иерархическая SSM-архитектура"
+          style="width:100%; height:calc(100vh - 130px); border:none; display:block;"></iframe>
+</div>
+
+<footer>
+  <div class="footer-logo">Harmonic<span>.</span>Labs — Nornikel 2026</div>
+  <div class="footer-copy">SSM-архитектура + граф знаний · Норникель AI Hack 2026</div>
+</footer>
+
+<script>
+// ══════════════ переключение вкладок ══════════════
+const subtabButtons = document.querySelectorAll(".subtabs button");
+const tabPanels = {
+  chat: document.getElementById("tab-chat"), graph: document.getElementById("tab-graph"),
+  pitch: document.getElementById("tab-pitch"), harmonic: document.getElementById("tab-harmonic"),
+};
+let graphTabInited = false;
+subtabButtons.forEach(b => b.addEventListener("click", () => {
+  subtabButtons.forEach(x => x.classList.remove("active"));
+  b.classList.add("active");
+  Object.values(tabPanels).forEach(p => p.style.display = "none");
+  tabPanels[b.dataset.tab].style.display = "block";
+  if (b.dataset.tab === "graph") {
+    // resize/first-draw ПОСЛЕ того как вкладка реально видима -- иначе
+    // getBoundingClientRect() родителя даёт 0 и граф рисуется в точку
+    requestAnimationFrame(() => requestAnimationFrame(() => {
+      if (!graphTabInited) { graphTabInited = true; browseGraph(); }
+      else graphCtrl2.resize();
+    }));
+  }
+}));
+
+const EXAMPLES = [
+  "Какие методы обессоливания воды подходят для обогатительной фабрики?",
+  "Что известно про медь, золото и серебро?",
+  "Какие технические решения циркуляции электролита описаны?",
+  "Какое оборудование используется при флотации?",
+];
+const examplesEl = document.getElementById("examples");
+EXAMPLES.forEach(ex => {
+  const chip = document.createElement("div");
+  chip.className = "example-chip";
+  chip.textContent = ex;
+  chip.onclick = () => { document.getElementById("q").value = ex; ask(); };
+  examplesEl.appendChild(chip);
+});
+
+async function loadStats() {
+  try {
+    const r = await fetch("/api/stats");
+    const d = await r.json();
+    const typeChips = Object.entries(d.by_type).sort((a,b) => b[1]-a[1])
+      .map(([k,v]) => `<span class="stat-chip">${k}: <b>${v}</b></span>`).join("");
+    document.getElementById("stats").innerHTML = `
+      <span class="stat-chip">узлов: <b>${d.nodes}</b></span>
+      <span class="stat-chip">связей: <b>${d.edges}</b></span>${typeChips}`;
+  } catch (e) {
+    document.getElementById("stats").innerHTML = `<span class="stat-chip">граф недоступен</span>`;
+  }
+}
+loadStats();
+
+const btn = document.getElementById("ask-btn");
+const input = document.getElementById("q");
+const loading = document.getElementById("loading");
+const result = document.getElementById("result");
+const answerCard = document.getElementById("answer-card");
+const sourcesBlock = document.getElementById("sources-block");
+
+input.addEventListener("keydown", e => { if (e.key === "Enter") ask(); });
+btn.addEventListener("click", ask);
+
+const uploadBtn = document.getElementById("upload-btn");
+const pdfFile = document.getElementById("pdf-file");
+const uploadStatus = document.getElementById("upload-status");
+
+uploadBtn.addEventListener("click", () => pdfFile.click());
+pdfFile.addEventListener("change", async () => {
+  const f = pdfFile.files[0];
+  if (!f) return;
+  uploadBtn.disabled = true;
+  uploadStatus.textContent = `«${f.name}»: извлекаем факты (обычно до минуты)…`;
+  try {
+    const fd = new FormData();
+    fd.append("file", f);
+    const r = await fetch("/api/upload", { method: "POST", body: fd });
+    const d = await r.json();
+    if (d.ok) {
+      uploadStatus.textContent =
+        `«${d.filename}»: +${d.entities} сущностей, +${d.relations} связей, ` +
+        `+${d.new_graph_nodes} новых узлов графа. Документ уже доступен в поиске.`;
+      loadStats();
+    } else {
+      uploadStatus.textContent = `Ошибка: ${d.error || "неизвестная"}`;
+    }
+  } catch (e) {
+    uploadStatus.textContent = `Ошибка загрузки: ${e}`;
+  } finally {
+    uploadBtn.disabled = false;
+    pdfFile.value = "";
+  }
+});
+
+async function ask() {
+  const question = input.value.trim();
+  if (!question) return;
+  btn.disabled = true;
+  loading.classList.add("show");
+  result.classList.remove("show");
+  stopGraph();
+  gHeight = 360;
+  answerCard.style.display = "";
+
+  try {
+    const r = await fetch("/api/ask", {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ question }),
+    });
+    const d = await r.json();
+    render(d);
+  } catch (e) {
+    answerCard.innerHTML = `<div class="empty-note">Ошибка запроса: ${e}</div>`;
+    document.getElementById("graph-card").style.display = "none";
+    sourcesBlock.innerHTML = "";
+    result.classList.add("show");
+  } finally {
+    loading.classList.remove("show");
+    btn.disabled = false;
+  }
+}
+
+function render(d) {
+  const graphCard = document.getElementById("graph-card");
+  if (!d.answer) {
+    answerCard.innerHTML = `<div class="empty-note">${d.reason || "Ничего не найдено."}</div>`;
+    graphCard.style.display = "none";
+    sourcesBlock.innerHTML = "";
+    result.classList.add("show");
+    return;
+  }
+  answerCard.innerHTML = `
+    <div class="answer-meta">
+      <span>узлов-затравок: <b>${d.seeds.length}</b></span>
+      <span>подграф: <b>${d.subgraph_nodes}</b> узлов / <b>${d.subgraph_edges}</b> связей</span>
+      <span>источников: <b>${d.sources.length}</b></span>
+      <span>retrieval: <b>${d.retrieval || "?"}</b></span>
+    </div>
+    <div class="answer-text"></div>`;
+  answerCard.querySelector(".answer-text").innerHTML = mdToHtml(d.answer);
+
+  if (d.sources && d.sources.length) {
+    sourcesBlock.innerHTML = `<h3 class="panel-title">Источники</h3>` +
+      d.sources.map(s => `<span class="source-pill">${s}</span>`).join("");
+  } else {
+    sourcesBlock.innerHTML = "";
+  }
+
+  graphCard.style.display = (d.graph && d.graph.nodes.length) ? "block" : "none";
+  result.classList.add("show");
+
+  if (d.graph && d.graph.nodes.length) {
+    document.getElementById("graph-count").textContent =
+      `${d.graph.nodes.length} узлов показано из ${d.subgraph_nodes}`;
+    requestAnimationFrame(() => startGraph(d.graph));
+  }
+}
+
+// ══════════════ мини-markdown -> html ══════════════
+function escapeHtml(s) { return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
+function mdInline(s) {
+  s = escapeHtml(s);
+  s = s.replace(/`([^`]+)`/g, "<code>$1</code>");
+  s = s.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
+  s = s.replace(/(?<!\*)\*([^*]+)\*(?!\*)/g, "<em>$1</em>");
+  return s;
+}
+function isTableRow(line) { return /^\|.*\|$/.test(line.trim()); }
+function isTableSep(line) { return /^\|?[\s:|-]+\|?$/.test(line.trim()) && line.includes("-"); }
+function splitRow(line) {
+  const t = line.trim().replace(/^\|/, "").replace(/\|$/, "");
+  return t.split("|").map(c => c.trim());
+}
+function tableToHtml(rows) {
+  const [head, ...body] = rows;
+  let html = "<table><thead><tr>" + head.map(c => `<th>${mdInline(c)}</th>`).join("") + "</tr></thead><tbody>";
+  for (const r of body) html += "<tr>" + r.map(c => `<td>${mdInline(c)}</td>`).join("") + "</tr>";
+  return html + "</tbody></table>";
+}
+function mdToHtml(text) {
+  const lines = text.split("\n");
+  let html = "", inList = null;
+  const closeList = () => { if (inList) { html += `</${inList}>`; inList = null; } };
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i].trim();
+    if (!line) { closeList(); continue; }
+    if (isTableRow(line) && i + 1 < lines.length && isTableSep(lines[i + 1])) {
+      closeList();
+      const tableLines = [line];
+      let j = i + 2;
+      while (j < lines.length && isTableRow(lines[j])) { tableLines.push(lines[j]); j++; }
+      const rows = [splitRow(tableLines[0]), ...tableLines.slice(1).map(splitRow)];
+      html += `<div class="table-wrap">${tableToHtml(rows)}</div>`;
+      i = j - 1;
+      continue;
+    }
+    if (/^-{3,}$|^\*{3,}$/.test(line)) { closeList(); html += "<hr>"; continue; }
+    const h = line.match(/^(#{1,3})\s+(.*)/);
+    if (h) { closeList(); html += `<h${h[1].length}>${mdInline(h[2])}</h${h[1].length}>`; continue; }
+    const ul = line.match(/^[-*]\s+(.*)/);
+    if (ul) { if (inList !== "ul") { closeList(); html += "<ul>"; inList = "ul"; } html += `<li>${mdInline(ul[1])}</li>`; continue; }
+    const ol = line.match(/^\d+\.\s+(.*)/);
+    if (ol) { if (inList !== "ol") { closeList(); html += "<ol>"; inList = "ol"; } html += `<li>${mdInline(ol[1])}</li>`; continue; }
+    closeList();
+    html += `<p>${mdInline(line)}</p>`;
+  }
+  closeList();
+  return html;
+}
+
+// ══════════════ граф связей (общий контроллер, используется дважды) ══════════════
+const TYPE_COLOR = {
+  Material: "#2563EB", Process: "#7c3aed", Equipment: "#059669",
+  Property: "#d97706", Experiment: "#dc2626", Publication: "#64748b",
+  Expert: "#db2777", Facility: "#0891b2",
+};
+let gHeight = 360;
+
+// Force-directed layout с охлаждением (Fruchterman-Reingold-подобное) --
+// прошлая версия жила вечно на одинаковой силе, из-за чего никогда не
+// успокаивалась (видимая дрожь) и хаб-узлы (copper, gold с сотнями связей)
+// стягивали всё в две точки по диагонали (полноценная пружина на каждое
+// ребро хаба, без учёта его степени). Теперь: сила ребра нормализована на
+// sqrt(степени) узла, температура падает каждый тик, при остывании ниже
+// порога симуляция останавливается и кадр рисуется статично -- дрожи нет
+// в принципе, т.к. движения после сходимости просто не происходит.
+function makeGraphController(canvas, ctx, heightGetter) {
+  let nodes = [], edges = [], raf = null, dragging = null, hover = null, dpr = 1;
+  let temperature = 1, tickCount = 0;
+  const COOLING = 0.985;       // темп затухания за тик
+  const MAX_TICKS = 400;       // жёсткий потолок -- не крутится бесконечно
+  const MIN_TEMP = 0.02;       // ниже этого -- считаем сошедшимся, останавливаем rAF
+
+  function resize() {
+    dpr = Math.min(window.devicePixelRatio || 1, 2);
+    const w = canvas.parentElement.clientWidth || canvas.parentElement.getBoundingClientRect().width || 600;
+    const h = heightGetter();
+    canvas.width = Math.max(1, Math.ceil(w * dpr));
+    canvas.height = Math.max(1, Math.ceil(h * dpr));
+    canvas.style.height = h + "px";
+  }
+
+  function start(graph, legendEl) {
+    resize();
+    const W = canvas.width, H = canvas.height;
+    const idx = {};
+    // сетка вместо круга -- при 200+ узлах круг даёт вырожденно тонкое
+    // кольцо, из которого разойтись сложнее и дольше
+    const cols = Math.ceil(Math.sqrt(graph.nodes.length * W / H));
+    const cellW = W / (cols + 1), cellH = H / (Math.ceil(graph.nodes.length / cols) + 1);
+    nodes = graph.nodes.map((n, i) => {
+      idx[n.id] = i;
+      const col = i % cols, row = Math.floor(i / cols);
+      const jitter = Math.min(cellW, cellH) * 0.3;
+      return {
+        ...n,
+        x: cellW * (col + 1) + (Math.random() - 0.5) * jitter,
+        y: cellH * (row + 1) + (Math.random() - 0.5) * jitter,
+        vx: 0, vy: 0, r: 3.2 * dpr + Math.min(n.degree, 10) * 0.5 * dpr,
+      };
+    });
+    edges = graph.edges.map(e => ({ s: idx[e.source], t: idx[e.target], relation: e.relation })).filter(e => e.s !== undefined && e.t !== undefined);
+
+    // степень для нормализации силы пружины -- считаем ПОСЛЕ фильтрации
+    const deg = new Array(nodes.length).fill(0);
+    for (const e of edges) { deg[e.s]++; deg[e.t]++; }
+    nodes.forEach((n, i) => { n._springScale = 1 / Math.sqrt(Math.max(1, deg[i])); });
+
+    const usedTypes = [...new Set(graph.nodes.map(n => n.type))];
+    legendEl.innerHTML = usedTypes.map(t => `<span class="legend-item"><span class="legend-dot" style="background:${TYPE_COLOR[t]||'#999'}"></span>${t}</span>`).join("");
+    attachDrag(); attachHover();
+    if (raf) cancelAnimationFrame(raf);
+    temperature = 1; tickCount = 0;
+    tick();
+  }
+
+  function stop() { if (raf) cancelAnimationFrame(raf); raf = null; }
+
+  function physicsStep(W, H) {
+    const N = nodes.length;
+    for (let i = 0; i < N; i++) {
+      const a = nodes[i];
+      if (a === dragging) continue;
+      let fx = (W/2 - a.x) * 0.0004, fy = (H/2 - a.y) * 0.0004;
+      for (let j = 0; j < N; j++) {
+        if (i === j) continue;
+        const b = nodes[j];
+        const dx = a.x - b.x, dy = a.y - b.y;
+        const d2 = Math.max(dx*dx + dy*dy, 16);
+        const f = (7000 * dpr * dpr) / d2;
+        fx += dx / Math.sqrt(d2) * f; fy += dy / Math.sqrt(d2) * f;
+      }
+      a.vx = (a.vx + fx * temperature) * 0.7;
+      a.vy = (a.vy + fy * temperature) * 0.7;
+    }
+    for (const e of edges) {
+      const a = nodes[e.s], b = nodes[e.t];
+      const dx = b.x - a.x, dy = b.y - a.y;
+      const dist = Math.sqrt(dx*dx + dy*dy) || 1;
+      // сила пружины нормализована на степень ОБОИХ концов -- хаб-узел с
+      // 300 связями не тащит каждую с полной силой, иначе весь граф
+      // стягивается в две точки (видно на скриншоте -- диагональная линия)
+      const scale = Math.min(a._springScale, b._springScale);
+      const f = (dist - 90 * dpr) * 0.03 * scale;
+      const fx = dx / dist * f, fy = dy / dist * f;
+      if (a !== dragging) { a.vx += fx * temperature; a.vy += fy * temperature; }
+      if (b !== dragging) { b.vx -= fx * temperature; b.vy -= fy * temperature; }
+    }
+    let maxSpeed2 = 0;
+    for (const n of nodes) {
+      if (n === dragging) continue;
+      const speed2 = n.vx*n.vx + n.vy*n.vy;
+      maxSpeed2 = Math.max(maxSpeed2, speed2);
+      // потолок скорости за тик -- не даёт узлу телепортироваться через
+      // весь холст за один шаг (главная причина видимой "дрожи")
+      const cap = 14 * dpr;
+      if (speed2 > cap*cap) { const s = cap / Math.sqrt(speed2); n.vx *= s; n.vy *= s; }
+      n.x += n.vx; n.y += n.vy;
+      n.x = Math.max(n.r, Math.min(W - n.r, n.x));
+      n.y = Math.max(n.r, Math.min(H - n.r, n.y));
+    }
+    return maxSpeed2;
+  }
+
+  function render(W, H) {
+    ctx.clearRect(0, 0, W, H);
+    ctx.strokeStyle = "rgba(18,17,16,0.09)"; ctx.lineWidth = 1 * dpr;
+    for (const e of edges) { const a = nodes[e.s], b = nodes[e.t]; ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.lineTo(b.x, b.y); ctx.stroke(); }
+    for (const n of nodes) {
+      ctx.fillStyle = TYPE_COLOR[n.type] || "#999";
+      ctx.beginPath(); ctx.arc(n.x, n.y, n.r, 0, 6.2832); ctx.fill();
+      if (n.seed) { ctx.strokeStyle = "rgba(232,93,4,0.9)"; ctx.lineWidth = 1.6 * dpr; ctx.beginPath(); ctx.arc(n.x, n.y, n.r + 2.5 * dpr, 0, 6.2832); ctx.stroke(); }
+    }
+    ctx.font = `${10 * dpr}px 'JetBrains Mono', monospace`;
+    const topLabeled = [...nodes].sort((a,b) => b.degree - a.degree).slice(0, 6);
+    const toDraw = new Set(topLabeled);
+    if (hover) toDraw.add(hover);
+    for (const n of toDraw) {
+      const label = n.label.slice(0, 26);
+      const w = ctx.measureText(label).width;
+      const lx = n.x + n.r + 5, ly = n.y + 3;
+      ctx.fillStyle = "rgba(255,255,255,0.92)"; ctx.fillRect(lx - 3, ly - 10 * dpr, w + 6, 13 * dpr);
+      ctx.fillStyle = n === hover ? "#121110" : "rgba(18,17,16,0.65)"; ctx.fillText(label, lx, ly);
+    }
+  }
+
+  function tick() {
+    const W = canvas.width, H = canvas.height;
+    physicsStep(W, H);
+    render(W, H);
+    temperature *= COOLING;
+    tickCount++;
+    // при перетаскивании -- держим тёплым, чтобы граф реагировал вокруг
+    // курсора, а не был заморожен предыдущей сходимостью
+    if (dragging) temperature = Math.max(temperature, 0.5);
+    if (temperature > MIN_TEMP && tickCount < MAX_TICKS) {
+      raf = requestAnimationFrame(tick);
+    } else {
+      raf = null;  // сошлось -- статичный кадр, дрожи больше нет
+    }
+  }
+
+  function wake() {
+    // при драге симуляция могла уже остановиться -- нужно перезапустить rAF
+    if (!raf) { temperature = Math.max(temperature, 0.5); tick(); }
+  }
+
+  function attachDrag() {
+    canvas.onmousedown = e => {
+      const rect = canvas.getBoundingClientRect();
+      const mx = (e.clientX - rect.left) * dpr, my = (e.clientY - rect.top) * dpr;
+      let closest = null, bestD = 400 * dpr * dpr;
+      for (const n of nodes) { const d2 = (n.x-mx)**2 + (n.y-my)**2; if (d2 < bestD) { bestD = d2; closest = n; } }
+      dragging = closest; canvas.style.cursor = closest ? "grabbing" : "grab";
+      if (dragging) wake();
+    };
+    window.addEventListener("mousemove", e => {
+      if (!dragging) return;
+      const rect = canvas.getBoundingClientRect();
+      dragging.x = (e.clientX - rect.left) * dpr; dragging.y = (e.clientY - rect.top) * dpr;
+      dragging.vx = 0; dragging.vy = 0;
+      wake();
+    });
+    window.addEventListener("mouseup", () => { dragging = null; canvas.style.cursor = "grab"; });
+  }
+  function attachHover() {
+    canvas.addEventListener("mousemove", e => {
+      if (dragging) { hover = null; return; }
+      const rect = canvas.getBoundingClientRect();
+      const mx = (e.clientX - rect.left) * dpr, my = (e.clientY - rect.top) * dpr;
+      let closest = null, bestD = 900 * dpr * dpr;
+      for (const n of nodes) { const d2 = (n.x-mx)**2 + (n.y-my)**2; if (d2 < bestD) { bestD = d2; closest = n; } }
+      hover = closest;
+      if (!raf) render(canvas.width, canvas.height);  // сошлось -- перерисовать только для hover-подсветки
+    });
+    canvas.addEventListener("mouseleave", () => { hover = null; if (!raf) render(canvas.width, canvas.height); });
+  }
+  return { start, stop, resize };
+}
+
+const gcanvas = document.getElementById("graph-canvas");
+const graphCtrl1 = makeGraphController(gcanvas, gcanvas.getContext("2d"), () => gHeight);
+function startGraph(graph) { graphCtrl1.start(graph, document.getElementById("legend")); }
+function stopGraph() { graphCtrl1.stop(); }
+
+const g2canvas = document.getElementById("graph2-canvas");
+const graphCtrl2 = makeGraphController(g2canvas, g2canvas.getContext("2d"), () => 580);
+
+// ══════════════ обзор графа (a-la Obsidian, весь корпус) ══════════════
+const browseBtn = document.getElementById("browse-btn");
+const discoverBtn = document.getElementById("discover-btn");
+const gqInput = document.getElementById("gq");
+const typeChipsEl = document.getElementById("type-chips");
+const activeTypes = new Set(Object.keys(TYPE_COLOR));
+
+Object.entries(TYPE_COLOR).forEach(([t, color]) => {
+  const chip = document.createElement("span");
+  chip.className = "type-chip on";
+  chip.textContent = t;
+  chip.style.color = color;
+  chip.onclick = () => {
+    if (activeTypes.has(t)) { activeTypes.delete(t); chip.classList.remove("on"); }
+    else { activeTypes.add(t); chip.classList.add("on"); }
+  };
+  typeChipsEl.appendChild(chip);
+});
+
+browseBtn.addEventListener("click", browseGraph);
+discoverBtn.addEventListener("click", discoverGraph);
+gqInput.addEventListener("keydown", e => { if (e.key === "Enter") browseGraph(); });
+
+async function browseGraph() {
+  browseBtn.disabled = discoverBtn.disabled = true;
+  try {
+    const params = new URLSearchParams({ q: gqInput.value.trim(), types: [...activeTypes].join(","), limit: "250" });
+    const r = await fetch(`/api/graph/browse?${params}`);
+    const d = await r.json();
+    document.getElementById("graph2-count").textContent = ` совпадений: ${d.total_matched}, показано: ${d.nodes.length}`;
+    graphCtrl2.start(d, document.getElementById("legend2"));
+  } finally {
+    browseBtn.disabled = discoverBtn.disabled = false;
+  }
+}
+
+async function discoverGraph() {
+  const query = gqInput.value.trim();
+  if (!query) { gqInput.placeholder = "для нейро-поиска связей введи запрос…"; return; }
+  browseBtn.disabled = discoverBtn.disabled = true;
+  document.getElementById("graph2-count").textContent = " Harmonic ищет смысловые затравки…";
+  try {
+    const r = await fetch("/api/graph/discover", {
+      method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ query }),
+    });
+    const d = await r.json();
+    document.getElementById("graph2-count").textContent = ` найдено затравок: ${d.total_matched}, показано: ${d.nodes.length}`;
+    graphCtrl2.start(d, document.getElementById("legend2"));
+  } finally {
+    browseBtn.disabled = discoverBtn.disabled = false;
+  }
+}
+</script>
+</body>
+</html>

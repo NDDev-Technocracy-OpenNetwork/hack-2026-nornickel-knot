@@ -1,0 +1,776 @@
+{
+  "filename": "CM_03_2008.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "Тайшетский алюминиевый завод",
+      "canonical_name": "Тайшетский алюминиевый завод",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "ОК РУСАЛ",
+      "canonical_name": "ОК РУСАЛ",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "ОАО «Иркутскэнерго»",
+      "canonical_name": "ОАО «Иркутскэнерго»",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Богучанская ГЭС",
+      "canonical_name": "Богучанская ГЭС",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "ОАО «Электроцинк»",
+      "canonical_name": "ОАО «Электроцинк»",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "ОАО «Челябинский цинковый завод»",
+      "canonical_name": "ОАО «Челябинский цинковый завод»",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "первичный алюминий",
+      "canonical_name": "первичный алюминий",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "алюминиевый лом",
+      "canonical_name": "алюминиевый лом",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "цинк",
+      "canonical_name": "цинк",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "цинковые сплавы",
+      "canonical_name": "цинковые сплавы",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "концентрат",
+      "canonical_name": "концентрат",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "свинец",
+      "canonical_name": "свинец",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "серная кислота",
+      "canonical_name": "серная кислота",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "кадмий",
+      "canonical_name": "кадмий",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "15",
+      "type": "Material",
+      "name": "рафинированный цинк",
+      "canonical_name": "рафинированный цинк",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "16",
+      "type": "Material",
+      "name": "рафинированный свинец",
+      "canonical_name": "рафинированный свинец",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "17",
+      "type": "Material",
+      "name": "шахтная добыча цинка",
+      "canonical_name": "шахтная добыча цинка",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "18",
+      "type": "Material",
+      "name": "шахтная добыча свинца",
+      "canonical_name": "шахтная добыча свинца",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "19",
+      "type": "Property",
+      "name": "чистая прибыль",
+      "canonical_name": "чистая прибыль",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "20",
+      "type": "Property",
+      "name": "валовая выручка",
+      "canonical_name": "валовая выручка",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "21",
+      "type": "Property",
+      "name": "прибыль до налогообложения",
+      "canonical_name": "прибыль до налогообложения",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "22",
+      "type": "Property",
+      "name": "потребляемая электроэнергия",
+      "canonical_name": "потребляемая электроэнергия",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "23",
+      "type": "Property",
+      "name": "профицит рынка",
+      "canonical_name": "профицит рынка",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "24",
+      "type": "Property",
+      "name": "дефицит рынка",
+      "canonical_name": "дефицит рынка",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "25",
+      "type": "Property",
+      "name": "потребление",
+      "canonical_name": "потребление",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "26",
+      "type": "Property",
+      "name": "производство",
+      "canonical_name": "производство",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "27",
+      "type": "Property",
+      "name": "импорт",
+      "canonical_name": "импорт",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "28",
+      "type": "Property",
+      "name": "нетто-экспорт",
+      "canonical_name": "нетто-экспорт",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "29",
+      "type": "Property",
+      "name": "добыча",
+      "canonical_name": "добыча",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "30",
+      "type": "Expert",
+      "name": "World Bureau of Metal Statistics",
+      "canonical_name": "World Bureau of Metal Statistics",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "31",
+      "type": "Expert",
+      "name": "Главное таможенное управление Китая",
+      "canonical_name": "Главное таможенное управление Китая",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "32",
+      "type": "Expert",
+      "name": "Alcoa",
+      "canonical_name": "Alcoa",
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "22",
+      "numeric_value": 10400000000.0,
+      "unit": "кВт⋅ч/год",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "22",
+      "numeric_value": 2000000000.0,
+      "unit": "кВт⋅ч",
+      "condition": "с Богучанской ГЭС",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "validated_by",
+      "target_id": "8",
+      "numeric_value": 1920000.0,
+      "unit": "т",
+      "condition": "январь-ноябрь 2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "validated_by",
+      "target_id": "9",
+      "numeric_value": 144660.0,
+      "unit": "т",
+      "condition": "январь-ноябрь 2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "validated_by",
+      "target_id": "11",
+      "numeric_value": 1930000.0,
+      "unit": "т",
+      "condition": "январь-ноябрь 2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "31",
+      "relation": "validated_by",
+      "target_id": "10",
+      "numeric_value": 154400.0,
+      "unit": "т",
+      "condition": "январь-ноябрь 2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "30",
+      "relation": "validated_by",
+      "target_id": "15",
+      "numeric_value": 9274000.0,
+      "unit": "т",
+      "condition": "январь-октябрь 2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "30",
+      "relation": "validated_by",
+      "target_id": "17",
+      "numeric_value": 9080000.0,
+      "unit": "т",
+      "condition": "январь-октябрь 2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "30",
+      "relation": "validated_by",
+      "target_id": "23",
+      "numeric_value": 60000.0,
+      "unit": "т",
+      "condition": "январь-октябрь 2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "30",
+      "relation": "validated_by",
+      "target_id": "18",
+      "numeric_value": 3348000.0,
+      "unit": "т",
+      "condition": "январь-ноябрь 2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "30",
+      "relation": "validated_by",
+      "target_id": "16",
+      "numeric_value": 7454000.0,
+      "unit": "т",
+      "condition": "январь-ноябрь 2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "30",
+      "relation": "validated_by",
+      "target_id": "25",
+      "numeric_value": 690000.0,
+      "unit": "т",
+      "condition": "ноябрь 2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "30",
+      "relation": "validated_by",
+      "target_id": "24",
+      "numeric_value": 77000.0,
+      "unit": "т",
+      "condition": "январь-ноябрь 2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "30",
+      "relation": "validated_by",
+      "target_id": "28",
+      "numeric_value": 202000.0,
+      "unit": "т",
+      "condition": "январь-ноябрь 2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": 82000.0,
+      "unit": "т",
+      "condition": "январь-ноябрь 2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "12",
+      "numeric_value": 34000.0,
+      "unit": "т",
+      "condition": "январь-ноябрь 2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "13",
+      "numeric_value": 154000.0,
+      "unit": "т",
+      "condition": "январь-ноябрь 2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "produces_output",
+      "target_id": "14",
+      "numeric_value": 236.0,
+      "unit": "т",
+      "condition": "январь-ноябрь 2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "produces_output",
+      "target_id": "9",
+      "numeric_value": 165000.0,
+      "unit": "т",
+      "condition": "2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "32",
+      "relation": "produces_output",
+      "target_id": "19",
+      "numeric_value": 2560000000.0,
+      "unit": "долл.",
+      "condition": "2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "32",
+      "relation": "produces_output",
+      "target_id": "20",
+      "numeric_value": 30750000000.0,
+      "unit": "долл.",
+      "condition": "2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "source_id": "32",
+      "relation": "produces_output",
+      "target_id": "21",
+      "numeric_value": 4490000000.0,
+      "unit": "долл.",
+      "condition": "2007 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_03_2008.pdf",
+        "category": "Журналы",
+        "chunk_index": 5,
+        "page_start": 8,
+        "page_end": 8
+      }
+    }
+  ]
+}

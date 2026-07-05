@@ -1,0 +1,613 @@
+{
+  "filename": "CRU-Cu-monit-1jun09.pdf",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "cathode",
+      "canonical_name": "cathode",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "wirerod",
+      "canonical_name": "wirerod",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "scrap",
+      "canonical_name": "scrap",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "production",
+      "canonical_name": "production",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Norilsk Nickel",
+      "canonical_name": "Norilsk Nickel",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Urals Metal and Mining Company",
+      "canonical_name": "Urals Metal and Mining Company",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Russian Copper Company",
+      "canonical_name": "Russian Copper Company",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 6,
+        "page_start": 8,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "copper",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "copper scrap",
+      "canonical_name": "copper scrap",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "copper concentrate",
+      "canonical_name": "copper concentrate",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Norilsk Nickel",
+      "canonical_name": "Norilsk Nickel",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "5",
+      "type": "Facility",
+      "name": "Russian Copper Company",
+      "canonical_name": "Russian Copper Company",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Kyshtym plant",
+      "canonical_name": "Kyshtym plant",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "UMMC",
+      "canonical_name": "UMMC",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Sredneuralsk Copper Works",
+      "canonical_name": "Sredneuralsk Copper Works",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "9",
+      "type": "Facility",
+      "name": "LME Europe",
+      "canonical_name": "LME Europe",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "10",
+      "type": "Facility",
+      "name": "LME USA",
+      "canonical_name": "LME USA",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "LME Singapore",
+      "canonical_name": "LME Singapore",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Comex",
+      "canonical_name": "Comex",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 9,
+        "page_end": 9
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Shanghai Futures Exch.",
+      "canonical_name": "Shanghai Futures Exch.",
+      "provenance": {
+        "source_file": "CRU-Cu-monit-1jun09.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 7,
+        "page_start": 9,
+        "page_end": 9
+      }
+    }
+  ],
+  "relations": [
+    {
+      "fact": "Kyshtym plant --[produces_output]--> copper scrap",
+      "source_name": "Kyshtym plant",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "copper scrap",
+      "target_type": "Material",
+      "numeric_value": 91000.0,
+      "unit": "t",
+      "condition": "Q1 2009",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 8,
+      "page_end": 8
+    },
+    {
+      "fact": "UMMC --[produces_output]--> copper scrap",
+      "source_name": "UMMC",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "copper scrap",
+      "target_type": "Material",
+      "numeric_value": 71000.0,
+      "unit": "t",
+      "condition": "Q1 2009",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 8,
+      "page_end": 8
+    },
+    {
+      "fact": "Sredneuralsk Copper Works --[produces_output]--> copper scrap",
+      "source_name": "Sredneuralsk Copper Works",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "copper scrap",
+      "target_type": "Material",
+      "numeric_value": 26000.0,
+      "unit": "t",
+      "condition": "Q1 2009",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 8,
+      "page_end": 8
+    },
+    {
+      "fact": "Kyshtym plant --[operates_at_condition]--> Russian Copper Company",
+      "source_name": "Kyshtym plant",
+      "source_type": "Facility",
+      "relation": "operates_at_condition",
+      "target_name": "Russian Copper Company",
+      "target_type": "Facility",
+      "numeric_value": -8.3,
+      "unit": "%",
+      "condition": "Q1 2009",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 8,
+      "page_end": 8
+    },
+    {
+      "fact": "UMMC --[operates_at_condition]--> Russian Copper Company",
+      "source_name": "UMMC",
+      "source_type": "Facility",
+      "relation": "operates_at_condition",
+      "target_name": "Russian Copper Company",
+      "target_type": "Facility",
+      "numeric_value": -18.3,
+      "unit": "%",
+      "condition": "Q1 2009",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 8,
+      "page_end": 8
+    },
+    {
+      "fact": "Sredneuralsk Copper Works --[operates_at_condition]--> Russian Copper Company",
+      "source_name": "Sredneuralsk Copper Works",
+      "source_type": "Facility",
+      "relation": "operates_at_condition",
+      "target_name": "Russian Copper Company",
+      "target_type": "Facility",
+      "numeric_value": -38.1,
+      "unit": "%",
+      "condition": "Q1 2009",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 8,
+      "page_end": 8
+    },
+    {
+      "fact": "copper scrap --[uses_material]--> Norilsk Nickel",
+      "source_name": "copper scrap",
+      "source_type": "Material",
+      "relation": "uses_material",
+      "target_name": "Norilsk Nickel",
+      "target_type": "Facility",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 8,
+      "page_end": 8
+    },
+    {
+      "fact": "Norilsk Nickel --[produces_output]--> copper",
+      "source_name": "Norilsk Nickel",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "copper",
+      "target_type": "Material",
+      "numeric_value": 290000.0,
+      "unit": "tonnes",
+      "condition": "forecast for 2009",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 9,
+      "page_end": 9
+    },
+    {
+      "fact": "Russian Copper Company --[produces_output]--> copper",
+      "source_name": "Russian Copper Company",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "copper",
+      "target_type": "Material",
+      "numeric_value": 80800.0,
+      "unit": "tonnes",
+      "condition": "forecast for 2009 at Kyshtym plant",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 9,
+      "page_end": 9
+    },
+    {
+      "fact": "UMMC --[uses_material]--> copper scrap",
+      "source_name": "UMMC",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "copper scrap",
+      "target_type": "Material",
+      "numeric_value": 47.0,
+      "unit": "%",
+      "condition": "blister production feed in 2008",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 9,
+      "page_end": 9
+    },
+    {
+      "fact": "Norilsk Nickel --[uses_material]--> copper concentrate",
+      "source_name": "Norilsk Nickel",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "copper concentrate",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "mostly from own mines",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 9,
+      "page_end": 9
+    }
+  ],
+  "facts": [
+    {
+      "fact": "Kyshtym plant --[produces_output]--> copper scrap",
+      "source_name": "Kyshtym plant",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "copper scrap",
+      "target_type": "Material",
+      "numeric_value": 91000.0,
+      "unit": "t",
+      "condition": "Q1 2009",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 8,
+      "page_end": 8
+    },
+    {
+      "fact": "UMMC --[produces_output]--> copper scrap",
+      "source_name": "UMMC",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "copper scrap",
+      "target_type": "Material",
+      "numeric_value": 71000.0,
+      "unit": "t",
+      "condition": "Q1 2009",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 8,
+      "page_end": 8
+    },
+    {
+      "fact": "Sredneuralsk Copper Works --[produces_output]--> copper scrap",
+      "source_name": "Sredneuralsk Copper Works",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "copper scrap",
+      "target_type": "Material",
+      "numeric_value": 26000.0,
+      "unit": "t",
+      "condition": "Q1 2009",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 8,
+      "page_end": 8
+    },
+    {
+      "fact": "Kyshtym plant --[operates_at_condition]--> Russian Copper Company",
+      "source_name": "Kyshtym plant",
+      "source_type": "Facility",
+      "relation": "operates_at_condition",
+      "target_name": "Russian Copper Company",
+      "target_type": "Facility",
+      "numeric_value": -8.3,
+      "unit": "%",
+      "condition": "Q1 2009",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 8,
+      "page_end": 8
+    },
+    {
+      "fact": "UMMC --[operates_at_condition]--> Russian Copper Company",
+      "source_name": "UMMC",
+      "source_type": "Facility",
+      "relation": "operates_at_condition",
+      "target_name": "Russian Copper Company",
+      "target_type": "Facility",
+      "numeric_value": -18.3,
+      "unit": "%",
+      "condition": "Q1 2009",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 8,
+      "page_end": 8
+    },
+    {
+      "fact": "Sredneuralsk Copper Works --[operates_at_condition]--> Russian Copper Company",
+      "source_name": "Sredneuralsk Copper Works",
+      "source_type": "Facility",
+      "relation": "operates_at_condition",
+      "target_name": "Russian Copper Company",
+      "target_type": "Facility",
+      "numeric_value": -38.1,
+      "unit": "%",
+      "condition": "Q1 2009",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 8,
+      "page_end": 8
+    },
+    {
+      "fact": "copper scrap --[uses_material]--> Norilsk Nickel",
+      "source_name": "copper scrap",
+      "source_type": "Material",
+      "relation": "uses_material",
+      "target_name": "Norilsk Nickel",
+      "target_type": "Facility",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 8,
+      "page_end": 8
+    },
+    {
+      "fact": "Norilsk Nickel --[produces_output]--> copper",
+      "source_name": "Norilsk Nickel",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "copper",
+      "target_type": "Material",
+      "numeric_value": 290000.0,
+      "unit": "tonnes",
+      "condition": "forecast for 2009",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 9,
+      "page_end": 9
+    },
+    {
+      "fact": "Russian Copper Company --[produces_output]--> copper",
+      "source_name": "Russian Copper Company",
+      "source_type": "Facility",
+      "relation": "produces_output",
+      "target_name": "copper",
+      "target_type": "Material",
+      "numeric_value": 80800.0,
+      "unit": "tonnes",
+      "condition": "forecast for 2009 at Kyshtym plant",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 9,
+      "page_end": 9
+    },
+    {
+      "fact": "UMMC --[uses_material]--> copper scrap",
+      "source_name": "UMMC",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "copper scrap",
+      "target_type": "Material",
+      "numeric_value": 47.0,
+      "unit": "%",
+      "condition": "blister production feed in 2008",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 9,
+      "page_end": 9
+    },
+    {
+      "fact": "Norilsk Nickel --[uses_material]--> copper concentrate",
+      "source_name": "Norilsk Nickel",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "copper concentrate",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "mostly from own mines",
+      "confidence": null,
+      "source_file": "CRU-Cu-monit-1jun09.pdf",
+      "page_start": 9,
+      "page_end": 9
+    }
+  ]
+}

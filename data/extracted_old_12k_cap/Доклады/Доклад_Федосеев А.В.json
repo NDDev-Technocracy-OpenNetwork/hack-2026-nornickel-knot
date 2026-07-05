@@ -1,0 +1,873 @@
+{
+  "filename": "Доклад_Федосеев А.В.pdf",
+  "category": "Доклады",
+  "entities": [
+    {
+      "id": "F1",
+      "type": "Expert",
+      "name": "Федосеев Антон Владимирович",
+      "canonical_name": "Fedorseev Anton Vladimirovich",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "F2",
+      "type": "Facility",
+      "name": "Лаборатория Геотехники",
+      "canonical_name": "Geotechnical Laboratory",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "E1",
+      "type": "Equipment",
+      "name": "Велоcиметр",
+      "canonical_name": "velocimeter",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "E2",
+      "type": "Equipment",
+      "name": "Акселерометр",
+      "canonical_name": "accelerometer",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "E3",
+      "type": "Equipment",
+      "name": "Тензометрическая станция",
+      "canonical_name": "tensometer_station",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "E4",
+      "type": "Equipment",
+      "name": "Вибромонитор",
+      "canonical_name": "vibrometer",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "E5",
+      "type": "Equipment",
+      "name": "Высокоскоростная камера",
+      "canonical_name": "high_speed_camera",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "E6",
+      "type": "Equipment",
+      "name": "Сеизмодатчики",
+      "canonical_name": "seismic_sensors",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "E7",
+      "type": "Equipment",
+      "name": "ПО «Fundamental Tone»",
+      "canonical_name": "Fundamental_Tone_software",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "E8",
+      "type": "Equipment",
+      "name": "Сейсмостанция для синхронной регистрации вибраций в двух точках",
+      "canonical_name": "seismic_station",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "P1",
+      "type": "Process",
+      "name": "Мониторинг сеизмического действия взрывов",
+      "canonical_name": "seismic_monitoring_of_explosions",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "P2",
+      "type": "Process",
+      "name": "Измерение параметров собственных колебаний здания",
+      "canonical_name": "building_natural_vibration_measurement",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "P3",
+      "type": "Process",
+      "name": "Измерение раскатки здания от ведения взрывных работ",
+      "canonical_name": "building_swing_measurement",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "Pr1",
+      "type": "Property",
+      "name": "Скорость смещения",
+      "canonical_name": "displacement_velocity",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "Pr2",
+      "type": "Property",
+      "name": "Перемещение",
+      "canonical_name": "displacement",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "Pr3",
+      "type": "Property",
+      "name": "Частота",
+      "canonical_name": "frequency",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "Pr4",
+      "type": "Property",
+      "name": "Декремент",
+      "canonical_name": "decrement",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "Ex1",
+      "type": "Experiment",
+      "name": "Измерения параметров собственных колебаний здания",
+      "canonical_name": "natural_vibration_experiment",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "Ex2",
+      "type": "Experiment",
+      "name": "Измерения раскатки здания от ведения взрывных работ",
+      "canonical_name": "building_swing_experiment",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "pub1",
+      "type": "Publication",
+      "name": "ГОСТ Р 52892-2007",
+      "canonical_name": "ГОСТ Р 52892-2007",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 15,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "pub2",
+      "type": "Publication",
+      "name": "DIN 4150-3",
+      "canonical_name": "DIN 4150-3",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 15,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "pub3",
+      "type": "Publication",
+      "name": "BS 7385-2:1993",
+      "canonical_name": "BS 7385-2:1993",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 15,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "pub4",
+      "type": "Publication",
+      "name": "USBM RI № 8507",
+      "canonical_name": "USBM RI № 8507",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 15,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "pub5",
+      "type": "Publication",
+      "name": "NS 8141–1:2022",
+      "canonical_name": "NS 8141–1:2022",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 15,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "pub6",
+      "type": "Publication",
+      "name": "РБ Г-05-039-96",
+      "canonical_name": "РБ Г-05-039-96",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 15,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "pub7",
+      "type": "Publication",
+      "name": "AS.2187.2-2006",
+      "canonical_name": "AS.2187.2-2006",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 15,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "pub8",
+      "type": "Publication",
+      "name": "GB6722-2014",
+      "canonical_name": "GB6722-2014",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 15,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "pub9",
+      "type": "Publication",
+      "name": "SS 460 48 66",
+      "canonical_name": "SS 460 48 66",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 15,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "pub10",
+      "type": "Publication",
+      "name": "SNI 7571:2010",
+      "canonical_name": "SNI 7571:2010",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 15,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "pub11",
+      "type": "Publication",
+      "name": "UNE 22.381/93",
+      "canonical_name": "UNE 22.381/93",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 15,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "pub12",
+      "type": "Publication",
+      "name": "NP2074",
+      "canonical_name": "NP2074",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 15,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "pub13",
+      "type": "Publication",
+      "name": "DGMS CIRCULARS",
+      "canonical_name": "DGMS CIRCULARS",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 15,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "pub14",
+      "type": "Publication",
+      "name": "Groupe Français de l'Énergie Explosive",
+      "canonical_name": "Groupe Français de l'Énergie Explosive",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 15,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "pub15",
+      "type": "Publication",
+      "name": "ISRM: BLAST VIBRATION MONITORING SUGGESTED METHOD",
+      "canonical_name": "ISRM: BLAST VIBRATION MONITORING SUGGESTED METHOD",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 15,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "prop1",
+      "type": "Property",
+      "name": "PPVmax",
+      "canonical_name": "PPVmax",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 15,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "prop2",
+      "type": "Property",
+      "name": "PPVZ",
+      "canonical_name": "PPVZ",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 15,
+        "page_end": 17
+      }
+    },
+    {
+      "id": "prop3",
+      "type": "Property",
+      "name": "PVS",
+      "canonical_name": "PVS",
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 15,
+        "page_end": 17
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "E1",
+      "relation": "produces_output",
+      "target_id": "Ex1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "E2",
+      "relation": "produces_output",
+      "target_id": "Ex1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "E3",
+      "relation": "produces_output",
+      "target_id": "Ex1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "E4",
+      "relation": "produces_output",
+      "target_id": "Ex1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "E5",
+      "relation": "produces_output",
+      "target_id": "Ex1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "E6",
+      "relation": "produces_output",
+      "target_id": "Ex1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "E7",
+      "relation": "produces_output",
+      "target_id": "Ex1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "E8",
+      "relation": "produces_output",
+      "target_id": "Ex1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "E1",
+      "relation": "produces_output",
+      "target_id": "Ex2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "E2",
+      "relation": "produces_output",
+      "target_id": "Ex2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "E3",
+      "relation": "produces_output",
+      "target_id": "Ex2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "E4",
+      "relation": "produces_output",
+      "target_id": "Ex2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "E5",
+      "relation": "produces_output",
+      "target_id": "Ex2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "E6",
+      "relation": "produces_output",
+      "target_id": "Ex2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "E7",
+      "relation": "produces_output",
+      "target_id": "Ex2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "E8",
+      "relation": "produces_output",
+      "target_id": "Ex2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "Ex1",
+      "relation": "produces_output",
+      "target_id": "Pr3",
+      "numeric_value": null,
+      "unit": "Hz",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "Ex1",
+      "relation": "produces_output",
+      "target_id": "Pr4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "Ex2",
+      "relation": "produces_output",
+      "target_id": "Pr1",
+      "numeric_value": null,
+      "unit": "mm/s",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "Ex2",
+      "relation": "produces_output",
+      "target_id": "Pr2",
+      "numeric_value": null,
+      "unit": "mm",
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "P1",
+      "relation": "described_in",
+      "target_id": "F2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "P2",
+      "relation": "described_in",
+      "target_id": "F2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "P3",
+      "relation": "described_in",
+      "target_id": "F2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "F1",
+      "relation": "validated_by",
+      "target_id": "P1",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Доклад_Федосеев А.В.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,752 @@
+{
+  "filename": "ЦМ 10_21.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "меди",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "алюминия",
+      "canonical_name": "aluminium",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "цинка",
+      "canonical_name": "zinc",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "никеля",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "кобальта",
+      "canonical_name": "cobalt",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "нержавеющей стали",
+      "canonical_name": "stainless_steel",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "медной руды",
+      "canonical_name": "copper_ore",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "концентрата",
+      "canonical_name": "concentrate",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "меди и медных полуфабрикатов",
+      "canonical_name": "copper_and_copper_semi-finished_products",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "HPAL",
+      "canonical_name": "HPAL",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "11",
+      "type": "Facility",
+      "name": "Русская медная компания",
+      "canonical_name": "RusCopper",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "12",
+      "type": "Facility",
+      "name": "Малмыжское месторождение",
+      "canonical_name": "Malmyzh_deposit",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "13",
+      "type": "Facility",
+      "name": "Pomalaa",
+      "canonical_name": "Pomalaa",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "14",
+      "type": "Facility",
+      "name": "ГОК",
+      "canonical_name": "mine",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "15",
+      "type": "Publication",
+      "name": "World Bureau of Metal Statistics",
+      "canonical_name": "World_Bureau_of_Metal_Statistics",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "16",
+      "type": "Publication",
+      "name": "Macquarie",
+      "canonical_name": "Macquarie",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "17",
+      "type": "Publication",
+      "name": "GlobalData",
+      "canonical_name": "GlobalData",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "18",
+      "type": "Publication",
+      "name": "Fitch Solutions",
+      "canonical_name": "Fitch_Solutions",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "19",
+      "type": "Publication",
+      "name": "MEPS International",
+      "canonical_name": "MEPS_International",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "20",
+      "type": "Publication",
+      "name": "Cohilco",
+      "canonical_name": "Cohilco",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "21",
+      "type": "Expert",
+      "name": "ФТС РФ",
+      "canonical_name": "FTS_Russia",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "22",
+      "type": "Expert",
+      "name": "Главное таможенное управление Китая",
+      "canonical_name": "China_Customs",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "23",
+      "type": "Expert",
+      "name": "Министерство энергетики и минеральных ресурсов Индонезии",
+      "canonical_name": "Indonesia_Energy_and_Mineral_Resources_Ministry",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "id": "24",
+      "type": "Expert",
+      "name": "Правительство Чили",
+      "canonical_name": "Chilean_Government",
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "11",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": 41600000.0,
+      "unit": "tonnes",
+      "condition": "January-June 2021",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": 41600000.0,
+      "unit": "tonnes",
+      "condition": "January-June 2021",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "11",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": 248000000000.0,
+      "unit": "rubles",
+      "condition": "investment",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "12",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": 90000000.0,
+      "unit": "tonnes/year",
+      "condition": "planned",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "13",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": 40000.0,
+      "unit": "tonnes/year",
+      "condition": "planned",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": 1572300.0,
+      "unit": "tonnes",
+      "condition": "January-July 2021",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": 1527600.0,
+      "unit": "tonnes",
+      "condition": "January-July 2021",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "15",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": 44700.0,
+      "unit": "tonnes",
+      "condition": "January-July 2021",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": 2000000.0,
+      "unit": "tonnes",
+      "condition": "2030",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "16",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": 60.0,
+      "unit": "%",
+      "condition": "2030",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": 2427400.0,
+      "unit": "tonnes",
+      "condition": "2021",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": 2730600.0,
+      "unit": "tonnes",
+      "condition": "2025",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": 465000.0,
+      "unit": "tonnes",
+      "condition": "2025",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "described_in",
+      "target_id": "4",
+      "numeric_value": 513000.0,
+      "unit": "tonnes",
+      "condition": "2030",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": 56500000.0,
+      "unit": "tonnes",
+      "condition": "2021",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": 31900000.0,
+      "unit": "tonnes",
+      "condition": "2021",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "described_in",
+      "target_id": "6",
+      "numeric_value": 3900000.0,
+      "unit": "tonnes",
+      "condition": "2021",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": 9259.0,
+      "unit": "USD/tonne",
+      "condition": "2021",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": 8708.0,
+      "unit": "USD/tonne",
+      "condition": "2022",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": 387000.0,
+      "unit": "tonnes",
+      "condition": "January-July 2021",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "21",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": 3240000000.0,
+      "unit": "USD",
+      "condition": "January-July 2021",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": 15270000.0,
+      "unit": "tonnes",
+      "condition": "January-August 2021",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "described_in",
+      "target_id": "9",
+      "numeric_value": 3610000.0,
+      "unit": "tonnes",
+      "condition": "January-August 2021",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "23",
+      "relation": "operates_at_condition",
+      "target_id": "4",
+      "numeric_value": 70.0,
+      "unit": "%",
+      "condition": "export duty",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "24",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": 9000000.0,
+      "unit": "tonnes",
+      "condition": "2050",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "24",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": 7000000.0,
+      "unit": "tonnes",
+      "condition": "2030",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    },
+    {
+      "source_id": "24",
+      "relation": "described_in",
+      "target_id": "1",
+      "numeric_value": 5700000.0,
+      "unit": "tonnes",
+      "condition": "2020",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ЦМ 10_21.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 6
+      }
+    }
+  ]
+}

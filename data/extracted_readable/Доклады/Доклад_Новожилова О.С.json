@@ -1,0 +1,384 @@
+{
+  "filename": "Доклад_Новожилова О.С.pdf",
+  "category": "Доклады",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Equipment",
+      "name": "LYRA3",
+      "canonical_name": "LYRA3",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "2",
+      "type": "Equipment",
+      "name": "VEGA",
+      "canonical_name": "VEGA",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "3",
+      "type": "Equipment",
+      "name": "MIRA",
+      "canonical_name": "MIRA",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "4",
+      "type": "Equipment",
+      "name": "WDS",
+      "canonical_name": "WDS",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "5",
+      "type": "Equipment",
+      "name": "EDS",
+      "canonical_name": "EDS",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "EBSD",
+      "canonical_name": "EBSD",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Лаборатория пирометаллургии",
+      "canonical_name": "Лаборатория пирометаллургии",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    },
+    {
+      "id": "8",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "Доклад_Новожилова О.С.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 8
+      }
+    }
+  ],
+  "relations": [
+    {
+      "fact": "Лаборатория пирометаллургии --[uses_material]--> LYRA3",
+      "source_name": "Лаборатория пирометаллургии",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "LYRA3",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Доклад_Новожилова О.С.pdf",
+      "page_start": 1,
+      "page_end": 8
+    },
+    {
+      "fact": "Лаборатория пирометаллургии --[uses_material]--> VEGA",
+      "source_name": "Лаборатория пирометаллургии",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "VEGA",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Доклад_Новожилова О.С.pdf",
+      "page_start": 1,
+      "page_end": 8
+    },
+    {
+      "fact": "Лаборатория пирометаллургии --[uses_material]--> MIRA",
+      "source_name": "Лаборатория пирометаллургии",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "MIRA",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Доклад_Новожилова О.С.pdf",
+      "page_start": 1,
+      "page_end": 8
+    },
+    {
+      "fact": "LYRA3 --[uses_material]--> WDS",
+      "source_name": "LYRA3",
+      "source_type": "Equipment",
+      "relation": "uses_material",
+      "target_name": "WDS",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Доклад_Новожилова О.С.pdf",
+      "page_start": 1,
+      "page_end": 8
+    },
+    {
+      "fact": "LYRA3 --[uses_material]--> EDS",
+      "source_name": "LYRA3",
+      "source_type": "Equipment",
+      "relation": "uses_material",
+      "target_name": "EDS",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Доклад_Новожилова О.С.pdf",
+      "page_start": 1,
+      "page_end": 8
+    },
+    {
+      "fact": "VEGA --[uses_material]--> EDS",
+      "source_name": "VEGA",
+      "source_type": "Equipment",
+      "relation": "uses_material",
+      "target_name": "EDS",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Доклад_Новожилова О.С.pdf",
+      "page_start": 1,
+      "page_end": 8
+    },
+    {
+      "fact": "MIRA --[uses_material]--> EBSD",
+      "source_name": "MIRA",
+      "source_type": "Equipment",
+      "relation": "uses_material",
+      "target_name": "EBSD",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Доклад_Новожилова О.С.pdf",
+      "page_start": 1,
+      "page_end": 8
+    },
+    {
+      "fact": "MIRA --[uses_material]--> EDS",
+      "source_name": "MIRA",
+      "source_type": "Equipment",
+      "relation": "uses_material",
+      "target_name": "EDS",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Доклад_Новожилова О.С.pdf",
+      "page_start": 1,
+      "page_end": 8
+    },
+    {
+      "fact": "Лаборатория пирометаллургии --[affiliated_with]--> Институт Гипроникель",
+      "source_name": "Лаборатория пирометаллургии",
+      "source_type": "Facility",
+      "relation": "affiliated_with",
+      "target_name": "Институт Гипроникель",
+      "target_type": "Facility",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Доклад_Новожилова О.С.pdf",
+      "page_start": 1,
+      "page_end": 8
+    }
+  ],
+  "facts": [
+    {
+      "fact": "Лаборатория пирометаллургии --[uses_material]--> LYRA3",
+      "source_name": "Лаборатория пирометаллургии",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "LYRA3",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Доклад_Новожилова О.С.pdf",
+      "page_start": 1,
+      "page_end": 8
+    },
+    {
+      "fact": "Лаборатория пирометаллургии --[uses_material]--> VEGA",
+      "source_name": "Лаборатория пирометаллургии",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "VEGA",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Доклад_Новожилова О.С.pdf",
+      "page_start": 1,
+      "page_end": 8
+    },
+    {
+      "fact": "Лаборатория пирометаллургии --[uses_material]--> MIRA",
+      "source_name": "Лаборатория пирометаллургии",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "MIRA",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Доклад_Новожилова О.С.pdf",
+      "page_start": 1,
+      "page_end": 8
+    },
+    {
+      "fact": "LYRA3 --[uses_material]--> WDS",
+      "source_name": "LYRA3",
+      "source_type": "Equipment",
+      "relation": "uses_material",
+      "target_name": "WDS",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Доклад_Новожилова О.С.pdf",
+      "page_start": 1,
+      "page_end": 8
+    },
+    {
+      "fact": "LYRA3 --[uses_material]--> EDS",
+      "source_name": "LYRA3",
+      "source_type": "Equipment",
+      "relation": "uses_material",
+      "target_name": "EDS",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Доклад_Новожилова О.С.pdf",
+      "page_start": 1,
+      "page_end": 8
+    },
+    {
+      "fact": "VEGA --[uses_material]--> EDS",
+      "source_name": "VEGA",
+      "source_type": "Equipment",
+      "relation": "uses_material",
+      "target_name": "EDS",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Доклад_Новожилова О.С.pdf",
+      "page_start": 1,
+      "page_end": 8
+    },
+    {
+      "fact": "MIRA --[uses_material]--> EBSD",
+      "source_name": "MIRA",
+      "source_type": "Equipment",
+      "relation": "uses_material",
+      "target_name": "EBSD",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Доклад_Новожилова О.С.pdf",
+      "page_start": 1,
+      "page_end": 8
+    },
+    {
+      "fact": "MIRA --[uses_material]--> EDS",
+      "source_name": "MIRA",
+      "source_type": "Equipment",
+      "relation": "uses_material",
+      "target_name": "EDS",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Доклад_Новожилова О.С.pdf",
+      "page_start": 1,
+      "page_end": 8
+    },
+    {
+      "fact": "Лаборатория пирометаллургии --[affiliated_with]--> Институт Гипроникель",
+      "source_name": "Лаборатория пирометаллургии",
+      "source_type": "Facility",
+      "relation": "affiliated_with",
+      "target_name": "Институт Гипроникель",
+      "target_type": "Facility",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "Доклад_Новожилова О.С.pdf",
+      "page_start": 1,
+      "page_end": 8
+    }
+  ]
+}

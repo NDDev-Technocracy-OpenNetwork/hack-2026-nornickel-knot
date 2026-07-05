@@ -1,0 +1,630 @@
+{
+  "filename": "Cunico Resources.pdf",
+  "category": "Обзоры",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "ферроникель",
+      "canonical_name": "ferro-nickel",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "никель",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "рудник Rzanovo",
+      "canonical_name": "Rzanovo mine",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "импортная руда",
+      "canonical_name": "imported ore",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "биомасса",
+      "canonical_name": "biomass",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "мазут",
+      "canonical_name": "fuel oil",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "нефтяной кокс",
+      "canonical_name": "petroleum coke",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "бурые угли",
+      "canonical_name": "lignite",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "энергетический уголь",
+      "canonical_name": "thermal coal",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "сушилка",
+      "canonical_name": "drying",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "11",
+      "type": "Process",
+      "name": "обжиг",
+      "canonical_name": "roasting",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "12",
+      "type": "Process",
+      "name": "выпуск гранул",
+      "canonical_name": "pellet production",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "13",
+      "type": "Process",
+      "name": "выпуск слитков",
+      "canonical_name": "ingot production",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "14",
+      "type": "Process",
+      "name": "производство ферроникеля",
+      "canonical_name": "ferro-nickel production",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "15",
+      "type": "Equipment",
+      "name": "вращающаяся печь",
+      "canonical_name": "rotary kiln",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "16",
+      "type": "Equipment",
+      "name": "электропечь",
+      "canonical_name": "electric furnace",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "17",
+      "type": "Equipment",
+      "name": "горелки",
+      "canonical_name": "burners",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "18",
+      "type": "Property",
+      "name": "влажность",
+      "canonical_name": "moisture",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "19",
+      "type": "Property",
+      "name": "содержание никеля",
+      "canonical_name": "nickel content",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "20",
+      "type": "Facility",
+      "name": "ферроникелевый завод FENI",
+      "canonical_name": "FENI ferro-nickel plant",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "21",
+      "type": "Facility",
+      "name": "завод в Kavadarchi",
+      "canonical_name": "Kavadarchi plant",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "id": "22",
+      "type": "Publication",
+      "name": "отчет по корпоративной социальной ответственности за 2016 г.",
+      "canonical_name": "2016 CSR report",
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "20",
+      "relation": "uses_material",
+      "target_id": "3",
+      "numeric_value": 0.91,
+      "unit": "%",
+      "condition": "2001 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": 2.0,
+      "unit": "%",
+      "condition": "2006-2007 гг.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2013 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2013 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2013 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "uses_material",
+      "target_id": "8",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2013 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2013 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "18",
+      "numeric_value": 35.0,
+      "unit": "%",
+      "condition": "2006-2007 гг.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "18",
+      "numeric_value": 2.0,
+      "unit": "%",
+      "condition": "2001 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "operates_at_condition",
+      "target_id": "19",
+      "numeric_value": 2.0,
+      "unit": "%",
+      "condition": "2006-2007 гг.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": 20.0,
+      "unit": "тыс т/г",
+      "condition": "2005 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": 10.0,
+      "unit": "тыс т/г",
+      "condition": "2016 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "uses_material",
+      "target_id": "15",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2001 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "uses_material",
+      "target_id": "16",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2001 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "uses_material",
+      "target_id": "17",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2013 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2006-2007 гг.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "uses_material",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2013 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2006 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "uses_material",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "до 2006 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "uses_material",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2001 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "described_in",
+      "target_id": "22",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "2016 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "Cunico Resources.pdf",
+        "category": "Обзоры",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 5
+      }
+    }
+  ]
+}

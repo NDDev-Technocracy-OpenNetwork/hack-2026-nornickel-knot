@@ -1,0 +1,746 @@
+{
+  "filename": "ОР № 03_22.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "гравиоконцентрат",
+      "canonical_name": "gravity_concentrate",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "флотоконцентрат",
+      "canonical_name": "flotation_concentrate",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "руды ТПМ 1",
+      "canonical_name": "TPM1_ore",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "руды ТПМ 2",
+      "canonical_name": "TPM2_ore",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "руды ТПМ 3",
+      "canonical_name": "TPM3_ore",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "цианирование",
+      "canonical_name": "cyanidation",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "сорбционное цианирование",
+      "canonical_name": "sorption_cyanidation",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "интенсивное цианирование",
+      "canonical_name": "intensive_cyanidation",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "доизмельчение",
+      "canonical_name": "fine_grinding",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "обжиг",
+      "canonical_name": "roasting",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "11",
+      "type": "Process",
+      "name": "автоклавное окисление",
+      "canonical_name": "autoclave_oxidation",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "12",
+      "type": "Process",
+      "name": "бактериальное окисление",
+      "canonical_name": "bacterial_oxidation",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "13",
+      "type": "Process",
+      "name": "атмосферное окисление",
+      "canonical_name": "atmospheric_oxidation",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "14",
+      "type": "Process",
+      "name": "низкотемпературное автоклавное выщелачивание",
+      "canonical_name": "low_temp_autoclave_leaching",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "15",
+      "type": "Property",
+      "name": "извлечение золота",
+      "canonical_name": "gold_recovery",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "16",
+      "type": "Property",
+      "name": "упорность",
+      "canonical_name": "refractoriness",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "17",
+      "type": "Property",
+      "name": "крупность",
+      "canonical_name": "grain_size",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "18",
+      "type": "Property",
+      "name": "расход цианида",
+      "canonical_name": "cyanide_consumption",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "19",
+      "type": "Publication",
+      "name": "«Обогащение руд». 2022. № 3.",
+      "canonical_name": "Mineral_Processing_2022_3",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "апатит-нефелиновые руды",
+      "canonical_name": "apatite-nepheline ores",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "обогащение",
+      "canonical_name": "enrichment",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "3",
+      "type": "Property",
+      "name": "физические и технологические характеристики",
+      "canonical_name": "physical and technological characteristics",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "4",
+      "type": "Expert",
+      "name": "С. А. Богданов",
+      "canonical_name": "S. A. Bogdanov",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "5",
+      "type": "Expert",
+      "name": "А. С. Масляков",
+      "canonical_name": "A. S. Maslyakov",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "АО «СЗФК»",
+      "canonical_name": "AO SZFK",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "id": "7",
+      "type": "Publication",
+      "name": "Работа выполнена в рамках темы НИР ГИ ФИЦ КНЦ РАН № 0226-2019-0053",
+      "canonical_name": "Work performed within the topic of R&D GI FIC KNC RAS № 0226-2019-0053",
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 27,
+        "page_end": 27
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": 99.89,
+      "unit": "%",
+      "condition": "TPM1_ore, intensive_cyanidation, grain_size 95% -0.045mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": 98.71,
+      "unit": "%",
+      "condition": "TPM2_ore, intensive_cyanidation, grain_size 95% -0.045mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": 93.87,
+      "unit": "%",
+      "condition": "TPM3_ore, intensive_cyanidation, grain_size 31.8% -0.071mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": 98.62,
+      "unit": "%",
+      "condition": "TPM1_ore, sorption_cyanidation, grain_size 96.5% -0.071mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": 96.64,
+      "unit": "%",
+      "condition": "TPM2_ore, sorption_cyanidation, grain_size 95.5% -0.071mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "produces_output",
+      "target_id": "15",
+      "numeric_value": 36.65,
+      "unit": "%",
+      "condition": "TPM3_ore, sorption_cyanidation, grain_size 96.5% -0.071mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "17",
+      "numeric_value": 95.0,
+      "unit": "%",
+      "condition": "grain_size -0.045mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "17",
+      "numeric_value": 31.8,
+      "unit": "%",
+      "condition": "grain_size -0.071mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "17",
+      "numeric_value": 96.5,
+      "unit": "%",
+      "condition": "grain_size -0.071mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "17",
+      "numeric_value": 95.5,
+      "unit": "%",
+      "condition": "grain_size -0.071mm",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "18",
+      "numeric_value": 57.5,
+      "unit": "kg/t",
+      "condition": "TPM2_ore, intensive_cyanidation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "18",
+      "numeric_value": 55.2,
+      "unit": "kg/t",
+      "condition": "TPM3_ore, intensive_cyanidation",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "uses_material",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "9",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "10",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "11",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "12",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "14",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "described_in",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "described_in",
+      "target_id": "19",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 12,
+        "page_start": 15,
+        "page_end": 15
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "5",
+      "relation": "affiliated_with",
+      "target_id": "6",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 27,
+        "page_end": 27
+      }
+    },
+    {
+      "source_id": "7",
+      "relation": "described_in",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "ОР № 03_22.pdf",
+        "category": "Журналы",
+        "chunk_index": 24,
+        "page_start": 27,
+        "page_end": 27
+      }
+    }
+  ]
+}

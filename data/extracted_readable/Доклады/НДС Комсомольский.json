@@ -1,0 +1,1108 @@
+{
+  "filename": "НДС Комсомольский.pdf",
+  "category": "Доклады",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Expert",
+      "name": "Трофимов А.В.",
+      "canonical_name": "Трофимов А.В.",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "ООО «ИНСТИТУТ ГИПРОНИКЕЛЬ»",
+      "canonical_name": "ООИ ГИПРОНИКЕЛЬ",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "3",
+      "type": "Facility",
+      "name": "Департамент по исследованиям и разработкам",
+      "canonical_name": "Департамент по исследованиям и разработкам",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "4",
+      "type": "Facility",
+      "name": "Лаборатория геотехники",
+      "canonical_name": "Лаборатория геотехники",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "определение напряженно деформированного состояния",
+      "canonical_name": "определение напряженно деформированного состояния",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "CAE Fidesys",
+      "canonical_name": "CAE Fidesys",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "горные породы",
+      "canonical_name": "горные породы",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "керн",
+      "canonical_name": "керн",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 4
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "Deformation Rate Analysis",
+      "canonical_name": "Deformation Rate Analysis",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "2",
+      "type": "Process",
+      "name": "Метод гидродомкратов",
+      "canonical_name": "Метод гидродомкратов",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "3",
+      "type": "Process",
+      "name": "Метод гидроразрыва",
+      "canonical_name": "Метод гидроразрыва",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "4",
+      "type": "Process",
+      "name": "Метод полной разгрузки керна с применением скважинного деформометра",
+      "canonical_name": "Метод полной разгрузки керна с применением скважинного деформометра",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "5",
+      "type": "Process",
+      "name": "Метод полной разгрузки керна с применением тензодатчиков",
+      "canonical_name": "Метод полной разгрузки керна с применением тензодатчиков",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "6",
+      "type": "Process",
+      "name": "Метод оверкоринга",
+      "canonical_name": "Метод оверкоринга",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "7",
+      "type": "Process",
+      "name": "Метод полной разгрузки керна Overcoring",
+      "canonical_name": "Метод полной разгрузки керна Overcoring",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "Метод полной разгрузки керна Overcoring на контуре",
+      "canonical_name": "Метод полной разгрузки керна Overcoring на контуре",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "9",
+      "type": "Equipment",
+      "name": "USBM Cell",
+      "canonical_name": "USBM Cell",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "10",
+      "type": "Equipment",
+      "name": "IST tool",
+      "canonical_name": "IST tool",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "11",
+      "type": "Equipment",
+      "name": "CSIRO HI Cell",
+      "canonical_name": "CSIRO HI Cell",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "12",
+      "type": "Equipment",
+      "name": "Borre Probe",
+      "canonical_name": "Borre Probe",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "13",
+      "type": "Equipment",
+      "name": "Тензостанция Zetlab ZET-017-T8",
+      "canonical_name": "Тензостанция Zetlab ZET-017-T8",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "14",
+      "type": "Equipment",
+      "name": "Осевой экстензометр Zetlab ZET-901",
+      "canonical_name": "Осевой экстензометр Zetlab ZET-901",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "15",
+      "type": "Facility",
+      "name": "Институт Гипроникель",
+      "canonical_name": "Институт Гипроникель",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "16",
+      "type": "Property",
+      "name": "UCS",
+      "canonical_name": "UCS",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "17",
+      "type": "Property",
+      "name": "P",
+      "canonical_name": "P",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 1,
+        "page_start": 5,
+        "page_end": 12
+      }
+    },
+    {
+      "id": "1",
+      "type": "Process",
+      "name": "бурение скважины",
+      "canonical_name": "drilling",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "2",
+      "type": "Equipment",
+      "name": "буртовой став",
+      "canonical_name": "drilling rig",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "3",
+      "type": "Equipment",
+      "name": "вертлюг",
+      "canonical_name": "swivel",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "4",
+      "type": "Equipment",
+      "name": "сальник",
+      "canonical_name": "seal",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "5",
+      "type": "Equipment",
+      "name": "датчик",
+      "canonical_name": "sensor",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "6",
+      "type": "Equipment",
+      "name": "экстензометр",
+      "canonical_name": "extensometer",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "керн",
+      "canonical_name": "core",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "8",
+      "type": "Process",
+      "name": "разгрузка",
+      "canonical_name": "unloading",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "9",
+      "type": "Process",
+      "name": "физическое моделирование",
+      "canonical_name": "physical modeling",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "10",
+      "type": "Process",
+      "name": "численное моделирование",
+      "canonical_name": "numerical modeling",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    },
+    {
+      "id": "11",
+      "type": "Equipment",
+      "name": "CAE Fidesys",
+      "canonical_name": "CAE Fidesys",
+      "provenance": {
+        "source_file": "НДС Комсомольский.pdf",
+        "category": "Доклады",
+        "chunk_index": 2,
+        "page_start": 13,
+        "page_end": 20
+      }
+    }
+  ],
+  "relations": [
+    {
+      "fact": "drilling --[affiliated_with]--> drilling rig",
+      "source_name": "drilling",
+      "source_type": "Process",
+      "relation": "affiliated_with",
+      "target_name": "drilling rig",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 1,
+      "page_end": 4
+    },
+    {
+      "fact": "drilling --[affiliated_with]--> swivel",
+      "source_name": "drilling",
+      "source_type": "Process",
+      "relation": "affiliated_with",
+      "target_name": "swivel",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 1,
+      "page_end": 4
+    },
+    {
+      "fact": "drilling --[affiliated_with]--> seal",
+      "source_name": "drilling",
+      "source_type": "Process",
+      "relation": "affiliated_with",
+      "target_name": "seal",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 1,
+      "page_end": 4
+    },
+    {
+      "fact": "sensor --[uses_material]--> core",
+      "source_name": "sensor",
+      "source_type": "Equipment",
+      "relation": "uses_material",
+      "target_name": "core",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 1,
+      "page_end": 4
+    },
+    {
+      "fact": "sensor --[uses_material]--> unloading",
+      "source_name": "sensor",
+      "source_type": "Equipment",
+      "relation": "uses_material",
+      "target_name": "unloading",
+      "target_type": "Process",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 1,
+      "page_end": 4
+    },
+    {
+      "fact": "sensor --[validated_by]--> extensometer",
+      "source_name": "sensor",
+      "source_type": "Equipment",
+      "relation": "validated_by",
+      "target_name": "extensometer",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 1,
+      "page_end": 4
+    },
+    {
+      "fact": "core --[uses_material]--> physical modeling",
+      "source_name": "core",
+      "source_type": "Material",
+      "relation": "uses_material",
+      "target_name": "physical modeling",
+      "target_type": "Process",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 5,
+      "page_end": 12
+    },
+    {
+      "fact": "core --[uses_material]--> numerical modeling",
+      "source_name": "core",
+      "source_type": "Material",
+      "relation": "uses_material",
+      "target_name": "numerical modeling",
+      "target_type": "Process",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 5,
+      "page_end": 12
+    },
+    {
+      "fact": "sensor --[uses_material]--> CAE Fidesys",
+      "source_name": "sensor",
+      "source_type": "Equipment",
+      "relation": "uses_material",
+      "target_name": "CAE Fidesys",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 5,
+      "page_end": 12
+    },
+    {
+      "fact": "sensor --[uses_material]--> Borre Probe",
+      "source_name": "sensor",
+      "source_type": "Equipment",
+      "relation": "uses_material",
+      "target_name": "Borre Probe",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 5,
+      "page_end": 12
+    },
+    {
+      "fact": "Институт Гипроникель --[uses_material]--> Тензостанция Zetlab ZET-017-T8",
+      "source_name": "Институт Гипроникель",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "Тензостанция Zetlab ZET-017-T8",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 5,
+      "page_end": 12
+    },
+    {
+      "fact": "Институт Гипроникель --[uses_material]--> Осевой экстензометр Zetlab ZET-901",
+      "source_name": "Институт Гипроникель",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "Осевой экстензометр Zetlab ZET-901",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 5,
+      "page_end": 12
+    },
+    {
+      "fact": "Институт Гипроникель --[affiliated_with]--> Институт Гипроникель",
+      "source_name": "Институт Гипроникель",
+      "source_type": "Facility",
+      "relation": "affiliated_with",
+      "target_name": "Институт Гипроникель",
+      "target_type": "Facility",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 5,
+      "page_end": 12
+    },
+    {
+      "fact": "drilling --[uses_material]--> core",
+      "source_name": "drilling",
+      "source_type": "Process",
+      "relation": "uses_material",
+      "target_name": "core",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 13,
+      "page_end": 20
+    },
+    {
+      "fact": "drilling --[operates_at_condition]--> drilling rig",
+      "source_name": "drilling",
+      "source_type": "Process",
+      "relation": "operates_at_condition",
+      "target_name": "drilling rig",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 13,
+      "page_end": 20
+    },
+    {
+      "fact": "drilling --[operates_at_condition]--> swivel",
+      "source_name": "drilling",
+      "source_type": "Process",
+      "relation": "operates_at_condition",
+      "target_name": "swivel",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 13,
+      "page_end": 20
+    },
+    {
+      "fact": "drilling --[operates_at_condition]--> seal",
+      "source_name": "drilling",
+      "source_type": "Process",
+      "relation": "operates_at_condition",
+      "target_name": "seal",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 13,
+      "page_end": 20
+    },
+    {
+      "fact": "drilling --[operates_at_condition]--> sensor",
+      "source_name": "drilling",
+      "source_type": "Process",
+      "relation": "operates_at_condition",
+      "target_name": "sensor",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 13,
+      "page_end": 20
+    },
+    {
+      "fact": "drilling --[operates_at_condition]--> extensometer",
+      "source_name": "drilling",
+      "source_type": "Process",
+      "relation": "operates_at_condition",
+      "target_name": "extensometer",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 13,
+      "page_end": 20
+    },
+    {
+      "fact": "numerical modeling --[uses_material]--> core",
+      "source_name": "numerical modeling",
+      "source_type": "Process",
+      "relation": "uses_material",
+      "target_name": "core",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 13,
+      "page_end": 20
+    },
+    {
+      "fact": "numerical modeling --[operates_at_condition]--> CAE Fidesys",
+      "source_name": "numerical modeling",
+      "source_type": "Process",
+      "relation": "operates_at_condition",
+      "target_name": "CAE Fidesys",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 13,
+      "page_end": 20
+    }
+  ],
+  "facts": [
+    {
+      "fact": "drilling --[affiliated_with]--> drilling rig",
+      "source_name": "drilling",
+      "source_type": "Process",
+      "relation": "affiliated_with",
+      "target_name": "drilling rig",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 1,
+      "page_end": 4
+    },
+    {
+      "fact": "drilling --[affiliated_with]--> swivel",
+      "source_name": "drilling",
+      "source_type": "Process",
+      "relation": "affiliated_with",
+      "target_name": "swivel",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 1,
+      "page_end": 4
+    },
+    {
+      "fact": "drilling --[affiliated_with]--> seal",
+      "source_name": "drilling",
+      "source_type": "Process",
+      "relation": "affiliated_with",
+      "target_name": "seal",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 1,
+      "page_end": 4
+    },
+    {
+      "fact": "sensor --[uses_material]--> core",
+      "source_name": "sensor",
+      "source_type": "Equipment",
+      "relation": "uses_material",
+      "target_name": "core",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 1,
+      "page_end": 4
+    },
+    {
+      "fact": "sensor --[uses_material]--> unloading",
+      "source_name": "sensor",
+      "source_type": "Equipment",
+      "relation": "uses_material",
+      "target_name": "unloading",
+      "target_type": "Process",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 1,
+      "page_end": 4
+    },
+    {
+      "fact": "sensor --[validated_by]--> extensometer",
+      "source_name": "sensor",
+      "source_type": "Equipment",
+      "relation": "validated_by",
+      "target_name": "extensometer",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 1,
+      "page_end": 4
+    },
+    {
+      "fact": "core --[uses_material]--> physical modeling",
+      "source_name": "core",
+      "source_type": "Material",
+      "relation": "uses_material",
+      "target_name": "physical modeling",
+      "target_type": "Process",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 5,
+      "page_end": 12
+    },
+    {
+      "fact": "core --[uses_material]--> numerical modeling",
+      "source_name": "core",
+      "source_type": "Material",
+      "relation": "uses_material",
+      "target_name": "numerical modeling",
+      "target_type": "Process",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 5,
+      "page_end": 12
+    },
+    {
+      "fact": "sensor --[uses_material]--> CAE Fidesys",
+      "source_name": "sensor",
+      "source_type": "Equipment",
+      "relation": "uses_material",
+      "target_name": "CAE Fidesys",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 5,
+      "page_end": 12
+    },
+    {
+      "fact": "sensor --[uses_material]--> Borre Probe",
+      "source_name": "sensor",
+      "source_type": "Equipment",
+      "relation": "uses_material",
+      "target_name": "Borre Probe",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 5,
+      "page_end": 12
+    },
+    {
+      "fact": "Институт Гипроникель --[uses_material]--> Тензостанция Zetlab ZET-017-T8",
+      "source_name": "Институт Гипроникель",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "Тензостанция Zetlab ZET-017-T8",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 5,
+      "page_end": 12
+    },
+    {
+      "fact": "Институт Гипроникель --[uses_material]--> Осевой экстензометр Zetlab ZET-901",
+      "source_name": "Институт Гипроникель",
+      "source_type": "Facility",
+      "relation": "uses_material",
+      "target_name": "Осевой экстензометр Zetlab ZET-901",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 5,
+      "page_end": 12
+    },
+    {
+      "fact": "Институт Гипроникель --[affiliated_with]--> Институт Гипроникель",
+      "source_name": "Институт Гипроникель",
+      "source_type": "Facility",
+      "relation": "affiliated_with",
+      "target_name": "Институт Гипроникель",
+      "target_type": "Facility",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 5,
+      "page_end": 12
+    },
+    {
+      "fact": "drilling --[uses_material]--> core",
+      "source_name": "drilling",
+      "source_type": "Process",
+      "relation": "uses_material",
+      "target_name": "core",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 13,
+      "page_end": 20
+    },
+    {
+      "fact": "drilling --[operates_at_condition]--> drilling rig",
+      "source_name": "drilling",
+      "source_type": "Process",
+      "relation": "operates_at_condition",
+      "target_name": "drilling rig",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 13,
+      "page_end": 20
+    },
+    {
+      "fact": "drilling --[operates_at_condition]--> swivel",
+      "source_name": "drilling",
+      "source_type": "Process",
+      "relation": "operates_at_condition",
+      "target_name": "swivel",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 13,
+      "page_end": 20
+    },
+    {
+      "fact": "drilling --[operates_at_condition]--> seal",
+      "source_name": "drilling",
+      "source_type": "Process",
+      "relation": "operates_at_condition",
+      "target_name": "seal",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 13,
+      "page_end": 20
+    },
+    {
+      "fact": "drilling --[operates_at_condition]--> sensor",
+      "source_name": "drilling",
+      "source_type": "Process",
+      "relation": "operates_at_condition",
+      "target_name": "sensor",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 13,
+      "page_end": 20
+    },
+    {
+      "fact": "drilling --[operates_at_condition]--> extensometer",
+      "source_name": "drilling",
+      "source_type": "Process",
+      "relation": "operates_at_condition",
+      "target_name": "extensometer",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 13,
+      "page_end": 20
+    },
+    {
+      "fact": "numerical modeling --[uses_material]--> core",
+      "source_name": "numerical modeling",
+      "source_type": "Process",
+      "relation": "uses_material",
+      "target_name": "core",
+      "target_type": "Material",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 13,
+      "page_end": 20
+    },
+    {
+      "fact": "numerical modeling --[operates_at_condition]--> CAE Fidesys",
+      "source_name": "numerical modeling",
+      "source_type": "Process",
+      "relation": "operates_at_condition",
+      "target_name": "CAE Fidesys",
+      "target_type": "Equipment",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": null,
+      "source_file": "НДС Комсомольский.pdf",
+      "page_start": 13,
+      "page_end": 20
+    }
+  ]
+}

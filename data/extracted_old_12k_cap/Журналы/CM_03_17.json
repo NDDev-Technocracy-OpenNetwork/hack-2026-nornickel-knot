@@ -1,0 +1,813 @@
+{
+  "filename": "CM_03_17.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "E1",
+      "type": "Publication",
+      "name": "Цветные металлы",
+      "canonical_name": "Цветные металлы",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E2",
+      "type": "Facility",
+      "name": "АО «Издательский дом «Руда и Металлы»»",
+      "canonical_name": "Руда и Металлы",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E3",
+      "type": "Facility",
+      "name": "НИТУ «МИСиС»",
+      "canonical_name": "НИТУ МИСиС",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E4",
+      "type": "Facility",
+      "name": "Офсет Принт",
+      "canonical_name": "Офсет Принт",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E5",
+      "type": "Expert",
+      "name": "А. В. Путилов",
+      "canonical_name": "А. В. Путилов",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E6",
+      "type": "Expert",
+      "name": "А. В. Сысоев",
+      "canonical_name": "А. В. Сысоев",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E7",
+      "type": "Expert",
+      "name": "А. Г. Воробьев",
+      "canonical_name": "А. Г. Воробьев",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E8",
+      "type": "Expert",
+      "name": "З. С. Абишева",
+      "canonical_name": "З. С. Абишева",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E9",
+      "type": "Expert",
+      "name": "Р. Х. Акчурин",
+      "canonical_name": "Р. Х. Акчурин",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E10",
+      "type": "Expert",
+      "name": "М. В. Астахов",
+      "canonical_name": "М. В. Астахов",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E11",
+      "type": "Expert",
+      "name": "Н. А. Белов",
+      "canonical_name": "Н. А. Белов",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E12",
+      "type": "Expert",
+      "name": "В. А. Бочаров",
+      "canonical_name": "В. А. Бочаров",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E13",
+      "type": "Expert",
+      "name": "Г. Ю. Боярко",
+      "canonical_name": "Г. Ю. Боярко",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E14",
+      "type": "Expert",
+      "name": "В. А. Брюквин",
+      "canonical_name": "В. А. Брюквин",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E15",
+      "type": "Expert",
+      "name": "А. А. Быкасов",
+      "canonical_name": "А. А. Быкасов",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E16",
+      "type": "Expert",
+      "name": "Г. М. Вольдман",
+      "canonical_name": "Г. М. Вольдман",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E17",
+      "type": "Expert",
+      "name": "Н. В. Воробьев-Десятовский",
+      "canonical_name": "Н. В. Воробьев-Десятовский",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E18",
+      "type": "Expert",
+      "name": "В. В. Геневски",
+      "canonical_name": "В. В. Геневски",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E19",
+      "type": "Expert",
+      "name": "Л. А. Глазунов",
+      "canonical_name": "Л. А. Глазунов",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E20",
+      "type": "Expert",
+      "name": "Ю. Ф. Гнедин",
+      "canonical_name": "Ю. Ф. Гнедин",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E21",
+      "type": "Expert",
+      "name": "В. А. Дмитриев",
+      "canonical_name": "В. А. Дмитриев",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E22",
+      "type": "Expert",
+      "name": "А. М. Дриц",
+      "canonical_name": "А. М. Дриц",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E23",
+      "type": "Expert",
+      "name": "С. Ю. Ерошевич",
+      "canonical_name": "С. Ю. Ерошевич",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E24",
+      "type": "Expert",
+      "name": "А. В. Зиновьев",
+      "canonical_name": "А. В. Зиновьев",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E25",
+      "type": "Expert",
+      "name": "В. А. Игнаткина",
+      "canonical_name": "В. А. Игнаткина",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E26",
+      "type": "Expert",
+      "name": "В. С. Кальченко",
+      "canonical_name": "В. С. Кальченко",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E27",
+      "type": "Expert",
+      "name": "С. В. Киреев",
+      "canonical_name": "С. В. Киреев",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E28",
+      "type": "Expert",
+      "name": "С. С. Киров",
+      "canonical_name": "С. С. Киров",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E29",
+      "type": "Expert",
+      "name": "Б. Г. Киселёв",
+      "canonical_name": "Б. Г. Киселёв",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E30",
+      "type": "Expert",
+      "name": "П. А. Козлов",
+      "canonical_name": "П. А. Козлов",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E31",
+      "type": "Expert",
+      "name": "С. И. Корнеев",
+      "canonical_name": "С. И. Корнеев",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E32",
+      "type": "Expert",
+      "name": "Ю. А. Король",
+      "canonical_name": "Ю. А. Король",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E33",
+      "type": "Expert",
+      "name": "Б. А. Котляр",
+      "canonical_name": "Б. А. Котляр",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E34",
+      "type": "Expert",
+      "name": "Ю. А. Котляр",
+      "canonical_name": "Ю. А. Котляр",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E35",
+      "type": "Expert",
+      "name": "В. А. Крюковский",
+      "canonical_name": "В. А. Крюковский",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E36",
+      "type": "Expert",
+      "name": "Ф. Д. Ларичкин",
+      "canonical_name": "Ф. Д. Ларичкин",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E37",
+      "type": "Expert",
+      "name": "Е. А. Левашов",
+      "canonical_name": "Е. А. Левашов",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E38",
+      "type": "Expert",
+      "name": "Ю. В. Левинский",
+      "canonical_name": "Ю. В. Левинский",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E39",
+      "type": "Expert",
+      "name": "Г. С. Макаров",
+      "canonical_name": "Г. С. Макаров",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E40",
+      "type": "Expert",
+      "name": "Н. Е. Мальцев",
+      "canonical_name": "Н. Е. Мальцев",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E41",
+      "type": "Expert",
+      "name": "Ю. Н. Мансуров",
+      "canonical_name": "Ю. Н. Мансуров",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E42",
+      "type": "Expert",
+      "name": "М. А. Меретуков",
+      "canonical_name": "М. А. Меретуков",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E43",
+      "type": "Expert",
+      "name": "В. И. Москвитин",
+      "canonical_name": "В. И. Москвитин",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E44",
+      "type": "Expert",
+      "name": "С. С. Набойченко",
+      "canonical_name": "С. С. Набойченко",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E45",
+      "type": "Expert",
+      "name": "А. И. Николаев",
+      "canonical_name": "А. И. Николаев",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E46",
+      "type": "Expert",
+      "name": "В. В. Пронников",
+      "canonical_name": "В. В. Пронников",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E47",
+      "type": "Expert",
+      "name": "А. М. Птицын",
+      "canonical_name": "А. М. Птицын",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E48",
+      "type": "Expert",
+      "name": "В. К. Румянцев",
+      "canonical_name": "В. К. Румянцев",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E49",
+      "type": "Expert",
+      "name": "А. Г. Рыжов",
+      "canonical_name": "А. Г. Рыжов",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E50",
+      "type": "Expert",
+      "name": "Ф. М. Сафин",
+      "canonical_name": "Ф. М. Сафин",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E51",
+      "type": "Expert",
+      "name": "Е. Н. Селиванов",
+      "canonical_name": "Е. Н. Селиванов",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E52",
+      "type": "Expert",
+      "name": "Л. С. Стрижко",
+      "canonical_name": "Л. С. Стрижко",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E53",
+      "type": "Expert",
+      "name": "А. В. Тарасов",
+      "canonical_name": "А. В. Тарасов",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E54",
+      "type": "Expert",
+      "name": "А. Н. Фёдоров",
+      "canonical_name": "А. Н. Фёдоров",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E55",
+      "type": "Expert",
+      "name": "Л. Ш. Цемехман",
+      "canonical_name": "Л. Ш. Цемехман",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E56",
+      "type": "Expert",
+      "name": "Л. Б. Цымбулов",
+      "canonical_name": "Л. Б. Цымбулов",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E57",
+      "type": "Expert",
+      "name": "М. Р. Шапировский",
+      "canonical_name": "М. Р. Шапировский",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E58",
+      "type": "Expert",
+      "name": "Н. В. Шаркина",
+      "canonical_name": "Н. В. Шаркина",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E59",
+      "type": "Expert",
+      "name": "В. И. Щёголев",
+      "canonical_name": "В. И. Щёголев",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E60",
+      "type": "Facility",
+      "name": "DMG World Media",
+      "canonical_name": "DMG World Media",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E61",
+      "type": "Facility",
+      "name": "GDMB – Gesellschaft für Bergbau, Metallurgie, RohstoffQ und Umwelttechnik",
+      "canonical_name": "GDMB",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    },
+    {
+      "id": "E62",
+      "type": "Facility",
+      "name": "Interall – International Aluminium Publications",
+      "canonical_name": "Interall",
+      "provenance": {
+        "source_file": "CM_03_17.pdf",
+        "category": "Журналы",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 3
+      }
+    }
+  ],
+  "relations": []
+}

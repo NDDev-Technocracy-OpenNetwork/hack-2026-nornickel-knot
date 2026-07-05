@@ -1,0 +1,179 @@
+{
+  "filename": "NN1301.pdf",
+  "category": "Материалы конференций",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Facility",
+      "name": "No 14 shaft",
+      "canonical_name": "No 14 shaft",
+      "provenance": {
+        "source_file": "NN1301.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "2",
+      "type": "Facility",
+      "name": "Rustenburg operations",
+      "canonical_name": "Rustenburg operations",
+      "provenance": {
+        "source_file": "NN1301.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "3",
+      "type": "Expert",
+      "name": "Bob Gilmour",
+      "canonical_name": "Bob Gilmour",
+      "provenance": {
+        "source_file": "NN1301.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "platinum",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "NN1301.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "PGMs",
+      "canonical_name": "PGMs",
+      "provenance": {
+        "source_file": "NN1301.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "6",
+      "type": "Facility",
+      "name": "Tubatse project",
+      "canonical_name": "Tubatse project",
+      "provenance": {
+        "source_file": "NN1301.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "id": "7",
+      "type": "Facility",
+      "name": "Bushveld Complex",
+      "canonical_name": "Bushveld Complex",
+      "provenance": {
+        "source_file": "NN1301.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "reopened after a death of a mine worker",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN1301.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "described_in",
+      "target_id": "2",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN1301.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "4",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN1301.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "uses_material",
+      "target_id": "5",
+      "numeric_value": null,
+      "unit": null,
+      "condition": null,
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN1301.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    },
+    {
+      "source_id": "6",
+      "relation": "operates_at_condition",
+      "target_id": "7",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "located in",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "NN1301.pdf",
+        "category": "Материалы конференций",
+        "chunk_index": 0,
+        "page_start": 1,
+        "page_end": 1
+      }
+    }
+  ]
+}

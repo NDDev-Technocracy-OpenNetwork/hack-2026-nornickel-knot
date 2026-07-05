@@ -1,0 +1,720 @@
+{
+  "filename": "CM_12_09.pdf",
+  "category": "Журналы",
+  "entities": [
+    {
+      "id": "1",
+      "type": "Material",
+      "name": "никель",
+      "canonical_name": "nickel",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "2",
+      "type": "Material",
+      "name": "медь",
+      "canonical_name": "copper",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "3",
+      "type": "Material",
+      "name": "алюминий",
+      "canonical_name": "aluminum",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "4",
+      "type": "Material",
+      "name": "цинк",
+      "canonical_name": "zinc",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "5",
+      "type": "Material",
+      "name": "нержавеющая сталь",
+      "canonical_name": "stainless steel",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "6",
+      "type": "Material",
+      "name": "сплавы",
+      "canonical_name": "alloys",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "7",
+      "type": "Material",
+      "name": "медный лом",
+      "canonical_name": "scrap copper",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "8",
+      "type": "Material",
+      "name": "глинозем",
+      "canonical_name": "bauxite",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "9",
+      "type": "Material",
+      "name": "алюминиевый лом",
+      "canonical_name": "scrap aluminum",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "10",
+      "type": "Material",
+      "name": "платина",
+      "canonical_name": "platinum",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "11",
+      "type": "Material",
+      "name": "палладий",
+      "canonical_name": "palladium",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "12",
+      "type": "Material",
+      "name": "золото",
+      "canonical_name": "gold",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "13",
+      "type": "Material",
+      "name": "нивелированный чугун",
+      "canonical_name": "nickel-bearing pig iron",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "14",
+      "type": "Material",
+      "name": "ферроникель",
+      "canonical_name": "ferro-nickel",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "15",
+      "type": "Facility",
+      "name": "Норильская обогатительная фабрика",
+      "canonical_name": "Norilsk Concentrator Plant",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "16",
+      "type": "Facility",
+      "name": "НОФ",
+      "canonical_name": "Norilsk Concentrator Plant",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "17",
+      "type": "Facility",
+      "name": "Ferronikeli",
+      "canonical_name": "Ferronikeli",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "18",
+      "type": "Facility",
+      "name": "ОАО «ГМК «Норильский никель»",
+      "canonical_name": "Norilsk Nickel",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "19",
+      "type": "Facility",
+      "name": "ОАО «Уфалейникель»",
+      "canonical_name": "Ufaleinikel",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "20",
+      "type": "Facility",
+      "name": "Stillwater Mining Company",
+      "canonical_name": "Stillwater Mining Company",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "21",
+      "type": "Facility",
+      "name": "ОГК-3",
+      "canonical_name": "OGK-3",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "22",
+      "type": "Expert",
+      "name": "International Nickel Study Group",
+      "canonical_name": "International Nickel Study Group",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "23",
+      "type": "Expert",
+      "name": "World Bureau of Metal Statistics",
+      "canonical_name": "World Bureau of Metal Statistics",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "id": "24",
+      "type": "Publication",
+      "name": "Цветные металлы",
+      "canonical_name": "Nonferrous Metals",
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    }
+  ],
+  "relations": [
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "24",
+      "numeric_value": 14308.0,
+      "unit": "USD/t",
+      "condition": "2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "1",
+      "relation": "operates_at_condition",
+      "target_id": "24",
+      "numeric_value": 14330.0,
+      "unit": "USD/t",
+      "condition": "2010 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "24",
+      "numeric_value": 5005.0,
+      "unit": "USD/t",
+      "condition": "2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "2",
+      "relation": "operates_at_condition",
+      "target_id": "24",
+      "numeric_value": 6614.0,
+      "unit": "USD/t",
+      "condition": "2010 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "24",
+      "numeric_value": 1609.0,
+      "unit": "USD/t",
+      "condition": "2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "3",
+      "relation": "operates_at_condition",
+      "target_id": "24",
+      "numeric_value": 1720.0,
+      "unit": "USD/t",
+      "condition": "2010 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "24",
+      "numeric_value": 1477.0,
+      "unit": "USD/t",
+      "condition": "2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "4",
+      "relation": "operates_at_condition",
+      "target_id": "24",
+      "numeric_value": 1534.0,
+      "unit": "USD/t",
+      "condition": "2010 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": 4078000000.0,
+      "unit": "USD",
+      "condition": "1-й полугодие 2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "produces_output",
+      "target_id": "2",
+      "numeric_value": 793000000.0,
+      "unit": "USD",
+      "condition": "1-й полугодие 2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "produces_output",
+      "target_id": "10",
+      "numeric_value": 415000000.0,
+      "unit": "USD",
+      "condition": "1-й полугодие 2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": 373000000.0,
+      "unit": "USD",
+      "condition": "1-й полугодие 2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "produces_output",
+      "target_id": "11",
+      "numeric_value": 373000000.0,
+      "unit": "USD",
+      "condition": "1-й полугодие 2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "20",
+      "relation": "produces_output",
+      "target_id": "12",
+      "numeric_value": 61000000.0,
+      "unit": "USD",
+      "condition": "1-й полугодие 2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": 128221000.0,
+      "unit": "RUB",
+      "condition": "III кв. 2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": -89078000.0,
+      "unit": "RUB",
+      "condition": "II кв. 2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": -612896000.0,
+      "unit": "RUB",
+      "condition": "I полугодие 2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "19",
+      "relation": "produces_output",
+      "target_id": "1",
+      "numeric_value": -484675000.0,
+      "unit": "RUB",
+      "condition": "III кв. 2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "22",
+      "relation": "described_in",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "8 октября 2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "23",
+      "relation": "described_in",
+      "target_id": "24",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "январь–июнь 2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "produces_output",
+      "target_id": "14",
+      "numeric_value": 600000.0,
+      "unit": "t/год",
+      "condition": "август 2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "17",
+      "relation": "produces_output",
+      "target_id": "14",
+      "numeric_value": 700000.0,
+      "unit": "t/год",
+      "condition": "август 2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "uses_material",
+      "target_id": "13",
+      "numeric_value": null,
+      "unit": null,
+      "condition": "начало октября 2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": 1500000.0,
+      "unit": "t/год",
+      "condition": "начало октября 2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    },
+    {
+      "source_id": "18",
+      "relation": "operates_at_condition",
+      "target_id": "15",
+      "numeric_value": 8500000.0,
+      "unit": "t/год",
+      "condition": "начало октября 2009 г.",
+      "confidence": 1.0,
+      "provenance": {
+        "source_file": "CM_12_09.pdf",
+        "category": "Журналы",
+        "chunk_index": 3,
+        "page_start": 6,
+        "page_end": 7
+      }
+    }
+  ]
+}
