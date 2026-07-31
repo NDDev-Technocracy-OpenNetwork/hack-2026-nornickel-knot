@@ -1,3 +1,8 @@
+
+> **DEPRECATED.** This repository is archived and no longer maintained.
+> It is kept read-only for reference; its GDS anchor records
+> `lifecycle: archived` under `portfolio:archived-projects`.
+
 <p align="center">
   <img src="https://i.ibb.co/hwjxFJq/harmonic-labs-nornickel-logo.jpg" alt="Harmonic Labs · Nornickel Scientific Knot" width="100%" />
 </p>
