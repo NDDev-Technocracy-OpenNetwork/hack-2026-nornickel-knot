@@ -1,0 +1,27 @@
+name: ci
+
+# CI for rldyourmnd/hack-2026-nornickel-knot (public OSS, Python/uv).
+# Project: harmonic-labs (pyproject.toml + uv.lock).
+# Triggers: pull_request + workflow_dispatch ONLY (no push: cross-owner reusable).
+# Reusable workflows are pinned to an immutable ci-workflows SHA.
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  python:
+    name: python (3.13)
+    permissions:
+      contents: read
+    uses: NDDev-it-com/ci-workflows/.github/workflows/python-ci.yml@ca538d59aef41c1bb03c3669366c368128d5af88
+    with:
+      python_version: '3.13'
+      install_command: 'uv sync --frozen'
+      test_command: 'uv run python -m compileall -q src'
