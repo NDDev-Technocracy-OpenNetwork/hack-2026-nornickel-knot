@@ -1,37 +1,45 @@
 schema_version: 1
 repository:
-  id: "repo_01KYVP82EYR065CY7S708V4V2P"
-  display_name: "hack-2026-nornickel-knot"
+  id: repo_01KYVP82EYR065CY7S708V4V2P
+  display_name: hack-2026-nornickel-knot
   roles:
-    - "project"
-  lifecycle: "archived"
+  - project
+  lifecycle: active
 provider:
-  type: "github"
-  installation: "installation:github-personal"
+  type: github
+  installation: installation:github-nddev-technocracy-opennetwork
   repository_id: 1292559503
-  owner: "rldyourmnd"
-  name: "hack-2026-nornickel-knot"
+  owner: NDDev-Technocracy-OpenNetwork
+  name: hack-2026-nornickel-knot
+  aliases:
+  - owner: rldyourmnd
+    name: hack-2026-nornickel-knot
+  - owner: NDDev-Technocracy-Archive
+    name: hack-2026-nornickel-knot
 classification:
   portfolios:
-    - "portfolio:archived-projects"
-  visibility_contract: "public"
-  data_classification: "public"
+  - portfolio:nddev-technocracy-opennetwork
+  visibility_contract: public
+  data_classification: public
 policy:
   profiles:
-    - "repository-default"
-    - "personal-default"
-  rollout_ring: "standard"
+  - repository-default
+  - organization-default
+  rollout_ring: standard
 git:
-  default_branch: "master"
-  integration: "pull-request"
-  branch_model: "task-branches"
-  handoff_pr: "never"
-  cleanup: "manual"
+  default_branch: master
+  integration: pull-request
+  branch_model: task-branches
+  handoff_pr: never
+  cleanup: manual
 agent:
-  context_profile: "project-default"
+  context_profile: project-default
   generated_agents: false
   serena:
     enabled: false
     provenance_required: false
 release:
-  mode: "none"
+  mode: none
+product:
+  purpose: 'Nornickel AI Hack 2026, Scientific Knot track: Harmonic Labs research
+    knowledge graph with source-backed answers.'
