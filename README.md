@@ -1,13 +1,19 @@
+<!-- nddev-public-hackathon -->
+# hack-2026-nornickel-knot
 
-> **DEPRECATED.** This repository is archived and no longer maintained.
-> It is kept read-only for reference; its GDS anchor records
-> `lifecycle: archived` under `portfolio:archived-projects`.
+Nornickel AI Hack 2026, Scientific Knot track: Harmonic Labs research knowledge graph with source-backed answers.
+
+[NDDev OpenNetwork](https://github.com/NDDev-Technocracy-OpenNetwork) · [Repository](https://github.com/NDDev-Technocracy-OpenNetwork/hack-2026-nornickel-knot)
+
+This repository is a hackathon prototype or supporting tool. Follow the project-specific setup below; cloud integrations require your own configuration and credentials.
+
+---
 
 <p align="center">
   <img src="https://i.ibb.co/hwjxFJq/harmonic-labs-nornickel-logo.jpg" alt="Harmonic Labs · Nornickel Scientific Knot" width="100%" />
 </p>
 
-# Nornickel Scientific Knot
+## Nornickel Scientific Knot
 
 Живая карта знаний R&D для горно-металлургической отрасли: система превращает архив отчётов, статей, презентаций и экспериментальных материалов в типизированный граф знаний, а затем отвечает на вопросы естественным языком с источниками и страницами первоисточников.
 
