@@ -3,7 +3,7 @@
 
 Nornickel AI Hack 2026, Scientific Knot track: Harmonic Labs research knowledge graph with source-backed answers.
 
-[NDDev OpenNetwork](https://github.com/NDDev-Technocracy-OpenNetwork) · [Repository](https://github.com/NDDev-Technocracy-OpenNetwork/hack-2026-nornickel-knot)
+[NDDev OpenNetwork](https://github.com/NDDev-Technocracy-OpenNetwork) · [Repository](https://github.com/rldyourmnd/hack-2026-nornickel-knot)
 
 This repository is a hackathon prototype or supporting tool. Follow the project-specific setup below; cloud integrations require your own configuration and credentials.
 

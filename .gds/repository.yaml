@@ -7,24 +7,24 @@ repository:
   lifecycle: active
 provider:
   type: github
-  installation: installation:github-nddev-technocracy-opennetwork
+  installation: installation:github-personal
   repository_id: 1292559503
-  owner: NDDev-Technocracy-OpenNetwork
+  owner: rldyourmnd
   name: hack-2026-nornickel-knot
   aliases:
-  - owner: rldyourmnd
-    name: hack-2026-nornickel-knot
   - owner: NDDev-Technocracy-Archive
+    name: hack-2026-nornickel-knot
+  - owner: NDDev-Technocracy-OpenNetwork
     name: hack-2026-nornickel-knot
 classification:
   portfolios:
-  - portfolio:nddev-technocracy-opennetwork
+  - portfolio:rldyourmnd
   visibility_contract: public
   data_classification: public
 policy:
   profiles:
   - repository-default
-  - organization-default
+  - personal-default
   rollout_ring: standard
 git:
   default_branch: master
