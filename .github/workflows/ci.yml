@@ -20,7 +20,7 @@ jobs:
     name: python (3.13)
     permissions:
       contents: read
-    uses: NDDev-Technocracy-OpenNetwork/ci-workflows/.github/workflows/python-ci.yml@93eeb2a65e98a29e9dbff7909f67c6419abff046
+    uses: NDDev-Technocracy-Archive/ci-workflows-20261014/.github/workflows/python-ci.yml@93eeb2a65e98a29e9dbff7909f67c6419abff046
     with:
       uv_version: "0.12.23"
       python_version: '3.13'
